@@ -1,0 +1,1001 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	TR	A4RRK6	Serine/threonine-protein (Fragment) OS=Ostreococcus lucimarinus (strain CCE9901) OX=436017 GN=OSTLU_3057 PE=3 SV=1	Ostreococcus lucimarinus (strain CCE9901)	332	929	54.2	70.8	3.6e-111
+2	TR	A0A830CTD9	Serine/threonine-protein OS=Phtheirospermum japonicum OX=374723 GN=PHJA_001903200 PE=3 SV=1	Phtheirospermum japonicum	502	936	53.6	69.8	9.5e-110
+3	TR	A0AAD4P9J1	Serine/threonine-protein OS=Perilla frutescens var. hirtella OX=608512 GN=C2S53_008275 PE=3 SV=1	Perilla frutescens var. hirtella	514	935	52.9	69.1	1.9e-109
+4	TR	A0ABD3BT50	Serine/threonine-protein OS=Castilleja foliolosa OX=1961234 GN=CDKC2 PE=3 SV=1	Castilleja foliolosa	500	931	53.0	69.8	4.5e-109
+5	TR	A0A6I9TVX6	Serine/threonine-protein OS=Sesamum indicum OX=4182 GN=LOC105170978 PE=3 SV=1	Sesamum indicum	514	931	53.2	68.8	6.9e-109
+6	TR	A0ABD2UEZ0	Serine/threonine-protein OS=Solanum stoloniferum OX=62892 GN=AABB24_011618 PE=3 SV=1	Solanum stoloniferum	506	930	47.6	63.3	7.4e-109
+7	TR	A0ACD8ESI4	Serine/threonine-protein OS=Prunus speciosa OX=378228 GN=CerSpe_217530 PE=3 SV=1	Prunus speciosa	507	930	52.6	68.5	7.6e-109
+8	TR	A0ACD5WJL0	Serine/threonine-protein OS=Avena sativa OX=4498 PE=3 SV=1	Avena sativa	509	930	47.9	63.5	8.1e-109
+9	TR	A0A022RAQ1	Serine/threonine-protein OS=Erythranthe guttata OX=4155 GN=MIMGU_mgv1a005041mg PE=3 SV=1	Erythranthe guttata	499	929	53.2	68.2	8.2e-109
+10	TR	A0ABD3HF66	Serine/threonine-protein OS=Riccia sorocarpa OX=122646 GN=R1sor_016491 PE=3 SV=1	Riccia sorocarpa	575	936	47.8	63.0	8.6e-109
+11	TR	A0AAE2D0P5	Serine/threonine-protein OS=Sesamum alatum OX=300844 GN=Salat_0472900 PE=3 SV=1	Sesamum alatum	512	930	52.9	68.8	8.9e-109
+12	TR	A0AAE1XAR0	Serine/threonine-protein OS=Sesamum angolense OX=2727404 GN=Sango_0416500 PE=3 SV=1	Sesamum angolense	514	930	53.2	68.8	9.5e-109
+13	TR	A0ABD1GIQ0	Serine/threonine-protein OS=Salvia divinorum OX=28513 GN=CDKC2 PE=3 SV=1	Salvia divinorum	506	929	52.9	68.5	1e-108
+14	TR	A0A6P5RN45	Serine/threonine-protein OS=Prunus avium OX=42229 GN=LOC110747434 PE=3 SV=1	Prunus avium	507	929	52.6	68.5	1.1e-108
+15	TR	A0A022QSY2	Serine/threonine-protein OS=Erythranthe guttata OX=4155 GN=MIMGU_mgv1a004642mg PE=3 SV=1	Erythranthe guttata	517	929	47.6	64.8	1.4e-108
+16	TR	A0ABD1RAS2	Serine/threonine-protein OS=Abeliophyllum distichum OX=126358 GN=Adt_30282 PE=3 SV=1	Abeliophyllum distichum	514	928	52.6	69.1	1.8e-108
+17	TR	A0ACC0FS49	Serine/threonine-protein OS=Camellia lanceoleosa OX=1840588 GN=LOK49_LG12G00643 PE=3 SV=1	Camellia lanceoleosa	406	917	51.3	67.7	2e-108
+18	TR	A0A804M366	Serine/threonine-protein OS=Zea mays OX=4577 GN=LOC100279243 PE=1 SV=1	Zea mays	510	927	47.6	62.9	2.2e-108
+19	TR	B4F9F3	Serine/threonine-protein OS=Zea mays OX=4577 PE=2 SV=1	Zea mays	510	927	47.6	62.9	2.2e-108
+20	TR	A0A8S0UW29	Serine/threonine-protein OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A042571 PE=3 SV=1	Olea europaea subsp. europaea	514	927	52.9	68.8	2.5e-108
+21	TR	A0ABQ7UNS7	Serine/threonine-protein OS=Solanum tuberosum OX=4113 GN=KY290_030508 PE=3 SV=1	Solanum tuberosum	506	926	47.6	62.8	2.7e-108
+22	TR	A0A9J5YQI8	Serine/threonine-protein OS=Solanum commersonii OX=4109 GN=H5410_034068 PE=3 SV=1	Solanum commersonii	496	925	48.1	63.2	2.7e-108
+23	TR	A0AAV5I7A3	Serine/threonine-protein OS=Rubroshorea leprosula OX=152421 GN=SLEP1_g7121 PE=3 SV=1	Rubroshorea leprosula	518	927	52.9	68.1	2.8e-108
+24	TR	A0ABD3TDW8	Serine/threonine-protein OS=Penstemon smallii OX=265156 GN=ACJIZ3_009738 PE=3 SV=1	Penstemon smallii	512	926	52.2	67.8	3.2e-108
+25	TR	A0A2G9GLG9	Serine/threonine-protein OS=Handroanthus impetiginosus OX=429701 GN=CDL12_21323 PE=3 SV=1	Handroanthus impetiginosus	515	926	53.2	68.5	3.5e-108
+26	TR	M1A5P0	Serine/threonine-protein OS=Solanum tuberosum OX=4113 GN=LOC102591407 PE=3 SV=1	Solanum tuberosum	506	925	47.9	63.3	3.7e-108
+27	TR	A0ABM1H372	Serine/threonine-protein OS=Solanum pennellii OX=28526 GN=LOC107023523 PE=3 SV=1	Solanum pennellii	506	925	47.9	62.5	3.7e-108
+28	TR	A0ACD5XH71	Serine/threonine-protein OS=Avena sativa OX=4498 PE=3 SV=1	Avena sativa	507	925	48.1	63.2	3.8e-108
+29	TR	A0ACE0NU82	Serine/threonine-protein OS=Prunus armeniaca OX=36596 GN=ARP2_LOCUS37827 PE=3 SV=1	Prunus armeniaca	507	925	52.4	68.5	3.8e-108
+30	TR	A0AAN8ZJX3	Serine/threonine-protein OS=Dillenia turbinata OX=194707 GN=RJ641_033930 PE=3 SV=1	Dillenia turbinata	518	926	48.0	62.2	3.9e-108
+31	TR	J3L807	Serine/threonine-protein OS=Oryza brachyantha OX=4533 PE=3 SV=1	Oryza brachyantha	513	925	47.5	63.1	4.6e-108
+32	TR	B6U109	Serine/threonine-protein OS=Zea mays OX=4577 PE=2 SV=1	Zea mays	510	924	47.4	62.7	5.7e-108
+33	TR	A0ACN2G1W3	Uncharacterized protein OS=Paspalum vaginatum OX=158149 GN=BS78_03G407900 PE=4 SV=1	Paspalum vaginatum	511	924	47.5	63.3	5.9e-108
+34	TR	A0ACD8D5Q1	Serine/threonine-protein OS=Prunus speciosa OX=378228 GN=CerSpe_019510 PE=3 SV=1	Prunus speciosa	515	924	47.9	63.3	6.7e-108
+35	TR	A0ABM4WEP0	Serine/threonine-protein OS=Coffea arabica OX=13443 GN=LOC113725179 PE=3 SV=1	Coffea arabica	515	924	47.9	63.1	6.7e-108
+36	TR	A0AAD8WSC5	Serine/threonine-protein OS=Lolium multiflorum OX=4521 GN=QYE76_058309 PE=3 SV=1	Lolium multiflorum	506	923	47.9	63.2	7e-108
+37	TR	A0AAV2FYJ5	Serine/threonine-protein OS=Linum trigynum OX=586398 GN=LTRI10_LOCUS43373 PE=3 SV=1	Linum trigynum	520	924	48.4	62.9	7.8e-108
+38	TR	A0A6G1C234	Serine/threonine-protein OS=Oryza meyeriana var. granulata OX=110450 GN=E2562_028061 PE=3 SV=1	Oryza meyeriana var. granulata	510	923	47.2	63.1	7.9e-108
+39	TR	A0AAV0Q9L3	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS42412 PE=3 SV=1	Linum tenue	511	923	48.9	63.4	8.1e-108
+40	TR	A0A6P6TU10	Serine/threonine-protein OS=Coffea arabica OX=13443 GN=LOC113703863 PE=3 SV=2	Coffea arabica	515	923	47.9	63.1	9.2e-108
+41	TR	A0A804P8H5	Serine/threonine-protein OS=Zea mays OX=4577 GN=LOC103625921 PE=1 SV=1	Zea mays	515	923	47.4	63.2	9.2e-108
+42	TR	A0ABD2RVA8	Serine/threonine-protein OS=Solanum stoloniferum OX=62892 GN=AABB24_031855 PE=3 SV=1	Solanum stoloniferum	506	922	47.6	62.5	9.6e-108
+43	TR	A0ABR0D0J0	Serine/threonine-protein OS=Penstemon davidsonii OX=160366 GN=RD792_009946 PE=3 SV=1	Penstemon davidsonii	506	922	52.4	68.8	9.6e-108
+44	TR	A0A8F2YJ43	Serine/threonine-protein OS=Populus tomentosa OX=118781 GN=CDKC:2 PE=2 SV=1	Populus tomentosa	517	923	47.9	63.8	9.8e-108
+45	TR	A0A251NU60	Serine/threonine-protein OS=Prunus persica OX=3760 GN=PRUPE_6G187600 PE=3 SV=1	Prunus persica	507	922	52.4	68.5	9.9e-108
+46	TR	A0A6G1C194	Serine/threonine-protein OS=Oryza meyeriana var. granulata OX=110450 GN=E2562_028061 PE=3 SV=1	Oryza meyeriana var. granulata	519	923	47.2	63.1	1e-107
+47	SP	Q5JK68	Cyclin-dependent kinase C-2 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKC-2 PE=2 SV=1	Oryza sativa subsp. japonica	513	922	47.2	63.1	1.2e-107
+48	TR	B8A9I9	Serine/threonine-protein OS=Oryza sativa subsp. indica OX=39946 GN=OsI_05274 PE=3 SV=1	Oryza sativa subsp. indica	513	922	47.2	63.1	1.2e-107
+49	TR	A0ACC0BBF2	Serine/threonine-protein OS=Catharanthus roseus OX=4058 GN=M9H77_19731 PE=3 SV=1	Catharanthus roseus	513	922	47.9	62.0	1.2e-107
+50	TR	A0A0E0JTU3	Serine/threonine-protein OS=Oryza punctata OX=4537 PE=3 SV=1	Oryza punctata	513	922	47.2	63.1	1.2e-107
+51	TR	A0A0E0N7U0	Serine/threonine-protein OS=Oryza rufipogon OX=4529 PE=3 SV=1	Oryza rufipogon	513	922	47.2	63.1	1.2e-107
+52	TR	I1NVD2	Serine/threonine-protein OS=Oryza glaberrima OX=4538 PE=3 SV=1	Oryza glaberrima	513	922	47.2	63.1	1.2e-107
+53	TR	A0ABM0NC58	Serine/threonine-protein OS=Prunus mume OX=102107 GN=LOC103322440 PE=3 SV=1	Prunus mume	515	922	47.5	63.1	1.3e-107
+54	TR	A0A3Q7H046	Serine/threonine-protein OS=Solanum lycopersicum OX=4081 GN=LOC101268768 PE=3 SV=1	Solanum lycopersicum	506	921	47.6	62.3	1.3e-107
+55	TR	A0ABM0P4U4	Serine/threonine-protein OS=Prunus mume OX=102107 GN=LOC103333351 PE=3 SV=1	Prunus mume	550	925	52.4	68.5	1.4e-107
+56	TR	A0AAD8IUS1	Serine/threonine-protein OS=Heracleum sosnowskyi OX=360622 GN=POM88_011027 PE=3 SV=1	Heracleum sosnowskyi	508	921	46.5	62.5	1.4e-107
+57	TR	A0AAF0TWD1	Serine/threonine-protein OS=Solanum verrucosum OX=315347 GN=MTR67_029047 PE=3 SV=1	Solanum verrucosum	515	921	46.8	62.4	1.7e-107
+58	TR	A0AAV0QD92	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS42412 PE=3 SV=1	Linum tenue	530	922	47.5	61.8	2e-107
+59	TR	A0A2T7DBF9	Serine/threonine-protein OS=Panicum hallii var. hallii OX=1504633 GN=GQ55_5G012700 PE=3 SV=1	Panicum hallii var. hallii	509	920	47.6	62.7	2e-107
+60	TR	A0A8T0SX19	Serine/threonine-protein OS=Panicum virgatum OX=38727 GN=PVAP13_5KG769700 PE=3 SV=1	Panicum virgatum	509	920	47.6	62.7	2e-107
+61	TR	A0ACB7ZFQ4	Serine/threonine-protein OS=Vaccinium darrowii OX=229202 GN=Vadar_031533 PE=3 SV=1	Vaccinium darrowii	510	920	48.4	63.2	2.1e-107
+62	TR	A0A8S0RSN4	Serine/threonine-protein OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A017889 PE=3 SV=1	Olea europaea subsp. europaea	513	920	52.4	68.8	2.3e-107
+63	TR	A0AAD2E6T4	Serine/threonine-protein OS=Fraxinus pennsylvanica OX=56036 GN=FPE_LOCUS25718 PE=3 SV=1	Fraxinus pennsylvanica	514	920	52.6	68.5	2.3e-107
+64	TR	A0AAQ3PXV1	Serine/threonine-protein OS=Canna indica OX=4628 GN=Cni_G00859 PE=3 SV=1	Canna indica	514	920	52.2	68.1	2.3e-107
+65	TR	A0AA96NG47	Serine/threonine-protein OS=Phyllostachys edulis OX=38705 GN=CDKC2 PE=2 SV=1	Phyllostachys edulis	515	920	47.2	62.8	2.4e-107
+66	TR	A0AAV1DDT8	Serine/threonine-protein OS=Oldenlandia corymbosa var. corymbosa OX=529605 GN=OLC1_LOCUS14620 PE=3 SV=1	Oldenlandia corymbosa var. corymbosa	515	920	47.3	62.9	2.4e-107
+67	TR	A0AAV3QFS2	Serine/threonine-protein OS=Lithospermum erythrorhizon OX=34254 GN=LIER_18583 PE=3 SV=1	Lithospermum erythrorhizon	516	920	47.9	64.1	2.5e-107
+68	TR	A0ABD3SW25	Serine/threonine-protein OS=Penstemon smallii OX=265156 GN=ACJIZ3_017462 PE=3 SV=1	Penstemon smallii	506	919	52.1	68.8	2.5e-107
+69	TR	A0AAD3P6T3	Serine/threonine-protein OS=Nepenthes gracilis OX=150966 GN=Nepgr_001804 PE=3 SV=1	Nepenthes gracilis	517	920	52.4	68.8	2.6e-107
+70	TR	A0A8T0S6S5	Serine/threonine-protein OS=Panicum virgatum OX=38727 GN=PVAP13_5NG637600 PE=3 SV=1	Panicum virgatum	510	919	47.5	62.5	2.8e-107
+71	TR	A0ABD1Z011	Serine/threonine-protein OS=Riccia fluitans OX=41844 GN=R1flu_007855 PE=3 SV=1	Riccia fluitans	575	925	47.3	61.9	2.9e-107
+72	TR	A0A811MMB8	Serine/threonine-protein OS=Miscanthus lutarioriparius OX=422564 GN=NCGR_LOCUS4179 PE=3 SV=1	Miscanthus lutarioriparius	512	919	47.4	63.0	3e-107
+73	TR	C5WM29	Serine/threonine-protein OS=Sorghum bicolor OX=4558 GN=SORBI_3001G107500 PE=3 SV=1	Sorghum bicolor	512	919	47.4	63.0	3e-107
+74	TR	A0A6P4A0F7	Serine/threonine-protein OS=Ziziphus jujuba OX=326968 GN=LOC107421832 PE=3 SV=2	Ziziphus jujuba	516	919	47.1	62.7	3.4e-107
+75	TR	A0ABS8UZW3	Serine/threonine-protein OS=Datura stramonium OX=4076 GN=CDKC2 PE=3 SV=1	Datura stramonium	506	918	47.4	62.8	3.5e-107
+76	TR	A0A9Q0Q5B7	Serine/threonine-protein OS=Salix purpurea OX=77065 GN=OIU79_013309 PE=3 SV=1	Salix purpurea	517	919	47.6	63.6	3.5e-107
+77	TR	A0ABQ9B8Z8	Serine/threonine-protein OS=Salix suchowensis OX=1278906 GN=OIU77_029565 PE=3 SV=1	Salix suchowensis	517	919	47.6	63.6	3.5e-107
+78	TR	A0AAV0QDE8	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS42412 PE=3 SV=1	Linum tenue	550	922	47.5	61.8	3.6e-107
+79	TR	A0AAN8VDJ9	Serine/threonine-protein OS=Dillenia turbinata OX=194707 GN=RJ641_007216 PE=3 SV=1	Dillenia turbinata	519	919	47.7	62.6	3.7e-107
+80	TR	A0AAQ3WMU4	Serine/threonine-protein OS=Paspalum notatum var. saurae OX=547442 GN=U9M48_016448 PE=3 SV=1	Paspalum notatum var. saurae	513	918	47.2	63.1	4.3e-107
+81	TR	A0A6P4A9T8	Serine/threonine-protein OS=Ziziphus jujuba OX=326968 GN=LOC107425192 PE=3 SV=2	Ziziphus jujuba	513	918	52.6	69.1	4.3e-107
+82	TR	A0A9Q0VJM8	Serine/threonine-protein OS=Salix purpurea OX=77065 GN=OIU79_029821 PE=3 SV=1	Salix purpurea	482	915	47.3	62.9	4.3e-107
+83	TR	Q5SCB9	Serine/threonine-protein OS=Ostreococcus tauri OX=70448 GN=CDKC PE=3 SV=1	Ostreococcus tauri	535	920	48.8	66.2	4.4e-107
+84	TR	A0A6P5SRD1	Serine/threonine-protein OS=Prunus avium OX=42229 GN=LOC110760717 PE=3 SV=1	Prunus avium	515	918	47.6	63.1	4.6e-107
+85	TR	A0A314UU45	Serine/threonine-protein OS=Prunus yedoensis var. nudiflora OX=2094558 GN=Pyn_22916 PE=3 SV=1	Prunus yedoensis var. nudiflora	515	918	47.6	63.1	4.6e-107
+86	TR	A0AAJ6T0A7	Serine/threonine-protein OS=Populus euphratica OX=75702 GN=LOC105109023 PE=3 SV=1	Populus euphratica	516	918	47.3	62.4	4.7e-107
+87	TR	A0A090LYB0	Serine/threonine-protein OS=Ostreococcus tauri OX=70448 GN=OT_ostta01g04270 PE=3 SV=1	Ostreococcus tauri	538	920	48.8	66.2	4.8e-107
+88	TR	A0A8T2YNX8	Serine/threonine-protein OS=Populus deltoides OX=3696 GN=H0E87_013582 PE=3 SV=1	Populus deltoides	517	918	47.6	63.8	4.8e-107
+89	TR	A0AAD6VY84	Serine/threonine-protein OS=Populus alba x Populus x berolinensis OX=444605 GN=NC653_015442 PE=3 SV=1	Populus alba x Populus x berolinensis	517	918	47.6	63.8	4.8e-107
+90	TR	A0A9Q1KNU5	Serine/threonine-protein OS=Carnegiea gigantea OX=171969 GN=Cgig2_016123 PE=3 SV=1	Carnegiea gigantea	508	917	48.0	63.1	5.1e-107
+91	TR	A0A067KX42	Serine/threonine-protein OS=Jatropha curcas OX=180498 GN=JCGZ_08698 PE=3 SV=1	Jatropha curcas	508	917	47.0	63.6	5.1e-107
+92	TR	A0A087G640	Serine/threonine-protein OS=Arabis alpina OX=50452 GN=AALP_Aa8g100300 PE=3 SV=1	Arabis alpina	509	917	52.6	67.6	5.2e-107
+93	TR	A0ABC9H2C6	Serine/threonine-protein OS=Urochloa decumbens OX=240449 GN=URODEC1_LOCUS121149 PE=3 SV=1	Urochloa decumbens	509	917	47.2	63.1	5.2e-107
+94	TR	A0ABC9A8E9	Serine/threonine-protein OS=Urochloa decumbens OX=240449 GN=URODEC1_LOCUS43737 PE=3 SV=1	Urochloa decumbens	509	917	47.2	63.1	5.2e-107
+95	TR	A9RDY5	Serine/threonine-protein OS=Physcomitrium patens OX=3218 GN=LOC112295333 PE=3 SV=1	Physcomitrium patens	563	922	51.6	68.3	5.3e-107
+96	TR	A0A834ZZU3	Serine/threonine-protein OS=Digitaria exilis OX=1010633 GN=HU200_065589 PE=3 SV=1	Digitaria exilis	510	917	47.4	62.4	5.4e-107
+97	TR	A0A811N2B2	Serine/threonine-protein OS=Miscanthus lutarioriparius OX=422564 GN=NCGR_LOCUS9765 PE=3 SV=1	Miscanthus lutarioriparius	523	918	47.4	62.9	5.8e-107
+98	TR	A0AAE1QNA3	Serine/threonine-protein OS=Anisodus tanguticus OX=243964 GN=RND71_043464 PE=3 SV=1	Anisodus tanguticus	930	951	41.0	53.7	6.1e-107
+99	TR	A0AAE1SJS9	Serine/threonine-protein OS=Anisodus tanguticus OX=243964 GN=RND71_010143 PE=3 SV=1	Anisodus tanguticus	494	915	47.4	61.9	6.3e-107
+100	TR	A0A8T2XJ98	Serine/threonine-protein OS=Populus deltoides OX=3696 GN=H0E87_021627 PE=3 SV=1	Populus deltoides	515	917	47.0	62.4	6.3e-107
+101	TR	A0A7J7DF58	Serine/threonine-protein OS=Tripterygium wilfordii OX=458696 GN=HS088_TW07G00571 PE=3 SV=1	Tripterygium wilfordii	505	916	52.4	68.8	6.4e-107
+102	TR	A0A2G2ZDI2	Serine/threonine-protein OS=Capsicum annuum OX=4072 GN=T459_18013 PE=3 SV=1	Capsicum annuum	495	915	48.2	62.8	6.5e-107
+103	TR	A0A2G2WML7	Serine/threonine-protein OS=Capsicum baccatum OX=33114 GN=CQW23_15642 PE=3 SV=1	Capsicum baccatum	495	915	48.2	62.8	6.5e-107
+104	TR	A0A8F2YJ28	Serine/threonine-protein OS=Populus tomentosa OX=118781 GN=CDKC:1 PE=2 SV=1	Populus tomentosa	516	917	47.0	62.4	6.5e-107
+105	TR	A0A2K1Y6U0	Serine/threonine-protein OS=Populus trichocarpa OX=3694 GN=POPTR_012G003700 PE=3 SV=1	Populus trichocarpa	516	917	47.0	62.4	6.5e-107
+106	TR	A0A0D2R6J1	Serine/threonine-protein OS=Gossypium raimondii OX=29730 GN=B456_004G175700 PE=3 SV=1	Gossypium raimondii	516	917	47.9	62.2	6.5e-107
+107	TR	A0A1U8IUZ4	Serine/threonine-protein OS=Gossypium hirsutum OX=3635 GN=LOC107900711 PE=3 SV=1	Gossypium hirsutum	516	917	47.9	62.2	6.5e-107
+108	TR	A0ABR0P2H3	Serine/threonine-protein OS=Gossypium arboreum OX=29729 GN=PVK06_028268 PE=3 SV=1	Gossypium arboreum	516	917	47.9	62.2	6.5e-107
+109	TR	A0A5D2JYY9	Serine/threonine-protein OS=Gossypium tomentosum OX=34277 GN=ES332_D08G189900v1 PE=3 SV=1	Gossypium tomentosum	516	917	47.9	62.2	6.5e-107
+110	TR	A0A5D2TZV8	Serine/threonine-protein OS=Gossypium mustelinum OX=34275 GN=E1A91_A08G164400v1 PE=3 SV=1	Gossypium mustelinum	516	917	47.9	62.2	6.5e-107
+111	TR	A0A5J5USI7	Serine/threonine-protein OS=Gossypium barbadense OX=3634 GN=ES319_A08G157500v1 PE=3 SV=1	Gossypium barbadense	516	917	47.9	62.2	6.5e-107
+112	TR	A0A5D2BNR2	Serine/threonine-protein OS=Gossypium darwinii OX=34276 GN=ES288_A08G173300v1 PE=3 SV=1	Gossypium darwinii	516	917	47.9	62.2	6.5e-107
+113	TR	A0A6P6GDN1	Serine/threonine-protein OS=Ziziphus jujuba OX=326968 GN=LOC107425192 PE=3 SV=2	Ziziphus jujuba	517	917	52.3	69.2	6.7e-107
+114	TR	A0A1J6IZX7	Serine/threonine-protein OS=Nicotiana attenuata OX=49451 GN=CDKC-2_0 PE=3 SV=1	Nicotiana attenuata	509	916	47.6	62.8	7.2e-107
+115	TR	A0A1S3X3U8	Serine/threonine-protein OS=Nicotiana tabacum OX=4097 GN=LOC107805140 PE=3 SV=1	Nicotiana tabacum	509	916	47.6	62.8	7.2e-107
+116	TR	Q8GU42	Serine/threonine-protein OS=Physcomitrium patens OX=3218 GN=cdk PE=2 SV=1	Physcomitrium patens	563	921	51.6	68.3	7.3e-107
+117	TR	A0ABP0UL21	Serine/threonine-protein OS=Sphagnum troendelagicum OX=128251 GN=CSSPTR1EN2_LOCUS17210 PE=3 SV=1	Sphagnum troendelagicum	565	921	48.0	62.4	7.8e-107
+118	TR	A0ACB9LGJ3	Serine/threonine-protein OS=Bauhinia variegata OX=167791 GN=L6164_031356 PE=3 SV=1	Bauhinia variegata	513	916	47.4	63.2	8.1e-107
+119	TR	A0ACE0KQQ0	Serine/threonine-protein OS=Prunus armeniaca OX=36596 GN=ARP2_LOCUS3804 PE=3 SV=1	Prunus armeniaca	515	916	47.8	63.0	8.7e-107
+120	TR	A0A9D3W1U9	Serine/threonine-protein OS=Gossypium stocksii OX=47602 GN=J1N35_010471 PE=3 SV=1	Gossypium stocksii	516	916	47.9	62.2	8.9e-107
+121	TR	A0AAJ6V4B8	Serine/threonine-protein OS=Populus euphratica OX=75702 GN=LOC105136856 PE=3 SV=1	Populus euphratica	517	916	47.6	63.6	9.2e-107
+122	TR	A0AAE0DTK9	Serine/threonine-protein OS=Dipteronia sinensis OX=43782 GN=Dsin_027462 PE=3 SV=1	Dipteronia sinensis	528	917	52.6	68.2	9.3e-107
+123	TR	A0AAD4VHW3	Serine/threonine-protein OS=Prunus dulcis OX=3755 GN=L3X38_033707 PE=3 SV=1	Prunus dulcis	507	915	52.1	68.2	9.3e-107
+124	TR	A0AAN8YCH2	Serine/threonine-protein OS=Solanum bulbocastanum OX=147425 GN=RDI58_016454 PE=3 SV=1	Solanum bulbocastanum	541	918	46.9	62.3	1e-106
+125	TR	A0ABD1L070	Serine/threonine-protein OS=Flemingia macrophylla OX=520843 GN=Fmac_030796 PE=3 SV=1	Flemingia macrophylla	520	916	52.2	68.7	1e-106
+126	TR	A0AAN9JWI2	Serine/threonine-protein OS=Canavalia gladiata OX=3824 GN=VNO77_44779 PE=3 SV=1	Canavalia gladiata	520	916	52.9	67.6	1e-106
+127	TR	A0ACM7BSP2	Serine/threonine-protein OS=Elaeis guineensis var. tenera OX=51953 GN=LOC105058415 PE=3 SV=1	Elaeis guineensis var. tenera	522	916	47.0	62.3	1.1e-106
+128	TR	A0A6P8E9V4	Serine/threonine-protein OS=Punica granatum OX=22663 GN=LOC116211738 PE=3 SV=1	Punica granatum	524	916	47.3	62.4	1.1e-106
+129	TR	A0ACF8VGK4	Serine/threonine-protein OS=Zizania latifolia OX=58934 GN=ABZP36_027975 PE=3 SV=1	Zizania latifolia	514	915	47.0	63.1	1.2e-106
+130	TR	A0ACL1G072	Serine/threonine-protein OS=Ricinus communis OX=3988 GN=LOC8289067 PE=3 SV=1	Ricinus communis	514	915	47.1	64.1	1.2e-106
+131	TR	M5Y502	Serine/threonine-protein OS=Prunus persica OX=3760 GN=PRUPE_1G186900 PE=3 SV=1	Prunus persica	515	915	48.0	62.9	1.2e-106
+132	TR	A0ABQ9B9W1	Serine/threonine-protein OS=Salix suchowensis OX=1278906 GN=OIU77_000947 PE=3 SV=1	Salix suchowensis	515	915	47.3	62.9	1.2e-106
+133	TR	A0A5E4FXH7	Serine/threonine-protein OS=Prunus dulcis OX=3755 GN=L3X38_003649 PE=3 SV=1	Prunus dulcis	515	915	48.0	62.9	1.2e-106
+134	TR	A0A9E7K3M6	Serine/threonine-protein OS=Musa troglodytarum OX=320322 GN=MUK42_20659 PE=3 SV=1	Musa troglodytarum	569	920	44.3	58.3	1.2e-106
+135	TR	A0A8B7C3B5	Serine/threonine-protein OS=Phoenix dactylifera OX=42345 GN=LOC103707911 PE=3 SV=1	Phoenix dactylifera	526	916	47.3	62.3	1.2e-106
+136	TR	A0A1U8LRG5	Serine/threonine-protein OS=Gossypium hirsutum OX=3635 GN=LOC107930109 PE=3 SV=2	Gossypium hirsutum	516	915	47.1	61.5	1.2e-106
+137	TR	A0A5D2PJ83	Serine/threonine-protein OS=Gossypium tomentosum OX=34277 GN=ES332_A08G174100v1 PE=3 SV=1	Gossypium tomentosum	516	915	47.1	61.5	1.2e-106
+138	TR	A0A0B0MJN8	Serine/threonine-protein OS=Gossypium arboreum OX=29729 GN=F383_22896 PE=3 SV=1	Gossypium arboreum	506	914	48.3	62.4	1.2e-106
+139	TR	A0A2K1ZVN8	Serine/threonine-protein OS=Populus trichocarpa OX=3694 GN=POPTR_006G024600 PE=3 SV=1	Populus trichocarpa	517	915	47.6	63.6	1.3e-106
+140	TR	A0A8X7S565	Serine/threonine-protein OS=Brassica carinata OX=52824 GN=Bca52824_037121 PE=3 SV=1	Brassica carinata	507	914	52.8	67.3	1.3e-106
+141	TR	A0A1S2XL96	Serine/threonine-protein OS=Cicer arietinum OX=3827 GN=LOC101495504 PE=3 SV=1	Cicer arietinum	519	915	52.6	67.9	1.3e-106
+142	TR	A9TI36	Serine/threonine-protein OS=Physcomitrium patens OX=3218 GN=LOC112274494 PE=3 SV=1	Physcomitrium patens	562	919	51.6	68.3	1.3e-106
+143	TR	A0A1U7XJS8	Serine/threonine-protein OS=Nicotiana sylvestris OX=4096 GN=LOC104234805 PE=3 SV=1	Nicotiana sylvestris	509	914	52.1	68.8	1.4e-106
+144	TR	A0A8X7UE64	Serine/threonine-protein OS=Brassica carinata OX=52824 GN=Bca52824_056786 PE=3 SV=1	Brassica carinata	509	914	52.8	67.3	1.4e-106
+145	TR	A0A816J5Z6	Serine/threonine-protein OS=Brassica napus OX=3708 GN=HID58_089455 PE=3 SV=1	Brassica napus	509	914	52.8	67.3	1.4e-106
+146	TR	A0AC58RRY8	Serine/threonine-protein OS=Nicotiana tabacum OX=4097 GN=LOC107760785 PE=3 SV=1	Nicotiana tabacum	509	914	52.1	68.8	1.4e-106
+147	TR	A0ABQ7D3Z8	Serine/threonine-protein OS=Brassica cretica OX=69181 GN=DY000_02019359 PE=3 SV=1	Brassica cretica	509	914	52.8	67.3	1.4e-106
+148	TR	A0ABD1LFJ2	Serine/threonine-protein OS=Flemingia macrophylla OX=520843 GN=Fmac_026661 PE=3 SV=1	Flemingia macrophylla	520	915	47.9	62.3	1.4e-106
+149	TR	A0A4S8JVM4	Serine/threonine-protein OS=Musa balbisiana OX=52838 GN=C4D60_Mb05t12380 PE=3 SV=1	Musa balbisiana	586	921	45.1	59.1	1.4e-106
+150	TR	A0AA89AW39	Serine/threonine-protein OS=Escallonia herrerae OX=1293975 GN=RJ639_003791 PE=3 SV=1	Escallonia herrerae	523	915	46.6	62.3	1.5e-106
+151	TR	A0AA88QIL2	Serine/threonine-protein OS=Escallonia rubra OX=112253 GN=RJ640_000697 PE=3 SV=1	Escallonia rubra	523	915	46.6	62.6	1.5e-106
+152	TR	A0AAN7KY48	Serine/threonine-protein OS=Trapa incisa OX=236973 GN=SAY87_028613 PE=3 SV=1	Trapa incisa	524	915	47.1	63.8	1.6e-106
+153	TR	A0AAN7M5W3	Serine/threonine-protein OS=Trapa natans OX=22666 GN=SAY86_017870 PE=3 SV=1	Trapa natans	524	915	47.1	63.8	1.6e-106
+154	TR	A0A804J144	Serine/threonine-protein OS=Musa acuminata subsp. malaccensis OX=214687 PE=3 SV=1	Musa acuminata subsp. malaccensis	516	914	47.0	62.1	1.7e-106
+155	TR	A0A5B6VKD9	Serine/threonine-protein OS=Gossypium australe OX=47621 GN=cdk12 PE=3 SV=1	Gossypium australe	506	913	48.3	62.1	1.7e-106
+156	TR	A0AA39TGE7	Serine/threonine-protein OS=Acer saccharum OX=4024 GN=LWI29_017360 PE=3 SV=1	Acer saccharum	528	915	52.6	68.2	1.8e-106
+157	TR	A0AAD9WVF7	Serine/threonine-protein OS=Dipteronia dyeriana OX=168575 GN=Ddye_019223 PE=3 SV=1	Dipteronia dyeriana	528	915	52.6	68.2	1.8e-106
+158	TR	A0A3P6CZY4	Serine/threonine-protein OS=Brassica campestris OX=3711 PE=3 SV=1	Brassica campestris	509	913	52.8	67.3	1.9e-106
+159	TR	A0A8D9MJA6	Serine/threonine-protein OS=Brassica campestris OX=3711 GN=BRAPAZ1V2_A10P28360.2 PE=3 SV=1	Brassica campestris	509	913	52.8	67.3	1.9e-106
+160	TR	A0ABQ8BS14	Serine/threonine-protein OS=Brassica napus OX=3708 GN=HID58_039429 PE=3 SV=1	Brassica napus	509	913	52.8	67.3	1.9e-106
+161	TR	A0AAD5P317	Serine/threonine-protein OS=Acer negundo OX=4023 GN=LWI28_014001 PE=3 SV=1	Acer negundo	531	915	52.6	68.2	1.9e-106
+162	TR	A0A7J7G8M1	Serine/threonine-protein OS=Camellia sinensis OX=4442 GN=HYC85_024616 PE=3 SV=1	Camellia sinensis	511	913	53.3	69.2	2e-106
+163	TR	A0AAN7M8A9	Serine/threonine-protein OS=Trapa natans OX=22666 GN=SAY86_032149 PE=3 SV=1	Trapa natans	523	914	47.6	64.1	2.1e-106
+164	TR	A0A2P5EKR2	Serine/threonine-protein OS=Trema orientale OX=63057 GN=TorRG33x02_180200 PE=3 SV=1	Trema orientale	513	913	51.8	67.9	2.1e-106
+165	TR	A0AAN7LHN7	Serine/threonine-protein OS=Trapa incisa OX=236973 GN=SAY87_016563 PE=3 SV=1	Trapa incisa	524	914	47.6	64.1	2.2e-106
+166	TR	A0AAD1Z2J3	Serine/threonine-protein OS=Fraxinus pennsylvanica OX=56036 GN=FPE_LOCUS9029 PE=3 SV=1	Fraxinus pennsylvanica	514	913	52.4	68.5	2.2e-106
+167	TR	A0A8J5YIV0	Serine/threonine-protein OS=Gossypium anomalum OX=47600 GN=CXB51_019781 PE=3 SV=1	Gossypium anomalum	526	914	48.3	62.4	2.3e-106
+168	TR	A0A1R3J939	Serine/threonine-protein OS=Corchorus capsularis OX=210143 GN=CCACVL1_07147 PE=3 SV=1	Corchorus capsularis	517	913	47.6	62.0	2.4e-106
+169	TR	A0ABM3HTN6	Serine/threonine-protein OS=Rhodamnia argentea OX=178133 GN=LOC115735298 PE=3 SV=1	Rhodamnia argentea	519	913	47.6	62.7	2.6e-106
+170	TR	A0A0A0LHZ9	Serine/threonine-protein OS=Cucumis sativus OX=3659 GN=Csa_3G837620 PE=3 SV=1	Cucumis sativus	489	910	47.8	62.6	2.7e-106
+171	TR	A0A6J0KFR4	Serine/threonine-protein OS=Raphanus sativus OX=3726 GN=LOC108818308 PE=3 SV=1	Raphanus sativus	510	912	52.5	67.3	2.7e-106
+172	TR	A0A6A4PXJ3	Serine/threonine-protein OS=Lupinus albus OX=3870 GN=Lalb_Chr10g0106011 PE=3 SV=1	Lupinus albus	510	912	51.8	68.5	2.7e-106
+173	TR	A0AAV1X739	Serine/threonine-protein OS=Lupinus luteus OX=3873 GN=LLUT_LOCUS18614 PE=3 SV=1	Lupinus luteus	510	912	51.8	68.5	2.7e-106
+174	TR	A0A8B9AJ23	Serine/threonine-protein OS=Phoenix dactylifera OX=42345 GN=LOC120103653 PE=3 SV=1	Phoenix dactylifera	521	913	46.7	61.5	2.7e-106
+175	TR	A0A8B7CMI6	Serine/threonine-protein OS=Phoenix dactylifera OX=42345 GN=LOC103716119 PE=3 SV=1	Phoenix dactylifera	521	913	46.7	61.5	2.7e-106
+176	TR	A0ABP0X031	Serine/threonine-protein OS=Sphagnum jensenii OX=128206 GN=CSSPJE1EN1_LOCUS17941 PE=3 SV=1	Sphagnum jensenii	565	917	47.8	62.2	2.8e-106
+177	TR	A0ABC8UT99	Serine/threonine-protein OS=Ilex paraguariensis OX=185542 GN=ILEXP_LOCUS54531 PE=3 SV=1	Ilex paraguariensis	514	912	52.4	68.5	3e-106
+178	TR	A0A5N5H4T8	Serine/threonine-protein OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_025147 PE=3 SV=1	Pyrus ussuriensis x Pyrus communis	515	912	47.1	62.5	3.1e-106
+179	TR	A0ABR2QCZ6	Serine/threonine-protein OS=Hibiscus sabdariffa OX=183260 GN=V6N11_083920 PE=3 SV=1	Hibiscus sabdariffa	515	912	48.1	62.5	3.1e-106
+180	TR	A0A540NL11	Serine/threonine-protein OS=Malus baccata OX=106549 GN=C1H46_002744 PE=3 SV=1	Malus baccata	516	912	47.1	62.5	3.2e-106
+181	TR	A0AAE1JSK2	Serine/threonine-protein OS=Acacia crassicarpa OX=499986 GN=QN277_018831 PE=3 SV=1	Acacia crassicarpa	517	912	47.0	63.1	3.3e-106
+182	TR	A0A9N7P1S7	Serine/threonine-protein OS=Striga hermonthica OX=68872 GN=SHERM_07693 PE=3 SV=1	Striga hermonthica	486	909	52.1	67.9	3.3e-106
+183	TR	A0AAD2DQQ5	Serine/threonine-protein OS=Fraxinus pennsylvanica OX=56036 GN=FPE_LOCUS10987 PE=3 SV=1	Fraxinus pennsylvanica	507	911	51.3	68.1	3.4e-106
+184	TR	A0A8J5VIC3	Serine/threonine-protein OS=Zizania palustris OX=103762 GN=GUJ93_ZPchr0005g14663 PE=3 SV=1	Zizania palustris	518	912	45.7	61.4	3.4e-106
+185	TR	A0ACE1USA2	Serine/threonine-protein OS=Prunus brigantina OX=151428 GN=PRUBRI_6G334900 PE=3 SV=1	Prunus brigantina	508	911	52.2	68.3	3.5e-106
+186	TR	A0AA87ZCN4	Serine/threonine-protein OS=Ficus carica OX=3494 GN=TIFTF001_004344 PE=3 SV=1	Ficus carica	509	911	47.3	62.7	3.6e-106
+187	TR	A0ACE5WAX5	Serine/threonine-protein OS=Cocos nucifera OX=13894 GN=COCNU_scaffold002056G000060 PE=3 SV=1	Cocos nucifera	520	912	46.7	61.5	3.6e-106
+188	TR	A0A6I9S4B8	Serine/threonine-protein OS=Elaeis guineensis var. tenera OX=51953 GN=LOC105056831 PE=3 SV=1	Elaeis guineensis var. tenera	520	912	46.7	61.5	3.6e-106
+189	TR	A0ABD1SVV4	Serine/threonine-protein OS=Abeliophyllum distichum OX=126358 GN=Adt_20178 PE=3 SV=1	Abeliophyllum distichum	511	911	51.6	67.8	3.8e-106
+190	TR	A0ACC0BLQ0	Serine/threonine-protein OS=Catharanthus roseus OX=4058 GN=M9H77_13893 PE=3 SV=1	Catharanthus roseus	512	911	52.6	68.2	3.9e-106
+191	TR	I1HVD4	Serine/threonine-protein OS=Brachypodium distachyon OX=15368 PE=3 SV=1	Brachypodium distachyon	513	911	47.0	62.8	4e-106
+192	TR	A0ABP0VTE7	Serine/threonine-protein OS=Sphagnum jensenii OX=128206 GN=CSSPJE1EN1_LOCUS2925 PE=3 SV=1	Sphagnum jensenii	567	916	52.2	69.5	4.1e-106
+193	TR	A0A8T0H183	Serine/threonine-protein OS=Ceratodon purpureus OX=3225 GN=KC19_8G060700 PE=3 SV=1	Ceratodon purpureus	567	916	51.3	67.7	4.1e-106
+194	TR	A0ABP0TF88	Serine/threonine-protein OS=Sphagnum troendelagicum OX=128251 GN=CSSPTR1EN2_LOCUS2805 PE=3 SV=1	Sphagnum troendelagicum	567	916	52.2	69.5	4.1e-106
+195	TR	A0A822YE55	Serine/threonine-protein OS=Nelumbo nucifera OX=4432 GN=HUJ06_030723 PE=3 SV=1	Nelumbo nucifera	514	911	47.6	62.5	4.2e-106
+196	TR	A0A1U7YU05	Serine/threonine-protein OS=Nelumbo nucifera OX=4432 GN=LOC104587804 PE=3 SV=1	Nelumbo nucifera	514	911	47.6	62.5	4.2e-106
+197	TR	A0ABD3AH53	Serine/threonine-protein OS=Cinchona calisaya OX=153742 GN=ACH5RR_009474 PE=3 SV=1	Cinchona calisaya	515	911	47.4	62.2	4.3e-106
+198	TR	A0ABP0Y3D8	Serine/threonine-protein OS=Citrullus colocynthis OX=252529 GN=CITCOLO1_LOCUS5837 PE=3 SV=1	Citrullus colocynthis	516	911	52.1	68.2	4.4e-106
+199	TR	A0ACK6AYN1	Serine/threonine-protein OS=Ricinus communis OX=3988 GN=LOC8259292 PE=3 SV=1	Ricinus communis	516	911	47.7	62.4	4.4e-106
+200	TR	A0AAW2BX63	Serine/threonine-protein OS=Lithocarpus litseifolius OX=425828 GN=SO802_025233 PE=3 SV=1	Lithocarpus litseifolius	516	911	52.4	67.6	4.4e-106
+201	TR	A0A1R3JFX0	Serine/threonine-protein OS=Corchorus olitorius OX=93759 GN=COLO4_16719 PE=3 SV=1	Corchorus olitorius	507	910	48.1	62.1	4.6e-106
+202	TR	A0A7N0U7L4	Serine/threonine-protein OS=Kalanchoe fedtschenkoi OX=63787 PE=3 SV=1	Kalanchoe fedtschenkoi	518	911	52.5	68.6	4.7e-106
+203	TR	A0ABC8ILW2	Serine/threonine-protein OS=Eruca vesicaria subsp. sativa OX=29727 GN=ERUC_LOCUS170 PE=3 SV=1	Eruca vesicaria subsp. sativa	508	910	52.8	67.1	4.8e-106
+204	TR	A0A0E0HDV5	Serine/threonine-protein OS=Oryza nivara OX=4536 PE=3 SV=1	Oryza nivara	509	910	46.2	61.8	4.9e-106
+205	TR	A0A8T2UDM3	Serine/threonine-protein OS=Ceratopteris richardii OX=49495 GN=KP509_07G031100 PE=3 SV=1	Ceratopteris richardii	509	910	45.9	64.0	4.9e-106
+206	TR	A0ABD1UTF1	Serine/threonine-protein OS=Forsythia ovata OX=205694 GN=Fot_20626 PE=3 SV=1	Forsythia ovata	509	910	47.5	62.9	4.9e-106
+207	TR	A0ABD3IXB8	Serine/threonine-protein OS=Eucalyptus globulus OX=34317 GN=ACJRO7_003614 PE=3 SV=1	Eucalyptus globulus	520	911	47.6	62.7	5e-106
+208	TR	A0ACC3J2Y8	Serine/threonine-protein OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_J00650 PE=3 SV=1	Eucalyptus grandis	520	911	47.6	62.7	5e-106
+209	TR	A0A8B8KC38	Serine/threonine-protein OS=Abrus precatorius OX=3816 GN=LOC113854043 PE=3 SV=1	Abrus precatorius	521	911	52.6	67.6	5.1e-106
+210	TR	A0AAD5IIP8	Serine/threonine-protein OS=Acer negundo OX=4023 GN=LWI28_008143 PE=3 SV=1	Acer negundo	532	912	46.4	62.3	5.2e-106
+211	TR	A0A8X7ZLG7	Serine/threonine-protein OS=Populus tomentosa OX=118781 GN=POTOM_022436 PE=3 SV=1	Populus tomentosa	565	915	48.1	64.1	5.3e-106
+212	TR	A0A2Z7CCL5	Serine/threonine-protein OS=Dorcoceras hygrometricum OX=472368 GN=F511_19354 PE=3 SV=1	Dorcoceras hygrometricum	533	912	51.0	66.1	5.4e-106
+213	TR	A0AAV6WYS8	Serine/threonine-protein OS=Buddleja alternifolia OX=168488 GN=BUALT_Bualt11G0017400 PE=3 SV=1	Buddleja alternifolia	491	908	51.9	68.1	5.4e-106
+214	TR	A0AAN9FL24	Serine/threonine-protein OS=Crotalaria pallida OX=3830 GN=RIF29_17759 PE=3 SV=1	Crotalaria pallida	514	910	47.5	62.4	5.7e-106
+215	TR	A0A1S3B891	Serine/threonine-protein OS=Cucumis melo OX=3656 GN=LOC103487099 PE=3 SV=1	Cucumis melo	515	910	47.8	62.6	5.9e-106
+216	TR	A0A7N2M1Y9	Serine/threonine-protein OS=Quercus lobata OX=97700 GN=LOC115994782 PE=3 SV=1	Quercus lobata	516	910	52.4	67.6	6.1e-106
+217	TR	A0AAN7F1A9	Serine/threonine-protein OS=Quercus rubra OX=3512 GN=RGQ29_021972 PE=3 SV=1	Quercus rubra	516	910	52.4	67.6	6.1e-106
+218	TR	A0AAE1N0E5	Serine/threonine-protein OS=Acacia crassicarpa OX=499986 GN=QN277_012009 PE=3 SV=1	Acacia crassicarpa	516	910	47.0	63.1	6.1e-106
+219	TR	A0A8S0SM11	Serine/threonine-protein OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A000443 PE=3 SV=1	Olea europaea subsp. europaea	507	909	51.6	67.5	6.4e-106
+220	TR	A0A1U7Y1Y0	Serine/threonine-protein OS=Nicotiana sylvestris OX=4096 GN=LOC104239755 PE=3 SV=1	Nicotiana sylvestris	508	909	51.6	66.7	6.6e-106
+221	TR	A0ABD8EI40	Serine/threonine-protein OS=Nicotiana tabacum OX=4097 GN=LOC107776465 PE=3 SV=1	Nicotiana tabacum	508	909	51.6	66.7	6.6e-106
+222	TR	A0A075F2G7	Serine/threonine-protein OS=Nicotiana tabacum OX=4097 GN=CDKC PE=2 SV=1	Nicotiana tabacum	508	909	51.6	66.7	6.6e-106
+223	TR	A0A314LDY3	Serine/threonine-protein OS=Nicotiana attenuata OX=49451 GN=CDKC-2_1 PE=3 SV=1	Nicotiana attenuata	509	909	51.6	66.7	6.8e-106
+224	TR	A0A2G9IAJ3	Serine/threonine-protein OS=Handroanthus impetiginosus OX=429701 GN=CDL12_00490 PE=3 SV=1	Handroanthus impetiginosus	511	909	51.8	68.5	7.2e-106
+225	TR	A0ACC1YM60	Serine/threonine-protein OS=Melia azedarach OX=155640 GN=OWV82_003512 PE=3 SV=1	Melia azedarach	523	910	51.5	68.5	7.5e-106
+226	TR	A0AAN9JLD4	Serine/threonine-protein OS=Clitoria ternatea OX=43366 GN=RJT34_11138 PE=3 SV=1	Clitoria ternatea	514	909	52.1	67.9	7.9e-106
+227	TR	A0A8J5TBG8	Serine/threonine-protein OS=Zizania palustris OX=103762 GN=GUJ93_ZPchr0007g5102 PE=3 SV=1	Zizania palustris	514	909	46.7	63.1	7.9e-106
+228	TR	A0A1S3BNY3	Serine/threonine-protein OS=Cucumis melo OX=3656 GN=LOC103491610 PE=3 SV=1	Cucumis melo	514	909	51.8	68.2	7.9e-106
+229	TR	A0ACB8ZCJ1	Serine/threonine-protein OS=Smallanthus sonchifolius OX=185202 GN=L1987_78722 PE=3 SV=1	Smallanthus sonchifolius	504	908	52.1	68.5	8e-106
+230	TR	A0A4U6UT76	Serine/threonine-protein OS=Setaria viridis OX=4556 GN=SEVIR_5G465700v2 PE=3 SV=1	Setaria viridis	515	909	47.1	62.2	8.1e-106
+231	TR	K3XGP6	Serine/threonine-protein OS=Setaria italica OX=4555 PE=3 SV=1	Setaria italica	515	909	47.1	62.2	8.1e-106
+232	TR	A0ACB9S4H4	Serine/threonine-protein OS=Melastoma candidum OX=119954 GN=MLD38_004143 PE=3 SV=1	Melastoma candidum	526	910	52.4	68.2	8.2e-106
+233	TR	A0A6P5WLR7	Serine/threonine-protein OS=Durio zibethinus OX=66656 GN=LOC111275346 PE=3 SV=1	Durio zibethinus	516	909	47.0	62.6	8.4e-106
+234	TR	A0AAD7LLP3	Serine/threonine-protein OS=Quillaja saponaria OX=32244 GN=O6P43_020897 PE=3 SV=1	Quillaja saponaria	516	909	46.7	63.5	8.4e-106
+235	TR	I1M791	Serine/threonine-protein OS=Glycine max OX=3847 GN=LOC100780860 PE=3 SV=1	Glycine max	516	909	50.7	66.5	8.4e-106
+236	TR	A0A445H159	Serine/threonine-protein OS=Glycine soja OX=3848 GN=D0Y65_037633 PE=3 SV=1	Glycine soja	516	909	50.7	66.5	8.4e-106
+237	TR	A0ACF8G1Z6	Serine/threonine-protein OS=Castanea dentata OX=134033 GN=ACB092_02G228300 PE=3 SV=1	Castanea dentata	516	909	52.4	67.6	8.4e-106
+238	TR	A0AAQ3QLA4	Serine/threonine-protein OS=Canna indica OX=4628 GN=Cni_G22562 PE=3 SV=1	Canna indica	517	909	47.1	62.3	8.6e-106
+239	TR	A0AAJ6SZI8	Serine/threonine-protein OS=Populus euphratica OX=75702 GN=LOC105109023 PE=3 SV=1	Populus euphratica	529	910	46.0	61.4	9e-106
+240	TR	A0A9R0RZ52	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Av1G273500 PE=3 SV=1	Triticum turgidum subsp. durum	498	907	52.1	68.9	9.2e-106
+241	TR	A0A9R1QZZ2	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Bv1G268390 PE=3 SV=1	Triticum turgidum subsp. durum	498	907	52.1	68.9	9.2e-106
+242	TR	A0A5J9VLD3	Serine/threonine-protein OS=Eragrostis curvula OX=38414 GN=EJB05_18900 PE=3 SV=1	Eragrostis curvula	511	908	46.9	62.4	9.9e-106
+243	TR	A0AAV8RPR0	Serine/threonine-protein OS=Ensete ventricosum OX=4639 GN=OPV22_006469 PE=3 SV=1	Ensete ventricosum	577	914	47.0	62.1	1e-105
+244	TR	A0AAW1IRV8	Serine/threonine-protein OS=Saponaria officinalis OX=3572 GN=RND81_09G251500 PE=3 SV=1	Saponaria officinalis	513	908	51.5	68.8	1.1e-105
+245	TR	A0AAD9XAF8	Serine/threonine-protein OS=Dipteronia dyeriana OX=168575 GN=Ddye_008806 PE=3 SV=1	Dipteronia dyeriana	525	909	52.1	67.6	1.1e-105
+246	TR	A0A251JQQ0	Serine/threonine-protein OS=Manihot esculenta OX=3983 GN=MANES_12G153600v8 PE=3 SV=1	Manihot esculenta	515	908	52.1	68.2	1.1e-105
+247	TR	A0A8T1QTK3	Serine/threonine-protein OS=Carya illinoinensis OX=32201 GN=CIPAW_04G100300 PE=3 SV=1	Carya illinoinensis	515	908	47.9	62.2	1.1e-105
+248	TR	A0AAE0EF87	Serine/threonine-protein OS=Dipteronia sinensis OX=43782 GN=Dsin_005786 PE=3 SV=1	Dipteronia sinensis	526	909	52.1	67.6	1.1e-105
+249	TR	A0ABP0YPW2	Serine/threonine-protein OS=Citrullus colocynthis OX=252529 GN=CITCOLO1_LOCUS14714 PE=3 SV=1	Citrullus colocynthis	539	910	47.8	62.6	1.2e-105
+250	TR	A0AAP0WUS9	Serine/threonine-protein OS=Liquidambar formosana OX=63359 GN=L1049_014247 PE=3 SV=1	Liquidambar formosana	518	908	47.4	62.6	1.2e-105
+251	TR	A0A3B6ESS6	Serine/threonine-protein OS=Triticum aestivum OX=4565 PE=3 SV=1	Triticum aestivum	497	906	52.1	68.6	1.2e-105
+252	TR	A0A9R1QYK4	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Bv1G268390 PE=3 SV=1	Triticum turgidum subsp. durum	497	906	52.1	68.6	1.2e-105
+253	TR	A0A9R0S0Z2	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Av1G273500 PE=3 SV=1	Triticum turgidum subsp. durum	497	906	52.1	68.6	1.2e-105
+254	TR	A0ACC0S477	Serine/threonine-protein OS=Populus trichocarpa OX=3694 GN=POPTR_012G003700v4 PE=3 SV=1	Populus trichocarpa	529	909	45.8	61.4	1.2e-105
+255	TR	A0A251S6G9	Serine/threonine-protein OS=Helianthus annuus OX=4232 GN=HannXRQ_Chr15g0469221 PE=3 SV=1	Helianthus annuus	498	906	51.8	68.2	1.3e-105
+256	TR	A0AC58SH95	Serine/threonine-protein OS=Nicotiana tabacum OX=4097 GN=LOC107804852 PE=3 SV=1	Nicotiana tabacum	509	907	51.6	66.7	1.3e-105
+257	TR	A0A151U1J8	Serine/threonine-protein OS=Cajanus cajan OX=3821 GN=KK1_005817 PE=3 SV=1	Cajanus cajan	478	904	51.2	67.4	1.3e-105
+258	TR	A0A4D6KXL1	Serine/threonine-protein OS=Vigna unguiculata OX=3917 GN=DEO72_LG1g2930 PE=3 SV=1	Vigna unguiculata	521	908	52.6	67.6	1.3e-105
+259	TR	A0AAN9LCY1	Serine/threonine-protein OS=Phaseolus coccineus OX=3886 GN=VNO80_30537 PE=3 SV=1	Phaseolus coccineus	521	908	52.6	67.6	1.3e-105
+260	TR	A0A0S3S7A7	Serine/threonine-protein OS=Vigna angularis var. angularis OX=157739 GN=Vigan.05G229500 PE=3 SV=1	Vigna angularis var. angularis	521	908	52.6	67.6	1.3e-105
+261	TR	A0ACF7QUE4	Serine/threonine-protein OS=Hibiscus cannabinus OX=229543 GN=GQ457_11G020120 PE=3 SV=1	Hibiscus cannabinus	511	907	52.1	67.9	1.4e-105
+262	TR	A0A1S3VVQ6	Serine/threonine-protein OS=Vigna radiata var. radiata OX=3916 GN=LOC106778682 PE=3 SV=1	Vigna radiata var. radiata	522	908	52.6	67.6	1.4e-105
+263	TR	A0A2R6XAF6	Serine/threonine-protein OS=Marchantia polymorpha OX=3197 GN=MARPO_0027s0185 PE=3 SV=1	Marchantia polymorpha	578	913	46.9	62.8	1.5e-105
+264	TR	A0AAN9SQP7	Serine/threonine-protein OS=Psophocarpus tetragonolobus OX=3891 GN=VNO78_12399 PE=3 SV=1	Psophocarpus tetragonolobus	524	908	52.4	67.6	1.5e-105
+265	TR	A0AAN9SVT2	Serine/threonine-protein OS=Psophocarpus tetragonolobus OX=3891 GN=VNO78_12396 PE=3 SV=1	Psophocarpus tetragonolobus	524	908	52.4	67.6	1.5e-105
+266	TR	A0AAD4P693	Serine/threonine-protein OS=Perilla frutescens var. hirtella OX=608512 GN=C2S53_013935 PE=3 SV=1	Perilla frutescens var. hirtella	503	906	45.7	63.8	1.5e-105
+267	TR	A0A6J1FTZ3	Serine/threonine-protein OS=Cucurbita moschata OX=3662 GN=LOC111448124 PE=3 SV=1	Cucurbita moschata	514	907	51.5	68.2	1.5e-105
+268	TR	A0A6J1JF29	Serine/threonine-protein OS=Cucurbita maxima OX=3661 GN=LOC111483936 PE=3 SV=1	Cucurbita maxima	514	907	51.5	68.2	1.5e-105
+269	TR	A0A6P8E3M5	Serine/threonine-protein OS=Punica granatum OX=22663 GN=LOC116211737 PE=3 SV=1	Punica granatum	525	908	47.8	63.9	1.5e-105
+270	TR	A0A2R6R6I7	Serine/threonine-protein OS=Actinidia chinensis var. chinensis OX=1590841 GN=CEY00_Acc10656 PE=3 SV=1	Actinidia chinensis var. chinensis	525	908	47.1	63.8	1.5e-105
+271	TR	A0AAD5C602	Serine/threonine-protein OS=Ambrosia artemisiifolia OX=4212 GN=M8C21_000656 PE=3 SV=1	Ambrosia artemisiifolia	515	907	45.2	60.7	1.5e-105
+272	TR	A0ABR2P4J3	Serine/threonine-protein OS=Hibiscus sabdariffa OX=183260 GN=V6N11_057931 PE=3 SV=1	Hibiscus sabdariffa	515	907	52.1	67.9	1.5e-105
+273	TR	A0A6P5Y8W6	Serine/threonine-protein OS=Durio zibethinus OX=66656 GN=LOC111289554 PE=3 SV=1	Durio zibethinus	516	907	52.1	68.2	1.6e-105
+274	TR	A0ACB9J233	Serine/threonine-protein OS=Smallanthus sonchifolius OX=185202 GN=L1987_18999 PE=3 SV=1	Smallanthus sonchifolius	551	910	52.1	68.5	1.7e-105
+275	TR	A0A8T3AZQ5	Serine/threonine-protein OS=Dendrobium nobile OX=94219 GN=KFK09_016516 PE=3 SV=1	Dendrobium nobile	519	907	47.6	63.1	1.7e-105
+276	TR	A0A0E0HDV4	Serine/threonine-protein OS=Oryza nivara OX=4536 PE=3 SV=1	Oryza nivara	519	907	45.7	61.2	1.7e-105
+277	TR	A0AAD7LVB6	Serine/threonine-protein OS=Quillaja saponaria OX=32244 GN=O6P43_014643 PE=3 SV=1	Quillaja saponaria	397	895	51.5	67.6	1.8e-105
+278	TR	I1NE25	Serine/threonine-protein OS=Glycine max OX=3847 GN=LOC100793565 PE=3 SV=2	Glycine max	520	907	52.6	67.6	1.8e-105
+279	TR	A0ABM0XVQ0	Serine/threonine-protein OS=Camelina sativa OX=90675 GN=LOC104769230 PE=3 SV=1	Camelina sativa	510	906	52.1	67.4	1.8e-105
+280	TR	A0ABR2CAQ0	Serine/threonine-protein OS=Hibiscus sabdariffa OX=183260 GN=V6N12_038742 PE=3 SV=1	Hibiscus sabdariffa	521	907	47.5	61.9	1.8e-105
+281	TR	A0ACF7REX7	Serine/threonine-protein OS=Hibiscus cannabinus OX=229543 GN=GQ457_08G024190 PE=3 SV=1	Hibiscus cannabinus	521	907	47.5	61.9	1.8e-105
+282	TR	A0A1U7Z712	Serine/threonine-protein OS=Nelumbo nucifera OX=4432 GN=LOC104589846 PE=3 SV=1	Nelumbo nucifera	512	906	52.1	68.2	1.9e-105
+283	TR	A0ABR2EK16	Serine/threonine-protein OS=Hibiscus sabdariffa OX=183260 GN=V6N12_010414 PE=3 SV=1	Hibiscus sabdariffa	513	906	52.1	67.6	2e-105
+284	TR	A0A6A1VDJ9	Serine/threonine-protein OS=Morella rubra OX=262757 GN=CJ030_MR6G013359 PE=3 SV=1	Morella rubra	515	906	52.1	67.6	2.1e-105
+285	TR	A0A2I4FS72	Serine/threonine-protein OS=Juglans regia OX=51240 GN=LOC109001584 PE=3 SV=1	Juglans regia	516	906	52.1	67.6	2.2e-105
+286	TR	I1JIS7	Serine/threonine-protein OS=Glycine max OX=3847 GN=LOC100795971 PE=3 SV=2	Glycine max	516	906	51.8	67.9	2.2e-105
+287	TR	A0A445LUY4	Serine/threonine-protein OS=Glycine soja OX=3848 GN=D0Y65_005272 PE=3 SV=1	Glycine soja	516	906	51.8	67.9	2.2e-105
+288	TR	A0A2P6QUQ0	Serine/threonine-protein OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr4g0407881 PE=3 SV=1	Rosa chinensis	516	906	46.6	63.1	2.2e-105
+289	TR	A0A8B8JGG0	Serine/threonine-protein OS=Abrus precatorius OX=3816 GN=LOC113846155 PE=3 SV=1	Abrus precatorius	516	906	47.1	63.1	2.2e-105
+290	TR	A0AA39DVB7	Serine/threonine-protein OS=Vitis rotundifolia OX=103349 GN=PVL29_007850 PE=3 SV=1	Vitis rotundifolia	516	906	47.1	62.8	2.2e-105
+291	TR	A0ABU6YK42	Serine/threonine-protein OS=Stylosanthes scabra OX=79078 GN=CDKC1_3 PE=3 SV=1	Stylosanthes scabra	517	906	46.8	62.5	2.3e-105
+292	TR	A0ABY9C3F6	Serine/threonine-protein OS=Vitis vinifera OX=29760 GN=VitviT2T_008722 PE=3 SV=1	Vitis vinifera	517	906	47.4	62.0	2.3e-105
+293	TR	F6H9Y5	Serine/threonine-protein OS=Vitis vinifera OX=29760 GN=VIT_06s0009g01800 PE=3 SV=1	Vitis vinifera	517	906	47.4	62.0	2.3e-105
+294	TR	A0AA96NPF7	Serine/threonine-protein OS=Phyllostachys edulis OX=38705 GN=CDKC1 PE=2 SV=1	Phyllostachys edulis	507	905	46.5	63.5	2.3e-105
+295	TR	A0A9R0QXV6	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_1Bv1G143240 PE=3 SV=1	Triticum turgidum subsp. durum	476	902	51.3	68.9	2.3e-105
+296	TR	A0ACG4TCY7	Serine/threonine-protein OS=Helianthus anomalus OX=73274 GN=Hanom_Chr11g00971231 PE=3 SV=1	Helianthus anomalus	518	906	50.6	66.0	2.3e-105
+297	TR	A0A6J1DLQ7	Serine/threonine-protein OS=Momordica charantia OX=3673 GN=LOC111021215 PE=3 SV=1	Momordica charantia	518	906	51.5	68.2	2.3e-105
+298	TR	A0A251T7H0	Serine/threonine-protein OS=Helianthus annuus OX=4232 GN=CDKC:1 PE=3 SV=1	Helianthus annuus	518	906	50.6	66.0	2.3e-105
+299	TR	A0A9R0Q8G5	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_1Av1G156670 PE=3 SV=1	Triticum turgidum subsp. durum	477	902	51.3	68.9	2.4e-105
+300	TR	A0ACB9EE28	Serine/threonine-protein OS=Arctium lappa OX=4217 GN=L6452_04802 PE=3 SV=1	Arctium lappa	519	906	50.3	66.3	2.4e-105
+301	TR	A0A453GQN6	Serine/threonine-protein OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1	Aegilops tauschii subsp. strangulata	498	904	51.3	68.6	2.4e-105
+302	TR	V7B6K4	Serine/threonine-protein OS=Phaseolus vulgaris OX=3885 GN=PHAVU_008G205500g PE=3 SV=1	Phaseolus vulgaris	520	906	47.1	62.7	2.5e-105
+303	TR	A0A9W7IIN0	Serine/threonine-protein OS=Hibiscus trionum OX=183268 GN=HRI_003246400 PE=3 SV=1	Hibiscus trionum	510	905	47.0	62.7	2.5e-105
+304	TR	V7BJM0	Serine/threonine-protein OS=Phaseolus vulgaris OX=3885 GN=PHAVU_006G020500g PE=3 SV=1	Phaseolus vulgaris	521	906	52.6	67.4	2.5e-105
+305	TR	A0A2R6PR10	Serine/threonine-protein OS=Actinidia chinensis var. chinensis OX=1590841 GN=CEY00_Acc26180 PE=3 SV=1	Actinidia chinensis var. chinensis	521	906	47.6	61.9	2.5e-105
+306	TR	A0A9R0QWB7	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_1Bv1G143240 PE=3 SV=1	Triticum turgidum subsp. durum	501	904	52.1	68.9	2.6e-105
+307	TR	A0A803MFI4	Serine/threonine-protein OS=Chenopodium quinoa OX=63459 GN=LOC110721927 PE=3 SV=1	Chenopodium quinoa	512	905	47.0	62.4	2.7e-105
+308	TR	A0AAV8TUK8	Serine/threonine-protein OS=Erythroxylum novogranatense OX=1862640 GN=K2173_017964 PE=3 SV=1	Erythroxylum novogranatense	512	905	46.6	61.0	2.7e-105
+309	TR	A0A6G1EDM7	Serine/threonine-protein OS=Oryza meyeriana var. granulata OX=110450 GN=E2562_002136 PE=3 SV=1	Oryza meyeriana var. granulata	566	910	42.6	56.2	2.7e-105
+310	TR	A0A9R0QB04	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_1Av1G156670 PE=3 SV=1	Triticum turgidum subsp. durum	503	904	52.1	68.9	2.8e-105
+311	TR	A0A1U8AX38	Serine/threonine-protein OS=Nelumbo nucifera OX=4432 GN=LOC104604960 PE=3 SV=1	Nelumbo nucifera	514	905	51.0	68.4	2.8e-105
+312	TR	A0A7I8J2E8	Serine/threonine-protein OS=Spirodela intermedia OX=51605 GN=SI7747_08010784 PE=3 SV=1	Spirodela intermedia	504	904	52.4	67.9	2.9e-105
+313	TR	A0AAV7GRR3	Serine/threonine-protein OS=Dendrobium chrysotoxum OX=161865 GN=IEQ34_013568 PE=3 SV=1	Dendrobium chrysotoxum	536	907	47.6	63.1	2.9e-105
+314	TR	A0A9R0HRB5	Serine/threonine-protein OS=Spinacia oleracea OX=3562 GN=LOC110775249 PE=3 SV=2	Spinacia oleracea	515	905	46.3	62.9	2.9e-105
+315	TR	A0A8J4QW60	Serine/threonine-protein OS=Castanea mollissima OX=60419 GN=CMV_015046 PE=3 SV=1	Castanea mollissima	516	905	52.4	67.4	3e-105
+316	TR	A0A9W7LUJ0	Serine/threonine-protein OS=Hibiscus trionum OX=183268 GN=HRI_001243300 PE=3 SV=1	Hibiscus trionum	516	905	52.1	67.6	3e-105
+317	TR	A0ACC2B353	Serine/threonine-protein OS=Diphasiastrum complanatum OX=34168 GN=O6H91_18G062600 PE=3 SV=1	Diphasiastrum complanatum	527	906	47.1	62.5	3e-105
+318	TR	A0A2U1N2Y0	Serine/threonine-protein OS=Artemisia annua OX=35608 GN=CTI12_AA316110 PE=3 SV=1	Artemisia annua	506	904	52.1	67.6	3.1e-105
+319	TR	A0A9R1FS91	Serine/threonine-protein OS=Triticum aestivum OX=4565 GN=LOC123072591 PE=3 SV=1	Triticum aestivum	507	904	51.3	68.6	3.2e-105
+320	TR	A0A3B6UAM5	Serine/threonine-protein OS=Triticum aestivum OX=4565 PE=3 SV=1	Triticum aestivum	507	904	51.3	68.6	3.2e-105
+321	TR	A0A3B6ER56	Serine/threonine-protein OS=Triticum aestivum OX=4565 PE=3 SV=1	Triticum aestivum	507	904	51.3	68.6	3.2e-105
+322	TR	A0A9R0RZ66	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Av1G273500 PE=3 SV=1	Triticum turgidum subsp. durum	507	904	51.3	68.6	3.2e-105
+323	TR	A0A9R1QY74	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Bv1G268390 PE=3 SV=1	Triticum turgidum subsp. durum	507	904	51.3	68.6	3.2e-105
+324	TR	A0AAN9RIN0	Serine/threonine-protein OS=Phaseolus coccineus OX=3886 GN=VNO80_06079 PE=3 SV=1	Phaseolus coccineus	518	905	47.1	62.7	3.2e-105
+325	TR	A0ACE9ZXB9	Serine/threonine-protein OS=Corymbia citriodora subsp. variegata OX=360336 GN=BT93_J0430 PE=3 SV=1	Corymbia citriodora subsp. variegata	518	905	51.5	68.5	3.2e-105
+326	TR	A0A6J1HEZ3	Serine/threonine-protein OS=Cucurbita moschata OX=3662 GN=LOC111463361 PE=3 SV=1	Cucurbita moschata	518	905	52.1	68.2	3.2e-105
+327	TR	A0A6J1JPS2	Serine/threonine-protein OS=Cucurbita maxima OX=3661 GN=LOC111487222 PE=3 SV=1	Cucurbita maxima	518	905	52.1	68.2	3.2e-105
+328	SP	Q6I5Y0	Cyclin-dependent kinase C-1 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKC-1 PE=2 SV=1	Oryza sativa subsp. japonica	519	905	45.7	61.2	3.3e-105
+329	TR	A0ACF0A580	Serine/threonine-protein OS=Corymbia citriodora subsp. variegata OX=360336 GN=BT93_I0353 PE=3 SV=1	Corymbia citriodora subsp. variegata	519	905	46.1	61.8	3.3e-105
+330	TR	I1PV98	Serine/threonine-protein OS=Oryza glaberrima OX=4538 GN=LOC127774612 PE=3 SV=1	Oryza glaberrima	519	905	45.7	61.2	3.3e-105
+331	TR	U5D076	Serine/threonine-protein OS=Amborella trichopoda OX=13333 GN=AMTR_s00032p00061960 PE=3 SV=1	Amborella trichopoda	523	905	47.4	62.8	3.7e-105
+332	TR	A0A8T1R2N1	Serine/threonine-protein OS=Carya illinoinensis OX=32201 GN=CIPAW_03G142400 PE=3 SV=1	Carya illinoinensis	513	904	51.8	67.6	3.8e-105
+333	TR	A0A2I4GT09	Serine/threonine-protein OS=Juglans regia OX=51240 GN=LOC109010610 PE=3 SV=1	Juglans regia	514	904	51.8	67.6	3.9e-105
+334	TR	A0AAN9FFW8	Serine/threonine-protein OS=Crotalaria pallida OX=3830 GN=RIF29_15662 PE=3 SV=1	Crotalaria pallida	514	904	47.5	61.9	3.9e-105
+335	TR	A0AAV8SZU4	Serine/threonine-protein OS=Erythroxylum novogranatense OX=1862640 GN=K2173_010853 PE=3 SV=1	Erythroxylum novogranatense	514	904	47.5	61.6	3.9e-105
+336	TR	A0ACE1TYK9	Serine/threonine-protein OS=Prunus brigantina OX=151428 GN=PRUBRI_1G300700 PE=3 SV=1	Prunus brigantina	515	904	47.1	62.6	4e-105
+337	TR	A0ACB9AEC9	Serine/threonine-protein OS=Arctium lappa OX=4217 GN=L6452_26347 PE=3 SV=1	Arctium lappa	569	909	52.1	68.5	4e-105
+338	TR	A0A6P4E012	Serine/threonine-protein OS=Arachis duranensis OX=130453 GN=LOC107496671 PE=3 SV=1	Arachis duranensis	516	904	47.1	63.1	4.1e-105
+339	TR	A0ACH3S3K1	Serine/threonine-protein OS=Arachis hypogaea OX=3818 GN=HN873_021313 PE=3 SV=1	Arachis hypogaea	516	904	47.1	63.1	4.1e-105
+340	TR	A0A444YEH8	Serine/threonine-protein OS=Arachis hypogaea OX=3818 GN=Ahy_B07g088430 PE=3 SV=1	Arachis hypogaea	516	904	47.1	63.1	4.1e-105
+341	TR	A0ACH3NYB0	Serine/threonine-protein OS=Arachis hypogaea OX=3818 GN=HN873_058349 PE=3 SV=1	Arachis hypogaea	516	904	47.1	63.1	4.1e-105
+342	TR	A0A328E9B0	Serine/threonine-protein OS=Cuscuta australis OX=267555 GN=DM860_016306 PE=3 SV=1	Cuscuta australis	517	904	50.7	67.0	4.3e-105
+343	TR	A0A484MXL4	Serine/threonine-protein OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS35388 PE=3 SV=1	Cuscuta campestris	517	904	50.7	67.0	4.3e-105
+344	TR	A0ACB7W8L3	Serine/threonine-protein OS=Dioscorea alata OX=55571 GN=IHE45_05G208700 PE=3 SV=1	Dioscorea alata	519	904	46.9	62.8	4.5e-105
+345	TR	A0AB40BCI6	Serine/threonine-protein OS=Dioscorea cayennensis subsp. rotundata OX=55577 GN=LOC120261272 PE=3 SV=1	Dioscorea cayennensis subsp. rotundata	519	904	46.9	62.8	4.5e-105
+346	TR	A0A0E0DR31	Serine/threonine-protein OS=Oryza meridionalis OX=40149 PE=3 SV=1	Oryza meridionalis	509	903	46.0	61.5	4.6e-105
+347	TR	A0ACC2B1Y5	Serine/threonine-protein OS=Diphasiastrum complanatum OX=34168 GN=O6H91_18G062600 PE=3 SV=1	Diphasiastrum complanatum	545	906	47.1	62.5	5.2e-105
+348	TR	A0ABR2BDA6	Serine/threonine-protein OS=Hibiscus sabdariffa OX=183260 GN=V6N12_073806 PE=3 SV=1	Hibiscus sabdariffa	524	904	47.3	62.9	5.3e-105
+349	TR	A0ABR2QBM2	Serine/threonine-protein OS=Hibiscus sabdariffa OX=183260 GN=V6N11_012504 PE=3 SV=1	Hibiscus sabdariffa	524	904	47.3	62.9	5.3e-105
+350	TR	A0ACB9L9U0	Serine/threonine-protein OS=Bauhinia variegata OX=167791 GN=L6164_029199 PE=3 SV=1	Bauhinia variegata	514	903	52.1	67.6	5.4e-105
+351	TR	A0ACB9IHG7	Serine/threonine-protein OS=Smallanthus sonchifolius OX=185202 GN=L1987_23647 PE=3 SV=1	Smallanthus sonchifolius	557	907	49.5	65.5	5.4e-105
+352	TR	A0A8G0QX21	Serine/threonine-protein OS=Dimocarpus longan OX=128017 GN=Dlo003405 PE=2 SV=1	Dimocarpus longan	525	904	46.6	62.1	5.4e-105
+353	TR	A0AAV9AH42	Serine/threonine-protein OS=Acorus gramineus OX=55184 GN=QJS04_geneDACA011920 PE=3 SV=1	Acorus gramineus	504	902	52.4	68.3	5.4e-105
+354	TR	A0A061G6C8	Serine/threonine-protein OS=Theobroma cacao OX=3641 GN=TCM_016728 PE=3 SV=1	Theobroma cacao	516	903	46.8	62.6	5.7e-105
+355	TR	A0AAW1X7T9	Serine/threonine-protein OS=Rubus argutus OX=59490 GN=M0R45_019801 PE=3 SV=1	Rubus argutus	517	903	51.8	67.9	5.9e-105
+356	TR	A0ACC0J1S2	Serine/threonine-protein OS=Camellia lanceoleosa OX=1840588 GN=LOK49_LG01G02315 PE=3 SV=1	Camellia lanceoleosa	541	905	47.0	62.3	6.3e-105
+357	TR	A0AA36E7F9	Serine/threonine-protein OS=Lactuca saligna OX=75948 GN=LSALG_LOCUS24546 PE=3 SV=1	Lactuca saligna	542	905	47.3	63.0	6.5e-105
+358	TR	A0A3B5YYF5	Serine/threonine-protein OS=Triticum aestivum OX=4565 GN=LOC123131077 PE=3 SV=1	Triticum aestivum	511	902	51.3	68.9	6.7e-105
+359	TR	A0A9R0VB31	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_1Bv1G143240 PE=3 SV=1	Triticum turgidum subsp. durum	511	902	51.3	68.9	6.7e-105
+360	TR	A0A3B5ZVY1	Serine/threonine-protein OS=Triticum aestivum OX=4565 GN=LOC123181876 PE=3 SV=1	Triticum aestivum	512	902	51.3	68.9	6.9e-105
+361	TR	A0A6P6TL64	Serine/threonine-protein OS=Coffea arabica OX=13443 GN=LOC113701728 PE=3 SV=1	Coffea arabica	512	902	50.4	69.0	6.9e-105
+362	TR	A0A452Z0T2	Serine/threonine-protein OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1	Aegilops tauschii subsp. strangulata	512	902	51.3	68.9	6.9e-105
+363	TR	A0ACB7Z7H8	Serine/threonine-protein OS=Vaccinium darrowii OX=229202 GN=Vadar_030584 PE=3 SV=1	Vaccinium darrowii	502	901	46.3	62.0	7.1e-105
+364	TR	A0A8R7K1L4	Serine/threonine-protein OS=Triticum urartu OX=4572 GN=LOC125516305 PE=3 SV=1	Triticum urartu	513	902	51.3	68.9	7.2e-105
+365	TR	A0A3B5Y140	Serine/threonine-protein OS=Triticum aestivum OX=4565 GN=LOC123054333 PE=3 SV=1	Triticum aestivum	513	902	51.3	68.9	7.2e-105
+366	TR	A0A7J7CV45	Serine/threonine-protein OS=Tripterygium wilfordii OX=458696 GN=HS088_TW13G00885 PE=3 SV=1	Tripterygium wilfordii	513	902	51.2	66.5	7.2e-105
+367	TR	A0AAV9CGH8	Serine/threonine-protein OS=Acorus calamus OX=4465 GN=CDKC-1 PE=3 SV=1	Acorus calamus	513	902	51.6	68.1	7.2e-105
+368	TR	A0AAV9ELH8	Serine/threonine-protein OS=Acorus calamus OX=4465 GN=CDKC-1 PE=3 SV=1	Acorus calamus	513	902	51.6	68.1	7.2e-105
+369	TR	A0A9R0Q8Q4	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_1Av1G156670 PE=3 SV=1	Triticum turgidum subsp. durum	513	902	51.3	68.9	7.2e-105
+370	TR	A0ACC2B235	Serine/threonine-protein OS=Diphasiastrum complanatum OX=34168 GN=O6H91_18G062600 PE=3 SV=1	Diphasiastrum complanatum	557	906	47.1	62.5	7.4e-105
+371	TR	A0A067JPR4	Serine/threonine-protein OS=Jatropha curcas OX=180498 GN=JCGZ_25409 PE=3 SV=1	Jatropha curcas	515	902	52.1	67.6	7.6e-105
+372	TR	A0A6J1AHZ5	Serine/threonine-protein OS=Herrania umbratica OX=108875 GN=LOC110418142 PE=3 SV=1	Herrania umbratica	515	902	51.8	67.9	7.6e-105
+373	SP	Q9LFT8	Cyclin-dependent kinase C-1 OS=Arabidopsis thaliana OX=3702 GN=CDKC-1 PE=1 SV=1	Arabidopsis thaliana	505	901	51.8	67.4	7.7e-105
+374	TR	D7M2V3	Serine/threonine-protein OS=Arabidopsis lyrata subsp. lyrata OX=81972 GN=CDKC_1 PE=3 SV=1	Arabidopsis lyrata subsp. lyrata	505	901	51.8	67.4	7.7e-105
+375	TR	A0A8T2CMY3	Serine/threonine-protein OS=Arabidopsis thaliana x Arabidopsis arenosa OX=1240361 GN=ISN45_At05g009270 PE=3 SV=1	Arabidopsis thaliana x Arabidopsis arenosa	505	901	51.8	67.4	7.7e-105
+376	TR	A0A8T2DAS0	Serine/threonine-protein OS=Arabidopsis suecica OX=45249 GN=ISN44_As05g009280 PE=3 SV=1	Arabidopsis suecica	505	901	51.8	67.4	7.7e-105
+377	TR	F2CQH3	Serine/threonine-protein OS=Hordeum vulgare subsp. vulgare OX=112509 PE=2 SV=1	Hordeum vulgare subsp. vulgare	507	901	51.0	68.6	8.2e-105
+378	TR	A0A8I6X9V6	Serine/threonine-protein OS=Hordeum vulgare subsp. vulgare OX=112509 PE=3 SV=1	Hordeum vulgare subsp. vulgare	507	901	51.0	68.6	8.2e-105
+379	TR	A0A9D4V1H5	Serine/threonine-protein OS=Adiantum capillus-veneris OX=13818 GN=GOP47_0007421 PE=3 SV=1	Adiantum capillus-veneris	572	907	47.5	62.1	8.3e-105
+380	TR	A0AAP0NEZ0	Serine/threonine-protein OS=Liquidambar formosana OX=63359 GN=L1049_001883 PE=3 SV=1	Liquidambar formosana	518	902	50.6	67.2	8.3e-105
+381	TR	A0ACB9ETV8	Serine/threonine-protein OS=Smallanthus sonchifolius OX=185202 GN=L1987_52549 PE=3 SV=1	Smallanthus sonchifolius	518	902	50.0	66.3	8.3e-105
+382	TR	A0ABM0T9E0	Serine/threonine-protein OS=Camelina sativa OX=90675 GN=LOC104708074 PE=3 SV=1	Camelina sativa	509	901	51.5	67.4	8.7e-105
+383	TR	A0AAV0D7Q0	Serine/threonine-protein OS=Cuscuta epithymum OX=186058 GN=CEPIT_LOCUS13105 PE=3 SV=1	Cuscuta epithymum	523	902	51.8	67.6	9.7e-105
+384	TR	A0A9P0Z828	Serine/threonine-protein OS=Cuscuta europaea OX=41803 GN=CEURO_LOCUS11079 PE=3 SV=1	Cuscuta europaea	524	902	51.8	67.6	1e-104
+385	TR	A0ACM5JT95	Serine/threonine-protein OS=Corylus avellana OX=13451 GN=LOC132165614 PE=3 SV=1	Corylus avellana	515	901	51.8	67.4	1e-104
+386	TR	A0A0K0KGN1	Serine/threonine-protein OS=Cardamine hirsuta OX=50463 PE=3 SV=1	Cardamine hirsuta	505	900	51.5	67.6	1.1e-104
+387	TR	A0A8T1Z9J9	Serine/threonine-protein OS=Arabidopsis suecica OX=45249 GN=ISN44_As11g009910 PE=3 SV=1	Arabidopsis suecica	505	900	51.5	67.4	1.1e-104
+388	TR	A0A565B669	Serine/threonine-protein OS=Arabis nemorensis OX=586526 GN=ANE_LOCUS7542 PE=3 SV=1	Arabis nemorensis	506	900	52.8	67.8	1.1e-104
+389	TR	A0A8B9B1T3	Serine/threonine-protein OS=Phoenix dactylifera OX=42345 GN=LOC103707911 PE=3 SV=1	Phoenix dactylifera	538	903	46.2	60.8	1.1e-104
+390	TR	A0A0D9ZYP2	Serine/threonine-protein OS=Oryza glumipatula OX=40148 PE=3 SV=1	Oryza glumipatula	519	901	46.2	61.7	1.2e-104
+391	TR	A0ABD1C8B5	Serine/threonine-protein OS=Cardamine amara subsp. amara OX=228776 GN=V5N11_005371 PE=3 SV=1	Cardamine amara subsp. amara	509	900	51.5	67.6	1.2e-104
+392	TR	A0A7I8KU39	Serine/threonine-protein OS=Spirodela intermedia OX=51605 GN=SI8410_08011660 PE=3 SV=1	Spirodela intermedia	552	904	52.4	67.9	1.2e-104
+393	TR	A0ACD5TAJ0	Serine/threonine-protein OS=Avena sativa OX=4498 PE=3 SV=1	Avena sativa	521	901	46.1	63.5	1.3e-104
+394	TR	A0ACC1BE95	Serine/threonine-protein OS=Pistacia atlantica OX=434234 GN=Patl1_27219 PE=3 SV=1	Pistacia atlantica	521	901	51.3	66.6	1.3e-104
+395	TR	A0A6P5RJY6	Serine/threonine-protein OS=Prunus avium OX=42229 GN=LOC110747434 PE=3 SV=1	Prunus avium	502	899	52.1	67.4	1.3e-104
+396	TR	A0A2H5Q4P1	Serine/threonine-protein OS=Citrus unshiu OX=55188 GN=CUMW_195260 PE=3 SV=1	Citrus unshiu	513	900	51.5	67.6	1.4e-104
+397	TR	V4SLA2	Serine/threonine-protein OS=Citrus clementina OX=85681 GN=CICLE_v10025386mg PE=3 SV=1	Citrus clementina	513	900	51.5	67.6	1.4e-104
+398	TR	A0AAD8LE60	Serine/threonine-protein OS=Tagetes erecta OX=13708 GN=QVD17_05317 PE=3 SV=1	Tagetes erecta	556	904	48.3	63.8	1.4e-104
+399	TR	A0AA38G4S8	Serine/threonine-protein OS=Taxus chinensis OX=29808 GN=KI387_023942 PE=3 SV=1	Taxus chinensis	503	899	51.3	67.5	1.4e-104
+400	TR	A0A803PE56	Serine/threonine-protein OS=Cannabis sativa OX=3483 GN=LOC115713009 PE=3 SV=1	Cannabis sativa	503	899	50.9	68.2	1.4e-104
+401	TR	A0ACC2B212	Serine/threonine-protein OS=Diphasiastrum complanatum OX=34168 GN=O6H91_18G062600 PE=3 SV=1	Diphasiastrum complanatum	579	906	47.1	62.5	1.4e-104
+402	TR	A0AA38GAD9	Serine/threonine-protein OS=Taxus chinensis OX=29808 GN=KI387_019513 PE=3 SV=1	Taxus chinensis	507	899	47.1	62.7	1.6e-104
+403	TR	A0AAX6FI62	Serine/threonine-protein OS=Iris pallida OX=29817 GN=M6B38_418510 PE=3 SV=1	Iris pallida	519	900	51.8	68.2	1.6e-104
+404	TR	A0AAV1DNN8	Serine/threonine-protein OS=Oldenlandia corymbosa var. corymbosa OX=529605 GN=OLC1_LOCUS17361 PE=3 SV=1	Oldenlandia corymbosa var. corymbosa	519	900	51.4	67.6	1.6e-104
+405	TR	A0ABR2EK13	Serine/threonine-protein OS=Hibiscus sabdariffa OX=183260 GN=V6N12_010419 PE=3 SV=1	Hibiscus sabdariffa	585	906	52.1	67.6	1.7e-104
+406	TR	A0A6D2IKL5	Serine/threonine-protein OS=Microthlaspi erraticum OX=1685480 GN=MERR_LOCUS14406 PE=3 SV=1	Microthlaspi erraticum	510	899	51.8	67.1	1.7e-104
+407	TR	A0A9Q1MCM0	Serine/threonine-protein OS=Anisodus acutangulus OX=402998 GN=K7X08_002895 PE=3 SV=1	Anisodus acutangulus	511	899	50.1	67.0	1.8e-104
+408	TR	A0A8I6WTU3	Serine/threonine-protein OS=Hordeum vulgare subsp. vulgare OX=112509 GN=LOC123439690 PE=3 SV=1	Hordeum vulgare subsp. vulgare	512	899	51.0	68.9	1.8e-104
+409	TR	A0AAE1XS94	Serine/threonine-protein OS=Sesamum alatum OX=300844 GN=Salat_2539800 PE=3 SV=1	Sesamum alatum	512	899	51.2	68.2	1.8e-104
+410	TR	A0AAP0N4L3	Serine/threonine-protein OS=Citrus x changshan-huyou OX=2935761 GN=WN944_023708 PE=3 SV=1	Citrus x changshan-huyou	513	899	51.5	67.6	1.9e-104
+411	TR	A0ACB8JLJ9	Serine/threonine-protein OS=Citrus sinensis OX=2711 GN=KPL71_022325 PE=3 SV=1	Citrus sinensis	513	899	51.5	67.6	1.9e-104
+412	TR	A0ABD3A936	Serine/threonine-protein OS=Cinchona calisaya OX=153742 GN=ACH5RR_012375 PE=3 SV=1	Cinchona calisaya	515	899	50.7	67.8	2e-104
+413	TR	A0A8T1YUR5	Serine/threonine-protein OS=Arabidopsis thaliana x Arabidopsis arenosa OX=1240361 GN=ISN45_Aa06g009780 PE=3 SV=1	Arabidopsis thaliana x Arabidopsis arenosa	505	898	51.5	67.4	2e-104
+414	TR	A0ACE2DWJ6	Serine/threonine-protein OS=Arabidopsis halleri OX=81970 GN=ARAHAL_6.1372.2 PE=3 SV=1	Arabidopsis halleri	505	898	51.5	67.4	2e-104
+415	TR	A0A3L6STI4	Serine/threonine-protein OS=Panicum miliaceum OX=4540 GN=C2845_PM07G35310 PE=3 SV=1	Panicum miliaceum	516	899	46.6	61.6	2e-104
+416	TR	A0A9D5DAQ3	Serine/threonine-protein OS=Dioscorea zingiberensis OX=325984 GN=J5N97_006764 PE=3 SV=1	Dioscorea zingiberensis	518	899	46.6	62.6	2.2e-104
+417	TR	A0AAX6EVS9	Serine/threonine-protein OS=Iris pallida OX=29817 GN=M6B38_166340 PE=3 SV=1	Iris pallida	519	899	46.9	63.6	2.2e-104
+418	TR	A0ABQ8HN07	Serine/threonine-protein OS=Xanthoceras sorbifolium OX=99658 GN=JRO89_XS08G0006500 PE=3 SV=1	Xanthoceras sorbifolium	541	901	51.0	66.5	2.3e-104
+419	TR	A0A1S3UGW0	Serine/threonine-protein OS=Vigna radiata var. radiata OX=3916 GN=LOC106765235 PE=3 SV=1	Vigna radiata var. radiata	520	899	46.6	62.4	2.3e-104
+420	TR	A0ACB0LQ26	Serine/threonine-protein OS=Trifolium pratense OX=57577 GN=MILVUS5_LOCUS35450 PE=3 SV=1	Trifolium pratense	521	899	52.4	67.4	2.4e-104
+421	TR	A0A6P6T9U9	Serine/threonine-protein OS=Coffea arabica OX=13443 GN=LOC113698800 PE=3 SV=2	Coffea arabica	512	898	50.1	69.0	2.5e-104
+422	TR	A0A068TYS7	Serine/threonine-protein OS=Coffea canephora OX=49390 GN=GSCOC_T00036513001 PE=3 SV=1	Coffea canephora	512	898	50.1	69.0	2.5e-104
+423	TR	A0ABQ7KUD3	Protein kinase domain-containing protein OS=Brassica rapa subsp. trilocularis OX=1813537 GN=A10p034250.1_BraROA PE=3 SV=1	Brassica rapa subsp. trilocularis	513	898	52.2	66.6	2.6e-104
+424	TR	A0A2G5E8R6	Serine/threonine-protein OS=Aquilegia coerulea OX=218851 GN=AQUCO_01000202v1 PE=3 SV=1	Aquilegia coerulea	513	898	51.5	67.6	2.6e-104
+425	TR	A0ABD0UWJ6	Serine/threonine-protein OS=Dendrobium thyrsiflorum OX=117978 GN=M5K25_015034 PE=3 SV=1	Dendrobium thyrsiflorum	601	906	47.6	63.1	2.6e-104
+426	TR	A0A7J6V1P3	Serine/threonine-protein OS=Thalictrum thalictroides OX=46969 GN=FRX31_031507 PE=3 SV=1	Thalictrum thalictroides	514	898	51.5	67.6	2.6e-104
+427	TR	A0A8S0URL0	Serine/threonine-protein OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A042571 PE=3 SV=1	Olea europaea subsp. europaea	363	883	55.4	70.4	2.7e-104
+428	TR	C1MK10	Serine/threonine-protein OS=Micromonas pusilla (strain CCMP1545) OX=564608 GN=CDKC PE=3 SV=1	Micromonas pusilla (strain CCMP1545)	335	880	52.1	70.7	2.7e-104
+429	TR	A0A200PMB3	Serine/threonine-protein OS=Macleaya cordata OX=56857 GN=BVC80_715g41 PE=3 SV=1	Macleaya cordata	506	897	47.2	63.4	2.9e-104
+430	TR	A0A6P5EJ51	Serine/threonine-protein OS=Ananas comosus OX=4615 GN=LOC109706833 PE=3 SV=1	Ananas comosus	518	898	51.6	67.2	3e-104
+431	TR	I1HJV8	Serine/threonine-protein OS=Brachypodium distachyon OX=15368 GN=LOC100836145 PE=3 SV=1	Brachypodium distachyon	519	898	51.0	68.6	3.1e-104
+432	TR	A0A0S3RK59	Serine/threonine-protein OS=Vigna angularis var. angularis OX=157739 GN=Vigan.03G053700 PE=3 SV=1	Vigna angularis var. angularis	520	898	46.6	62.4	3.2e-104
+433	TR	A0A835MVJ1	Serine/threonine-protein OS=Salix dunnii OX=1413687 GN=SADUNF_Sadunf12G0016300 PE=3 SV=1	Salix dunnii	531	899	45.5	60.8	3.2e-104
+434	TR	A0ACB0J3C8	Serine/threonine-protein OS=Trifolium pratense OX=57577 GN=MILVUS5_LOCUS9444 PE=3 SV=1	Trifolium pratense	521	898	52.1	67.4	3.3e-104
+435	TR	A0AAV7ERM2	Serine/threonine-protein OS=Aristolochia fimbriata OX=158543 GN=H6P81_011487 PE=3 SV=1	Aristolochia fimbriata	515	897	51.5	67.9	3.7e-104
+436	TR	W9RY23	Serine/threonine-protein OS=Morus notabilis OX=981085 GN=L484_020243 PE=3 SV=1	Morus notabilis	526	898	45.6	60.9	3.8e-104
+437	TR	A0A5J5BYV6	Serine/threonine-protein OS=Nyssa sinensis OX=561372 GN=F0562_003264 PE=3 SV=1	Nyssa sinensis	516	897	51.8	67.9	3.9e-104
+438	TR	A0A0D9VAH6	Serine/threonine-protein OS=Leersia perrieri OX=77586 PE=3 SV=1	Leersia perrieri	528	898	45.7	60.3	4e-104
+439	TR	A0AAU9MRG0	Serine/threonine-protein OS=Lactuca virosa OX=75947 GN=LVIROSA_LOCUS14262 PE=3 SV=1	Lactuca virosa	551	900	51.5	68.2	4.2e-104
+440	TR	A0ABD3J5L3	Serine/threonine-protein OS=Eucalyptus globulus OX=34317 GN=ACJRO7_034108 PE=3 SV=1	Eucalyptus globulus	520	897	45.9	61.0	4.4e-104
+441	TR	A0ACD5U3J5	Serine/threonine-protein OS=Avena sativa OX=4498 PE=3 SV=1	Avena sativa	520	897	51.0	69.2	4.4e-104
+442	TR	A0ACC3JCS9	Serine/threonine-protein OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_I00437 PE=3 SV=1	Eucalyptus grandis	520	897	45.9	61.0	4.4e-104
+443	TR	A0AAN7Q2Y9	Serine/threonine-protein OS=Trapa incisa OX=236973 GN=SAY87_019480 PE=3 SV=1	Trapa incisa	510	896	46.2	63.0	4.4e-104
+444	TR	A0A9R1VKS7	Serine/threonine-protein OS=Lactuca sativa OX=4236 GN=LSAT_V11C500252170 PE=3 SV=1	Lactuca sativa	500	895	51.9	69.1	4.5e-104
+445	TR	A0A1E5V5J4	Serine/threonine-protein OS=Dichanthelium oligosanthes OX=888268 GN=BAE44_0018643 PE=3 SV=1	Dichanthelium oligosanthes	522	897	46.3	62.3	4.6e-104
+446	TR	A0A4D6MKK9	Serine/threonine-protein OS=Vigna unguiculata OX=3917 GN=DEO72_LG7g2836 PE=3 SV=1	Vigna unguiculata	522	897	46.6	62.4	4.6e-104
+447	TR	A0A314YCA5	Serine/threonine-protein OS=Prunus yedoensis var. nudiflora OX=2094558 GN=Pyn_12488 PE=3 SV=1	Prunus yedoensis var. nudiflora	460	891	55.4	70.4	4.7e-104
+448	TR	A0A2R6RDE9	Serine/threonine-protein OS=Actinidia chinensis var. chinensis OX=1590841 GN=CEY00_Acc07994 PE=3 SV=1	Actinidia chinensis var. chinensis	513	896	51.4	66.3	4.9e-104
+449	TR	A0AAV6IQU0	Serine/threonine-protein OS=Rhododendron griersonianum OX=479676 GN=RHGRI_030005 PE=3 SV=1	Rhododendron griersonianum	503	895	50.4	67.2	4.9e-104
+450	TR	A0A8T2QP11	Serine/threonine-protein OS=Ceratopteris richardii OX=49495 GN=KP509_33G022000 PE=3 SV=1	Ceratopteris richardii	568	901	47.1	60.3	5e-104
+451	TR	A0ACB9A7H8	Serine/threonine-protein OS=Smallanthus sonchifolius OX=185202 GN=L1987_76352 PE=3 SV=1	Smallanthus sonchifolius	504	895	50.6	65.7	5.1e-104
+452	TR	A0A5P1FFB1	Serine/threonine-protein OS=Asparagus officinalis OX=4686 GN=A4U43_C03F18060 PE=3 SV=1	Asparagus officinalis	435	888	47.0	62.7	5.6e-104
+453	TR	A0A0D9WG38	Serine/threonine-protein OS=Leersia perrieri OX=77586 PE=3 SV=1	Leersia perrieri	518	896	45.2	60.9	5.6e-104
+454	TR	A0ABD3CJT8	Serine/threonine-protein OS=Castilleja foliolosa OX=1961234 GN=CDKC1 PE=3 SV=1	Castilleja foliolosa	518	896	50.7	67.4	5.6e-104
+455	TR	A0AAV6LSX7	Serine/threonine-protein (Fragment) OS=Cucurbita argyrosperma subsp. sororia OX=37648 GN=CDKC-1 PE=3 SV=1	Cucurbita argyrosperma subsp. sororia	641	907	51.5	68.2	5.8e-104
+456	TR	A0A8B8PJQ7	Serine/threonine-protein OS=Rhodamnia argentea OX=178133 GN=LOC115744086 PE=3 SV=1	Rhodamnia argentea	520	896	46.2	61.5	6e-104
+457	TR	A0A8X7YKF9	Serine/threonine-protein OS=Populus tomentosa OX=118781 GN=POTOM_042750 PE=3 SV=1	Populus tomentosa	531	897	45.3	60.9	6.1e-104
+458	TR	A0AAN7M989	Serine/threonine-protein OS=Trapa natans OX=22666 GN=SAY86_022520 PE=3 SV=1	Trapa natans	510	895	46.2	63.0	6.1e-104
+459	TR	A0A1E5WD18	Serine/threonine-protein OS=Dichanthelium oligosanthes OX=888268 GN=BAE44_0003852 PE=3 SV=1	Dichanthelium oligosanthes	522	896	46.4	61.9	6.4e-104
+460	TR	A0A9R1WQP3	Serine/threonine-protein OS=Lactuca sativa OX=4236 GN=LSAT_V11C900473480 PE=3 SV=1	Lactuca sativa	522	896	50.0	66.0	6.4e-104
+461	TR	A0AAU9P8N3	Serine/threonine-protein OS=Lactuca virosa OX=75947 GN=LVIROSA_LOCUS32016 PE=3 SV=1	Lactuca virosa	523	896	50.0	66.0	6.6e-104
+462	TR	A0ABY9C9C5	Serine/threonine-protein OS=Vitis vinifera OX=29760 GN=VitviT2T_010664 PE=3 SV=1	Vitis vinifera	513	895	51.2	68.2	6.7e-104
+463	TR	A0A565CK54	Serine/threonine-protein OS=Arabis nemorensis OX=586526 GN=ANE_LOCUS24378 PE=3 SV=1	Arabis nemorensis	503	894	52.1	67.1	6.8e-104
+464	TR	A0AA36A157	Serine/threonine-protein OS=Lactuca saligna OX=75948 GN=LSALG_LOCUS40455 PE=3 SV=1	Lactuca saligna	525	896	50.0	66.0	7e-104
+465	TR	A0A9Q0F2X0	Serine/threonine-protein OS=Turnera subulata OX=218843 GN=CDKC1 PE=3 SV=1	Turnera subulata	504	894	47.8	62.9	7e-104
+466	TR	A0A8X7S5Y1	Serine/threonine-protein OS=Brassica carinata OX=52824 GN=Bca52824_029765 PE=3 SV=1	Brassica carinata	515	895	52.4	66.9	7.1e-104
+467	TR	A0A0A0KWT1	Serine/threonine-protein OS=Cucumis sativus OX=3659 GN=Csa_4G269760 PE=3 SV=1	Cucumis sativus	672	909	51.8	68.2	7.1e-104
+468	TR	A0A087GE81	Serine/threonine-protein OS=Arabis alpina OX=50452 GN=AALP_Aa8g483100 PE=3 SV=1	Arabis alpina	516	895	52.1	67.2	7.3e-104
+469	TR	J3M6T0	Serine/threonine-protein OS=Oryza brachyantha OX=4533 GN=LOC102715663 PE=3 SV=1	Oryza brachyantha	518	895	45.2	60.9	7.8e-104
+470	TR	A0A835UMR9	Serine/threonine-protein OS=Vanilla planifolia OX=51239 GN=HPP92_018823 PE=3 SV=1	Vanilla planifolia	520	895	51.5	67.9	8.2e-104
+471	TR	A0AAQ3MIU4	Serine/threonine-protein OS=Vigna mungo OX=3915 GN=V8G54_037214 PE=3 SV=1	Vigna mungo	510	894	47.1	62.6	8.4e-104
+472	TR	A0A6I9U9D2	Serine/threonine-protein OS=Sesamum indicum OX=4182 GN=LOC105171206 PE=3 SV=1	Sesamum indicum	512	894	50.9	68.2	8.9e-104
+473	TR	R0GRS5	Serine/threonine-protein OS=Capsella rubella OX=81985 GN=CARUB_v10002641mg PE=3 SV=1	Capsella rubella	512	894	51.2	67.4	8.9e-104
+474	TR	A0A1Q3CXB9	Serine/threonine-protein OS=Cephalotus follicularis OX=3775 GN=CFOL_v3_28223 PE=3 SV=1	Cephalotus follicularis	514	894	45.3	61.0	9.5e-104
+475	TR	A0A9W7I2N8	Serine/threonine-protein OS=Hibiscus trionum OX=183268 GN=HRI_002562800 PE=3 SV=1	Hibiscus trionum	514	894	46.6	62.4	9.5e-104
+476	TR	A0A0D9WG39	Serine/threonine-protein OS=Leersia perrieri OX=77586 PE=3 SV=1	Leersia perrieri	537	896	45.2	60.9	9.9e-104
+477	TR	A0A540NSW3	Serine/threonine-protein OS=Malus baccata OX=106549 GN=C1H46_000047 PE=3 SV=1	Malus baccata	530	895	45.5	58.6	1.1e-103
+478	TR	A0A843W3Z3	Serine/threonine-protein OS=Colocasia esculenta OX=4460 GN=Taro_038620 PE=3 SV=1	Colocasia esculenta	670	907	52.4	67.9	1.3e-103
+479	TR	A0A834LEH8	Serine/threonine-protein OS=Rhododendron simsii OX=118357 GN=RHSIM_Rhsim10G0163300 PE=3 SV=1	Rhododendron simsii	503	892	50.1	67.0	1.3e-103
+480	TR	A0ABD1B948	Serine/threonine-protein OS=Cardamine amara subsp. amara OX=228776 GN=V5N11_021890 PE=3 SV=1	Cardamine amara subsp. amara	515	893	46.6	61.8	1.3e-103
+481	TR	A0AAX6ICR6	Serine/threonine-protein OS=Iris pallida OX=29817 GN=M6B38_262870 PE=3 SV=1	Iris pallida	518	893	51.5	67.9	1.5e-103
+482	TR	A0A2K1IMY8	Serine/threonine-protein OS=Physcomitrium patens OX=3218 GN=LOC112275127 PE=3 SV=1	Physcomitrium patens	562	897	50.4	67.1	1.5e-103
+483	TR	A0A072UUI5	Serine/threonine-protein OS=Medicago truncatula OX=3880 GN=MTR_3g040520 PE=3 SV=1	Medicago truncatula	509	892	51.9	67.0	1.5e-103
+484	TR	P93320	Serine/threonine-protein OS=Medicago sativa OX=3879 GN=cdc2MsC PE=2 SV=1	Medicago sativa	509	892	51.9	67.0	1.5e-103
+485	TR	A0ABD2ZZP4	Serine/threonine-protein OS=Cinchona calisaya OX=153742 GN=ACH5RR_013145 PE=3 SV=1	Cinchona calisaya	512	892	45.7	63.3	1.7e-103
+486	TR	A0A165XQM3	Serine/threonine-protein OS=Daucus carota subsp. sativus OX=79200 GN=DCAR_0416724 PE=3 SV=1	Daucus carota subsp. sativus	512	892	45.0	62.0	1.7e-103
+487	TR	A0AAP0IZS6	Serine/threonine-protein OS=Stephania cephalantha OX=152367 GN=Scep_013793 PE=3 SV=1	Stephania cephalantha	513	892	48.1	62.3	1.7e-103
+488	TR	A0A7J0EY73	Serine/threonine-protein OS=Actinidia rufa OX=165716 GN=Acr_07g0015640 PE=3 SV=1	Actinidia rufa	514	892	51.7	66.6	1.8e-103
+489	TR	A0ABD1ILR7	Serine/threonine-protein OS=Salvia divinorum OX=28513 GN=CDKC1 PE=3 SV=1	Salvia divinorum	515	892	49.9	67.4	1.8e-103
+490	TR	A0AA86SRH5	Serine/threonine-protein OS=Sphenostylis stenocarpa OX=92480 GN=AYBTSS11_LOCUS23201 PE=3 SV=1	Sphenostylis stenocarpa	518	892	51.3	67.8	2e-103
+491	TR	A0A4P1R643	Serine/threonine-protein OS=Lupinus angustifolius OX=3871 GN=TanjilG_29567 PE=3 SV=1	Lupinus angustifolius	509	891	51.3	67.6	2.1e-103
+492	TR	A0ACC0YM46	Serine/threonine-protein OS=Pistacia integerrima OX=434235 GN=Pint_26566 PE=3 SV=1	Pistacia integerrima	523	892	50.7	66.1	2.3e-103
+493	TR	A0AAV3NTZ7	Serine/threonine-protein OS=Lithospermum erythrorhizon OX=34254 GN=LIER_03210 PE=3 SV=1	Lithospermum erythrorhizon	502	890	51.2	67.6	2.4e-103
+494	TR	A0AAD4SU72	Serine/threonine-protein OS=Papaver atlanticum OX=357466 GN=MKW98_001304 PE=3 SV=1	Papaver atlanticum	506	890	46.2	62.5	2.7e-103
+495	TR	A0AAW1VNN4	Serine/threonine-protein OS=Rubus argutus OX=59490 GN=M0R45_000701 PE=3 SV=1	Rubus argutus	496	889	49.6	67.8	2.7e-103
+496	TR	A0AAW1YLQ6	Serine/threonine-protein OS=Rubus argutus OX=59490 GN=M0R45_005100 PE=3 SV=1	Rubus argutus	496	889	49.6	67.8	2.7e-103
+497	TR	A0A4Y7IN15	Serine/threonine-protein OS=Papaver somniferum OX=3469 GN=C5167_017560 PE=3 SV=1	Papaver somniferum	507	890	46.2	62.5	2.7e-103
+498	TR	A0A9D5BAY3	Serine/threonine-protein OS=Pisum sativum OX=3888 GN=KIW84_022277 PE=3 SV=1	Pisum sativum	518	891	51.9	67.3	2.8e-103
+499	TR	A0AAV0ZFM0	Serine/threonine-protein OS=Vicia faba OX=3906 GN=VFH_II030120 PE=3 SV=1	Vicia faba	518	891	51.9	67.3	2.8e-103
+500	TR	A0AA41V367	Serine/threonine-protein OS=Papaver nudicaule OX=74823 GN=MKW94_029369 PE=3 SV=1	Papaver nudicaule	508	890	46.2	62.8	2.8e-103
+501	TR	A0ABC8WEF8	Serine/threonine-protein OS=Urochloa decumbens OX=240449 GN=URODEC1_LOCUS12806 PE=3 SV=1	Urochloa decumbens	508	890	50.4	68.6	2.8e-103
+502	TR	A0ABC9GI08	Serine/threonine-protein OS=Urochloa decumbens OX=240449 GN=URODEC1_LOCUS115995 PE=3 SV=1	Urochloa decumbens	508	890	50.4	68.6	2.8e-103
+503	TR	A0A6A1VEI1	Serine/threonine-protein OS=Morella rubra OX=262757 GN=CJ030_MR6G013368 PE=3 SV=1	Morella rubra	519	891	51.5	66.9	2.9e-103
+504	TR	A0ABQ8GX11	Serine/threonine-protein OS=Xanthoceras sorbifolium OX=99658 GN=JRO89_XSUnG0212000 PE=3 SV=1	Xanthoceras sorbifolium	542	893	50.0	64.3	3e-103
+505	TR	A0A9Q1R725	Serine/threonine-protein OS=Anisodus acutangulus OX=402998 GN=K7X08_025295 PE=3 SV=1	Anisodus acutangulus	511	890	51.2	67.5	3.1e-103
+506	TR	A0A0K9PP19	Serine/threonine-protein OS=Zostera marina OX=29655 GN=ZOSMA_201G00030 PE=3 SV=1	Zostera marina	512	890	51.3	66.7	3.2e-103
+507	TR	A0A200R7Z9	Serine/threonine-protein OS=Macleaya cordata OX=56857 GN=BVC80_8805g21 PE=3 SV=1	Macleaya cordata	515	890	47.1	61.9	3.5e-103
+508	TR	A0A072UV62	Serine/threonine-protein OS=Medicago truncatula OX=3880 GN=MTR_3g040810 PE=3 SV=1	Medicago truncatula	517	890	51.6	67.6	3.7e-103
+509	TR	A0A498I141	Serine/threonine-protein OS=Malus domestica OX=3750 GN=DVH24_039286 PE=3 SV=1	Malus domestica	528	891	45.2	58.4	3.7e-103
+510	TR	A0ACC2KDE1	Serine/threonine-protein OS=Persea americana OX=3435 GN=MRB53_015365 PE=3 SV=1	Persea americana	519	890	50.7	68.3	3.9e-103
+511	TR	A0A371FMS1	Serine/threonine-protein (Fragment) OS=Mucuna pruriens OX=157652 GN=CDKC-1 PE=3 SV=1	Mucuna pruriens	530	891	50.7	65.6	4e-103
+512	TR	A0A0E0L229	Serine/threonine-protein OS=Oryza punctata OX=4537 PE=3 SV=1	Oryza punctata	512	889	45.5	60.9	4.4e-103
+513	SP	Q8W4P1	Cyclin-dependent kinase C-2 OS=Arabidopsis thaliana OX=3702 GN=CDKC-2 PE=1 SV=2	Arabidopsis thaliana	513	889	51.8	67.2	4.5e-103
+514	TR	A0A8T2D5U8	Serine/threonine-protein OS=Arabidopsis thaliana x Arabidopsis arenosa OX=1240361 GN=ISN45_At05g061290 PE=3 SV=1	Arabidopsis thaliana x Arabidopsis arenosa	513	889	51.8	67.2	4.5e-103
+515	TR	A0A8T2DSI0	Serine/threonine-protein OS=Arabidopsis suecica OX=45249 GN=ISN44_As05g060530 PE=3 SV=1	Arabidopsis suecica	513	889	51.8	67.2	4.5e-103
+516	TR	A0AA86VZK8	Serine/threonine-protein OS=Sphenostylis stenocarpa OX=92480 GN=AYBTSS11_LOCUS20867 PE=3 SV=1	Sphenostylis stenocarpa	517	889	52.7	66.7	5.1e-103
+517	TR	A0AAD8H6G4	Serine/threonine-protein OS=Heracleum sosnowskyi OX=360622 GN=POM88_046204 PE=3 SV=1	Heracleum sosnowskyi	512	888	45.5	61.7	6e-103
+518	TR	A0A5N6PVB3	Serine/threonine-protein OS=Mikania micrantha OX=192012 GN=E3N88_04752 PE=3 SV=1	Mikania micrantha	671	902	48.6	63.9	6.4e-103
+519	TR	A0A565CX27	Serine/threonine-protein OS=Arabis nemorensis OX=586526 GN=ANE_LOCUS28515 PE=3 SV=1	Arabis nemorensis	514	888	52.1	66.9	6.4e-103
+520	TR	A0A9Q0KBH3	Serine/threonine-protein OS=Protea cynaroides OX=273540 GN=NE237_019322 PE=3 SV=1	Protea cynaroides	515	888	50.9	67.5	6.6e-103
+521	TR	A0AAE1SS51	Serine/threonine-protein OS=Anisodus tanguticus OX=243964 GN=RND71_006546 PE=3 SV=1	Anisodus tanguticus	517	888	45.4	60.9	7e-103
+522	TR	A0ABD1IP35	Serine/threonine-protein OS=Salvia divinorum OX=28513 GN=CDKC1 PE=3 SV=1	Salvia divinorum	517	888	50.0	67.1	7e-103
+523	TR	A0ABC8VLU8	Serine/threonine-protein OS=Urochloa decumbens OX=240449 GN=URODEC1_LOCUS4730 PE=3 SV=1	Urochloa decumbens	508	887	50.4	68.3	7.4e-103
+524	TR	A0A6J0LYM5	Serine/threonine-protein OS=Raphanus sativus OX=3726 GN=LOC108836701 PE=3 SV=1	Raphanus sativus	519	888	47.6	61.4	7.4e-103
+525	TR	A0ACF7YVV0	Serine/threonine-protein OS=Taraxacum kok-saghyz OX=333970 GN=LXL04_035707 PE=3 SV=1	Taraxacum kok-saghyz	544	890	45.5	61.5	8.3e-103
+526	TR	A0ABD2URC6	Serine/threonine-protein OS=Solanum stoloniferum OX=62892 GN=AABB24_007836 PE=3 SV=1	Solanum stoloniferum	512	887	51.5	67.0	8.3e-103
+527	TR	A0AAF0TMJ7	Serine/threonine-protein OS=Solanum verrucosum OX=315347 GN=MTR67_019477 PE=3 SV=1	Solanum verrucosum	512	887	51.5	67.0	8.3e-103
+528	TR	A0ABD2S5V5	Serine/threonine-protein OS=Solanum stoloniferum OX=62892 GN=AABB24_028272 PE=3 SV=1	Solanum stoloniferum	512	887	51.5	67.0	8.3e-103
+529	TR	Q93X47	Serine/threonine-protein OS=Solanum lycopersicum OX=4081 GN=CDKC PE=2 SV=1	Solanum lycopersicum	512	887	51.5	67.0	8.3e-103
+530	TR	A0ABQ7VA80	Serine/threonine-protein OS=Solanum tuberosum OX=4113 GN=KY290_023433 PE=3 SV=1	Solanum tuberosum	512	887	51.5	67.0	8.3e-103
+531	TR	A0AAN8TW92	Serine/threonine-protein OS=Solanum bulbocastanum OX=147425 GN=RDI58_010999 PE=3 SV=1	Solanum bulbocastanum	512	887	51.5	67.0	8.3e-103
+532	TR	A0ABM1GIC0	Serine/threonine-protein OS=Solanum pennellii OX=28526 GN=LOC107015644 PE=3 SV=1	Solanum pennellii	512	887	51.5	67.0	8.3e-103
+533	TR	A0AAV9LAS0	Serine/threonine-protein OS=Solanum pinnatisectum OX=50273 GN=R3W88_012052 PE=3 SV=1	Solanum pinnatisectum	512	887	51.5	67.0	8.3e-103
+534	TR	A0A8X8YP65	Carboxypeptidase C OS=Salvia splendens OX=180675 GN=SASPL_100938 PE=3 SV=1	Salvia splendens	922	920	52.9	68.8	8.7e-103
+535	TR	A0A8X8YX37	Serine/threonine-protein OS=Salvia splendens OX=180675 GN=SASPL_156969 PE=3 SV=1	Salvia splendens	515	887	50.4	67.5	9.1e-103
+536	TR	A0A8X8ZAJ0	Serine/threonine-protein OS=Salvia splendens OX=180675 GN=SASPL_143666 PE=3 SV=1	Salvia splendens	515	887	50.0	67.1	9.1e-103
+537	TR	A0ABQ8B667	Serine/threonine-protein OS=Brassica napus OX=3708 GN=HID58_049854 PE=3 SV=1	Brassica napus	517	887	52.2	67.1	9.6e-103
+538	TR	A0A078H931	Serine/threonine-protein OS=Brassica napus OX=3708 GN=BnaC02g43430D PE=3 SV=1	Brassica napus	517	887	52.2	67.1	9.6e-103
+539	TR	A0AAD6ETH6	Serine/threonine-protein OS=Rhynchospora tenuis OX=198213 GN=LUZ61_004199 PE=3 SV=1	Rhynchospora tenuis	517	887	51.0	67.4	9.6e-103
+540	TR	A0A5N5GWE7	Serine/threonine-protein OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_013329 PE=3 SV=1	Pyrus ussuriensis x Pyrus communis	528	888	49.6	63.5	9.7e-103
+541	TR	A0ABQ7NND9	Serine/threonine-protein OS=Brassica rapa subsp. trilocularis OX=1813537 GN=A02p059380.1_BraROA PE=3 SV=1	Brassica rapa subsp. trilocularis	518	887	52.2	67.1	9.9e-103
+542	TR	M4ESW2	Serine/threonine-protein OS=Brassica campestris OX=3711 PE=3 SV=1	Brassica campestris	518	887	52.2	67.1	9.9e-103
+543	TR	A0A8D9HE83	Serine/threonine-protein OS=Brassica campestris OX=3711 GN=BRAPAZ1V2_A02P51780.2 PE=3 SV=1	Brassica campestris	518	887	52.2	67.1	9.9e-103
+544	TR	A0AAV8HED1	Serine/threonine-protein OS=Rhynchospora pubera OX=906938 GN=LUZ62_026602 PE=3 SV=1	Rhynchospora pubera	518	887	46.4	61.6	9.9e-103
+545	TR	A0AAV8D2C7	Serine/threonine-protein OS=Rhynchospora pubera OX=906938 GN=LUZ62_071931 PE=3 SV=1	Rhynchospora pubera	518	887	46.4	61.6	9.9e-103
+546	TR	A0A8X7RFV9	Serine/threonine-protein OS=Brassica carinata OX=52824 GN=Bca52824_055764 PE=3 SV=1	Brassica carinata	519	887	52.2	67.1	1e-102
+547	TR	A0A0D3AYS1	Serine/threonine-protein OS=Brassica oleracea var. oleracea OX=109376 PE=3 SV=1	Brassica oleracea var. oleracea	519	887	52.2	67.1	1e-102
+548	TR	A0AAD6A178	Serine/threonine-protein OS=Rhynchospora tenuis OX=198213 GN=LUZ61_011389 PE=3 SV=1	Rhynchospora tenuis	520	887	47.1	60.7	1.1e-102
+549	TR	A0A1U8F242	Serine/threonine-protein OS=Capsicum annuum OX=4072 GN=T459_30348 PE=3 SV=1	Capsicum annuum	511	886	51.2	67.3	1.1e-102
+550	TR	A0AA39D3S5	Serine/threonine-protein OS=Vitis rotundifolia OX=103349 GN=PVL29_026569 PE=3 SV=1	Vitis rotundifolia	513	886	50.6	67.6	1.2e-102
+551	TR	A0AA41SHE3	Serine/threonine-protein OS=Papaver nudicaule OX=74823 GN=MKW94_011671 PE=3 SV=1	Papaver nudicaule	516	886	50.7	66.5	1.3e-102
+552	TR	A0AAV8FGL6	Serine/threonine-protein OS=Rhynchospora pubera OX=906938 GN=LUZ62_041432 PE=3 SV=1	Rhynchospora pubera	518	886	51.0	67.4	1.4e-102
+553	TR	A0ACM4CQT1	Serine/threonine-protein OS=Ricinus communis OX=3988 GN=LOC8289067 PE=3 SV=1	Ricinus communis	531	887	45.2	61.5	1.5e-102
+554	TR	A0AAD4XRP6	Serine/threonine-protein OS=Papaver atlanticum OX=357466 GN=MKW98_028012 PE=3 SV=1	Papaver atlanticum	511	885	50.7	66.5	1.5e-102
+555	TR	A0A1U8AX26	Serine/threonine-protein OS=Nelumbo nucifera OX=4432 GN=LOC104604960 PE=3 SV=1	Nelumbo nucifera	522	886	49.9	66.9	1.5e-102
+556	TR	A0A445C475	Serine/threonine-protein OS=Arachis hypogaea OX=3818 GN=Ahy_A07g031534 PE=3 SV=1	Arachis hypogaea	524	886	46.0	61.4	1.6e-102
+557	TR	A0A811RNX0	Serine/threonine-protein OS=Miscanthus lutarioriparius OX=422564 GN=NCGR_LOCUS55519 PE=3 SV=1	Miscanthus lutarioriparius	516	885	46.5	63.7	1.8e-102
+558	TR	A0A835CYI2	Serine/threonine-protein OS=Tetracentron sinense OX=13715 GN=HHK36_030677 PE=3 SV=1	Tetracentron sinense	495	883	49.6	67.2	1.8e-102
+559	TR	A0A7N0T6T0	Serine/threonine-protein OS=Kalanchoe fedtschenkoi OX=63787 PE=3 SV=1	Kalanchoe fedtschenkoi	519	885	45.5	62.2	1.9e-102
+560	TR	A0A0K9PFI6	Serine/threonine-protein OS=Zostera marina OX=29655 GN=ZOSMA_25G00900 PE=3 SV=1	Zostera marina	522	885	50.4	67.7	2.1e-102
+561	TR	A0AAD8U0Z2	Serine/threonine-protein OS=Lolium multiflorum OX=4521 GN=QYE76_013578 PE=3 SV=1	Lolium multiflorum	523	885	45.8	62.7	2.2e-102
+562	TR	A0AAV1QRI2	Serine/threonine-protein OS=Dovyalis caffra OX=77055 GN=DCAF_LOCUS1788 PE=3 SV=1	Dovyalis caffra	534	886	45.8	60.2	2.2e-102
+563	TR	A0A4Y7IGF7	Serine/threonine-protein OS=Papaver somniferum OX=3469 GN=C5167_039750 PE=3 SV=1	Papaver somniferum	513	884	46.6	61.9	2.2e-102
+564	TR	A0AAP0DLN7	Serine/threonine-protein OS=Deinandra increscens subsp. villosa OX=3103831 GN=SSX86_003371 PE=3 SV=1	Deinandra increscens subsp. villosa	590	891	43.6	57.9	2.3e-102
+565	TR	V4KN62	Serine/threonine-protein OS=Eutrema salsugineum OX=72664 GN=EUTSA_v10004018mg PE=3 SV=1	Eutrema salsugineum	514	884	51.5	67.2	2.3e-102
+566	TR	A0AAU9RM22	Serine/threonine-protein OS=Thlaspi arvense OX=13288 GN=TAV2_LOCUS8114 PE=3 SV=1	Thlaspi arvense	515	884	51.5	67.2	2.4e-102
+567	TR	S8CBU6	Serine/threonine-protein (Fragment) OS=Genlisea aurea OX=192259 GN=M569_10366 PE=3 SV=1	Genlisea aurea	383	871	48.8	66.7	2.4e-102
+568	TR	A0A8X8WRA1	Serine/threonine-protein OS=Salvia splendens OX=180675 GN=SASPL_141242 PE=3 SV=1	Salvia splendens	516	884	49.6	67.3	2.4e-102
+569	TR	A0ACE2AMJ6	Uncharacterized protein OS=Musa textilis OX=228183 GN=MTEXT_05.503 PE=3 SV=1	Musa textilis	779	906	46.9	61.9	2.8e-102
+570	TR	A0A078IZZ0	Serine/threonine-protein OS=Brassica napus OX=3708 GN=BnaCnng29900D PE=3 SV=1	Brassica napus	510	883	52.1	66.6	2.8e-102
+571	TR	A0A0D3AB36	Serine/threonine-protein OS=Brassica oleracea var. oleracea OX=109376 PE=3 SV=1	Brassica oleracea var. oleracea	510	883	52.1	66.6	2.8e-102
+572	TR	A0A8X8Z730	Serine/threonine-protein OS=Salvia splendens OX=180675 GN=SASPL_145100 PE=3 SV=1	Salvia splendens	511	883	49.7	67.5	2.9e-102
+573	TR	A0A7J7M1L6	ribonuclease H OS=Kingdonia uniflora OX=39325 GN=GIB67_019350 PE=3 SV=1	Kingdonia uniflora	674	897	51.9	68.7	3.4e-102
+574	TR	A0A7J0GQF9	Serine/threonine-protein OS=Actinidia rufa OX=165716 GN=Acr_23g0014320 PE=3 SV=1	Actinidia rufa	538	885	45.8	59.8	3.4e-102
+575	TR	V4LMC4	Serine/threonine-protein OS=Eutrema salsugineum OX=72664 GN=EUTSA_v10013327mg PE=3 SV=1	Eutrema salsugineum	501	881	51.2	66.3	4e-102
+576	TR	A0ABM0XDH3	Serine/threonine-protein OS=Camelina sativa OX=90675 GN=LOC104762661 PE=3 SV=1	Camelina sativa	513	882	51.5	67.2	4.2e-102
+577	TR	A0ABM0UQ96	Serine/threonine-protein OS=Camelina sativa OX=90675 GN=LOC104727136 PE=3 SV=1	Camelina sativa	514	882	51.5	67.2	4.3e-102
+578	TR	A0A2H5Q4P0	Serine/threonine-protein OS=Citrus unshiu OX=55188 GN=CUMW_195260 PE=3 SV=1	Citrus unshiu	525	883	49.7	65.6	4.4e-102
+579	TR	A0A9Q0CM19	Serine/threonine-protein OS=Rhynchospora breviuscula OX=2022672 GN=LUZ63_004742 PE=3 SV=1	Rhynchospora breviuscula	569	887	51.0	67.4	4.4e-102
+580	TR	M4EHR8	Serine/threonine-protein OS=Brassica campestris OX=3711 PE=3 SV=1	Brassica campestris	508	881	52.1	66.3	5e-102
+581	TR	A0ACE1XMU0	Uncharacterized protein OS=Musa banksii OX=213591 GN=MABAN_05.536 PE=3 SV=1	Musa banksii	780	904	46.8	61.8	5.4e-102
+582	TR	A0AAX6EDD2	Serine/threonine-protein OS=Iris pallida OX=29817 GN=M6B38_192865 PE=3 SV=1	Iris pallida	524	882	46.3	62.8	5.8e-102
+583	TR	A0A833VN81	Cyclin-dependent kinase C-2 isoform X1 OS=Carex littledalei OX=544730 GN=FCM35_KLT06357 PE=3 SV=1	Carex littledalei	524	882	51.2	67.3	5.8e-102
+584	TR	A0A6J0K2X1	Serine/threonine-protein OS=Raphanus sativus OX=3726 GN=LOC108813675 PE=3 SV=1	Raphanus sativus	503	880	51.8	66.6	5.9e-102
+585	TR	C5YXH5	Serine/threonine-protein OS=Sorghum bicolor OX=4558 GN=SORBI_3009G125000 PE=3 SV=1	Sorghum bicolor	516	881	50.1	68.0	6.3e-102
+586	TR	A0ABQ7P0I8	Serine/threonine-protein OS=Brassica rapa subsp. trilocularis OX=1813537 GN=A01p042210.1_BraROA PE=3 SV=1	Brassica rapa subsp. trilocularis	508	880	52.1	66.0	6.8e-102
+587	TR	A0A398AQB1	Serine/threonine-protein OS=Brassica campestris OX=3711 GN=BRAPAZ1V2_A01P34480.2 PE=3 SV=1	Brassica campestris	508	880	52.1	66.0	6.8e-102
+588	TR	A0A8J5LHI9	Serine/threonine-protein OS=Zingiber officinale OX=94328 GN=ZIOFF_022644 PE=3 SV=1	Zingiber officinale	531	882	50.1	66.1	7.2e-102
+589	TR	A0A8J5LJ49	Serine/threonine-protein OS=Zingiber officinale OX=94328 GN=ZIOFF_019210 PE=3 SV=1	Zingiber officinale	531	882	50.1	66.1	7.2e-102
+590	TR	A0ACE2F7M6	Serine/threonine-protein OS=Arabidopsis halleri OX=81970 GN=ARAHAL_8.4449.1 PE=3 SV=1	Arabidopsis halleri	514	880	51.2	66.9	8.2e-102
+591	TR	A0A9R1SAC9	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Bv1G268390 PE=3 SV=1	Triticum turgidum subsp. durum	340	862	53.6	70.1	1e-101
+592	TR	D7MSL7	Serine/threonine-protein OS=Arabidopsis lyrata subsp. lyrata OX=81972 GN=CDKC_2 PE=3 SV=1	Arabidopsis lyrata subsp. lyrata	514	879	51.2	66.9	1.1e-101
+593	TR	A0A6D2JCK9	Serine/threonine-protein OS=Microthlaspi erraticum OX=1685480 GN=MERR_LOCUS21986 PE=3 SV=1	Microthlaspi erraticum	514	879	51.8	66.9	1.1e-101
+594	TR	A0A9R0S000	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Av1G273500 PE=3 SV=1	Triticum turgidum subsp. durum	348	862	53.6	70.1	1.3e-101
+595	TR	A0A5J9VP84	Serine/threonine-protein OS=Eragrostis curvula OX=38414 GN=EJB05_18823 PE=3 SV=1	Eragrostis curvula	521	879	45.6	60.0	1.4e-101
+596	TR	C1FDL3	Serine/threonine-protein OS=Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709) OX=296587 GN=CDKC PE=3 SV=1	Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709)	340	861	51.8	68.9	1.4e-101
+597	TR	A0A2P6RQL1	Serine/threonine-protein OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr2g0113361 PE=3 SV=1	Rosa chinensis	494	876	45.2	61.9	1.6e-101
+598	TR	A0A9Q0L107	Serine/threonine-protein OS=Protea cynaroides OX=273540 GN=NE237_010836 PE=3 SV=1	Protea cynaroides	559	882	51.9	68.1	1.6e-101
+599	TR	A0A8B8KA79	Serine/threonine-protein OS=Abrus precatorius OX=3816 GN=LOC113854043 PE=3 SV=1	Abrus precatorius	516	878	51.8	66.5	1.6e-101
+600	TR	A0A2R6W9B5	Serine/threonine-protein OS=Marchantia polymorpha OX=3197 GN=MARPO_0124s0024 PE=3 SV=1	Marchantia polymorpha	527	879	50.6	64.2	1.7e-101
+601	TR	A0A176WBX0	Serine/threonine-protein OS=Marchantia polymorpha subsp. ruderalis OX=1480154 GN=AXG93_3884s1310 PE=3 SV=1	Marchantia polymorpha subsp. ruderalis	527	879	50.6	64.2	1.7e-101
+602	TR	A0A9R1QXS0	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Bv1G268390 PE=3 SV=1	Triticum turgidum subsp. durum	357	862	53.6	70.1	1.8e-101
+603	TR	A0AAV1DFY7	Serine/threonine-protein OS=Oldenlandia corymbosa var. corymbosa OX=529605 GN=OLC1_LOCUS15122 PE=3 SV=1	Oldenlandia corymbosa var. corymbosa	460	872	47.6	63.2	2e-101
+604	TR	A0A078H362	Serine/threonine-protein OS=Brassica napus OX=3708 GN=BnaA02g34480D PE=3 SV=1	Brassica napus	518	877	51.9	66.8	2.4e-101
+605	TR	A0AAE0C8D4	Serine/threonine-protein OS=Cymbomonas tetramitiformis OX=36881 GN=CYMTET_40962 PE=3 SV=1	Cymbomonas tetramitiformis	817	902	51.6	68.9	2.4e-101
+606	TR	A0A8T1XLL8	Serine/threonine-protein OS=Arabidopsis thaliana x Arabidopsis arenosa OX=1240361 GN=ISN45_Aa08g029410 PE=3 SV=1	Arabidopsis thaliana x Arabidopsis arenosa	514	876	50.9	66.9	2.9e-101
+607	TR	A0A8T1Y875	Serine/threonine-protein OS=Arabidopsis suecica OX=45249 GN=ISN44_As13g029110 PE=3 SV=1	Arabidopsis suecica	514	876	50.9	66.9	2.9e-101
+608	TR	A0A8T0S5H6	Serine/threonine-protein OS=Panicum virgatum OX=38727 GN=PVAP13_5NG637600 PE=3 SV=1	Panicum virgatum	343	859	53.2	69.2	2.9e-101
+609	TR	A0ABC8M4P1	Serine/threonine-protein OS=Eruca vesicaria subsp. sativa OX=29727 GN=ERUC_LOCUS43627 PE=3 SV=1	Eruca vesicaria subsp. sativa	525	877	50.4	65.8	2.9e-101
+610	TR	A0AAV0QBD8	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS42412 PE=3 SV=1	Linum tenue	580	881	44.3	57.5	4.1e-101
+611	TR	A0A4S4EEW7	Serine/threonine-protein OS=Camellia sinensis var. sinensis OX=542762 GN=TEA_014199 PE=3 SV=1	Camellia sinensis var. sinensis	456	869	44.9	59.3	4.6e-101
+612	TR	A0ABP0W9M6	Serine/threonine-protein OS=Sphagnum jensenii OX=128206 GN=CSSPJE1EN1_LOCUS8109 PE=3 SV=1	Sphagnum jensenii	552	878	53.1	68.1	4.7e-101
+613	TR	A9NXN0	Serine/threonine-protein OS=Picea sitchensis OX=3332 PE=2 SV=1	Picea sitchensis	575	880	50.3	68.2	4.8e-101
+614	TR	A0A8J5GL34	Serine/threonine-protein OS=Zingiber officinale OX=94328 GN=ZIOFF_034442 PE=3 SV=1	Zingiber officinale	759	895	43.5	59.9	5.5e-101
+615	TR	A0A0R0EIS5	Serine/threonine-protein OS=Glycine max OX=3847 GN=LOC100793565 PE=3 SV=1	Glycine max	515	874	51.8	66.5	5.7e-101
+616	TR	A0A5A7RE54	Serine/threonine-protein OS=Striga asiatica OX=4170 GN=STAS_32335 PE=3 SV=1	Striga asiatica	466	869	53.0	68.7	6.3e-101
+617	TR	V4MES6	Serine/threonine-protein OS=Eutrema salsugineum OX=72664 GN=EUTSA_v10023419mg PE=3 SV=1	Eutrema salsugineum	499	872	50.0	67.8	6.6e-101
+618	TR	A0A3L6T1Y2	Serine/threonine-protein OS=Panicum miliaceum OX=4540 GN=C2845_PM05G24210 PE=3 SV=1	Panicum miliaceum	501	872	50.9	68.3	7e-101
+619	TR	K8E9U1	Serine/threonine-protein OS=Bathycoccus prasinos OX=41875 GN=Bathy01g03640 PE=3 SV=1	Bathycoccus prasinos	637	884	53.7	70.2	7.6e-101
+620	TR	A0AAV0JW60	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16083 PE=3 SV=1	Linum tenue	473	869	50.9	67.1	7.8e-101
+621	TR	A0AAV0JV29	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16005 PE=3 SV=1	Linum tenue	473	869	50.9	67.1	7.8e-101
+622	TR	A0AAV6WQ71	Serine/threonine-protein OS=Buddleja alternifolia OX=168488 GN=BUALT_Bualt13G0047700 PE=3 SV=1	Buddleja alternifolia	499	871	47.8	63.0	9.1e-101
+623	TR	A0A2G5CP91	Serine/threonine-protein OS=Aquilegia coerulea OX=218851 GN=AQUCO_04200066v1 PE=3 SV=1	Aquilegia coerulea	499	870	50.3	67.7	1.2e-100
+624	TR	A0AAV0JX74	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16005 PE=3 SV=1	Linum tenue	479	868	50.6	67.0	1.3e-100
+625	TR	A0AAV0JWF2	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16083 PE=3 SV=1	Linum tenue	479	868	50.6	67.0	1.3e-100
+626	TR	A0ABP0TV27	Serine/threonine-protein OS=Sphagnum troendelagicum OX=128251 GN=CSSPTR1EN2_LOCUS7995 PE=3 SV=1	Sphagnum troendelagicum	568	876	53.0	68.8	1.4e-100
+627	TR	A0AAV0JYB3	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16005 PE=3 SV=1	Linum tenue	484	868	50.1	66.3	1.5e-100
+628	TR	A0AAV0JVK2	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16083 PE=3 SV=1	Linum tenue	484	868	50.1	66.3	1.5e-100
+629	TR	A0A5J9U6B1	Serine/threonine-protein OS=Eragrostis curvula OX=38414 GN=EJB05_35381 PE=3 SV=1	Eragrostis curvula	516	871	49.9	67.7	1.5e-100
+630	TR	D8RAA9	Serine/threonine-protein OS=Selaginella moellendorffii OX=88036 GN=CDKC1-2 PE=3 SV=1	Selaginella moellendorffii	562	875	44.7	61.3	1.6e-100
+631	TR	A0A8T0R129	Serine/threonine-protein OS=Panicum virgatum OX=38727 GN=PVAP13_6NG250200 PE=3 SV=1	Panicum virgatum	541	873	45.8	61.9	1.7e-100
+632	TR	A0AAE1S9G1	Serine/threonine-protein OS=Anisodus tanguticus OX=243964 GN=RND71_014614 PE=3 SV=1	Anisodus tanguticus	532	872	48.6	64.6	1.8e-100
+633	TR	A0ACB9LGI3	Serine/threonine-protein OS=Bauhinia variegata OX=167791 GN=L6164_031356 PE=3 SV=1	Bauhinia variegata	545	873	43.8	58.5	1.9e-100
+634	TR	A0A4U6VFJ3	Serine/threonine-protein OS=Setaria viridis OX=4556 GN=SEVIR_3G263000v2 PE=3 SV=1	Setaria viridis	514	870	49.6	67.7	2e-100
+635	TR	K3Z5G3	Serine/threonine-protein OS=Setaria italica OX=4555 GN=LOC101753774 PE=3 SV=1	Setaria italica	515	870	49.6	67.7	2e-100
+636	TR	A0A811RZE3	Serine/threonine-protein OS=Miscanthus lutarioriparius OX=422564 GN=NCGR_LOCUS58024 PE=3 SV=1	Miscanthus lutarioriparius	518	870	49.3	67.7	2.2e-100
+637	TR	A0ACB8JM50	Serine/threonine-protein OS=Citrus sinensis OX=2711 GN=KPL71_022325 PE=3 SV=1	Citrus sinensis	508	869	50.9	66.5	2.2e-100
+638	TR	A0ABQ7B8S1	Serine/threonine-protein OS=Brassica cretica OX=69181 GN=DY000_02041683 PE=3 SV=1	Brassica cretica	519	869	51.2	65.6	3.1e-100
+639	TR	A0A2T7EEB5	Serine/threonine-protein OS=Panicum hallii var. hallii OX=1504633 GN=GQ55_3G284800 PE=3 SV=1	Panicum hallii var. hallii	511	868	49.9	67.7	3.4e-100
+640	TR	A0ACB8JLX8	Cyclin-dependent kinase C-1 OS=Citrus sinensis OX=2711 GN=KPL71_022325 PE=3 SV=1	Citrus sinensis	507	867	50.6	66.2	4.1e-100
+641	TR	A0AAW0LRH4	Serine/threonine-protein OS=Quercus suber OX=58331 GN=CDKC-1_2 PE=3 SV=1	Quercus suber	488	865	54.7	68.7	4.4e-100
+642	TR	A0A445H1N5	Serine/threonine-protein OS=Glycine soja OX=3848 GN=D0Y65_037633 PE=3 SV=1	Glycine soja	490	865	52.8	67.7	4.7e-100
+643	TR	A0A5C7IQ74	Serine/threonine-protein OS=Acer yangbiense OX=1000413 GN=EZV62_000116 PE=3 SV=1	Acer yangbiense	556	871	48.6	63.3	4.9e-100
+644	TR	A0A388M4R3	Serine/threonine-protein OS=Chara braunii OX=69332 GN=CBR_g49363 PE=3 SV=1	Chara braunii	493	865	55.8	72.1	5.1e-100
+645	TR	A0ABM3GV85	Serine/threonine-protein OS=Rhodamnia argentea OX=178133 GN=LOC115744086 PE=3 SV=1	Rhodamnia argentea	515	866	45.7	60.5	7.2e-100
+646	TR	A0A8M8UZN1	Serine/threonine-protein OS=Sesamum indicum OX=4182 GN=LOC105170978 PE=3 SV=1	Sesamum indicum	478	862	52.7	68.7	8.4e-100
+647	TR	A0ACM7BTY2	Serine/threonine-protein OS=Elaeis guineensis var. tenera OX=51953 GN=LOC105058415 PE=3 SV=1	Elaeis guineensis var. tenera	469	861	53.5	68.6	8.7e-100
+648	TR	A0AAV2DQ33	Serine/threonine-protein OS=Linum trigynum OX=586398 GN=LTRI10_LOCUS17428 PE=3 SV=1	Linum trigynum	482	862	50.7	66.9	9.5e-100
+649	TR	A0AAV0JXQ7	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16005 PE=3 SV=1	Linum tenue	484	862	50.7	66.9	1e-99
+650	TR	A0AAV0JXN4	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16083 PE=3 SV=1	Linum tenue	484	862	50.7	66.9	1e-99
+651	TR	A0AAE1RTD1	Serine/threonine-protein OS=Anisodus tanguticus OX=243964 GN=RND71_025662 PE=3 SV=1	Anisodus tanguticus	527	866	49.2	64.5	1e-99
+652	TR	A0ABU6U2F2	Cyclin-dependent kinase C-1 OS=Stylosanthes scabra OX=79078 GN=CDKC1_1 PE=3 SV=1	Stylosanthes scabra	507	864	45.8	60.8	1.1e-99
+653	TR	A0A8T0V708	Serine/threonine-protein OS=Panicum virgatum OX=38727 GN=PVAP13_3KG263884 PE=3 SV=1	Panicum virgatum	512	864	49.9	67.4	1.2e-99
+654	TR	A0A103YDY9	Serine/threonine-protein (Fragment) OS=Cynara cardunculus var. scolymus OX=59895 GN=Ccrd_014285 PE=3 SV=1	Cynara cardunculus var. scolymus	504	863	52.3	67.5	1.3e-99
+655	TR	A0A835I1Y8	Serine/threonine-protein OS=Coptis chinensis OX=261450 GN=IFM89_020694 PE=3 SV=1	Coptis chinensis	353	848	53.1	68.7	1.4e-99
+656	TR	A0A453GR00	Serine/threonine-protein OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1	Aegilops tauschii subsp. strangulata	315	843	53.5	70.3	1.9e-99
+657	TR	A0AAV0JYU4	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16083 PE=3 SV=1	Linum tenue	496	861	49.0	64.6	2e-99
+658	TR	A0AAV0JUF7	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16005 PE=3 SV=1	Linum tenue	496	861	49.0	64.6	2e-99
+659	TR	A0A822Z989	Serine/threonine-protein OS=Nelumbo nucifera OX=4432 GN=HUJ06_015456 PE=3 SV=1	Nelumbo nucifera	487	860	53.2	69.6	2.1e-99
+660	TR	A0ACE0KQP1	Serine/threonine-protein OS=Prunus armeniaca OX=36596 GN=ARP2_LOCUS3804 PE=3 SV=1	Prunus armeniaca	503	861	47.1	62.8	2.4e-99
+661	TR	A0A087H8H4	Serine/threonine-protein OS=Arabis alpina OX=50452 GN=AALP_Aa3g111700 PE=3 SV=1	Arabis alpina	494	860	51.8	66.3	2.6e-99
+662	TR	A0ABQ8EF24	Serine/threonine-protein OS=Brassica napus OX=3708 GN=HID58_007767 PE=3 SV=1	Brassica napus	516	862	51.6	66.5	2.6e-99
+663	TR	A0AAV6NU84	Serine/threonine-protein (Fragment) OS=Cucurbita argyrosperma subsp. sororia OX=37648 GN=CSLA9 PE=3 SV=1	Cucurbita argyrosperma subsp. sororia	1109	905	52.1	68.2	2.9e-99
+664	TR	A0A251QZP5	Serine/threonine-protein OS=Prunus persica OX=3760 GN=PRUPE_1G186900 PE=3 SV=1	Prunus persica	503	860	47.4	62.8	3.4e-99
+665	TR	A0A1Y1IDD3	Serine/threonine-protein OS=Klebsormidium nitens OX=105231 GN=KFL_002700170 PE=3 SV=1	Klebsormidium nitens	445	854	51.9	64.5	3.8e-99
+666	TR	A0ACF7PYR8	Serine/threonine-protein OS=Hibiscus cannabinus OX=229543 GN=GQ457_10G009390 PE=3 SV=1	Hibiscus cannabinus	518	858	49.0	64.2	9.9e-99
+667	TR	A0A835FN54	Serine/threonine-protein OS=Digitaria exilis OX=1010633 GN=HU200_008261 PE=3 SV=1	Digitaria exilis	518	858	49.1	66.0	9.9e-99
+668	TR	A0A835C387	Serine/threonine-protein OS=Digitaria exilis OX=1010633 GN=HU200_024643 PE=3 SV=1	Digitaria exilis	520	858	49.0	66.1	1e-98
+669	TR	A0AAN7JG92	Serine/threonine-protein OS=Trapa incisa OX=236973 GN=SAY87_025540 PE=3 SV=1	Trapa incisa	476	853	50.4	65.8	1.4e-98
+670	TR	A0AAD4SL13	Serine/threonine-protein OS=Papaver atlanticum OX=357466 GN=MKW98_012910 PE=3 SV=1	Papaver atlanticum	504	855	51.6	65.3	1.7e-98
+671	TR	A0A2P5DNV3	Serine/threonine-protein OS=Parasponia andersonii OX=3476 GN=PanWU01x14_046750 PE=3 SV=1	Parasponia andersonii	317	836	54.6	69.8	1.9e-98
+672	TR	A0ABQ8EP68	Serine/threonine-protein OS=Brassica napus OX=3708 GN=HID58_002739 PE=3 SV=1	Brassica napus	521	856	50.1	63.5	2e-98
+673	TR	A0A0D2MZU7	Serine/threonine-protein OS=Gossypium raimondii OX=29730 GN=B456_004G175700 PE=3 SV=1	Gossypium raimondii	349	839	54.9	69.8	2.1e-98
+674	TR	A0A9Q0HII5	Serine/threonine-protein OS=Rhynchospora breviuscula OX=2022672 GN=LUZ63_018330 PE=3 SV=1	Rhynchospora breviuscula	502	854	49.1	65.6	2.2e-98
+675	TR	A0A822Y5L6	Serine/threonine-protein OS=Nelumbo nucifera OX=4432 GN=HUJ06_030722 PE=3 SV=1	Nelumbo nucifera	366	840	54.9	70.2	2.6e-98
+676	TR	A0A9R0I716	Serine/threonine-protein OS=Spinacia oleracea OX=3562 GN=LOC110783381 PE=3 SV=1	Spinacia oleracea	509	854	45.0	62.3	2.7e-98
+677	TR	A0A2P5G029	Serine/threonine-protein OS=Trema orientale OX=63057 GN=TorRG33x02_005820 PE=3 SV=1	Trema orientale	331	836	54.6	69.8	3e-98
+678	TR	A0ACC1XX48	Serine/threonine-protein OS=Melia azedarach OX=155640 GN=OWV82_014048 PE=3 SV=1	Melia azedarach	546	857	47.8	62.6	3.1e-98
+679	TR	A0A3Q7G2L3	Serine/threonine-protein OS=Solanum lycopersicum OX=4081 GN=CDKC PE=3 SV=1	Solanum lycopersicum	543	856	47.2	61.4	3.9e-98
+680	TR	A0ABM1GIB9	Serine/threonine-protein OS=Solanum pennellii OX=28526 GN=LOC107015644 PE=3 SV=1	Solanum pennellii	543	856	47.2	61.4	3.9e-98
+681	TR	A0A8T0S9V7	Serine/threonine-protein OS=Panicum virgatum OX=38727 GN=PVAP13_5NG637600 PE=3 SV=1	Panicum virgatum	508	851	46.8	62.2	6.7e-98
+682	TR	A0A0E0FZ19	Serine/threonine-protein OS=Oryza nivara OX=4536 PE=3 SV=1	Oryza nivara	491	849	45.5	60.9	7.6e-98
+683	TR	A0A0E0CD63	Serine/threonine-protein OS=Oryza meridionalis OX=40149 PE=3 SV=1	Oryza meridionalis	491	849	45.5	60.9	7.6e-98
+684	TR	A0A0D3EYV3	Serine/threonine-protein OS=Oryza barthii OX=65489 PE=3 SV=1	Oryza barthii	491	849	45.5	60.9	7.6e-98
+685	TR	A0ABD1T3S7	Serine/threonine-protein OS=Forsythia ovata OX=205694 GN=Fot_31026 PE=3 SV=1	Forsythia ovata	450	844	50.0	64.7	1.1e-97
+686	TR	A0A498K458	Serine/threonine-protein OS=Malus domestica OX=3750 GN=DVH24_000979 PE=3 SV=1	Malus domestica	1685	909	47.6	62.7	2.8e-97
+687	TR	A0A7I4C3M9	Serine/threonine-protein OS=Physcomitrium patens OX=3218 GN=LOC112274494 PE=3 SV=1	Physcomitrium patens	546	850	50.9	68.1	2.8e-97
+688	TR	A0A6A6K6U7	Serine/threonine-protein OS=Hevea brasiliensis OX=3981 GN=GH714_021634 PE=3 SV=1	Hevea brasiliensis	505	845	47.5	62.8	4.1e-97
+689	TR	A0A452Z0U2	Serine/threonine-protein OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1	Aegilops tauschii subsp. strangulata	319	826	51.8	69.0	4.7e-97
+690	TR	W9QZ01	Cyclin-dependent kinase C-1 OS=Morus notabilis OX=981085 GN=L484_022123 PE=3 SV=1	Morus notabilis	492	843	46.0	60.2	5.2e-97
+691	TR	A0A8J5L4D1	Serine/threonine-protein OS=Zingiber officinale OX=94328 GN=ZIOFF_037948 PE=3 SV=1	Zingiber officinale	1259	895	43.5	59.9	5.3e-97
+692	TR	A0AAV6LNR5	Serine/threonine-protein OS=Rhododendron griersonianum OX=479676 GN=RHGRI_002080 PE=3 SV=1	Rhododendron griersonianum	463	840	48.2	62.9	5.6e-97
+693	TR	A0A8T2U8P4	Serine/threonine-protein OS=Ceratopteris richardii OX=49495 GN=KP509_07G031100 PE=3 SV=1	Ceratopteris richardii	476	841	45.6	63.9	6.1e-97
+694	TR	A0A804M365	Serine/threonine-protein OS=Zea mays OX=4577 GN=LOC100279243 PE=1 SV=1	Zea mays	385	832	53.2	69.4	6.2e-97
+695	TR	A0ACG4LAM2	Serine/threonine-protein OS=Helianthus anomalus OX=73274 GN=Hanom_Chr00s006996g01736351 PE=3 SV=1	Helianthus anomalus	475	840	50.8	67.9	8.1e-97
+696	TR	A0A8B8KAC7	Serine/threonine-protein OS=Abrus precatorius OX=3816 GN=LOC113854043 PE=3 SV=1	Abrus precatorius	513	843	50.6	65.7	9.8e-97
+697	TR	A0A6A4LYX5	Serine/threonine-protein (Fragment) OS=Rhododendron williamsianum OX=262921 GN=C3L33_04796 PE=3 SV=1	Rhododendron williamsianum	495	841	45.7	59.2	1.1e-96
+698	TR	A0A1U8AKP0	Serine/threonine-protein OS=Nelumbo nucifera OX=4432 GN=LOC104604960 PE=3 SV=1	Nelumbo nucifera	495	841	51.9	67.8	1.1e-96
+699	TR	A0A2G5CQE3	Serine/threonine-protein OS=Aquilegia coerulea OX=218851 GN=AQUCO_04200066v1 PE=3 SV=1	Aquilegia coerulea	514	842	48.1	64.8	1.4e-96
+700	TR	A0A2G5CP39	Serine/threonine-protein OS=Aquilegia coerulea OX=218851 GN=AQUCO_04200066v1 PE=3 SV=1	Aquilegia coerulea	357	825	52.5	68.8	2.3e-96
+701	TR	A0AAE1KAJ2	Serine/threonine-protein OS=Acacia crassicarpa OX=499986 GN=QN277_025115 PE=3 SV=1	Acacia crassicarpa	524	841	51.0	64.4	2.5e-96
+702	TR	A0AAW1HQ66	Serine/threonine-protein OS=Saponaria officinalis OX=3572 GN=RND81_11G222400 PE=3 SV=1	Saponaria officinalis	471	835	49.9	65.4	3.5e-96
+703	TR	A0A9Q0ZW23	Serine/threonine-protein OS=Salix purpurea OX=77065 GN=OIU79_029821 PE=3 SV=1	Salix purpurea	431	831	46.2	62.3	3.6e-96
+704	TR	A0A9R1R0L9	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Bv1G268390 PE=3 SV=1	Triticum turgidum subsp. durum	329	820	51.3	66.7	4.4e-96
+705	TR	A0A8T2YPH4	Serine/threonine-protein OS=Populus deltoides OX=3696 GN=H0E87_013582 PE=3 SV=1	Populus deltoides	477	834	46.5	63.3	5.7e-96
+706	TR	A0A8R7R8L8	Serine/threonine-protein OS=Triticum urartu OX=4572 PE=3 SV=1	Triticum urartu	361	822	50.3	68.4	6.7e-96
+707	TR	A0A0D2PDN0	Serine/threonine-protein OS=Gossypium raimondii OX=29730 GN=B456_004G175700 PE=3 SV=1	Gossypium raimondii	476	833	46.8	61.6	7.6e-96
+708	TR	A0AAV6LQ47	Serine/threonine-protein OS=Rhododendron griersonianum OX=479676 GN=RHGRI_002080 PE=3 SV=1	Rhododendron griersonianum	477	833	47.2	62.5	7.9e-96
+709	TR	A0AAV5KVZ0	Serine/threonine-protein OS=Rubroshorea leprosula OX=152421 GN=SLEP1_g37842 PE=3 SV=1	Rubroshorea leprosula	380	823	47.7	66.0	9.1e-96
+710	TR	A0A0D3G774	Serine/threonine-protein OS=Oryza barthii OX=65489 PE=3 SV=1	Oryza barthii	391	824	53.4	69.3	9.4e-96
+711	TR	A0AA88UDC1	Serine/threonine-protein (Fragment) OS=Escallonia rubra OX=112253 GN=RJ640_008918 PE=3 SV=1	Escallonia rubra	568	840	41.2	56.9	1.2e-95
+712	TR	A0A251R2E1	Serine/threonine-protein OS=Prunus persica OX=3760 GN=PRUPE_1G186900 PE=3 SV=1	Prunus persica	475	831	46.9	62.3	1.4e-95
+713	TR	A0A5N5MBG6	Serine/threonine-protein OS=Salix brachista OX=2182728 GN=DKX38_008924 PE=3 SV=1	Salix brachista	467	830	47.0	63.2	1.5e-95
+714	TR	A0A6A4P3T9	Serine/threonine-protein OS=Lupinus albus OX=3870 GN=Lalb_Chr17g0347661 PE=3 SV=1	Lupinus albus	467	830	51.1	67.9	1.5e-95
+715	TR	A0A7I4CAA7	Serine/threonine-protein OS=Physcomitrium patens OX=3218 GN=LOC112274494 PE=3 SV=1	Physcomitrium patens	522	835	50.6	68.0	1.6e-95
+716	TR	A0ACF8TQW2	Serine/threonine-protein OS=Zizania latifolia OX=58934 GN=ABZP36_012924 PE=3 SV=1	Zizania latifolia	478	830	44.5	60.7	2.1e-95
+717	TR	A0A067F014	Serine/threonine-protein OS=Citrus sinensis OX=2711 GN=CISIN_1g011627mg PE=3 SV=1	Citrus sinensis	481	830	50.8	67.4	2.3e-95
+718	TR	A0AAV9BPU1	Cyclin-dependent kinase C-2 OS=Acorus gramineus OX=55184 GN=QJS04_geneDACA019665 PE=3 SV=1	Acorus gramineus	497	831	44.2	59.1	2.7e-95
+719	TR	A0A2P5BFW4	Serine/threonine-protein OS=Parasponia andersonii OX=3476 GN=PanWU01x14_242930 PE=3 SV=1	Parasponia andersonii	504	831	48.8	64.7	3.3e-95
+720	TR	A0AAE1WIW5	Serine/threonine-protein OS=Sesamum angolense OX=2727404 GN=Sango_1891500 PE=3 SV=1	Sesamum angolense	518	832	50.6	68.1	3.6e-95
+721	TR	A0ACN2EDL5	Uncharacterized protein OS=Paspalum vaginatum OX=158149 GN=BS78_09G131400 PE=4 SV=1	Paspalum vaginatum	429	823	48.4	64.2	4.3e-95
+722	TR	A0AAN7JGT3	Serine/threonine-protein OS=Trapa incisa OX=236973 GN=SAY87_025541 PE=3 SV=1	Trapa incisa	512	829	49.0	64.1	7.8e-95
+723	TR	A0AAN7R5Y0	Serine/threonine-protein OS=Trapa natans OX=22666 GN=SAY86_019825 PE=3 SV=1	Trapa natans	512	829	49.0	64.1	7.8e-95
+724	TR	A0A4P1R7N6	Serine/threonine-protein OS=Lupinus angustifolius OX=3871 GN=TanjilG_00730 PE=3 SV=1	Lupinus angustifolius	452	823	54.0	70.9	8.7e-95
+725	TR	A0AAV5DVQ2	Serine/threonine-protein OS=Eleusine coracana subsp. coracana OX=191504 GN=gb01140 PE=3 SV=1	Eleusine coracana subsp. coracana	505	828	53.5	69.4	8.7e-95
+726	TR	A0ABM3KT56	Serine/threonine-protein OS=Cucumis melo OX=3656 GN=LOC103491610 PE=3 SV=1	Cucumis melo	474	825	50.8	67.9	9e-95
+727	TR	K3XHB0	Serine/threonine-protein OS=Setaria italica OX=4555 PE=3 SV=1	Setaria italica	475	825	46.0	61.5	9.2e-95
+728	TR	A0ACG4TA86	Serine/threonine-protein OS=Helianthus anomalus OX=73274 GN=Hanom_Chr11g00971141 PE=3 SV=1	Helianthus anomalus	486	826	51.8	67.4	9.4e-95
+729	TR	A0A2G5CP69	Serine/threonine-protein OS=Aquilegia coerulea OX=218851 GN=AQUCO_04200066v1 PE=3 SV=1	Aquilegia coerulea	478	825	52.5	68.8	1e-94
+730	TR	A0ACC2B1Z9	Serine/threonine-protein OS=Diphasiastrum complanatum OX=34168 GN=O6H91_18G062600 PE=3 SV=1	Diphasiastrum complanatum	533	830	44.9	59.9	1e-94
+731	TR	A0AAV0Q9L6	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS42414 PE=3 SV=1	Linum tenue	282	805	57.1	71.3	1.1e-94
+732	TR	A0AAV0JUZ0	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16083 PE=3 SV=1	Linum tenue	472	824	49.4	65.6	1.2e-94
+733	TR	A0A1R3J4Z1	Serine/threonine-protein OS=Corchorus olitorius OX=93759 GN=COLO4_19526 PE=3 SV=1	Corchorus olitorius	515	828	48.8	65.3	1.2e-94
+734	TR	A0A830CXM0	Serine/threonine-protein OS=Phtheirospermum japonicum OX=374723 GN=PHJA_002520800 PE=3 SV=1	Phtheirospermum japonicum	497	826	49.0	64.2	1.3e-94
+735	TR	A0ACC0XP95	Serine/threonine-protein OS=Pistacia integerrima OX=434235 GN=Pint_31581 PE=3 SV=1	Pistacia integerrima	337	810	53.2	68.0	1.4e-94
+736	TR	A0ACC0Q7G8	Serine/threonine-protein OS=Rhododendron molle OX=49168 GN=RHMOL_Rhmol01G0267900 PE=3 SV=1	Rhododendron molle	483	824	46.6	61.8	1.6e-94
+737	TR	A0A2I0JNI0	Serine/threonine-protein OS=Punica granatum OX=22663 GN=CRG98_021886 PE=3 SV=1	Punica granatum	511	826	45.3	60.4	2e-94
+738	TR	A0A0R0E7X8	Serine/threonine-protein OS=Glycine max OX=3847 GN=LOC100793565 PE=3 SV=1	Glycine max	480	823	51.7	67.3	2e-94
+739	TR	A0AAV0JVN6	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16005 PE=3 SV=1	Linum tenue	472	822	49.1	65.6	2.2e-94
+740	TR	A0A5N6QFI9	Serine/threonine-protein OS=Carpinus fangiana OX=176857 GN=FH972_002654 PE=3 SV=1	Carpinus fangiana	472	822	45.8	61.5	2.2e-94
+741	TR	A0A2I4FS58	Serine/threonine-protein OS=Juglans regia OX=51240 GN=LOC109001584 PE=3 SV=1	Juglans regia	476	822	51.1	67.3	2.4e-94
+742	TR	A0ACE9ZX39	Serine/threonine-protein OS=Corymbia citriodora subsp. variegata OX=360336 GN=BT93_J0430 PE=3 SV=1	Corymbia citriodora subsp. variegata	478	821	50.5	68.3	3.6e-94
+743	TR	A0AB40BEJ5	Serine/threonine-protein OS=Dioscorea cayennensis subsp. rotundata OX=55577 GN=LOC120261272 PE=3 SV=1	Dioscorea cayennensis subsp. rotundata	479	820	45.7	62.2	5e-94
+744	TR	A0A067EZ97	Serine/threonine-protein OS=Citrus sinensis OX=2711 GN=CISIN_1g011627mg PE=3 SV=1	Citrus sinensis	472	819	50.8	67.3	5.6e-94
+745	TR	A0A5C7HUU7	Serine/threonine-protein OS=Acer yangbiense OX=1000413 GN=EZV62_015238 PE=3 SV=1	Acer yangbiense	475	819	51.8	67.6	6.1e-94
+746	TR	A0ACC2B1U3	Serine/threonine-protein OS=Diphasiastrum complanatum OX=34168 GN=O6H91_18G062600 PE=3 SV=1	Diphasiastrum complanatum	513	822	46.0	61.9	7.3e-94
+747	TR	A0A3L6PNZ3	Serine/threonine-protein OS=Panicum miliaceum OX=4540 GN=C2845_PM14G12390 PE=3 SV=1	Panicum miliaceum	476	818	45.7	60.9	8.6e-94
+748	TR	A0A9D4YE06	Serine/threonine-protein OS=Pisum sativum OX=3888 GN=KIW84_022277 PE=3 SV=1	Pisum sativum	478	818	51.1	67.0	9.2e-94
+749	TR	A0ACC0M5R8	Serine/threonine-protein OS=Rhododendron molle OX=49168 GN=RHMOL_Rhmol10G0241700 PE=3 SV=1	Rhododendron molle	489	818	50.5	67.1	1.3e-93
+750	TR	A0AAQ3UU73	Serine/threonine-protein OS=Paspalum notatum var. saurae OX=547442 GN=U9M48_043812 PE=3 SV=1	Paspalum notatum var. saurae	382	807	48.4	63.6	1.5e-93
+751	TR	A0A2G5CP37	Serine/threonine-protein OS=Aquilegia coerulea OX=218851 GN=AQUCO_04200066v1 PE=3 SV=1	Aquilegia coerulea	307	799	52.9	68.9	1.6e-93
+752	TR	A0AAD8H8T5	Serine/threonine-protein OS=Heracleum sosnowskyi OX=360622 GN=POM88_046212 PE=3 SV=1	Heracleum sosnowskyi	346	803	48.8	65.0	1.7e-93
+753	TR	A0A5N5KMP4	Serine/threonine-protein OS=Salix brachista OX=2182728 GN=DKX38_018309 PE=3 SV=1	Salix brachista	644	830	44.6	60.2	2.2e-93
+754	TR	A0ABQ8BHU9	Serine/threonine-protein OS=Brassica napus OX=3708 GN=HID58_043304 PE=3 SV=1	Brassica napus	556	821	46.2	59.3	3.4e-93
+755	TR	I0YWK2	Serine/threonine-protein OS=Coccomyxa subellipsoidea (strain C-169) OX=574566 GN=COCSUDRAFT_36844 PE=3 SV=1	Coccomyxa subellipsoidea (strain C-169)	502	816	49.2	65.2	3.5e-93
+756	TR	A0ABC8J6C6	Serine/threonine-protein OS=Eruca vesicaria subsp. sativa OX=29727 GN=ERUC_LOCUS6618 PE=3 SV=1	Eruca vesicaria subsp. sativa	557	821	45.7	59.2	3.5e-93
+757	TR	A0A803KSJ5	Serine/threonine-protein OS=Chenopodium quinoa OX=63459 GN=LOC110718243 PE=3 SV=1	Chenopodium quinoa	506	816	48.5	64.9	3.9e-93
+758	TR	A0A9R0VUI5	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Av1G273500 PE=3 SV=1	Triticum turgidum subsp. durum	294	794	54.5	71.3	5.1e-93
+759	TR	A0A3G6IQK6	Serine/threonine-protein OS=Vaccinium corymbosum OX=69266 GN=CDKC1L PE=2 SV=1	Vaccinium corymbosum	462	810	50.5	67.6	7e-93
+760	TR	A0A9R1S9X1	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Bv1G268390 PE=3 SV=1	Triticum turgidum subsp. durum	306	794	54.5	71.3	7.6e-93
+761	TR	A0A803KXP0	Serine/threonine-protein OS=Chenopodium quinoa OX=63459 GN=LOC110682214 PE=3 SV=1	Chenopodium quinoa	506	813	48.8	64.6	1e-92
+762	TR	A0A484L1H5	Serine/threonine-protein OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS11914 PE=3 SV=1	Cuscuta campestris	297	792	53.7	69.1	1.1e-92
+763	TR	A0A445F0R6	Cyclin-dependent kinase C-2 OS=Glycine soja OX=3848 GN=D0Y65_053130 PE=3 SV=1	Glycine soja	370	799	53.5	66.4	1.3e-92
+764	TR	A0A453GQN5	Serine/threonine-protein OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=2	Aegilops tauschii subsp. strangulata	324	794	54.5	71.3	1.4e-92
+765	TR	A0ACE1SHY3	Serine/threonine-protein OS=Coccomyxa elongata OX=1965095 GN=g10312 PE=3 SV=1	Coccomyxa elongata	594	819	49.5	68.2	1.8e-92
+766	TR	S8E7T6	Serine/threonine-protein (Fragment) OS=Genlisea aurea OX=192259 GN=M569_02860 PE=3 SV=1	Genlisea aurea	302	790	53.7	69.1	2.3e-92
+767	TR	A0AA88DXG5	Serine/threonine-protein OS=Ficus carica OX=3494 GN=TIFTF001_032581 PE=3 SV=1	Ficus carica	502	809	44.8	59.6	3.1e-92
+768	TR	A0AA88V3Q6	Protein kinase domain-containing protein OS=Escallonia herrerae OX=1293975 GN=RJ639_020719 PE=3 SV=1	Escallonia herrerae	643	820	40.4	55.3	4.8e-92
+769	TR	A0AAV6XS88	Serine/threonine-protein OS=Buddleja alternifolia OX=168488 GN=BUALT_Bualt04G0023300 PE=3 SV=1	Buddleja alternifolia	394	797	47.2	62.6	5.1e-92
+770	TR	A0ABR0W910	Serine/threonine-protein OS=Rehmannia glutinosa OX=99300 GN=DH2020_020957 PE=3 SV=1	Rehmannia glutinosa	564	813	56.2	71.7	5.2e-92
+771	TR	A0ABM3RMF0	Serine/threonine-protein OS=Spinacia oleracea OX=3562 GN=LOC110793579 PE=3 SV=1	Spinacia oleracea	499	807	47.6	64.7	5.4e-92
+772	TR	A0A8X7RXE1	Serine/threonine-protein OS=Brassica carinata OX=52824 GN=Bca52824_040198 PE=3 SV=1	Brassica carinata	501	807	48.4	64.7	5.7e-92
+773	TR	A0A9Q1KPE9	Serine/threonine-protein OS=Carnegiea gigantea OX=171969 GN=Cgig2_002812 PE=3 SV=1	Carnegiea gigantea	513	807	49.6	63.8	8.1e-92
+774	TR	A0ABD3UMC7	Serine/threonine-protein OS=Penstemon smallii OX=265156 GN=ACJIZ3_012097 PE=3 SV=1	Penstemon smallii	619	815	48.8	64.7	1.2e-91
+775	TR	A0AAW1S9U3	Serine/threonine-protein OS=Elliptochloris bilobata OX=381761 GN=WJX81_008632 PE=3 SV=1	Elliptochloris bilobata	502	804	50.0	64.6	1.5e-91
+776	TR	A0A1R3I6F1	Serine/threonine-protein OS=Corchorus capsularis OX=210143 GN=CCACVL1_14610 PE=3 SV=1	Corchorus capsularis	513	805	48.2	64.4	1.5e-91
+777	TR	A0AAV0JY62	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16083 PE=3 SV=1	Linum tenue	452	798	49.7	66.4	2.3e-91
+778	TR	A0AAV0JVY0	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS16005 PE=3 SV=1	Linum tenue	452	798	49.7	66.4	2.3e-91
+779	TR	V4MJ20	Serine/threonine-protein OS=Eutrema salsugineum OX=72664 GN=EUTSA_v10004018mg PE=3 SV=1	Eutrema salsugineum	473	800	50.5	66.8	2.3e-91
+780	TR	A0A804UI53	Serine/threonine-protein OS=Zea mays OX=4577 PE=3 SV=2	Zea mays	401	793	46.5	62.2	2.3e-91
+781	TR	A0AAV5BRU5	Serine/threonine-protein OS=Eleusine coracana subsp. coracana OX=191504 GN=ga04542 PE=3 SV=1	Eleusine coracana subsp. coracana	492	801	44.9	59.2	2.9e-91
+782	TR	A0A8K0E2H4	Serine/threonine-protein OS=Rhamnella rubrinervis OX=2594499 GN=FNV43_RR19352 PE=3 SV=1	Rhamnella rubrinervis	518	803	46.3	61.5	3.3e-91
+783	TR	A0AAN8VA39	Serine/threonine-protein (Fragment) OS=Dillenia turbinata OX=194707 GN=RJ641_011701 PE=3 SV=1	Dillenia turbinata	485	796	48.3	65.8	1.1e-90
+784	TR	A0A5N6PTV5	Serine/threonine-protein OS=Mikania micrantha OX=192012 GN=E3N88_07521 PE=3 SV=1	Mikania micrantha	481	795	50.3	66.5	1.4e-90
+785	TR	A0A5N6PT96	Serine/threonine-protein OS=Mikania micrantha OX=192012 GN=E3N88_07562 PE=3 SV=1	Mikania micrantha	481	795	50.3	66.5	1.4e-90
+786	TR	A0A7J7LYL3	Protein kinase domain-containing protein OS=Kingdonia uniflora OX=39325 GN=GIB67_003036 PE=3 SV=1	Kingdonia uniflora	513	796	48.2	64.5	2.5e-90
+787	TR	A0A8S2BAE5	Serine/threonine-protein OS=Arabidopsis arenosa OX=38785 GN=AARE701A_LOCUS22409 PE=3 SV=1	Arabidopsis arenosa	473	792	49.8	66.5	2.8e-90
+788	TR	A0AAV1I788	Serine/threonine-protein OS=Coccomyxa viridis OX=1274662 GN=CVIRNUC_005936 PE=3 SV=1	Coccomyxa viridis	565	799	41.8	57.0	4.2e-90
+789	TR	A0AAP0P6A2	Serine/threonine-protein OS=Stephania yunnanensis OX=152371 GN=Syun_017868 PE=3 SV=1	Stephania yunnanensis	499	793	53.3	68.0	4.3e-90
+790	TR	A0ABR2YFD1	Serine/threonine-protein OS=Coccomyxa subellipsoidea OX=248742 GN=WJX75_004762 PE=3 SV=1	Coccomyxa subellipsoidea	567	799	45.5	63.0	4.5e-90
+791	TR	A0ABR0DSW6	Serine/threonine-protein OS=Penstemon davidsonii OX=160366 GN=RD792_003118 PE=3 SV=1	Penstemon davidsonii	656	805	48.2	63.2	7.1e-90
+792	TR	A0ABC8W0E6	Serine/threonine-protein OS=Urochloa decumbens OX=240449 GN=URODEC1_LOCUS8758 PE=3 SV=1	Urochloa decumbens	485	790	47.2	64.5	7.3e-90
+793	TR	A0A5A7QX03	Serine/threonine-protein OS=Striga asiatica OX=4170 GN=STAS_26862 PE=3 SV=1	Striga asiatica	468	787	47.8	62.9	1.1e-89
+794	TR	A0AAV5C1Q7	Serine/threonine-protein OS=Eleusine coracana subsp. coracana OX=191504 GN=ga08252 PE=3 SV=1	Eleusine coracana subsp. coracana	526	792	48.0	64.6	1.3e-89
+795	TR	A0A6A3CJI6	Serine/threonine-protein OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00005459pilonHSYRG00089 PE=3 SV=1	Hibiscus syriacus	975	825	45.3	60.2	1.3e-89
+796	TR	A0A8X8AZK6	Serine/threonine-protein OS=Brassica carinata OX=52824 GN=Bca52824_020427 PE=3 SV=1	Brassica carinata	507	789	54.5	67.8	1.9e-89
+797	TR	A0A388KVX2	Serine/threonine-protein OS=Chara braunii OX=69332 GN=CBR_g17928 PE=3 SV=1	Chara braunii	496	785	49.8	68.6	4.8e-89
+798	TR	A0ABQ8D127	Serine/threonine-protein OS=Brassica napus OX=3708 GN=HID58_023075 PE=3 SV=1	Brassica napus	407	774	43.3	60.5	1.1e-88
+799	TR	A0AA38SRQ8	Serine/threonine-protein OS=Centaurea solstitialis OX=347529 GN=OSB04_029816 PE=3 SV=1	Centaurea solstitialis	429	775	48.5	64.1	1.5e-88
+800	TR	A0AA39SJE9	Serine/threonine-protein OS=Acer saccharum OX=4024 GN=LWI29_031335 PE=3 SV=1	Acer saccharum	576	788	48.6	65.1	1.8e-88
+801	TR	A0A835K4Z0	Serine/threonine-protein OS=Salix dunnii OX=1413687 GN=SADUNF_Sadunf06G0016900 PE=3 SV=1	Salix dunnii	450	776	46.0	62.1	2.1e-88
+802	TR	A0A3P5Z389	Serine/threonine-protein OS=Brassica campestris OX=3711 GN=BRAPAZ1V2_A06P38910.2 PE=3 SV=1	Brassica campestris	393	768	46.1	63.7	4.5e-88
+803	TR	A0A3B6FY29	Serine/threonine-protein OS=Triticum aestivum OX=4565 GN=LOC123072591 PE=3 SV=1	Triticum aestivum	500	778	45.6	61.9	4.8e-88
+804	TR	A0A9R1S920	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Bv1G268390 PE=3 SV=1	Triticum turgidum subsp. durum	500	778	45.6	61.9	4.8e-88
+805	TR	M4E6D7	Serine/threonine-protein OS=Brassica campestris OX=3711 PE=3 SV=1	Brassica campestris	398	768	46.1	63.7	5.2e-88
+806	TR	A0AAW1R7N9	Serine/threonine-protein OS=[Myrmecia] bisecta OX=41462 GN=WJX72_008122 PE=3 SV=1	[Myrmecia] bisecta	557	782	46.7	65.5	6.8e-88
+807	TR	A0ACN2EDJ1	Uncharacterized protein OS=Paspalum vaginatum OX=158149 GN=BS78_09G131400 PE=4 SV=1	Paspalum vaginatum	421	769	46.6	62.2	7.7e-88
+808	TR	A0ABR2U0S2	Serine/threonine-protein OS=Hibiscus sabdariffa OX=183260 GN=V6N11_071552 PE=3 SV=1	Hibiscus sabdariffa	443	768	50.2	66.2	2.1e-87
+809	TR	A0A078F2U1	Serine/threonine-protein OS=Brassica napus OX=3708 GN=BnaA06g23890D PE=3 SV=1	Brassica napus	428	764	42.6	59.2	4.6e-87
+810	TR	A0A078FN89	Serine/threonine-protein OS=Brassica napus OX=3708 GN=BnaC03g49330D PE=3 SV=1	Brassica napus	718	787	47.6	64.3	8.2e-87
+811	TR	A0ABQ8AIQ7	Serine/threonine-protein OS=Brassica napus OX=3708 GN=HID58_054865 PE=3 SV=1	Brassica napus	718	787	47.6	64.3	8.2e-87
+812	TR	A0ABQ7M7N6	Serine/threonine-protein OS=Brassica rapa subsp. trilocularis OX=1813537 GN=A06p039060.1_BraROA PE=3 SV=1	Brassica rapa subsp. trilocularis	483	766	46.4	63.4	1.2e-86
+813	TR	A0AA88WBB5	Serine/threonine-protein OS=Escallonia herrerae OX=1293975 GN=RJ639_044302 PE=3 SV=1	Escallonia herrerae	308	748	48.4	62.0	1.5e-86
+814	TR	A0A565CWE9	Serine/threonine-protein OS=Arabis nemorensis OX=586526 GN=ANE_LOCUS28514 PE=3 SV=1	Arabis nemorensis	349	752	50.3	63.7	1.7e-86
+815	TR	A0ABP1FPU8	Serine/threonine-protein OS=Coccomyxa viridis OX=1274662 GN=g2134 PE=3 SV=1	Coccomyxa viridis	561	772	45.5	60.7	1.7e-86
+816	TR	A0A7J6V8M6	Serine/threonine-protein OS=Thalictrum thalictroides OX=46969 GN=FRX31_029007 PE=3 SV=1	Thalictrum thalictroides	464	761	48.4	65.9	3.4e-86
+817	TR	A0A8T2QPA2	Serine/threonine-protein OS=Ceratopteris richardii OX=49495 GN=KP509_33G022000 PE=3 SV=1	Ceratopteris richardii	511	765	45.6	58.6	3.8e-86
+818	TR	A0A7J6FIS3	Serine/threonine-protein OS=Cannabis sativa OX=3483 GN=G4B88_023248 PE=3 SV=1	Cannabis sativa	479	761	45.3	61.8	5.2e-86
+819	TR	A0AAX6FEH0	Serine/threonine-protein OS=Iris pallida OX=29817 GN=M6B38_137715 PE=3 SV=1	Iris pallida	513	764	45.4	61.1	5.4e-86
+820	TR	D8QYU8	Serine/threonine-protein OS=Selaginella moellendorffii OX=88036 GN=CDKC1-1 PE=3 SV=1	Selaginella moellendorffii	531	764	42.8	59.0	8.9e-86
+821	TR	A0A8K0ISV5	Serine/threonine-protein OS=Cocos nucifera OX=13894 GN=COCNU_13G003050 PE=3 SV=1	Cocos nucifera	1311	808	54.8	69.6	1.5e-85
+822	TR	A0A8T0SD17	Serine/threonine-protein OS=Panicum virgatum OX=38727 GN=PVAP13_5NG637600 PE=3 SV=1	Panicum virgatum	475	757	45.6	60.4	1.6e-85
+823	TR	A0A9D4V814	Serine/threonine-protein OS=Adiantum capillus-veneris OX=13818 GN=GOP47_0003820 PE=3 SV=1	Adiantum capillus-veneris	858	786	30.0	45.3	2.1e-85
+824	TR	A0A6A4L2I7	Serine/threonine-protein (Fragment) OS=Rhododendron williamsianum OX=262921 GN=C3L33_18106 PE=3 SV=1	Rhododendron williamsianum	447	751	48.3	64.4	4.6e-85
+825	TR	A0ACN2EDQ7	Uncharacterized protein OS=Paspalum vaginatum OX=158149 GN=BS78_09G131400 PE=4 SV=1	Paspalum vaginatum	389	744	47.8	63.6	7.1e-85
+826	TR	A0A8T0GFD6	Serine/threonine-protein OS=Ceratodon purpureus OX=3225 GN=KC19_11G061000 PE=3 SV=1	Ceratodon purpureus	835	780	29.1	46.6	8.5e-85
+827	TR	A0A2P6Q9C0	Serine/threonine-protein OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr5g0028131 PE=3 SV=1	Rosa chinensis	450	748	42.3	58.7	1.3e-84
+828	TR	A0A834ZQE4	Serine/threonine-protein OS=Tetracentron sinense OX=13715 GN=HHK36_004012 PE=3 SV=1	Tetracentron sinense	1361	801	48.9	66.1	1.7e-84
+829	TR	A0A6A3AJ80	Serine/threonine-protein OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00110481pilonHSYRG00130 PE=3 SV=1	Hibiscus syriacus	2063	807	49.6	63.6	2.1e-84
+830	TR	K3XHK7	Serine/threonine-protein OS=Setaria italica OX=4555 PE=3 SV=1	Setaria italica	457	746	45.0	59.8	2.9e-84
+831	TR	A0A9R0QY53	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_1Bv1G143240 PE=3 SV=1	Triticum turgidum subsp. durum	462	746	48.9	66.4	3.4e-84
+832	TR	A0A452Z0T1	Serine/threonine-protein OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1	Aegilops tauschii subsp. strangulata	463	746	48.9	66.4	3.5e-84
+833	TR	A0A9R0QBT3	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_1Av1G156670 PE=3 SV=1	Triticum turgidum subsp. durum	464	746	48.9	66.4	3.6e-84
+834	TR	A0AAW1S975	Serine/threonine-protein OS=Apatococcus fuscideae OX=2026836 GN=WJX84_008367 PE=3 SV=1	Apatococcus fuscideae	553	754	42.6	58.9	3.6e-84
+835	TR	A0A383WC79	Serine/threonine-protein OS=Tetradesmus obliquus OX=3088 GN=BQ4739_LOCUS15536 PE=3 SV=1	Tetradesmus obliquus	547	753	44.8	59.2	4.2e-84
+836	TR	A0ABY8UJJ6	Serine/threonine-protein OS=Tetradesmus obliquus OX=3088 GN=OEZ85_004934 PE=3 SV=1	Tetradesmus obliquus	548	753	44.8	59.2	4.3e-84
+837	TR	A0A6P6VZY5	Serine/threonine-protein OS=Coffea arabica OX=13443 GN=LOC113727504 PE=3 SV=1	Coffea arabica	581	755	41.6	55.4	5.5e-84
+838	TR	A0AAW1XM99	Serine/threonine-protein OS=Rubus argutus OX=59490 GN=M0R45_014447 PE=3 SV=1	Rubus argutus	456	743	41.9	57.9	7.2e-84
+839	TR	A0ACF8VSE0	Serine/threonine-protein OS=Zizania latifolia OX=58934 GN=ABZP36_014652 PE=3 SV=1	Zizania latifolia	524	749	44.9	60.6	7.7e-84
+840	TR	A0A7J9KIY1	Serine/threonine-protein (Fragment) OS=Gossypium schwendimanii OX=34291 GN=Goshw_001160 PE=3 SV=1	Gossypium schwendimanii	488	745	41.6	59.0	9.8e-84
+841	TR	A0A6P5Y9A2	Serine/threonine-protein OS=Durio zibethinus OX=66656 GN=LOC111289857 PE=3 SV=1	Durio zibethinus	591	752	42.3	58.4	1.8e-83
+842	TR	A0AAV3RZG7	Serine/threonine-protein OS=Lithospermum erythrorhizon OX=34254 GN=LIER_33112 PE=3 SV=1	Lithospermum erythrorhizon	495	742	42.3	58.3	3e-83
+843	TR	A0A6A2ZAG8	Serine/threonine-protein OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00111000pilonHSYRG00028 PE=3 SV=1	Hibiscus syriacus	587	750	42.1	59.5	3e-83
+844	TR	A0A835SU76	Serine/threonine-protein OS=Chlamydomonas schloesseri OX=2026947 GN=HYH02_014735 PE=3 SV=1	Chlamydomonas schloesseri	541	745	44.8	60.4	4.2e-83
+845	TR	A0ABR2PQN3	Serine/threonine-protein OS=Hibiscus sabdariffa OX=183260 GN=V6N11_028735 PE=3 SV=1	Hibiscus sabdariffa	588	749	42.1	59.2	4.2e-83
+846	TR	A0ACF7QVW9	Serine/threonine-protein OS=Hibiscus cannabinus OX=229543 GN=GQ457_11G029380 PE=3 SV=1	Hibiscus cannabinus	588	749	42.1	59.2	4.2e-83
+847	TR	A0A8T2XAB9	Serine/threonine-protein OS=Populus deltoides OX=3696 GN=H0E87_022549 PE=3 SV=1	Populus deltoides	613	751	37.2	54.9	4.3e-83
+848	TR	A0A0D2LV65	Serine/threonine-protein OS=Gossypium raimondii OX=29730 GN=B456_001G055300 PE=3 SV=1	Gossypium raimondii	509	742	41.6	58.7	4.5e-83
+849	TR	A0A8X7YHZ3	Serine/threonine-protein OS=Populus tomentosa OX=118781 GN=POTOM_045538 PE=3 SV=1	Populus tomentosa	653	754	34.6	52.2	4.6e-83
+850	TR	A0A8J5QZ31	Serine/threonine-protein OS=Zizania palustris OX=103762 GN=GUJ93_ZPchr0860g38052 PE=3 SV=1	Zizania palustris	556	746	38.6	53.9	4.6e-83
+851	TR	A0ABD1NDH9	Serine/threonine-protein OS=Flemingia macrophylla OX=520843 GN=Fmac_007037 PE=3 SV=1	Flemingia macrophylla	568	747	42.1	59.2	4.7e-83
+852	TR	A0A068UJH2	Serine/threonine-protein OS=Coffea canephora OX=49390 GN=GSCOC_T00027621001 PE=3 SV=1	Coffea canephora	581	748	41.4	55.1	4.8e-83
+853	TR	A0A9W7IIH9	Serine/threonine-protein OS=Hibiscus trionum OX=183268 GN=HRI_003208800 PE=3 SV=1	Hibiscus trionum	591	748	42.1	59.0	6.2e-83
+854	TR	A0A8T2WIJ1	Serine/threonine-protein OS=Populus deltoides OX=3696 GN=H0E87_030590 PE=3 SV=1	Populus deltoides	638	751	41.1	56.7	8e-83
+855	TR	A0A9D3WMZ4	Serine/threonine-protein OS=Gossypium stocksii OX=47602 GN=J1N35_002792 PE=3 SV=1	Gossypium stocksii	589	747	42.1	59.0	8e-83
+856	TR	A0ABR2FNV3	Serine/threonine-protein OS=Hibiscus sabdariffa OX=183260 GN=V6N12_068054 PE=3 SV=1	Hibiscus sabdariffa	592	747	42.1	59.5	8.7e-83
+857	TR	A0A2K1JUF8	Serine/threonine-protein OS=Physcomitrium patens OX=3218 GN=LOC112288422 PE=3 SV=1	Physcomitrium patens	909	769	29.1	46.1	9.4e-83
+858	TR	A0A2G5EES4	Serine/threonine-protein OS=Aquilegia coerulea OX=218851 GN=AQUCO_00900638v1 PE=3 SV=1	Aquilegia coerulea	673	753	48.1	67.1	1e-82
+859	TR	A0A8J5WYA3	Serine/threonine-protein OS=Zizania palustris OX=103762 GN=GUJ93_ZPchr0013g35174 PE=3 SV=1	Zizania palustris	615	748	36.0	52.7	1.1e-82
+860	TR	A0A3N7FW72	Serine/threonine-protein OS=Populus trichocarpa OX=3694 GN=POPTR_013G100100v4 PE=3 SV=2	Populus trichocarpa	654	751	37.0	55.1	1.2e-82
+861	TR	I1JRJ5	Serine/threonine-protein OS=Glycine max OX=3847 GN=LOC100786837 PE=3 SV=1	Glycine max	573	744	42.1	58.6	1.3e-82
+862	TR	A0A445LGI8	Serine/threonine-protein OS=Glycine soja OX=3848 GN=D0Y65_008116 PE=3 SV=1	Glycine soja	573	744	42.1	58.6	1.3e-82
+863	TR	A0AA39W1H8	Serine/threonine-protein OS=Acer saccharum OX=4024 GN=LWI29_019696 PE=3 SV=1	Acer saccharum	585	745	36.4	54.2	1.3e-82
+864	TR	A0A151TXI9	Serine/threonine-protein OS=Cajanus cajan OX=3821 GN=KK1_011032 PE=3 SV=1	Cajanus cajan	574	744	42.1	58.9	1.4e-82
+865	TR	A0A444XM06	Serine/threonine-protein OS=Arachis hypogaea OX=3818 GN=Ahy_B09g096739 PE=3 SV=1	Arachis hypogaea	441	732	47.0	61.5	1.4e-82
+866	TR	A0A5D2U474	Serine/threonine-protein OS=Gossypium mustelinum OX=34275 GN=E1A91_D07G056600v1 PE=3 SV=1	Gossypium mustelinum	589	745	41.8	58.7	1.5e-82
+867	TR	A0A7J9KJG4	Serine/threonine-protein OS=Gossypium schwendimanii OX=34291 GN=Goshw_001160 PE=3 SV=1	Gossypium schwendimanii	589	745	41.6	59.0	1.5e-82
+868	TR	A0A1S3VKZ6	Serine/threonine-protein OS=Vigna radiata var. radiata OX=3916 GN=LOC106776082 PE=3 SV=1	Vigna radiata var. radiata	578	744	45.5	61.6	1.5e-82
+869	TR	A0A9P1E7Y1	Serine/threonine-protein OS=Cuscuta europaea OX=41803 GN=CEURO_LOCUS9925 PE=3 SV=1	Cuscuta europaea	579	744	39.9	53.7	1.6e-82
+870	TR	A0A5A7RGS1	Serine/threonine-protein OS=Striga asiatica OX=4170 GN=STAS_34060 PE=3 SV=1	Striga asiatica	583	744	45.1	60.0	1.7e-82
+871	TR	A0A9R1QXZ5	Serine/threonine-protein OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_3Bv1G268390 PE=3 SV=1	Triticum turgidum subsp. durum	253	712	53.6	71.2	1.9e-82
+872	TR	A0AAV9AZA9	Serine/threonine-protein OS=Acorus gramineus OX=55184 GN=QJS04_geneDACA005010 PE=3 SV=1	Acorus gramineus	342	721	43.8	61.9	2.1e-82
+873	TR	A0AAV5HFN1	Serine/threonine-protein OS=Rubroshorea leprosula OX=152421 GN=SLEP1_g213 PE=3 SV=1	Rubroshorea leprosula	567	742	38.4	55.6	2.1e-82
+874	TR	A0AC58TBE0	Serine/threonine-protein OS=Nicotiana tabacum OX=4097 GN=LOC107767563 PE=3 SV=1	Nicotiana tabacum	579	743	38.9	54.7	2.1e-82
+875	TR	A0A2U1LDS8	Serine/threonine-protein OS=Artemisia annua OX=35608 GN=CTI12_AA501760 PE=3 SV=1	Artemisia annua	488	735	44.8	59.4	2.2e-82
+876	TR	A0A9N7QYT8	Serine/threonine-protein OS=Striga hermonthica OX=68872 GN=SHERM_00974 PE=3 SV=1	Striga hermonthica	582	743	45.3	60.3	2.3e-82
+877	TR	A0A9N7NPV4	Serine/threonine-protein OS=Striga hermonthica OX=68872 GN=SHERM_02608 PE=3 SV=1	Striga hermonthica	582	743	45.1	59.7	2.3e-82
+878	TR	A0A4D6KM09	Serine/threonine-protein OS=Vigna unguiculata OX=3917 GN=DEO72_LG1g1317 PE=3 SV=1	Vigna unguiculata	576	742	43.7	60.9	2.7e-82
+879	TR	A0AAD6LYI2	Serine/threonine-protein OS=Populus alba x Populus x berolinensis OX=444605 GN=NC653_031328 PE=3 SV=1	Populus alba x Populus x berolinensis	653	748	37.2	54.5	2.9e-82
+880	TR	A0A0D2UV16	Serine/threonine-protein OS=Gossypium raimondii OX=29730 GN=B456_011G185800 PE=3 SV=1	Gossypium raimondii	436	729	45.5	61.5	3.1e-82
+881	TR	A0A072U4B7	Serine/threonine-protein OS=Medicago truncatula OX=3880 GN=MTR_7g114300 PE=3 SV=1	Medicago truncatula	501	735	40.8	55.9	3.1e-82
+882	TR	A0AAN9F7X9	Serine/threonine-protein OS=Crotalaria pallida OX=3830 GN=RIF29_21987 PE=3 SV=1	Crotalaria pallida	583	742	44.8	60.6	3.2e-82
+883	TR	A0A7J6WRV4	Serine/threonine-protein OS=Thalictrum thalictroides OX=46969 GN=FRX31_010300 PE=3 SV=1	Thalictrum thalictroides	674	749	48.1	67.1	3.5e-82
+884	TR	A0A9D4ZPE0	Serine/threonine-protein OS=Adiantum capillus-veneris OX=13818 GN=GOP47_0002716 PE=3 SV=1	Adiantum capillus-veneris	612	744	44.6	63.2	3.6e-82
+885	TR	A0A7J8ZQR8	Serine/threonine-protein OS=Gossypium laxum OX=34288 GN=Golax_013158 PE=3 SV=1	Gossypium laxum	601	743	42.2	58.3	3.7e-82
+886	TR	A0A7J8TM51	Serine/threonine-protein OS=Gossypium klotzschianum OX=34286 GN=Goklo_022301 PE=3 SV=1	Gossypium klotzschianum	589	742	41.6	58.7	3.8e-82
+887	TR	A0A5B6ULW6	Serine/threonine-protein OS=Gossypium australe OX=47621 GN=EPI10_012847 PE=3 SV=1	Gossypium australe	589	742	41.6	58.7	3.8e-82
+888	TR	A0A7J8QSA8	Serine/threonine-protein OS=Gossypium davidsonii OX=34287 GN=Godav_017039 PE=3 SV=1	Gossypium davidsonii	589	742	41.6	58.7	3.8e-82
+889	TR	A0A0D2QL32	Serine/threonine-protein OS=Gossypium raimondii OX=29730 GN=B456_001G055300 PE=3 SV=1	Gossypium raimondii	589	742	41.6	58.7	3.8e-82
+890	TR	A0AAN9KIN1	Serine/threonine-protein OS=Clitoria ternatea OX=43366 GN=RJT34_03014 PE=3 SV=1	Clitoria ternatea	554	739	43.6	60.6	3.8e-82
+891	TR	A0AAV1D698	Serine/threonine-protein OS=Oldenlandia corymbosa var. corymbosa OX=529605 GN=OLC1_LOCUS11781 PE=3 SV=1	Oldenlandia corymbosa var. corymbosa	580	741	38.6	53.6	4.1e-82
+892	TR	A0A6A4QX86	Serine/threonine-protein OS=Lupinus albus OX=3870 GN=Lalb_Chr02g0148561 PE=3 SV=1	Lupinus albus	582	741	41.4	56.9	4.3e-82
+893	TR	A0A7I3ZAT2	Serine/threonine-protein OS=Physcomitrium patens OX=3218 GN=LOC112276656 PE=3 SV=1	Physcomitrium patens	913	764	29.8	47.3	4.5e-82
+894	TR	A0AAV1VT56	Serine/threonine-protein OS=Lupinus luteus OX=3873 GN=LLUT_LOCUS1121 PE=3 SV=1	Lupinus luteus	585	741	43.2	58.3	4.6e-82
+895	TR	A0A7J9LG18	Serine/threonine-protein OS=Gossypium schwendimanii OX=34291 GN=Goshw_014575 PE=3 SV=1	Gossypium schwendimanii	637	745	42.4	58.3	4.9e-82
+896	TR	A0A9W7HFU3	Serine/threonine-protein OS=Hibiscus trionum OX=183268 GN=HRI_001336500 PE=3 SV=1	Hibiscus trionum	589	741	41.8	59.0	5.1e-82
+897	TR	A0A7J9B759	Serine/threonine-protein OS=Gossypium gossypioides OX=34282 GN=Gogos_016229 PE=3 SV=1	Gossypium gossypioides	589	741	41.6	58.7	5.1e-82
+898	TR	A0AAD6LY65	Serine/threonine-protein OS=Populus alba x Populus x berolinensis OX=444605 GN=NC653_031328 PE=3 SV=1	Populus alba x Populus x berolinensis	605	742	42.1	58.7	5.6e-82
+899	TR	A0ABC8M4G2	Protein kinase domain-containing protein OS=Eruca vesicaria subsp. sativa OX=29727 GN=ERUC_LOCUS43635 PE=4 SV=1	Eruca vesicaria subsp. sativa	387	722	41.9	59.4	6.2e-82
+900	TR	A0A804R7H9	Serine/threonine-protein OS=Zea mays OX=4577 GN=LOC100382566 PE=3 SV=1	Zea mays	429	726	45.2	61.2	6.4e-82
+901	TR	A0A4P1RM06	Serine/threonine-protein OS=Lupinus angustifolius OX=3871 GN=TanjilG_31723 PE=3 SV=1	Lupinus angustifolius	586	740	46.7	62.4	6.4e-82
+902	TR	A0A8S0QSN8	Serine/threonine-protein OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A045096 PE=3 SV=1	Olea europaea subsp. europaea	565	738	41.5	56.0	6.9e-82
+903	TR	A0A8J5YS64	Serine/threonine-protein OS=Gossypium anomalum OX=47600 GN=CXB51_018599 PE=3 SV=1	Gossypium anomalum	589	740	41.6	58.7	6.9e-82
+904	TR	A0A9D4A2Z6	Serine/threonine-protein OS=Gossypium stocksii OX=47602 GN=J1N35_016304 PE=3 SV=1	Gossypium stocksii	589	740	41.7	58.3	6.9e-82
+905	TR	A0A0D2S376	Serine/threonine-protein OS=Gossypium raimondii OX=29730 GN=B456_006G272600 PE=3 SV=1	Gossypium raimondii	590	740	42.3	58.0	7.1e-82
+906	TR	A0AAN9QCN6	Serine/threonine-protein OS=Phaseolus coccineus OX=3886 GN=VNO80_29672 PE=3 SV=1	Phaseolus coccineus	578	739	42.1	58.6	7.1e-82
+907	TR	A0A2U1PYT7	Serine/threonine-protein OS=Artemisia annua OX=35608 GN=CTI12_AA095920 PE=3 SV=1	Artemisia annua	558	737	44.8	59.7	7.8e-82
+908	TR	A0AAD6PL16	Serine/threonine-protein OS=Salix udensis OX=889485 GN=OIU84_017411 PE=3 SV=1	Salix udensis	645	744	41.8	60.2	8.1e-82
+909	TR	A0A2K3DIE2	Serine/threonine-protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g385850v5 PE=3 SV=1	Chlamydomonas reinhardtii	549	736	43.3	58.7	8.4e-82
+910	TR	A0A443PEF9	Serine/threonine-protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01819900 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	714	749	44.6	58.3	8.6e-82
+911	TR	A0A0D2TA45	Serine/threonine-protein OS=Gossypium raimondii OX=29730 GN=B456_011G185800 PE=3 SV=1	Gossypium raimondii	473	729	45.5	61.5	9e-82
+912	TR	A0A5D2J6M5	Serine/threonine-protein OS=Gossypium tomentosum OX=34277 GN=ES332_D10G202400v1 PE=3 SV=1	Gossypium tomentosum	473	729	45.5	61.5	9e-82
+913	TR	A0ABD3DI73	Serine/threonine-protein OS=Castilleja foliolosa OX=1961234 GN=CASFOL_012778 PE=3 SV=1	Castilleja foliolosa	576	738	39.8	55.1	9.2e-82
+914	TR	M1C1R8	Serine/threonine-protein OS=Solanum tuberosum OX=4113 GN=LOC102581857 PE=3 SV=1	Solanum tuberosum	453	727	42.2	56.5	9.5e-82
+915	TR	V7BQ05	Serine/threonine-protein OS=Phaseolus vulgaris OX=3885 GN=PHAVU_006G097500g PE=3 SV=1	Phaseolus vulgaris	578	738	42.3	58.7	9.7e-82
+916	TR	A0A5N5KHV2	Serine/threonine-protein OS=Salix brachista OX=2182728 GN=DKX38_019929 PE=3 SV=1	Salix brachista	653	744	41.8	60.2	9.8e-82
+917	TR	A0A9Q0W0K5	Serine/threonine-protein OS=Salix koriyanagi OX=2511006 GN=OIU74_026989 PE=3 SV=1	Salix koriyanagi	653	744	41.8	60.2	9.8e-82
+918	TR	A0ABQ9AX37	Serine/threonine-protein OS=Salix suchowensis OX=1278906 GN=OIU77_004557 PE=3 SV=1	Salix suchowensis	653	744	41.8	60.2	9.8e-82
+919	TR	A0AAV0GB97	Serine/threonine-protein OS=Cuscuta epithymum OX=186058 GN=CEPIT_LOCUS42063 PE=3 SV=1	Cuscuta epithymum	579	738	39.6	53.5	9.9e-82
+920	TR	A0AAV0CBH3	Serine/threonine-protein OS=Cuscuta epithymum OX=186058 GN=CEPIT_LOCUS4648 PE=3 SV=1	Cuscuta epithymum	579	738	39.6	53.5	9.9e-82
+921	TR	A0A803KPI4	Serine/threonine-protein OS=Chenopodium quinoa OX=63459 PE=3 SV=1	Chenopodium quinoa	511	732	42.0	57.7	1e-81
+922	TR	A0A3L6RE68	Serine/threonine-protein OS=Panicum miliaceum OX=4540 GN=C2845_PM06G22910 PE=3 SV=1	Panicum miliaceum	489	730	50.5	67.7	1e-81
+923	TR	C1MZB2	Serine/threonine-protein OS=Micromonas pusilla (strain CCMP1545) OX=564608 GN=MICPUCDRAFT_48067 PE=3 SV=1	Micromonas pusilla (strain CCMP1545)	376	719	42.2	61.3	1.1e-81
+924	TR	A0AAD3SK22	Serine/threonine-protein OS=Nepenthes gracilis OX=150966 GN=Nepgr_013937 PE=3 SV=1	Nepenthes gracilis	703	747	46.0	63.6	1.2e-81
+925	TR	A0A0B0Q2S8	Serine/threonine-protein OS=Gossypium arboreum OX=29729 GN=F383_12098 PE=3 SV=1	Gossypium arboreum	589	738	41.3	58.4	1.3e-81
+926	TR	A0ABD3B3H4	Serine/threonine-protein OS=Cinchona calisaya OX=153742 GN=ACH5RR_001271 PE=3 SV=1	Cinchona calisaya	577	737	43.6	57.7	1.3e-81
+927	TR	A0A835SCC8	Serine/threonine-protein OS=Chlamydomonas incerta OX=51695 GN=HXX76_015627 PE=3 SV=1	Chlamydomonas incerta	566	736	44.5	60.1	1.3e-81
+928	TR	A0A1U7YHP6	Serine/threonine-protein OS=Nicotiana sylvestris OX=4096 GN=LOC104244586 PE=3 SV=1	Nicotiana sylvestris	579	737	38.3	54.5	1.4e-81
+929	TR	A0A822XPV3	Serine/threonine-protein OS=Nelumbo nucifera OX=4432 GN=HUJ06_022419 PE=3 SV=1	Nelumbo nucifera	488	729	43.8	60.0	1.4e-81
+930	TR	A0ACD5ZGD4	Serine/threonine-protein OS=Avena sativa OX=4498 PE=3 SV=1	Avena sativa	668	744	32.3	48.3	1.4e-81
+931	TR	A0A7J9IHX1	Serine/threonine-protein OS=Gossypium armourianum OX=34283 GN=Goarm_018065 PE=3 SV=1	Gossypium armourianum	489	729	43.1	60.3	1.4e-81
+932	TR	A0A6P6WL54	Serine/threonine-protein OS=Coffea arabica OX=13443 GN=LOC113732709 PE=3 SV=1	Coffea arabica	581	737	41.1	54.7	1.4e-81
+933	TR	A0A834TBI8	Serine/threonine-protein OS=Senna tora OX=362788 GN=G2W53_023317 PE=3 SV=1	Senna tora	570	736	42.5	58.0	1.5e-81
+934	TR	A0AAN9LLH8	Serine/threonine-protein OS=Canavalia gladiata OX=3824 GN=VNO77_18444 PE=3 SV=1	Canavalia gladiata	583	737	44.2	60.1	1.5e-81
+935	TR	A0AAV1R4L5	Serine/threonine-protein OS=Dovyalis caffra OX=77055 GN=DCAF_LOCUS6601 PE=3 SV=1	Dovyalis caffra	647	742	46.0	61.7	1.6e-81
+936	TR	A0ABD2T083	Serine/threonine-protein OS=Solanum stoloniferum OX=62892 GN=AABB24_022540 PE=3 SV=1	Solanum stoloniferum	575	736	43.7	57.9	1.7e-81
+937	TR	A0AAV1B286	Serine/threonine-protein OS=Vicia faba OX=3906 GN=VFH_V183200 PE=3 SV=1	Vicia faba	553	734	46.1	60.3	1.7e-81
+938	TR	A0ACB0IHT1	Serine/threonine-protein OS=Trifolium pratense OX=57577 GN=MILVUS5_LOCUS3054 PE=3 SV=1	Trifolium pratense	565	735	46.4	60.9	1.7e-81
+939	TR	A0A5D2YHQ5	Serine/threonine-protein OS=Gossypium mustelinum OX=34275 GN=E1A91_A07G054500v1 PE=3 SV=1	Gossypium mustelinum	589	737	41.3	58.4	1.7e-81
+940	TR	A0A5D2FT60	Serine/threonine-protein OS=Gossypium darwinii OX=34276 GN=ES288_A07G057000v1 PE=3 SV=1	Gossypium darwinii	589	737	41.3	58.4	1.7e-81
+941	TR	A0A2P5Y983	Serine/threonine-protein OS=Gossypium barbadense OX=3634 GN=ES319_A07G054600v1 PE=3 SV=1	Gossypium barbadense	589	737	41.3	58.4	1.7e-81
+942	TR	A0ABM3C1W6	Serine/threonine-protein OS=Gossypium hirsutum OX=3635 GN=LOC121232031 PE=3 SV=1	Gossypium hirsutum	589	737	41.3	58.4	1.7e-81
+943	TR	A0ABR0P8W6	Serine/threonine-protein OS=Gossypium arboreum OX=29729 GN=PVK06_022606 PE=3 SV=1	Gossypium arboreum	589	737	41.3	58.4	1.7e-81
+944	TR	A0A5D2PPI8	Serine/threonine-protein OS=Gossypium tomentosum OX=34277 GN=ES332_A07G056200v1 PE=3 SV=1	Gossypium tomentosum	589	737	41.3	58.4	1.7e-81
+945	TR	A0A7J8VQQ5	Serine/threonine-protein (Fragment) OS=Gossypium klotzschianum OX=34286 GN=Goklo_004735 PE=3 SV=1	Gossypium klotzschianum	566	735	45.8	62.1	1.8e-81
+946	TR	A0ACB0IHW0	Serine/threonine-protein OS=Trifolium pratense OX=57577 GN=MILVUS5_LOCUS3054 PE=3 SV=1	Trifolium pratense	566	735	46.4	60.9	1.8e-81
+947	TR	A0A5D2TRJ3	Serine/threonine-protein OS=Gossypium mustelinum OX=34275 GN=E1A91_D09G278300v1 PE=3 SV=1	Gossypium mustelinum	590	737	42.3	58.0	1.8e-81
+948	TR	A0A5D2BIY9	Serine/threonine-protein OS=Gossypium darwinii OX=34276 GN=ES288_D09G288300v1 PE=3 SV=1	Gossypium darwinii	590	737	42.3	58.0	1.8e-81
+949	TR	A0A5J5Q7Y9	Serine/threonine-protein OS=Gossypium barbadense OX=3634 GN=ES319_D09G269700v1 PE=3 SV=1	Gossypium barbadense	590	737	42.3	58.0	1.8e-81
+950	TR	A0A1U8LWB1	Serine/threonine-protein OS=Gossypium hirsutum OX=3635 GN=LOC107931476 PE=3 SV=2	Gossypium hirsutum	590	737	42.3	58.0	1.8e-81
+951	TR	A0A0S3S5B4	Serine/threonine-protein OS=Vigna angularis var. angularis OX=157739 GN=Vigan.05G144000 PE=3 SV=1	Vigna angularis var. angularis	578	736	41.9	58.6	1.8e-81
+952	TR	A0ABR2B9Y7	Serine/threonine-protein OS=Hibiscus sabdariffa OX=183260 GN=V6N12_024797 PE=3 SV=1	Hibiscus sabdariffa	510	730	45.2	60.8	1.9e-81
+953	TR	A0AA86VZ53	Serine/threonine-protein OS=Sphenostylis stenocarpa OX=92480 GN=AYBTSS11_LOCUS18486 PE=3 SV=1	Sphenostylis stenocarpa	580	736	43.7	60.3	1.9e-81
+954	TR	A0A7J8UVQ9	Serine/threonine-protein (Fragment) OS=Gossypium klotzschianum OX=34286 GN=Goklo_021329 PE=3 SV=1	Gossypium klotzschianum	374	717	45.2	61.5	2e-81
+955	TR	A0A2K1WR01	Serine/threonine-protein OS=Populus trichocarpa OX=3694 GN=POPTR_019G073100 PE=3 SV=1	Populus trichocarpa	644	741	46.0	62.3	2e-81
+956	TR	A0A835XYD8	Serine/threonine-protein OS=Edaphochlamys debaryana OX=47281 GN=HYH03_012381 PE=3 SV=1	Edaphochlamys debaryana	535	732	43.9	60.4	2e-81
+957	TR	R0GV46	Serine/threonine-protein OS=Capsella rubella OX=81985 GN=CARUB_v10008488mg PE=3 SV=1	Capsella rubella	684	744	33.4	51.6	2e-81
+958	TR	A0AAJ6TS01	Serine/threonine-protein OS=Populus euphratica OX=75702 GN=LOC105119382 PE=3 SV=1	Populus euphratica	645	741	46.0	62.3	2e-81
+959	TR	A0A9W6BLM3	Serine/threonine-protein OS=Pleodorina starrii OX=330485 GN=PLEST005565 PE=3 SV=1	Pleodorina starrii	572	735	43.5	59.8	2.1e-81
+960	TR	A0A200QBC6	Serine/threonine-protein OS=Macleaya cordata OX=56857 GN=BVC80_8961g20 PE=3 SV=1	Macleaya cordata	717	746	43.5	58.3	2.3e-81
+961	TR	A0AA35YJA0	Serine/threonine-protein OS=Lactuca saligna OX=75948 GN=LSALG_LOCUS15010 PE=3 SV=1	Lactuca saligna	564	734	38.6	54.4	2.3e-81
+962	TR	A0AB40BF68	Serine/threonine-protein OS=Dioscorea cayennensis subsp. rotundata OX=55577 GN=LOC120261430 PE=3 SV=1	Dioscorea cayennensis subsp. rotundata	588	736	45.2	64.6	2.3e-81
+963	TR	A0A8B8L0L8	Serine/threonine-protein OS=Abrus precatorius OX=3816 GN=LOC113861232 PE=3 SV=1	Abrus precatorius	576	735	41.9	58.9	2.3e-81
+964	TR	A0ABM3AET3	Serine/threonine-protein OS=Gossypium hirsutum OX=3635 GN=LOC121219298 PE=3 SV=1	Gossypium hirsutum	589	736	41.3	58.4	2.4e-81
+965	TR	A0A5D2K4T5	Serine/threonine-protein OS=Gossypium tomentosum OX=34277 GN=ES332_D07G058100v1 PE=3 SV=1	Gossypium tomentosum	589	736	41.3	58.4	2.4e-81
+966	TR	A0AAD9TKS6	Serine/threonine-protein OS=Dipteronia dyeriana OX=168575 GN=Ddye_025443 PE=3 SV=1	Dipteronia dyeriana	590	736	37.6	53.9	2.4e-81
+967	TR	A0A453I1B1	Serine/threonine-protein OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1	Aegilops tauschii subsp. strangulata	433	722	44.2	60.8	2.5e-81
+968	TR	A0ACC0BV34	Serine/threonine-protein OS=Catharanthus roseus OX=4058 GN=M9H77_07402 PE=3 SV=1	Catharanthus roseus	579	735	44.8	59.7	2.5e-81
+969	TR	A0A9D4A3J6	Serine/threonine-protein OS=Gossypium stocksii OX=47602 GN=J1N35_023288 PE=3 SV=1	Gossypium stocksii	581	735	41.5	58.3	2.6e-81
+970	TR	A0A6P8C1Q1	Serine/threonine-protein OS=Punica granatum OX=22663 GN=LOC116190186 PE=3 SV=1	Punica granatum	570	734	41.2	58.8	2.7e-81
+971	TR	A0A218WNQ4	Serine/threonine-protein OS=Punica granatum OX=22663 GN=CDL15_Pgr008430 PE=3 SV=1	Punica granatum	570	734	41.2	58.8	2.7e-81
+972	TR	A0A834SK93	Serine/threonine-protein OS=Senna tora OX=362788 GN=G2W53_044282 PE=3 SV=1	Senna tora	572	734	45.0	59.8	2.8e-81
+973	TR	A0ABD1GG81	Serine/threonine-protein OS=Salvia divinorum OX=28513 GN=AAHA92_20147 PE=3 SV=1	Salvia divinorum	584	735	42.0	56.3	2.8e-81
+974	TR	A0AAP0C6K5	Serine/threonine-protein OS=Deinandra increscens subsp. villosa OX=3103831 GN=SSX86_030789 PE=3 SV=1	Deinandra increscens subsp. villosa	481	726	41.4	58.4	2.9e-81
+975	TR	A0ACG4LB13	Serine/threonine-protein OS=Helianthus anomalus OX=73274 GN=Hanom_Chr00s006922g01736251 PE=3 SV=1	Helianthus anomalus	561	733	44.0	58.7	2.9e-81
+976	TR	A0AAN8U718	Serine/threonine-protein OS=Solanum bulbocastanum OX=147425 GN=RDI58_002643 PE=3 SV=1	Solanum bulbocastanum	573	734	43.4	57.9	2.9e-81
+977	TR	A0ACF8V032	Serine/threonine-protein OS=Zizania latifolia OX=58934 GN=ABZP36_017972 PE=3 SV=1	Zizania latifolia	562	733	45.8	62.4	3e-81
+978	TR	A0ABD2VLY2	Serine/threonine-protein OS=Solanum stoloniferum OX=62892 GN=AABB24_001729 PE=3 SV=1	Solanum stoloniferum	575	734	40.1	54.0	3.1e-81
+979	TR	A0A6A2XZ69	Serine/threonine-protein OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00116958pilonHSYRG00116 PE=3 SV=1	Hibiscus syriacus	575	734	38.5	55.1	3.1e-81
+980	TR	A0A7J9H1L5	Serine/threonine-protein (Fragment) OS=Gossypium harknessii OX=34285 GN=Gohar_013915 PE=3 SV=1	Gossypium harknessii	349	713	44.8	61.2	3.1e-81
+981	TR	A0A9Q0SX09	Serine/threonine-protein OS=Salix viminalis OX=40686 GN=OIU85_003979 PE=3 SV=1	Salix viminalis	691	743	41.8	60.2	3.2e-81
+982	TR	A0A9D5CV98	Serine/threonine-protein OS=Dioscorea zingiberensis OX=325984 GN=J5N97_015208 PE=3 SV=1	Dioscorea zingiberensis	566	733	39.8	55.3	3.3e-81
+983	TR	A0A8J5SWI4	Serine/threonine-protein OS=Zizania palustris OX=103762 GN=GUJ93_ZPchr0003g17966 PE=3 SV=1	Zizania palustris	567	733	45.8	62.4	3.4e-81
+984	TR	A0ACF8BVN9	Serine/threonine-protein OS=Castanea dentata OX=134033 GN=ACB092_12G014400 PE=3 SV=1	Castanea dentata	654	740	41.1	59.7	3.4e-81
+985	TR	A0A7J8UUT8	Serine/threonine-protein OS=Gossypium klotzschianum OX=34286 GN=Goklo_021329 PE=3 SV=1	Gossypium klotzschianum	581	734	41.5	58.3	3.6e-81
+986	TR	A0AAD6L8L3	Serine/threonine-protein OS=Populus alba x Populus x berolinensis OX=444605 GN=NC653_041495 PE=3 SV=1	Populus alba x Populus x berolinensis	513	728	45.6	62.3	3.8e-81
+987	TR	A0A835H0R6	Serine/threonine-protein OS=Coptis chinensis OX=261450 GN=IFM89_030175 PE=3 SV=1	Coptis chinensis	714	744	43.3	58.5	4e-81
+988	TR	A0A9D3ZLG3	Serine/threonine-protein OS=Gossypium stocksii OX=47602 GN=J1N35_037257 PE=3 SV=1	Gossypium stocksii	574	733	44.8	61.0	4.1e-81
+989	TR	A0A7J9GVA3	Serine/threonine-protein (Fragment) OS=Gossypium harknessii OX=34285 GN=Gohar_011879 PE=3 SV=1	Gossypium harknessii	309	708	44.7	63.1	4.1e-81
+990	TR	A0A7J8RRY0	Serine/threonine-protein OS=Gossypium davidsonii OX=34287 GN=Godav_016644 PE=3 SV=1	Gossypium davidsonii	587	734	42.0	57.7	4.2e-81
+991	TR	A0AAN7JLV3	Serine/threonine-protein OS=Trapa incisa OX=236973 GN=SAY87_027246 PE=3 SV=1	Trapa incisa	638	738	41.8	59.2	4.3e-81
+992	TR	A0A7J8L6P9	Serine/threonine-protein OS=Gossypium lobatum OX=34289 GN=Golob_019136 PE=3 SV=1	Gossypium lobatum	589	734	41.3	58.4	4.4e-81
+993	TR	A0A7J8WGQ3	Serine/threonine-protein OS=Gossypium aridum OX=34290 GN=Goari_015745 PE=3 SV=1	Gossypium aridum	589	734	41.3	58.4	4.4e-81
+994	TR	A0A7J9D948	Serine/threonine-protein OS=Gossypium trilobum OX=34281 GN=Gotri_020292 PE=3 SV=1	Gossypium trilobum	589	734	41.3	58.4	4.4e-81
+995	TR	A0AAE0A479	Serine/threonine-protein OS=Dipteronia sinensis OX=43782 GN=Dsin_023903 PE=3 SV=1	Dipteronia sinensis	590	734	41.2	58.3	4.5e-81
+996	TR	A0AAV0LFE6	Serine/threonine-protein OS=Linum tenue OX=586396 GN=LITE_LOCUS23413 PE=3 SV=1	Linum tenue	465	723	46.1	60.6	4.6e-81
+997	TR	A0A444XLZ8	Serine/threonine-protein OS=Arachis hypogaea OX=3818 GN=Ahy_B09g096739 PE=3 SV=1	Arachis hypogaea	567	732	47.0	61.5	4.6e-81
+998	TR	A0A1J6KED8	Serine/threonine-protein OS=Nicotiana attenuata OX=49451 GN=A4A49_38130 PE=3 SV=1	Nicotiana attenuata	579	733	46.7	62.1	4.6e-81
+999	TR	A0A9W7H2E0	Serine/threonine-protein OS=Hibiscus trionum OX=183268 GN=HRI_000649500 PE=3 SV=1	Hibiscus trionum	579	733	44.2	59.4	4.6e-81
+1000	TR	A0A251K7E3	Serine/threonine-protein OS=Manihot esculenta OX=3983 GN=MANES_09G159000v8 PE=3 SV=1	Manihot esculenta	579	733	42.0	57.7	4.6e-81

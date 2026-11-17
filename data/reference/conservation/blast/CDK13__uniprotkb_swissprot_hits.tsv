@@ -1,0 +1,1001 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	SP	Q14004	Cyclin-dependent kinase 13 OS=Homo sapiens OX=9606 GN=CDK13 PE=1 SV=2	Homo sapiens	1512	7821	100.0	100.0	0.0
+2	SP	E1BB52	Cyclin-dependent kinase 13 OS=Bos taurus OX=9913 GN=CDK13 PE=3 SV=1	Bos taurus	1512	7573	96.4	97.9	0.0
+3	SP	Q69ZA1	Cyclin-dependent kinase 13 OS=Mus musculus OX=10090 GN=Cdk13 PE=1 SV=3	Mus musculus	1511	7428	95.2	96.8	0.0
+4	SP	Q14AX6	Cyclin-dependent kinase 12 OS=Mus musculus OX=10090 GN=Cdk12 PE=1 SV=2	Mus musculus	1484	2614	44.5	53.8	0.0
+5	SP	Q3MJK5	Cyclin-dependent kinase 12 OS=Rattus norvegicus OX=10116 GN=Cdk12 PE=1 SV=1	Rattus norvegicus	1484	2594	43.9	53.7	0.0
+6	SP	D2H526	Cyclin-dependent kinase 12 OS=Ailuropoda melanoleuca OX=9646 GN=CDK12 PE=3 SV=1	Ailuropoda melanoleuca	1491	2559	43.5	53.9	0.0
+7	SP	Q9NYV4	Cyclin-dependent kinase 12 OS=Homo sapiens OX=9606 GN=CDK12 PE=1 SV=2	Homo sapiens	1490	2552	43.7	54.1	0.0
+8	SP	E1BB50	Cyclin-dependent kinase 12 OS=Bos taurus OX=9913 GN=CDK12 PE=3 SV=1	Bos taurus	1264	2398	46.3	55.6	0.0
+9	SP	B5DE93	Cyclin-dependent kinase 12 OS=Xenopus tropicalis OX=8364 GN=cdk12 PE=2 SV=1	Xenopus tropicalis	1239	2338	46.5	57.6	0.0
+10	SP	Q9VP22	Cyclin-dependent kinase 12 OS=Drosophila melanogaster OX=7227 GN=Cdk12 PE=1 SV=1	Drosophila melanogaster	1157	1520	40.6	52.9	0.0
+11	SP	P46551	Cyclin-dependent kinase 12 OS=Caenorhabditis elegans OX=6239 GN=cdk-12 PE=1 SV=4	Caenorhabditis elegans	730	1072	39.7	54.8	1.9e-127
+12	SP	Q5JK68	Cyclin-dependent kinase C-2 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKC-2 PE=2 SV=1	Oryza sativa subsp. japonica	513	922	47.2	63.1	3.6e-109
+13	SP	Q6I5Y0	Cyclin-dependent kinase C-1 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKC-1 PE=2 SV=1	Oryza sativa subsp. japonica	519	905	45.7	61.2	1e-106
+14	SP	Q9LFT8	Cyclin-dependent kinase C-1 OS=Arabidopsis thaliana OX=3702 GN=CDKC-1 PE=1 SV=1	Arabidopsis thaliana	505	901	51.8	67.4	2.4e-106
+15	SP	Q8W4P1	Cyclin-dependent kinase C-2 OS=Arabidopsis thaliana OX=3702 GN=CDKC-2 PE=1 SV=2	Arabidopsis thaliana	513	889	51.8	67.2	1.4e-104
+16	SP	O14098	CTD kinase subunit alpha OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=lsk1 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	593	768	46.5	64.5	4.2e-87
+17	SP	Q641Z4	Cyclin-dependent kinase 9 OS=Rattus norvegicus OX=10116 GN=Cdk9 PE=2 SV=1	Rattus norvegicus	372	747	48.7	68.9	5e-87
+18	SP	Q99J95	Cyclin-dependent kinase 9 OS=Mus musculus OX=10090 GN=Cdk9 PE=1 SV=1	Mus musculus	372	747	48.7	68.9	5e-87
+19	SP	Q5EAB2	Cyclin-dependent kinase 9 OS=Bos taurus OX=9913 GN=CDK9 PE=2 SV=1	Bos taurus	372	745	48.7	68.9	9.3e-87
+20	SP	P50750	Cyclin-dependent kinase 9 OS=Homo sapiens OX=9606 GN=CDK9 PE=1 SV=3	Homo sapiens	372	742	48.4	68.6	2.4e-86
+21	SP	Q7SXE8	Cyclin-dependent kinase 9 OS=Danio rerio OX=7955 GN=cdk9 PE=2 SV=1	Danio rerio	374	739	47.9	67.2	6.4e-86
+22	SP	Q5ZKN1	Cyclin-dependent kinase 9 OS=Gallus gallus OX=9031 GN=CDK9 PE=2 SV=1	Gallus gallus	372	738	46.3	65.6	8.3e-86
+23	SP	Q6GLD8	Cyclin-dependent kinase 9 OS=Xenopus tropicalis OX=8364 GN=cdk9 PE=2 SV=1	Xenopus tropicalis	376	737	45.6	64.2	1.3e-85
+24	SP	Q7ZX42	Cyclin-dependent kinase 9-B OS=Xenopus laevis OX=8355 GN=cdk9-b PE=2 SV=1	Xenopus laevis	376	736	45.3	64.5	1.7e-85
+25	SP	Q4V862	Cyclin-dependent kinase 9-A OS=Xenopus laevis OX=8355 GN=cdk9-a PE=2 SV=1	Xenopus laevis	376	736	45.7	64.9	1.7e-85
+26	SP	Q6ZAG3	Cyclin-dependent kinase C-3 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKC-1 PE=3 SV=2	Oryza sativa subsp. japonica	324	698	48.3	64.2	4.6e-81
+27	SP	Q9ZVM9	Probable serine/threonine-protein kinase At1g54610 OS=Arabidopsis thaliana OX=3702 GN=At1g54610 PE=1 SV=1	Arabidopsis thaliana	572	711	41.0	57.1	1e-79
+28	SP	Q6K5F8	Cyclin-dependent kinase G-1 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKG-1 PE=2 SV=1	Oryza sativa subsp. japonica	693	718	30.8	47.2	2.1e-79
+29	SP	A2X6X1	Cyclin-dependent kinase G-1 OS=Oryza sativa subsp. indica OX=39946 GN=CDKG-1 PE=3 SV=1	Oryza sativa subsp. indica	693	717	31.4	47.8	2.8e-79
+30	SP	Q7XUF4	Cyclin-dependent kinase G-2 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKG-2 PE=2 SV=2	Oryza sativa subsp. japonica	710	716	44.4	62.9	5.6e-79
+31	SP	A2XUW1	Cyclin-dependent kinase G-2 OS=Oryza sativa subsp. indica OX=39946 GN=CDKG-2 PE=3 SV=1	Oryza sativa subsp. indica	710	716	44.4	62.9	5.6e-79
+32	SP	F4I114	Probable serine/threonine-protein kinase At1g09600 OS=Arabidopsis thaliana OX=3702 GN=At1g09600 PE=3 SV=1	Arabidopsis thaliana	714	708	42.5	60.8	6.8e-78
+33	SP	Q96VK3	Serine/threonine-protein kinase bur1 OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) OX=227321 GN=ptkA PE=2 SV=1	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	544	681	42.2	59.2	4.9e-76
+34	SP	Q9TVL3	Probable cyclin-dependent kinase 9 OS=Caenorhabditis elegans OX=6239 GN=cdk-9 PE=3 SV=2	Caenorhabditis elegans	478	672	42.1	61.6	1.3e-75
+35	SP	Q4WTN5	Serine/threonine-protein kinase bur1 OS=Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) OX=330879 GN=bur1 PE=3 SV=1	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	580	676	42.4	59.4	5.5e-75
+36	SP	Q03957	CTD kinase subunit alpha OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CTK1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	528	671	43.2	62.3	6.9e-75
+37	SP	Q96WV9	Probable cyclin-dependent kinase 9 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cdk9 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	591	664	41.4	60.1	2.7e-73
+38	SP	Q4I5U9	Serine/threonine-protein kinase BUR1 OS=Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1) OX=229533 GN=BUR1 PE=3 SV=2	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	539	658	40.2	60.7	4.8e-73
+39	SP	Q6BV06	Serine/threonine-protein kinase BUR1 OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=BUR1 PE=3 SV=1	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	608	663	41.5	60.9	5.5e-73
+40	SP	Q4KM47	Cyclin-dependent kinase 10 OS=Rattus norvegicus OX=10116 GN=Cdk10 PE=2 SV=1	Rattus norvegicus	358	640	41.3	59.9	8e-73
+41	SP	Q3UMM4	Cyclin-dependent kinase 10 OS=Mus musculus OX=10090 GN=Cdk10 PE=1 SV=1	Mus musculus	360	640	41.3	59.9	8.5e-73
+42	SP	Q6C842	Serine/threonine-protein kinase BUR1 OS=Yarrowia lipolytica (strain CLIB 122 / E 150) OX=284591 GN=BUR1 PE=3 SV=1	Yarrowia lipolytica (strain CLIB 122 / E 150)	706	665	42.6	59.5	2.5e-72
+43	SP	P43450	Cyclin-dependent kinase 2 OS=Carassius auratus OX=7957 GN=cdk2 PE=1 SV=1	Carassius auratus	298	629	43.1	61.3	3.8e-72
+44	SP	Q9Y7W4	Serine/threonine-protein kinase BUR1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=CRK1 PE=3 SV=3	Candida albicans (strain SC5314 / ATCC MYA-2876)	745	666	30.0	48.0	3.9e-72
+45	SP	Q15131	Cyclin-dependent kinase 10 OS=Homo sapiens OX=9606 GN=CDK10 PE=1 SV=1	Homo sapiens	360	635	41.0	59.6	4e-72
+46	SP	Q871M9	Serine/threonine-protein kinase bur1 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=stk-1 PE=3 SV=2	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	559	652	39.7	59.7	4.9e-72
+47	SP	Q54RB2	Cyclin-dependent kinase 11 OS=Dictyostelium discoideum OX=44689 GN=cdk11 PE=3 SV=1	Dictyostelium discoideum	358	632	40.3	60.0	9.5e-72
+48	SP	Q38772	Cell division control protein 2 homolog A OS=Antirrhinum majus OX=4151 GN=CDC2A PE=2 SV=2	Antirrhinum majus	294	624	42.6	63.4	1.5e-71
+49	SP	Q9FGW5	Cyclin-dependent kinase G1 OS=Arabidopsis thaliana OX=3702 GN=CDKG1 PE=1 SV=1	Arabidopsis thaliana	612	651	30.6	46.9	2.3e-71
+50	SP	Q2TBL8	Cyclin-dependent kinase 10 OS=Bos taurus OX=9913 GN=CDK10 PE=2 SV=1	Bos taurus	361	629	41.0	59.9	2.6e-71
+51	SP	Q00526	Cyclin-dependent kinase 3 OS=Homo sapiens OX=9606 GN=CDK3 PE=1 SV=1	Homo sapiens	305	619	43.6	62.0	1e-70
+52	SP	P51958	Cyclin-dependent kinase 1 OS=Carassius auratus OX=7957 GN=cdk1 PE=1 SV=1	Carassius auratus	302	618	42.0	60.8	1.3e-70
+53	SP	B5X564	Cyclin-dependent kinase C-2 C OS=Arabidopsis thaliana OX=3702 GN=CDC2C PE=1 SV=1	Arabidopsis thaliana	644	647	40.4	59.0	1.5e-70
+54	SP	P23111	Cell division control protein 2 homolog OS=Zea mays OX=4577 GN=CDC2 PE=2 SV=1	Zea mays	294	616	43.4	62.5	1.8e-70
+55	SP	F4ICB6	Protein IMPAIRED IN BABA-INDUCED STERILITY 1 OS=Arabidopsis thaliana OX=3702 GN=IBS1 PE=3 SV=1	Arabidopsis thaliana	709	647	43.4	60.6	5.8e-70
+56	SP	P93101	Cell division control protein 2 homolog OS=Oxybasis rubra OX=3560 GN=CDC2 PE=2 SV=1	Oxybasis rubra	294	611	42.4	61.6	8.6e-70
+57	SP	Q41639	Cell division control protein 2 homolog OS=Vigna aconitifolia OX=3918 GN=CDC2 PE=2 SV=1	Vigna aconitifolia	294	610	41.6	62.4	1.2e-69
+58	SP	Q9DGD3	Cyclin-dependent kinase 1 OS=Oryzias latipes OX=8090 GN=cdk1 PE=2 SV=1	Oryzias latipes	303	610	42.1	61.9	1.5e-69
+59	SP	Q9DGA2	Cyclin-dependent kinase 1 OS=Oryzias javanicus OX=123683 GN=cdk1 PE=2 SV=1	Oryzias javanicus	303	609	42.1	61.5	2.1e-69
+60	SP	P52389	Cell division control protein 2 homolog OS=Vigna unguiculata OX=3917 GN=CDC2 PE=2 SV=1	Vigna unguiculata	294	608	41.3	62.7	2.2e-69
+61	SP	Q9DG98	Cyclin-dependent kinase 1 OS=Oryzias luzonensis OX=104659 GN=cdk1 PE=2 SV=1	Oryzias luzonensis	303	608	42.1	61.9	2.9e-69
+62	SP	Q9DGA5	Cyclin-dependent kinase 1 OS=Oryzias curvinotus OX=104658 GN=cdk1 PE=2 SV=1	Oryzias curvinotus	303	606	41.8	62.2	5.3e-69
+63	SP	P29618	Cyclin-dependent kinase A-1 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKA-1 PE=1 SV=1	Oryza sativa subsp. japonica	294	605	43.1	62.7	5.5e-69
+64	SP	P24941	Cyclin-dependent kinase 2 OS=Homo sapiens OX=9606 GN=CDK2 PE=1 SV=2	Homo sapiens	298	604	42.5	59.4	8.4e-69
+65	SP	P54666	Cell division control protein 2 homolog 3 OS=Trypanosoma brucei brucei OX=5702 GN=CRK3 PE=3 SV=1	Trypanosoma brucei brucei	311	605	41.7	61.7	9.3e-69
+66	SP	P29619	Cyclin-dependent kinase A-2 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKA-2 PE=2 SV=1	Oryza sativa subsp. japonica	292	602	41.4	61.6	1.3e-68
+67	SP	P35567	Cyclin-dependent kinase 1-A OS=Xenopus laevis OX=8355 GN=cdk1-a PE=1 SV=1	Xenopus laevis	302	603	42.2	61.0	1.3e-68
+68	SP	P24100	Cyclin-dependent kinase A-1 OS=Arabidopsis thaliana OX=3702 GN=CDKA-1 PE=1 SV=1	Arabidopsis thaliana	294	602	41.6	62.4	1.4e-68
+69	SP	Q05006	Cell division control protein 2 homolog 2 OS=Medicago sativa OX=3879 GN=CDC2B PE=2 SV=1	Medicago sativa	294	602	40.6	61.7	1.4e-68
+70	SP	P21127	Cyclin-dependent kinase 11B OS=Homo sapiens OX=9606 GN=CDK11B PE=1 SV=4	Homo sapiens	795	641	27.2	43.2	1.6e-68
+71	SP	P43063	Cyclin-dependent kinase 1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=CDC28 PE=1 SV=1	Candida albicans (strain SC5314 / ATCC MYA-2876)	317	603	43.5	62.2	2.1e-68
+72	SP	P24033	Cyclin-dependent kinase 1-B OS=Xenopus laevis OX=8355 GN=cdk1-b PE=1 SV=2	Xenopus laevis	302	601	41.9	60.7	2.4e-68
+73	SP	Q63699	Cyclin-dependent kinase 2 OS=Rattus norvegicus OX=10116 GN=Cdk2 PE=1 SV=1	Rattus norvegicus	298	600	42.2	59.4	2.9e-68
+74	SP	P23437	Cyclin-dependent kinase 2 OS=Xenopus laevis OX=8355 GN=cdk2 PE=1 SV=3	Xenopus laevis	297	598	41.2	60.8	5.2e-68
+75	SP	Q5E9Y0	Cyclin-dependent kinase 2 OS=Bos taurus OX=9913 GN=CDK2 PE=2 SV=1	Bos taurus	298	598	42.2	59.4	5.4e-68
+76	SP	P24923	Cell division control protein 2 homolog 1 (Fragment) OS=Medicago sativa OX=3879 GN=CDC2A PE=2 SV=1	Medicago sativa	291	597	42.4	62.0	5.9e-68
+77	SP	O55076	Cyclin-dependent kinase 2 OS=Cricetulus griseus OX=10029 GN=CDK2 PE=1 SV=1	Cricetulus griseus	298	597	41.9	59.4	7.3e-68
+78	SP	Q38773	Cell division control protein 2 homolog B (Fragment) OS=Antirrhinum majus OX=4151 GN=CDC2B PE=2 SV=1	Antirrhinum majus	280	595	43.8	62.8	7.7e-68
+79	SP	P46892	Cyclin-dependent kinase 11B OS=Rattus norvegicus OX=10116 GN=Cdk11b PE=1 SV=1	Rattus norvegicus	436	608	39.8	57.1	1.4e-67
+80	SP	Q4Z6R1	Cyclin-dependent kinase 2 homolog OS=Plasmodium berghei (strain Anka) OX=5823 GN=CRK2 PE=2 SV=1	Plasmodium berghei (strain Anka)	288	593	41.3	62.0	1.8e-67
+81	SP	P24788	Cyclin-dependent kinase 11B OS=Mus musculus OX=10090 GN=Cdk11b PE=1 SV=2	Mus musculus	784	632	27.6	45.1	2e-67
+82	SP	P34117	Cyclin-dependent kinase 5 homolog OS=Dictyostelium discoideum OX=44689 GN=cdk5 PE=2 SV=2	Dictyostelium discoideum	292	593	40.1	61.6	2.1e-67
+83	SP	P48963	Cyclin-dependent kinase 2 OS=Mesocricetus auratus OX=10036 GN=CDK2 PE=2 SV=1	Mesocricetus auratus	298	593	41.9	59.1	2.5e-67
+84	SP	Q9W739	Cyclin-dependent kinase 1 OS=Rana dybowskii OX=71582 GN=CDK1 PE=2 SV=1	Rana dybowskii	302	593	41.6	60.7	2.8e-67
+85	SP	P13863	Cyclin-dependent kinase 1 OS=Gallus gallus OX=9031 GN=CDK1 PE=1 SV=1	Gallus gallus	303	592	41.5	62.5	4e-67
+86	SP	P06493	Cyclin-dependent kinase 1 OS=Homo sapiens OX=9606 GN=CDK1 PE=1 SV=3	Homo sapiens	297	591	41.2	62.2	4.5e-67
+87	SP	Q4Y4B1	Cyclin-dependent kinase 2 homolog OS=Plasmodium chabaudi chabaudi OX=31271 GN=CRK2 PE=3 SV=1	Plasmodium chabaudi chabaudi	288	589	41.0	62.0	6.3e-67
+88	SP	Q80YP0	Cyclin-dependent kinase 3 OS=Mus musculus OX=10090 GN=Cdk3 PE=1 SV=3	Mus musculus	304	590	43.5	62.2	7.6e-67
+89	SP	P48734	Cyclin-dependent kinase 1 OS=Bos taurus OX=9913 GN=CDK1 PE=2 SV=2	Bos taurus	297	589	41.2	62.2	8.3e-67
+90	SP	O60145	Serine/threonine-protein kinase ppk23 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ppk23 PE=3 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	398	597	39.0	56.5	1.4e-66
+91	SP	Q5RCH1	Cyclin-dependent kinase 1 OS=Pongo abelii OX=9601 GN=CDK1 PE=2 SV=1	Pongo abelii	297	587	40.8	61.9	1.5e-66
+92	SP	Q9C9M7	Cyclin-dependent kinase D-2 OS=Arabidopsis thaliana OX=3702 GN=CDKD-2 PE=1 SV=1	Arabidopsis thaliana	348	592	40.2	55.6	1.6e-66
+93	SP	Q8IZL9	Cyclin-dependent kinase 20 OS=Homo sapiens OX=9606 GN=CDK20 PE=1 SV=1	Homo sapiens	346	591	38.7	60.1	2e-66
+94	SP	Q9UQ88	Cyclin-dependent kinase 11A OS=Homo sapiens OX=9606 GN=CDK11A PE=1 SV=4	Homo sapiens	783	623	26.8	42.9	2.8e-66
+95	SP	P39951	Cyclin-dependent kinase 1 OS=Rattus norvegicus OX=10116 GN=Cdk1 PE=1 SV=1	Rattus norvegicus	297	585	40.8	62.2	2.9e-66
+96	SP	P11440	Cyclin-dependent kinase 1 OS=Mus musculus OX=10090 GN=Cdk1 PE=1 SV=3	Mus musculus	297	585	40.8	62.2	2.9e-66
+97	SP	Q23357	Cyclin-dependent kinase 11.2 OS=Caenorhabditis elegans OX=6239 GN=cdk-11.2 PE=1 SV=2	Caenorhabditis elegans	668	615	29.4	48.3	3.8e-66
+98	SP	P34112	Cyclin-dependent kinase 1 OS=Dictyostelium discoideum OX=44689 GN=cdk1 PE=2 SV=1	Dictyostelium discoideum	296	583	42.4	63.3	5.1e-66
+99	SP	P00546	Cyclin-dependent kinase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CDC28 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	298	583	43.3	61.2	5.5e-66
+100	SP	Q55GS4	Probable cyclin-dependent kinase 10 OS=Dictyostelium discoideum OX=44689 GN=cdk10 PE=2 SV=1	Dictyostelium discoideum	366	589	41.9	60.5	6.6e-66
+101	SP	Q27032	Cyclin-dependent kinase 2 homolog OS=Theileria parva OX=5875 GN=CRK2 PE=3 SV=1	Theileria parva	298	581	40.6	61.8	1e-65
+102	SP	Q7RM49	Cyclin-dependent kinase 2 homolog OS=Plasmodium yoelii yoelii OX=73239 GN=CRK2 PE=3 SV=1	Plasmodium yoelii yoelii	289	577	40.9	61.8	2.6e-65
+103	SP	A8XA58	Cyclin-dependent kinase 1 OS=Caenorhabditis briggsae OX=6238 GN=cdk-1 PE=3 SV=1	Caenorhabditis briggsae	326	580	37.5	60.6	3.2e-65
+104	SP	Q9C9U2	Cyclin-dependent kinase D-1 OS=Arabidopsis thaliana OX=3702 GN=CDKD-1 PE=1 SV=1	Arabidopsis thaliana	398	586	38.4	59.0	4.1e-65
+105	SP	Q26671	Cyclin-dependent kinase 2 homolog OS=Theileria annulata OX=5874 GN=CRK2 PE=2 SV=1	Theileria annulata	298	576	40.6	61.8	4.7e-65
+106	SP	P23573	Cyclin-dependent kinase 2 OS=Drosophila melanogaster OX=7227 GN=Cdk2 PE=1 SV=1	Drosophila melanogaster	314	577	39.9	59.1	5.7e-65
+107	SP	O96821	Cyclin-dependent kinase 2 homolog OS=Plasmodium knowlesi (strain H) OX=5851 GN=CRK2 PE=3 SV=1	Plasmodium knowlesi (strain H)	288	574	41.3	61.3	6.4e-65
+108	SP	Q9XZD6	Cyclin-dependent kinase 2 homolog OS=Plasmodium vivax OX=5855 GN=CRK2 PE=3 SV=1	Plasmodium vivax	288	571	40.9	60.8	1.6e-64
+109	SP	G5EFV5	Cyclin-dependent kinase 7 OS=Caenorhabditis elegans OX=6239 GN=cdk-7 PE=1 SV=1	Caenorhabditis elegans	330	574	37.5	56.9	2.3e-64
+110	SP	Q06309	Cell division protein kinase 2 homolog CRK1 OS=Leishmania mexicana OX=5665 GN=CRK1 PE=2 SV=1	Leishmania mexicana	301	571	40.3	59.4	2.4e-64
+111	SP	Q9JHU3	Cyclin-dependent kinase 20 OS=Mus musculus OX=10090 GN=Cdk20 PE=1 SV=1	Mus musculus	346	575	38.3	58.5	2.7e-64
+112	SP	Q07785	Cyclin-dependent kinase 2 homolog OS=Plasmodium falciparum (isolate K1 / Thailand) OX=5839 GN=CRK2 PE=1 SV=1	Plasmodium falciparum (isolate K1 / Thailand)	288	569	40.5	60.5	3e-64
+113	SP	P61075	Cyclin-dependent kinase 2 homolog OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=CRK2 PE=1 SV=1	Plasmodium falciparum (isolate 3D7)	288	569	40.5	60.5	3e-64
+114	SP	P51166	Cyclin-dependent-like kinase 5 OS=Xenopus laevis OX=8355 GN=cdk5 PE=2 SV=1	Xenopus laevis	292	569	40.5	61.4	3.4e-64
+115	SP	Q9VPC0	Serine/threonine-protein kinase PITSLRE OS=Drosophila melanogaster OX=7227 GN=Pitslre PE=1 SV=1	Drosophila melanogaster	952	614	24.3	40.6	3.7e-64
+116	SP	Q4KM34	Cyclin-dependent kinase 20 OS=Rattus norvegicus OX=10116 GN=Cdk20 PE=2 SV=2	Rattus norvegicus	346	574	38.3	58.5	3.7e-64
+117	SP	Q5R7I7	Cyclin-dependent kinase 20 OS=Pongo abelii OX=9601 GN=CDK20 PE=2 SV=1	Pongo abelii	346	574	38.3	59.7	3.7e-64
+118	SP	A2Y4B6	Cyclin-dependent kinase D-1 OS=Oryza sativa subsp. indica OX=39946 GN=CDKD-1 PE=2 SV=1	Oryza sativa subsp. indica	424	581	39.7	59.4	3.9e-64
+119	SP	Q00535	Cyclin-dependent kinase 5 OS=Homo sapiens OX=9606 GN=CDK5 PE=1 SV=3	Homo sapiens	292	568	40.2	61.4	4.6e-64
+120	SP	P29620	Cyclin-dependent kinase D-1 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKD-1 PE=1 SV=1	Oryza sativa subsp. japonica	424	580	39.7	59.4	5.3e-64
+121	SP	P49615	Cyclin-dependent kinase 5 OS=Mus musculus OX=10090 GN=Cdk5 PE=1 SV=1	Mus musculus	292	566	40.2	61.4	8.6e-64
+122	SP	Q02399	Cyclin-dependent kinase 5 OS=Bos taurus OX=9913 GN=CDK5 PE=1 SV=2	Bos taurus	292	566	40.2	61.4	8.6e-64
+123	SP	P23572	Cyclin-dependent kinase 1 OS=Drosophila melanogaster OX=7227 GN=Cdk1 PE=1 SV=1	Drosophila melanogaster	297	565	38.3	61.7	1.4e-63
+124	SP	P17157	Cyclin-dependent protein kinase PHO85 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PHO85 PE=1 SV=2	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	305	562	40.4	61.3	4.4e-63
+125	SP	Q03114	Cyclin-dependent kinase 5 OS=Rattus norvegicus OX=10116 GN=Cdk5 PE=1 SV=1	Rattus norvegicus	292	560	39.9	61.1	5.5e-63
+126	SP	P04551	Cyclin-dependent kinase 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cdc2 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	297	560	38.3	60.1	6.4e-63
+127	SP	Q09437	Cyclin-dependent kinase 11.1 OS=Caenorhabditis elegans OX=6239 GN=cdk-11.1 PE=1 SV=1	Caenorhabditis elegans	719	589	26.8	45.0	2.3e-62
+128	SP	Q9LMT0	Cyclin-dependent kinase D-3 OS=Arabidopsis thaliana OX=3702 GN=CDKD-3 PE=1 SV=1	Arabidopsis thaliana	391	564	38.4	58.1	2.9e-62
+129	SP	P34556	Cyclin-dependent kinase 1 OS=Caenorhabditis elegans OX=6239 GN=cdk-1 PE=1 SV=1	Caenorhabditis elegans	332	558	37.3	60.1	3.4e-62
+130	SP	Q6C7U8	Negative regulator of the PHO system OS=Yarrowia lipolytica (strain CLIB 122 / E 150) OX=284591 GN=PHO85 PE=3 SV=1	Yarrowia lipolytica (strain CLIB 122 / E 150)	294	554	39.9	62.1	3.7e-62
+131	SP	A8WIP6	Cyclin-dependent kinase 20 OS=Danio rerio OX=7955 GN=cdk20 PE=2 SV=1	Danio rerio	344	557	38.6	60.8	6.5e-62
+132	SP	O61847	Cyclin-dependent kinase 2 OS=Caenorhabditis elegans OX=6239 GN=cdk-2 PE=1 SV=2	Caenorhabditis elegans	368	555	41.8	59.6	2.4e-61
+133	SP	Q00646	Cyclin-dependent kinase 1 OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) OX=227321 GN=nimX PE=2 SV=1	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	323	550	38.9	56.9	3e-61
+134	SP	Q0J4I1	Cyclin-dependent kinase B2-1 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKB2-1 PE=1 SV=1	Oryza sativa subsp. japonica	326	550	39.1	60.9	3.3e-61
+135	SP	O35832	Cyclin-dependent kinase 18 OS=Rattus norvegicus OX=10116 GN=Cdk18 PE=1 SV=1	Rattus norvegicus	451	561	37.0	56.2	3.5e-61
+136	SP	P54119	Cyclin-dependent kinase 1 OS=Ajellomyces capsulatus OX=5037 GN=CDC2 PE=3 SV=1	Ajellomyces capsulatus	324	549	39.4	56.1	4.2e-61
+137	SP	P54664	Cell division control protein 2 homolog 1 OS=Trypanosoma congolense OX=5692 GN=CRK1 PE=3 SV=1	Trypanosoma congolense	301	546	39.5	59.2	5.4e-61
+138	SP	Q6FKD4	Negative regulator of the PHO system OS=Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) OX=284593 GN=PHO85 PE=3 SV=1	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)	302	546	41.4	59.7	5.5e-61
+139	SP	Q04899	Cyclin-dependent kinase 18 OS=Mus musculus OX=10090 GN=Cdk18 PE=1 SV=1	Mus musculus	451	559	37.0	55.9	6.5e-61
+140	SP	P48609	Cyclin-dependent kinase 5 homolog OS=Drosophila melanogaster OX=7227 GN=Cdk5 PE=1 SV=2	Drosophila melanogaster	294	541	39.5	58.5	2e-60
+141	SP	Q2PQN9	Cyclin-dependent kinase 5 homolog OS=Glossina morsitans morsitans OX=37546 GN=Cdk5 PE=2 SV=1	Glossina morsitans morsitans	292	540	38.6	58.8	2.6e-60
+142	SP	P23293	Serine/threonine-protein kinase BUR1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SGV1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	657	566	37.2	55.6	7.1e-60
+143	SP	P97377	Cyclin-dependent kinase 2 OS=Mus musculus OX=10090 GN=Cdk2 PE=1 SV=2	Mus musculus	346	541	37.1	51.2	9.4e-60
+144	SP	Q5RD01	Cyclin-dependent kinase 18 OS=Pongo abelii OX=9601 GN=CDK18 PE=2 SV=3	Pongo abelii	474	552	36.7	55.3	9.7e-60
+145	SP	Q00536	Cyclin-dependent kinase 16 OS=Homo sapiens OX=9606 GN=CDK16 PE=1 SV=1	Homo sapiens	496	553	33.8	51.4	1.2e-59
+146	SP	Q9HGY5	Negative regulator of the PHO system OS=Candida albicans OX=5476 GN=PHO85 PE=3 SV=1	Candida albicans	326	537	37.4	56.4	1.8e-59
+147	SP	Q6BRY2	Negative regulator of the PHO system OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=PHO85 PE=3 SV=2	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	330	537	35.4	55.9	2e-59
+148	SP	P38973	Cell division control protein 2 homolog 1 OS=Trypanosoma brucei brucei OX=5702 GN=CRK1 PE=3 SV=1	Trypanosoma brucei brucei	301	534	37.5	59.1	2.2e-59
+149	SP	Q63686	Cyclin-dependent kinase 16 OS=Rattus norvegicus OX=10116 GN=Cdk16 PE=1 SV=2	Rattus norvegicus	496	551	35.8	54.1	2.2e-59
+150	SP	P54665	Cell division control protein 2 homolog 2 OS=Trypanosoma brucei brucei OX=5702 GN=CRK2 PE=3 SV=1	Trypanosoma brucei brucei	345	538	37.4	56.8	2.3e-59
+151	SP	Q92241	Negative regulator of the PHO system OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) OX=284590 GN=PHO85 PE=3 SV=2	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	304	534	39.1	59.5	2.4e-59
+152	SP	Q8SR86	Cyclin-dependent kinase 1 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=CDC28 PE=3 SV=1	Encephalitozoon cuniculi (strain GB-M1)	296	533	38.9	56.4	2.5e-59
+153	SP	Q8LG64	Cyclin-dependent kinase B2-2 OS=Arabidopsis thaliana OX=3702 GN=CDKB2-2 PE=1 SV=2	Arabidopsis thaliana	315	534	39.8	59.2	3.3e-59
+154	SP	Q07002	Cyclin-dependent kinase 18 OS=Homo sapiens OX=9606 GN=CDK18 PE=1 SV=4	Homo sapiens	474	547	36.7	55.0	4.4e-59
+155	SP	Q04735	Cyclin-dependent kinase 16 OS=Mus musculus OX=10090 GN=Cdk16 PE=1 SV=1	Mus musculus	496	548	35.8	53.8	5.5e-59
+156	SP	O35831	Cyclin-dependent kinase 17 OS=Rattus norvegicus OX=10116 GN=Cdk17 PE=1 SV=1	Rattus norvegicus	523	549	34.5	55.0	7.6e-59
+157	SP	P54685	Cyclin-dependent kinase 7 OS=Dictyostelium discoideum OX=44689 GN=cdk7 PE=2 SV=2	Dictyostelium discoideum	360	534	37.3	57.6	1.2e-58
+158	SP	O74456	Serine/threonine-protein kinase pef1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pef1 PE=3 SV=2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	288	527	38.8	60.9	1.3e-58
+159	SP	Q8K0D0	Cyclin-dependent kinase 17 OS=Mus musculus OX=10090 GN=Cdk17 PE=1 SV=2	Mus musculus	523	547	34.5	55.0	1.4e-58
+160	SP	G5ECH7	Cyclin-dependent-like kinase 5 OS=Caenorhabditis elegans OX=6239 GN=cdk-5 PE=1 SV=1	Caenorhabditis elegans	292	527	38.8	58.5	1.4e-58
+161	SP	Q8LF80	Cyclin-dependent kinase B2-1 OS=Arabidopsis thaliana OX=3702 GN=CDKB2-1 PE=1 SV=2	Arabidopsis thaliana	313	527	39.5	58.9	2.7e-58
+162	SP	Q751E8	Negative regulator of the PHO system OS=Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) OX=284811 GN=PHO85 PE=3 SV=2	Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	301	525	38.7	59.9	3.5e-58
+163	SP	Q00537	Cyclin-dependent kinase 17 OS=Homo sapiens OX=9606 GN=CDK17 PE=1 SV=2	Homo sapiens	523	544	38.4	59.5	3.5e-58
+164	SP	Q8I7M8	Cyclin-dependent kinase 17 OS=Caenorhabditis elegans OX=6239 GN=pct-1 PE=1 SV=1	Caenorhabditis elegans	667	552	31.4	50.5	5.5e-58
+165	SP	Q03147	Cyclin-dependent kinase 7 OS=Mus musculus OX=10090 GN=Cdk7 PE=1 SV=2	Mus musculus	346	527	36.9	57.4	6.9e-58
+166	SP	Q2V419	Cyclin-dependent kinase B1-2 OS=Arabidopsis thaliana OX=3702 GN=CDKB1-2 PE=1 SV=2	Arabidopsis thaliana	311	522	36.9	59.6	1.2e-57
+167	SP	P50613	Cyclin-dependent kinase 7 OS=Homo sapiens OX=9606 GN=CDK7 PE=1 SV=1	Homo sapiens	346	524	37.2	56.7	1.7e-57
+168	SP	Q8L4P8	Cyclin-dependent kinase B1-1 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKB1-1 PE=2 SV=1	Oryza sativa subsp. japonica	303	516	36.8	60.0	5.8e-57
+169	SP	Q04770	Cyclin-dependent kinase 2 OS=Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM) OX=294381 GN=CDC2 PE=3 SV=2	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	291	514	39.9	58.0	7.6e-57
+170	SP	Q6FQ83	Serine/threonine-protein kinase BUR1 OS=Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) OX=284593 GN=BUR1 PE=3 SV=1	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)	667	543	35.3	54.7	7.9e-57
+171	SP	Q54Y06	Probable cyclin-dependent serine/threonine-protein kinase DDB_G0278487 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0278487 PE=2 SV=1	Dictyostelium discoideum	636	541	37.7	56.2	8.4e-57
+172	SP	Q6CRA9	Serine/threonine-protein kinase BUR1 OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) OX=284590 GN=BUR1 PE=3 SV=1	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	645	541	36.1	54.6	9.8e-57
+173	SP	P51952	Cyclin-dependent kinase 7 (Fragment) OS=Rattus norvegicus OX=10116 GN=Cdk7 PE=1 SV=2	Rattus norvegicus	329	516	35.0	56.0	1.2e-56
+174	SP	Q38775	Cell division control protein 2 homolog D OS=Antirrhinum majus OX=4151 GN=CDC2D PE=2 SV=1	Antirrhinum majus	312	514	37.2	58.4	1.4e-56
+175	SP	Q75D46	Serine/threonine-protein kinase BUR1 OS=Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) OX=284811 GN=BUR1 PE=3 SV=1	Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	753	543	36.8	55.4	3e-56
+176	SP	Q95YH0	Probable cyclin-dependent kinase 8 OS=Dictyostelium discoideum OX=44689 GN=cdk8 PE=2 SV=1	Dictyostelium discoideum	380	513	36.2	55.3	1.3e-55
+177	SP	P20911	Cyclin-dependent kinase 7 OS=Xenopus laevis OX=8355 GN=cdk7 PE=1 SV=1	Xenopus laevis	352	504	37.3	55.7	9.5e-55
+178	SP	B0VXE8	Cyclin-dependent kinase 14 OS=Callithrix jacchus OX=9483 GN=CDK14 PE=3 SV=1	Callithrix jacchus	423	508	37.2	56.9	1.8e-54
+179	SP	A4IIW7	Cyclin-dependent kinase 14 OS=Xenopus tropicalis OX=8364 GN=cdk14 PE=2 SV=1	Xenopus tropicalis	423	506	37.5	56.9	3.3e-54
+180	SP	B0VXL7	Cyclin-dependent kinase 14 OS=Plecturocebus moloch OX=9523 GN=CDK14 PE=3 SV=1	Plecturocebus moloch	451	508	37.2	56.9	3.6e-54
+181	SP	Q39025	Mitogen-activated protein kinase 5 OS=Arabidopsis thaliana OX=3702 GN=MPK5 PE=2 SV=2	Arabidopsis thaliana	376	501	38.7	56.2	4.5e-54
+182	SP	O35495	Cyclin-dependent kinase 14 OS=Mus musculus OX=10090 GN=Cdk14 PE=1 SV=2	Mus musculus	469	508	37.2	56.9	5.4e-54
+183	SP	O94921	Cyclin-dependent kinase 14 OS=Homo sapiens OX=9606 GN=CDK14 PE=1 SV=3	Homo sapiens	469	508	37.2	56.9	5.4e-54
+184	SP	Q8SQW2	Probable CTD kinase subunit alpha homolog OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=CTK1 PE=3 SV=1	Encephalitozoon cuniculi (strain GB-M1)	329	496	39.5	57.1	5.8e-54
+185	SP	Q336M2	Cyclin-dependent kinase E-1 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKE-1 PE=2 SV=2	Oryza sativa subsp. japonica	475	508	36.4	54.8	6.2e-54
+186	SP	B6A7Q3	Cyclin-dependent kinase 14 OS=Oryctolagus cuniculus OX=9986 GN=CDK14 PE=3 SV=1	Oryctolagus cuniculus	468	507	37.2	56.6	7.2e-54
+187	SP	C0RW22	Cyclin-dependent kinase 14 OS=Dasypus novemcinctus OX=9361 GN=CDK14 PE=3 SV=1	Dasypus novemcinctus	468	507	37.2	56.6	7.2e-54
+188	SP	Q6DJM7	Cyclin-dependent kinase 14 OS=Xenopus laevis OX=8355 GN=cdk14 PE=2 SV=1	Xenopus laevis	435	502	34.6	52.7	1.5e-53
+189	SP	Q84SN3	Cyclin-dependent kinase F-3 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKF-3 PE=2 SV=1	Oryza sativa subsp. japonica	433	500	37.2	58.1	2.6e-53
+190	SP	Q12126	Serine/threonine-protein kinase crk1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=crk1 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	335	491	35.4	55.3	3.2e-53
+191	SP	Q00532	Cyclin-dependent kinase-like 1 OS=Homo sapiens OX=9606 GN=CDKL1 PE=1 SV=8	Homo sapiens	357	492	36.2	56.1	4.3e-53
+192	SP	Q64261	Cyclin-dependent kinase 6 OS=Mus musculus OX=10090 GN=Cdk6 PE=1 SV=2	Mus musculus	326	489	38.4	56.3	4.6e-53
+193	SP	Q00534	Cyclin-dependent kinase 6 OS=Homo sapiens OX=9606 GN=CDK6 PE=1 SV=1	Homo sapiens	326	489	38.1	56.3	4.6e-53
+194	SP	Q3V3A1	Cyclin-dependent kinase 15 OS=Mus musculus OX=10090 GN=Cdk15 PE=2 SV=2	Mus musculus	433	497	36.2	53.7	6.5e-53
+195	SP	Q3TZA2	Cyclin-dependent kinase-like 4 OS=Mus musculus OX=10090 GN=Cdkl4 PE=2 SV=1	Mus musculus	342	487	34.0	55.2	1.3e-52
+196	SP	P25859	Cyclin-dependent kinase B1-1 OS=Arabidopsis thaliana OX=3702 GN=CDKB1-1 PE=1 SV=2	Arabidopsis thaliana	309	483	35.0	57.2	1.8e-52
+197	SP	Q5R754	Cyclin-dependent kinase-like 2 OS=Pongo abelii OX=9601 GN=CDKL2 PE=2 SV=1	Pongo abelii	493	498	34.8	57.9	1.9e-52
+198	SP	Q91727	Cyclin-dependent kinase 4 OS=Xenopus laevis OX=8355 GN=cdk4 PE=1 SV=1	Xenopus laevis	319	482	39.1	55.0	3.2e-52
+199	SP	Q92772	Cyclin-dependent kinase-like 2 OS=Homo sapiens OX=9606 GN=CDKL2 PE=1 SV=1	Homo sapiens	493	496	34.8	57.9	3.5e-52
+200	SP	P06242	Serine/threonine-protein kinase KIN28 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=KIN28 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	306	480	34.2	55.0	4.1e-52
+201	SP	Q336X9	Mitogen-activated protein kinase 6 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK6 PE=2 SV=1	Oryza sativa subsp. japonica	376	486	38.8	55.9	4.4e-52
+202	SP	Q38774	Cell division control protein 2 homolog C OS=Antirrhinum majus OX=4151 GN=CDC2C PE=2 SV=1	Antirrhinum majus	305	479	36.1	58.1	5.4e-52
+203	SP	Q4R7T5	Cyclin-dependent kinase-like 2 OS=Macaca fascicularis OX=9541 GN=CDKL2 PE=2 SV=1	Macaca fascicularis	570	499	34.8	57.9	6.9e-52
+204	SP	Q9TTK0	Cyclin-dependent kinase-like 2 OS=Oryctolagus cuniculus OX=9986 GN=CDKL2 PE=2 SV=1	Oryctolagus cuniculus	566	498	34.4	58.2	8.6e-52
+205	SP	Q6CCB0	Serine/threonine-protein kinase SSN3 OS=Yarrowia lipolytica (strain CLIB 122 / E 150) OX=284591 GN=SSN3 PE=3 SV=1	Yarrowia lipolytica (strain CLIB 122 / E 150)	405	486	34.9	52.9	9.3e-52
+206	SP	Q8CEQ0	Cyclin-dependent kinase-like 1 OS=Mus musculus OX=10090 GN=Cdkl1 PE=2 SV=1	Mus musculus	352	481	36.1	56.5	1.1e-51
+207	SP	Q39021	Mitogen-activated protein kinase 1 OS=Arabidopsis thaliana OX=3702 GN=MPK1 PE=1 SV=2	Arabidopsis thaliana	370	482	37.7	54.0	1.3e-51
+208	SP	Q84TI6	Cyclin-dependent kinase E-1 OS=Arabidopsis thaliana OX=3702 GN=CDKE-1 PE=1 SV=2	Arabidopsis thaliana	470	486	35.7	56.6	4.3e-51
+209	SP	Q39024	Mitogen-activated protein kinase 4 OS=Arabidopsis thaliana OX=3702 GN=MPK4 PE=1 SV=2	Arabidopsis thaliana	376	478	39.0	56.6	5.1e-51
+210	SP	Q54QB1	Extracellular signal-regulated kinase 2 OS=Dictyostelium discoideum OX=44689 GN=erkB PE=1 SV=1	Dictyostelium discoideum	369	476	38.9	55.4	7.9e-51
+211	SP	Q9LQQ9	Mitogen-activated protein kinase 13 OS=Arabidopsis thaliana OX=3702 GN=MPK13 PE=1 SV=1	Arabidopsis thaliana	363	475	37.7	55.0	9.1e-51
+212	SP	Q8SR90	Probable cell division protein kinase ECU11_1290 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU08_1790 PE=3 SV=1	Encephalitozoon cuniculi (strain GB-M1)	309	470	34.7	55.6	9.6e-51
+213	SP	Q3UTQ8	Cyclin-dependent kinase-like 5 OS=Mus musculus OX=10090 GN=Cdkl5 PE=1 SV=1	Mus musculus	938	505	37.5	57.5	1.2e-50
+214	SP	O76039	Cyclin-dependent kinase-like 5 OS=Homo sapiens OX=9606 GN=CDKL5 PE=1 SV=2	Homo sapiens	960	505	37.5	57.5	1.3e-50
+215	SP	A0A1S3Z5Y0	Mitogen-activated protein kinase SIPK OS=Nicotiana tabacum OX=4097 GN=SIPK PE=1 SV=1	Nicotiana tabacum	393	476	37.2	55.0	1.5e-50
+216	SP	Q6AXJ9	Cyclin-dependent kinase-like 1 OS=Danio rerio OX=7955 GN=cdkl1 PE=2 SV=1	Danio rerio	350	472	35.0	56.5	1.6e-50
+217	SP	Q66HE7	Cyclin-dependent kinase-like 1 OS=Rattus norvegicus OX=10116 GN=Cdkl1 PE=2 SV=1	Rattus norvegicus	352	472	33.5	53.4	1.7e-50
+218	SP	Q84UI5	Mitogen-activated protein kinase 1 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK1 PE=1 SV=1	Oryza sativa subsp. japonica	398	473	37.2	55.2	4.1e-50
+219	SP	Q39023	Mitogen-activated protein kinase 3 OS=Arabidopsis thaliana OX=3702 GN=MPK3 PE=1 SV=2	Arabidopsis thaliana	370	470	36.7	53.4	5e-50
+220	SP	Q96Q40	Cyclin-dependent kinase 15 OS=Homo sapiens OX=9606 GN=CDK15 PE=1 SV=2	Homo sapiens	435	475	36.8	54.9	5.5e-50
+221	SP	Q39022	Mitogen-activated protein kinase 2 OS=Arabidopsis thaliana OX=3702 GN=MPK2 PE=1 SV=2	Arabidopsis thaliana	376	469	36.2	53.8	8e-50
+222	SP	Q40532	Mitogen-activated protein kinase homolog NTF4 OS=Nicotiana tabacum OX=4097 GN=NTF4 PE=2 SV=1	Nicotiana tabacum	393	470	37.0	54.7	9e-50
+223	SP	P35426	Cyclin-dependent kinase 4 OS=Rattus norvegicus OX=10116 GN=Cdk4 PE=1 SV=1	Rattus norvegicus	303	462	37.0	53.2	9.5e-50
+224	SP	P30285	Cyclin-dependent kinase 4 OS=Mus musculus OX=10090 GN=Cdk4 PE=1 SV=1	Mus musculus	303	462	36.9	53.3	9.5e-50
+225	SP	Q40531	Mitogen-activated protein kinase homolog NTF6 OS=Nicotiana tabacum OX=4097 GN=NTF6 PE=2 SV=1	Nicotiana tabacum	371	468	39.5	54.4	9.5e-50
+226	SP	Q07176	Mitogen-activated protein kinase homolog MMK1 OS=Medicago sativa OX=3879 GN=MMK1 PE=1 SV=1	Medicago sativa	387	469	37.5	54.7	1.1e-49
+227	SP	Q9LKZ1	Mitogen-activated protein kinase 2 OS=Capsicum annuum OX=4072 GN=MK2 PE=1 SV=1	Capsicum annuum	394	469	37.5	55.4	1.3e-49
+228	SP	B2MVY4	Cyclin-dependent kinase 4 OS=Ovis aries OX=9940 PE=2 SV=1	Ovis aries	303	459	37.2	53.5	2.4e-49
+229	SP	Q32KY4	Cyclin-dependent kinase 4 OS=Bos taurus OX=9913 GN=CDK4 PE=2 SV=1	Bos taurus	303	459	37.2	53.5	2.4e-49
+230	SP	P43294	Serine/threonine-protein kinase MHK OS=Arabidopsis thaliana OX=3702 GN=MHK PE=2 SV=2	Arabidopsis thaliana	443	470	35.3	54.3	3e-49
+231	SP	P79432	Cyclin-dependent kinase 4 OS=Sus scrofa OX=9823 GN=CDK4 PE=3 SV=1	Sus scrofa	303	458	37.2	53.5	3.2e-49
+232	SP	A9S9Q8	Mitogen-activated protein kinase 4b OS=Physcomitrium patens OX=3218 GN=MPK4b PE=1 SV=1	Physcomitrium patens	380	463	38.4	56.5	5.5e-49
+233	SP	Q06060	Mitogen-activated protein kinase homolog D5 OS=Pisum sativum OX=3888 PE=2 SV=1	Pisum sativum	394	463	37.1	55.4	7.8e-49
+234	SP	P11802	Cyclin-dependent kinase 4 OS=Homo sapiens OX=9606 GN=CDK4 PE=1 SV=2	Homo sapiens	303	455	36.9	53.3	8.2e-49
+235	SP	Q8SQU8	Probable cell division protein kinase ECU11_1290 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU11_1290 PE=3 SV=2	Encephalitozoon cuniculi (strain GB-M1)	315	456	34.3	53.7	8.4e-49
+236	SP	Q40517	Mitogen-activated protein kinase homolog NTF3 OS=Nicotiana tabacum OX=4097 GN=NTF3 PE=1 SV=1	Nicotiana tabacum	372	460	36.2	53.1	1.1e-48
+237	SP	Q9QUK0	Cyclin-dependent kinase-like 2 OS=Mus musculus OX=10090 GN=Cdkl2 PE=2 SV=1	Mus musculus	568	474	33.2	56.1	1.2e-48
+238	SP	P51953	Cyclin-dependent kinase 7 OS=Carassius auratus OX=7957 GN=cdk7 PE=2 SV=1	Carassius auratus	344	457	34.0	54.0	1.4e-48
+239	SP	Q1RLU9	Cyclin-dependent kinase 15 OS=Danio rerio OX=7955 GN=cdk15 PE=2 SV=1	Danio rerio	418	463	34.0	51.7	1.4e-48
+240	SP	Q40353	Mitogen-activated protein kinase homolog MMK2 OS=Medicago sativa OX=3879 GN=MMK2 PE=2 SV=1	Medicago sativa	371	458	37.3	56.7	2e-48
+241	SP	Q5MAI5	Cyclin-dependent kinase-like 4 OS=Homo sapiens OX=9606 GN=CDKL4 PE=1 SV=2	Homo sapiens	379	458	32.7	55.2	2.5e-48
+242	SP	Q0TWJ7	Serine/threonine-protein kinase SSN3 OS=Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173) OX=321614 GN=SSN3 PE=3 SV=1	Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173)	443	463	31.1	50.5	2.5e-48
+243	SP	Q10N20	Mitogen-activated protein kinase 5 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK5 PE=1 SV=1	Oryza sativa subsp. japonica	369	457	37.4	53.3	2.6e-48
+244	SP	A2XFC8	Mitogen-activated protein kinase 5 OS=Oryza sativa subsp. indica OX=39946 GN=MPK5 PE=1 SV=2	Oryza sativa subsp. indica	369	457	37.4	53.3	2.6e-48
+245	SP	Q8GYQ5	Mitogen-activated protein kinase 12 OS=Arabidopsis thaliana OX=3702 GN=MPK12 PE=1 SV=1	Arabidopsis thaliana	372	457	36.9	54.6	2.8e-48
+246	SP	Q5XIT0	Cyclin-dependent kinase-like 2 OS=Rattus norvegicus OX=10116 GN=Cdkl2 PE=2 SV=1	Rattus norvegicus	507	467	32.9	55.5	2.9e-48
+247	SP	Q9LKZ2	Mitogen-activated protein kinase 1 OS=Capsicum annuum OX=4072 GN=MK1 PE=1 SV=1	Capsicum annuum	375	455	35.4	55.0	5.6e-48
+248	SP	Q2UC58	Serine/threonine-protein kinase SSN3 OS=Aspergillus oryzae (strain ATCC 42149 / RIB 40) OX=510516 GN=ssn3 PE=3 SV=2	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	413	458	30.6	50.0	5.7e-48
+249	SP	Q39026	Mitogen-activated protein kinase 6 OS=Arabidopsis thaliana OX=3702 GN=MPK6 PE=1 SV=1	Arabidopsis thaliana	395	456	36.1	53.8	6.8e-48
+250	SP	Q40884	Mitogen-activated protein kinase homolog 1 OS=Petunia hybrida OX=4102 GN=MPK1 PE=2 SV=1	Petunia hybrida	384	455	35.6	53.4	7e-48
+251	SP	Q5J4W4	Mitogen-activated protein kinase 2 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK2 PE=2 SV=1	Oryza sativa subsp. japonica	394	454	36.2	56.6	1.2e-47
+252	SP	P39745	Mitogen-activated protein kinase mpk-1 OS=Caenorhabditis elegans OX=6239 GN=mpk-1 PE=1 SV=2	Caenorhabditis elegans	444	456	37.8	53.1	2.1e-47
+253	SP	P46196	Mitogen-activated protein kinase 1 OS=Bos taurus OX=9913 GN=MAPK1 PE=2 SV=3	Bos taurus	360	449	36.9	52.4	2.4e-47
+254	SP	Q6Z8C8	Cyclin-dependent kinase F-4 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKF-4 PE=2 SV=1	Oryza sativa subsp. japonica	459	456	30.1	50.0	3e-47
+255	SP	P28482	Mitogen-activated protein kinase 1 OS=Homo sapiens OX=9606 GN=MAPK1 PE=1 SV=3	Homo sapiens	360	448	36.9	52.4	3.2e-47
+256	SP	Q39027	Mitogen-activated protein kinase 7 OS=Arabidopsis thaliana OX=3702 GN=MPK7 PE=1 SV=2	Arabidopsis thaliana	368	448	35.8	53.0	4e-47
+257	SP	P63086	Mitogen-activated protein kinase 1 OS=Rattus norvegicus OX=10116 GN=Mapk1 PE=1 SV=3	Rattus norvegicus	358	447	36.9	52.4	4.2e-47
+258	SP	P63085	Mitogen-activated protein kinase 1 OS=Mus musculus OX=10090 GN=Mapk1 PE=1 SV=3	Mus musculus	358	447	36.9	52.4	4.2e-47
+259	SP	Q8SRF5	Probable cell division protein kinase ECU08_0230 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU08_0230 PE=3 SV=1	Encephalitozoon cuniculi (strain GB-M1)	265	438	43.6	64.0	5.1e-47
+260	SP	Q8BWD8	Cyclin-dependent kinase 19 OS=Mus musculus OX=10090 GN=Cdk19 PE=2 SV=1	Mus musculus	501	456	31.6	48.3	7.1e-47
+261	SP	Q6Z437	Mitogen-activated protein kinase 3 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK3 PE=2 SV=1	Oryza sativa subsp. japonica	370	446	34.7	53.7	7.7e-47
+262	SP	Q9VT57	Cyclin-dependent kinase 8 OS=Drosophila melanogaster OX=7227 GN=Cdk8 PE=1 SV=2	Drosophila melanogaster	454	452	33.2	50.9	8.9e-47
+263	SP	P16892	Mitogen-activated protein kinase FUS3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=FUS3 PE=1 SV=2	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	353	444	33.5	52.7	9.1e-47
+264	SP	Q9BWU1	Cyclin-dependent kinase 19 OS=Homo sapiens OX=9606 GN=CDK19 PE=1 SV=1	Homo sapiens	502	455	33.9	52.1	9.7e-47
+265	SP	Q5Z859	Mitogen-activated protein kinase 4 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK4 PE=2 SV=1	Oryza sativa subsp. japonica	369	445	34.6	53.1	1e-46
+266	SP	P49336	Cyclin-dependent kinase 8 OS=Homo sapiens OX=9606 GN=CDK8 PE=1 SV=1	Homo sapiens	464	452	35.5	52.6	1.1e-46
+267	SP	Q9U2H1	Cyclin-dependent kinase-like 1 OS=Caenorhabditis elegans OX=6239 GN=cdkl-1 PE=1 SV=1	Caenorhabditis elegans	353	443	32.8	54.3	1.2e-46
+268	SP	Q9M1Z5	Mitogen-activated protein kinase 10 OS=Arabidopsis thaliana OX=3702 GN=MPK10 PE=1 SV=1	Arabidopsis thaliana	393	446	36.9	55.2	1.3e-46
+269	SP	P26696	Mitogen-activated protein kinase 1 OS=Xenopus laevis OX=8355 GN=mapk1 PE=1 SV=3	Xenopus laevis	361	443	37.1	52.9	1.5e-46
+270	SP	A1CL96	Serine/threonine-protein kinase ssn3 OS=Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107) OX=344612 GN=ssn3 PE=3 SV=2	Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)	426	448	30.7	48.5	1.6e-46
+271	SP	A9T142	Mitogen-activated protein kinase 4a OS=Physcomitrium patens OX=3218 GN=MPK4a PE=1 SV=1	Physcomitrium patens	375	444	36.8	53.7	1.6e-46
+272	SP	Q8R3L8	Cyclin-dependent kinase 8 OS=Mus musculus OX=10090 GN=Cdk8 PE=1 SV=3	Mus musculus	464	450	33.8	50.7	2e-46
+273	SP	A1D624	Serine/threonine-protein kinase ssn3 OS=Aspergillus fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181) OX=331117 GN=ssn3 PE=3 SV=1	Aspergillus fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181)	426	447	31.0	48.5	2.2e-46
+274	SP	P42525	Extracellular signal-regulated kinase 1 OS=Dictyostelium discoideum OX=44689 GN=erkA PE=2 SV=2	Dictyostelium discoideum	529	453	34.1	51.5	3e-46
+275	SP	Q17IE8	Cyclin-dependent kinase 8 OS=Aedes aegypti OX=7159 GN=Cdk8 PE=3 SV=2	Aedes aegypti	501	451	28.3	44.3	3.2e-46
+276	SP	Q4WYR6	Serine/threonine-protein kinase ssn3 OS=Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) OX=330879 GN=ssn3 PE=3 SV=2	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	426	445	30.7	48.5	4e-46
+277	SP	Q75KK8	Mitogen-activated protein kinase 14 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK14 PE=2 SV=1	Oryza sativa subsp. japonica	542	452	35.4	53.5	5.1e-46
+278	SP	P21708	Mitogen-activated protein kinase 3 OS=Rattus norvegicus OX=10116 GN=Mapk3 PE=1 SV=5	Rattus norvegicus	380	440	35.9	53.4	6.1e-46
+279	SP	Q63844	Mitogen-activated protein kinase 3 OS=Mus musculus OX=10090 GN=Mapk3 PE=1 SV=5	Mus musculus	380	440	35.9	53.4	6.1e-46
+280	SP	O42781	Mitogen-activated protein kinase 2 OS=Pneumocystis carinii OX=4754 GN=MKP2 PE=1 SV=1	Pneumocystis carinii	351	437	35.8	55.4	7.4e-46
+281	SP	Q0CQK1	Serine/threonine-protein kinase ssn3 OS=Aspergillus terreus (strain NIH 2624 / FGSC A1156) OX=341663 GN=ssn3 PE=3 SV=1	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	435	443	30.1	49.1	8.9e-46
+282	SP	A2QU77	Serine/threonine-protein kinase ssn3 OS=Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513) OX=425011 GN=ssn3 PE=3 SV=2	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	427	442	29.5	49.2	1e-45
+283	SP	O08911	Mitogen-activated protein kinase 12 OS=Mus musculus OX=10090 GN=Mapk12 PE=1 SV=1	Mus musculus	367	437	35.5	53.7	1.1e-45
+284	SP	P27361	Mitogen-activated protein kinase 3 OS=Homo sapiens OX=9606 GN=MAPK3 PE=1 SV=4	Homo sapiens	379	437	36.5	54.1	1.5e-45
+285	SP	O23236	Mitogen-activated protein kinase 14 OS=Arabidopsis thaliana OX=3702 GN=MPK14 PE=1 SV=1	Arabidopsis thaliana	361	435	34.6	53.1	1.7e-45
+286	SP	Q63538	Mitogen-activated protein kinase 12 OS=Rattus norvegicus OX=10116 GN=Mapk12 PE=1 SV=1	Rattus norvegicus	367	435	35.1	53.7	2e-45
+287	SP	G2XH29	Mitogen-activated protein kinase VMK1 OS=Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137) OX=498257 GN=VMK1 PE=2 SV=1	Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137)	355	434	35.0	53.3	2e-45
+288	SP	Q9LMM5	Mitogen-activated protein kinase 11 OS=Arabidopsis thaliana OX=3702 GN=MPK11 PE=1 SV=1	Arabidopsis thaliana	369	435	37.5	54.6	2.1e-45
+289	SP	Q8JH47	Cyclin-dependent kinase 8 OS=Danio rerio OX=7955 GN=cdk8 PE=2 SV=1	Danio rerio	464	442	31.8	50.0	2.2e-45
+290	SP	O42376	Mitogen-activated protein kinase 12 OS=Danio rerio OX=7955 GN=mapk12 PE=2 SV=1	Danio rerio	363	434	32.9	52.4	2.5e-45
+291	SP	P40417	Mitogen-activated protein kinase ERK-A OS=Drosophila melanogaster OX=7227 GN=rl PE=1 SV=3	Drosophila melanogaster	376	434	36.1	52.7	3.4e-45
+292	SP	B3WFY8	Serine/threonine-protein kinase dyf-5 OS=Caenorhabditis elegans OX=6239 GN=dyf-5 PE=2 SV=2	Caenorhabditis elegans	489	441	31.7	54.3	5e-45
+293	SP	Q9UPZ9	Serine/threonine-protein kinase ICK OS=Homo sapiens OX=9606 GN=CILK1 PE=1 SV=1	Homo sapiens	632	448	32.8	54.3	7.1e-45
+294	SP	Q92246	Mitogen-activated protein kinase PMK1 OS=Pyricularia oryzae OX=318829 GN=PMK1 PE=1 SV=2	Pyricularia oryzae	356	430	34.6	53.8	7.1e-45
+295	SP	Q53N72	Mitogen-activated protein kinase 15 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK15 PE=2 SV=1	Oryza sativa subsp. japonica	498	440	35.4	52.8	8.1e-45
+296	SP	P0C865	Mitogen-activated protein kinase 7 OS=Rattus norvegicus OX=10116 GN=Mapk7 PE=1 SV=1	Rattus norvegicus	806	454	34.4	50.8	8.5e-45
+297	SP	Q9WVS8	Mitogen-activated protein kinase 7 OS=Mus musculus OX=10090 GN=Mapk7 PE=1 SV=1	Mus musculus	806	454	34.4	50.8	8.5e-45
+298	SP	Q13164	Mitogen-activated protein kinase 7 OS=Homo sapiens OX=9606 GN=MAPK7 PE=1 SV=2	Homo sapiens	816	454	34.7	50.3	9.2e-45
+299	SP	A0A423WA64	Mitogen-activated protein kinase Pmk1 OS=Cytospora chrysosperma OX=252740 GN=Pmk1 PE=1 SV=1	Cytospora chrysosperma	355	429	34.6	53.5	9.4e-45
+300	SP	G9MQI4	Mitogen-activated protein kinase tvk1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=tvk1 PE=1 SV=1	Hypocrea virens (strain Gv29-8 / FGSC 10586)	356	429	35.2	53.8	9.6e-45
+301	SP	G4N0Z0	Mitogen-activated protein kinase PMK11 OS=Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) OX=242507 GN=PMK1 PE=1 SV=1	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	356	429	34.6	53.5	9.6e-45
+302	SP	Q6P3N6	Cyclin-dependent kinase 8 OS=Xenopus tropicalis OX=8364 GN=cdk8 PE=2 SV=1	Xenopus tropicalis	464	437	34.6	52.3	1e-44
+303	SP	O13958	Serine/threonine-protein kinase srb10 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=srb10 PE=1 SV=2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	369	429	32.0	51.6	1.3e-44
+304	SP	A5PKJ4	Mitogen-activated protein kinase 7 OS=Bos taurus OX=9913 GN=MAPK7 PE=2 SV=1	Bos taurus	781	451	37.1	53.6	1.6e-44
+305	SP	P14681	Mitogen-activated protein kinase KSS1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=KSS1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	368	426	36.2	53.3	3.2e-44
+306	SP	Q501Q9	Mitogen-activated protein kinase 15 OS=Xenopus laevis OX=8355 GN=mapk15 PE=1 SV=1	Xenopus laevis	586	440	34.0	51.3	3.8e-44
+307	SP	Q00859	Mitogen-activated protein kinase OS=Fusarium vanettenii OX=2747968 GN=MAPK PE=2 SV=1	Fusarium vanettenii	355	424	34.3	53.1	4.3e-44
+308	SP	Q1EBK0	Serine/threonine-protein kinase SSN3 OS=Coccidioides immitis (strain RS) OX=246410 GN=SSN3 PE=3 SV=3	Coccidioides immitis (strain RS)	467	432	28.0	45.7	4.8e-44
+309	SP	Q62726	Serine/threonine-protein kinase ICK OS=Rattus norvegicus OX=10116 GN=Cilk1 PE=1 SV=1	Rattus norvegicus	629	441	32.8	53.6	5.3e-44
+310	SP	Q9JKV2	Serine/threonine-protein kinase ICK OS=Mus musculus OX=10090 GN=Cilk1 PE=1 SV=2	Mus musculus	629	441	32.5	53.6	5.3e-44
+311	SP	Q55FJ6	Probable serine/threonine-protein kinase DDB_G0268078 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0268078 PE=3 SV=1	Dictyostelium discoideum	507	434	34.2	53.9	5.8e-44
+312	SP	Q5VN19	Mitogen-activated protein kinase 11 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK11 PE=2 SV=2	Oryza sativa subsp. japonica	570	437	34.8	51.2	7.1e-44
+313	SP	Q556J6	Putative cyclin-dependent serine/threonine-protein kinase DDB_G0272797/DDB_G0274007 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0272797 PE=3 SV=1	Dictyostelium discoideum	680	440	36.9	57.7	1.4e-43
+314	SP	B0Y8W7	Mitogen-activated protein kinase mpkB OS=Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10) OX=451804 GN=mpkB PE=3 SV=1	Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10)	353	420	34.0	53.5	1.4e-43
+315	SP	Q9WTY9	Mitogen-activated protein kinase 13 OS=Rattus norvegicus OX=10116 GN=Mapk13 PE=1 SV=1	Rattus norvegicus	366	421	35.0	52.0	1.4e-43
+316	SP	Q04859	Serine/threonine-protein kinase MAK OS=Mus musculus OX=10090 GN=Mak PE=1 SV=2	Mus musculus	622	437	33.4	55.6	1.5e-43
+317	SP	Q2GYV9	Serine/threonine-protein kinase SSN3 OS=Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) OX=306901 GN=SSN3 PE=3 SV=1	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970)	512	431	29.2	44.5	1.6e-43
+318	SP	Q5ZCI1	Mitogen-activated protein kinase 10 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK10 PE=2 SV=2	Oryza sativa subsp. japonica	611	436	34.8	52.8	1.8e-43
+319	SP	Q0E459	Mitogen-activated protein kinase 13 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK13 PE=2 SV=1	Oryza sativa subsp. japonica	506	430	35.2	53.7	1.9e-43
+320	SP	A2X0M1	Mitogen-activated protein kinase 13 OS=Oryza sativa subsp. indica OX=39946 GN=MPK13 PE=2 SV=2	Oryza sativa subsp. indica	506	430	35.2	53.7	1.9e-43
+321	SP	Q9LV37	Mitogen-activated protein kinase 9 OS=Arabidopsis thaliana OX=3702 GN=MPK9 PE=2 SV=2	Arabidopsis thaliana	510	430	34.1	52.2	2e-43
+322	SP	P20793	Serine/threonine-protein kinase MAK OS=Rattus norvegicus OX=10116 GN=Mak PE=1 SV=2	Rattus norvegicus	622	436	33.1	55.6	2.1e-43
+323	SP	Q17446	Mitogen-activated protein kinase pmk-1 OS=Caenorhabditis elegans OX=6239 GN=pmk-1 PE=1 SV=1	Caenorhabditis elegans	377	420	34.9	52.6	2.5e-43
+324	SP	Q5SN53	Mitogen-activated protein kinase 8 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK8 PE=2 SV=2	Oryza sativa subsp. japonica	569	432	34.1	53.0	3.1e-43
+325	SP	Q9Z1B7	Mitogen-activated protein kinase 13 OS=Mus musculus OX=10090 GN=Mapk13 PE=1 SV=2	Mus musculus	366	418	34.4	51.0	3.5e-43
+326	SP	Q8W4J2	Mitogen-activated protein kinase 16 OS=Arabidopsis thaliana OX=3702 GN=MPK16 PE=2 SV=2	Arabidopsis thaliana	567	431	35.6	52.4	4e-43
+327	SP	Q2WGK3	Mitogen-activated protein kinase hog1 OS=Trichoderma harzianum OX=5544 GN=hog1 PE=1 SV=1	Trichoderma harzianum	356	416	34.2	53.4	5.1e-43
+328	SP	P27638	Mitogen-activated protein kinase spk1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=spk1 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	372	417	32.3	54.0	5.5e-43
+329	SP	A0A194WDG1	Mitogen-activated protein kinase spm1 OS=Cytospora mali OX=578113 GN=spm1 PE=1 SV=1	Cytospora mali	419	420	36.2	51.7	6.5e-43
+330	SP	P53778	Mitogen-activated protein kinase 12 OS=Homo sapiens OX=9606 GN=MAPK12 PE=1 SV=3	Homo sapiens	367	416	34.0	54.1	6.6e-43
+331	SP	Q5BAE1	Serine/threonine-protein kinase ssn3 OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) OX=227321 GN=ssn3 PE=3 SV=2	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	426	420	28.4	48.1	7.6e-43
+332	SP	Q84M93	Mitogen-activated protein kinase 17 OS=Arabidopsis thaliana OX=3702 GN=MPK17 PE=2 SV=1	Arabidopsis thaliana	486	423	35.2	50.9	1e-42
+333	SP	A3LUB9	Serine/threonine-protein kinase SSN3 OS=Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545) OX=322104 GN=SSN3 PE=3 SV=2	Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545)	431	419	30.7	51.6	1.1e-42
+334	SP	A0A1B5KW97	Mitogen-activated protein kinase HOG1 OS=Ustilaginoidea virens OX=1159556 GN=HOG1 PE=3 SV=1	Ustilaginoidea virens	365	414	34.5	53.2	1.2e-42
+335	SP	Q2QSL4	Putative cyclin-dependent kinase F-2 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKF-2 PE=3 SV=1	Oryza sativa subsp. japonica	327	410	32.1	52.5	1.5e-42
+336	SP	Q4WQR3	Mitogen-activated protein kinase mpkA OS=Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) OX=330879 GN=mpkA PE=1 SV=1	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	424	417	36.6	53.1	1.8e-42
+337	SP	B0Y4X4	Mitogen-activated protein kinase mpkA OS=Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10) OX=451804 GN=mpkA PE=1 SV=1	Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10)	424	417	36.6	53.1	1.8e-42
+338	SP	Q9LM33	Mitogen-activated protein kinase 8 OS=Arabidopsis thaliana OX=3702 GN=MPK8 PE=1 SV=2	Arabidopsis thaliana	589	427	33.4	51.7	1.8e-42
+339	SP	Q3T0N5	Mitogen-activated protein kinase 13 OS=Bos taurus OX=9913 GN=MAPK13 PE=2 SV=1	Bos taurus	366	412	32.8	50.0	2.2e-42
+340	SP	P20794	Serine/threonine-protein kinase MAK OS=Homo sapiens OX=9606 GN=MAK PE=1 SV=2	Homo sapiens	623	428	32.8	54.9	2.2e-42
+341	SP	Q67C40	Mitogen-activated protein kinase 7 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK7 PE=2 SV=1	Oryza sativa subsp. japonica	569	425	33.9	52.5	2.4e-42
+342	SP	Q9LUC3	Mitogen-activated protein kinase 19 OS=Arabidopsis thaliana OX=3702 GN=MPK19 PE=1 SV=2	Arabidopsis thaliana	598	426	35.6	52.7	2.8e-42
+343	SP	Q5Z9J0	Mitogen-activated protein kinase 12 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK12 PE=1 SV=2	Oryza sativa subsp. japonica	580	425	34.6	52.4	2.9e-42
+344	SP	Q9N272	Mitogen-activated protein kinase 13 OS=Pan troglodytes OX=9598 GN=MAPK13 PE=2 SV=1	Pan troglodytes	365	410	33.7	51.0	3.9e-42
+345	SP	O15264	Mitogen-activated protein kinase 13 OS=Homo sapiens OX=9606 GN=MAPK13 PE=1 SV=1	Homo sapiens	365	410	35.4	51.8	3.9e-42
+346	SP	Q6L5F7	Mitogen-activated protein kinase 17 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK17 PE=2 SV=2	Oryza sativa subsp. japonica	582	424	32.5	51.4	4e-42
+347	SP	O62618	Mitogen-activated protein kinase p38a OS=Drosophila melanogaster OX=7227 GN=p38a PE=1 SV=1	Drosophila melanogaster	366	410	33.8	51.9	4e-42
+348	SP	Q9UV51	Mitogen-activated protein kinase HOG1 OS=Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) OX=242507 GN=HOG1 PE=1 SV=1	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	357	409	33.0	52.5	4.4e-42
+349	SP	O13352	Mitogen-activated protein kinase MPS1 OS=Pyricularia oryzae OX=318829 GN=MPS1 PE=1 SV=1	Pyricularia oryzae	415	413	35.6	50.8	5e-42
+350	SP	G4N374	Mitogen-activated protein kinase MPS1 OS=Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) OX=242507 GN=MPS1 PE=1 SV=1	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	415	413	35.6	50.8	5e-42
+351	SP	G1XJZ4	Mitogen-activated protein kinase HOG1 OS=Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491) OX=756982 GN=HOG1 PE=3 SV=1	Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491)	350	408	34.2	53.3	5e-42
+352	SP	Q8SW92	Probable serine/threonine-protein kinase KIN28 homolog OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=KIN28 PE=3 SV=1	Encephalitozoon cuniculi (strain GB-M1)	308	404	31.5	52.1	5.8e-42
+353	SP	P28567	Cell division control protein 2 homolog 2 (Fragment) OS=Pisum sativum OX=3888 PE=2 SV=1	Pisum sativum	151	388	56.7	72.3	8e-42
+354	SP	Q96TL5	Mitogen-activated protein kinase hog-1 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=hog-1 PE=1 SV=1	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	358	407	33.7	54.1	8.3e-42
+355	SP	P0C431	Mitogen-activated protein kinase HOG1 OS=Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1) OX=229533 GN=HOG1 PE=3 SV=1	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	357	406	34.0	53.7	1.1e-41
+356	SP	Q6PWX2	Mitogen-activated protein kinase HOG1 OS=Beauveria bassiana OX=176275 GN=HOG1 PE=3 SV=1	Beauveria bassiana	358	406	34.0	53.7	1.1e-41
+357	SP	Q1DUU8	Mitogen-activated protein kinase HOG1 OS=Coccidioides immitis (strain RS) OX=246410 GN=HOG1 PE=3 SV=1	Coccidioides immitis (strain RS)	364	406	34.9	53.9	1.3e-41
+358	SP	Q75Q66	Mitogen-activated protein kinase HOG1 OS=Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422) OX=1213857 GN=HOG1 PE=3 SV=1	Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422)	357	405	33.7	53.7	1.5e-41
+359	SP	G2XG03	Mitogen-activated protein kinase HOG1 OS=Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137) OX=498257 GN=HOG1 PE=2 SV=1	Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137)	361	405	34.2	53.9	1.6e-41
+360	SP	Q4R8T9	Cyclin-dependent kinase-like 3 OS=Macaca fascicularis OX=9541 GN=CDKL3 PE=2 SV=1	Macaca fascicularis	590	419	30.7	53.4	1.9e-41
+361	SP	Q8IVW4	Cyclin-dependent kinase-like 3 OS=Homo sapiens OX=9606 GN=CDKL3 PE=1 SV=1	Homo sapiens	592	419	30.7	53.4	2e-41
+362	SP	Q54D75	Probable cyclin-dependent serine/threonine-protein kinase DDB_G0292550 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0292550 PE=3 SV=1	Dictyostelium discoideum	1397	432	34.5	54.1	2.2e-41
+363	SP	Q9XTR1	Cyclin-dependent kinase 4 homolog OS=Caenorhabditis elegans OX=6239 GN=cdk-4 PE=1 SV=3	Caenorhabditis elegans	342	402	32.4	51.0	2.6e-41
+364	SP	Q4FCZ5	Serine/threonine-protein kinase SSN3 OS=Gibberella moniliformis OX=117187 GN=SSN3 PE=1 SV=1	Gibberella moniliformis	450	410	30.3	44.4	2.6e-41
+365	SP	Q875L0	Mitogen-activated protein kinase HOG1 OS=Cryphonectria parasitica OX=5116 GN=HOG1 PE=1 SV=1	Cryphonectria parasitica	358	402	34.4	52.7	3.8e-41
+366	SP	Q6BM25	Serine/threonine-protein kinase SSN3 OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=SSN3 PE=3 SV=2	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	472	410	28.9	47.3	3.9e-41
+367	SP	Q2H332	Mitogen-activated protein kinase HOG1 OS=Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) OX=306901 GN=HOG1 PE=3 SV=1	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970)	360	402	32.9	52.4	4e-41
+368	SP	Q9C5C0	Mitogen-activated protein kinase 18 OS=Arabidopsis thaliana OX=3702 GN=MPK18 PE=1 SV=4	Arabidopsis thaliana	615	416	33.8	51.1	6.6e-41
+369	SP	B0XR80	Mitogen-activated protein kinase sakA OS=Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10) OX=451804 GN=sakA PE=3 SV=1	Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10)	366	400	34.0	52.6	8.4e-41
+370	SP	Q4WSF6	Mitogen-activated protein kinase sakA OS=Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) OX=330879 GN=sakA PE=1 SV=1	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	366	400	34.0	52.6	8.4e-41
+371	SP	A1D2C9	Mitogen-activated protein kinase hog1 OS=Aspergillus fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181) OX=331117 GN=hog1 PE=3 SV=1	Aspergillus fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181)	366	400	34.0	52.6	8.4e-41
+372	SP	A4QXX4	Serine/threonine-protein kinase SSN3 OS=Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) OX=242507 GN=SSN3 PE=3 SV=2	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	499	409	33.9	52.5	8.7e-41
+373	SP	Q0U4L8	Mitogen-activated protein kinase HOG1 OS=Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173) OX=321614 GN=HOG1 PE=3 SV=2	Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173)	355	399	34.4	53.1	8.8e-41
+374	SP	Q9JM01	Cyclin-dependent kinase-like 3 OS=Rattus norvegicus OX=10116 GN=Cdkl3 PE=1 SV=2	Rattus norvegicus	593	414	31.6	53.5	8.8e-41
+375	SP	Q8BLF2	Cyclin-dependent kinase-like 3 OS=Mus musculus OX=10090 GN=Cdkl3 PE=2 SV=2	Mus musculus	595	414	31.6	53.8	9.1e-41
+376	SP	O61443	Mitogen-activated protein kinase p38b OS=Drosophila melanogaster OX=7227 GN=p38b PE=1 SV=1	Drosophila melanogaster	365	399	33.1	51.8	1.1e-40
+377	SP	A1CPG7	Mitogen-activated protein kinase hog1 OS=Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107) OX=344612 GN=hog1 PE=3 SV=1	Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)	365	399	34.0	52.6	1.1e-40
+378	SP	Q6XKY3	Mitogen-activated protein kinase hog1 OS=Trichoderma atroviride OX=63577 GN=hog1 PE=3 SV=1	Trichoderma atroviride	357	398	33.7	53.4	1.2e-40
+379	SP	Q9C9U4	Mitogen-activated protein kinase 15 OS=Arabidopsis thaliana OX=3702 GN=MPK15 PE=1 SV=3	Arabidopsis thaliana	576	412	32.5	52.1	1.2e-40
+380	SP	Q5VP69	Mitogen-activated protein kinase 16 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK16 PE=2 SV=1	Oryza sativa subsp. japonica	501	407	32.9	51.9	1.6e-40
+381	SP	Q6L5D4	Mitogen-activated protein kinase 9 OS=Oryza sativa subsp. japonica OX=39947 GN=MPK9 PE=3 SV=2	Oryza sativa subsp. japonica	700	416	34.8	52.2	1.8e-40
+382	SP	P47811	Mitogen-activated protein kinase 14 OS=Mus musculus OX=10090 GN=Mapk14 PE=1 SV=3	Mus musculus	360	397	31.8	50.8	1.8e-40
+383	SP	Q9SJG9	Mitogen-activated protein kinase 20 OS=Arabidopsis thaliana OX=3702 GN=MPK20 PE=1 SV=2	Arabidopsis thaliana	606	412	33.4	51.4	1.9e-40
+384	SP	Q9Z2A6	Mitogen-activated protein kinase 15 OS=Rattus norvegicus OX=10116 GN=Mapk15 PE=1 SV=2	Rattus norvegicus	547	409	31.9	47.2	2e-40
+385	SP	Q2WFL5	Mitogen-activated protein kinase HOG1 OS=Cochliobolus miyabeanus OX=101162 GN=HOG1 PE=3 SV=1	Cochliobolus miyabeanus	354	396	33.0	52.7	2.1e-40
+386	SP	Q90336	Mitogen-activated protein kinase 14A OS=Cyprinus carpio OX=7962 GN=mapk14a PE=1 SV=1	Cyprinus carpio	361	396	31.4	51.9	2.5e-40
+387	SP	Q8MXI4	Mitogen-activated protein kinase pmk-2 OS=Caenorhabditis elegans OX=6239 GN=pmk-2 PE=3 SV=1	Caenorhabditis elegans	419	400	32.1	48.3	2.7e-40
+388	SP	Q52PH6	Mitogen-activated protein kinase HOG1 OS=Alternaria brassicicola OX=29001 GN=HOG1 PE=3 SV=1	Alternaria brassicicola	355	395	33.2	52.0	3e-40
+389	SP	Q2U469	Mitogen-activated protein kinase mpkC OS=Aspergillus oryzae (strain ATCC 42149 / RIB 40) OX=510516 GN=mpkC PE=3 SV=2	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	344	394	34.8	51.5	3.1e-40
+390	SP	Q6P5G0	Mitogen-activated protein kinase 4 OS=Mus musculus OX=10090 GN=Mapk4 PE=1 SV=1	Mus musculus	583	409	35.8	53.6	3.3e-40
+391	SP	P70618	Mitogen-activated protein kinase 14 OS=Rattus norvegicus OX=10116 GN=Mapk14 PE=1 SV=3	Rattus norvegicus	360	395	32.4	51.9	3.3e-40
+392	SP	Q16539	Mitogen-activated protein kinase 14 OS=Homo sapiens OX=9606 GN=MAPK14 PE=1 SV=3	Homo sapiens	360	394	31.8	50.8	4.5e-40
+393	SP	C4YGK0	Extracellular signal-regulated kinase 1 OS=Candida albicans (strain WO-1) OX=294748 GN=CEK1 PE=3 SV=1	Candida albicans (strain WO-1)	415	398	33.4	52.0	4.6e-40
+394	SP	Q80Y86	Mitogen-activated protein kinase 15 OS=Mus musculus OX=10090 GN=Mapk15 PE=1 SV=1	Mus musculus	549	406	30.7	47.4	4.9e-40
+395	SP	Q5I6M2	Mitogen-activated protein kinase HOG1 OS=Exserohilum turcicum OX=93612 GN=HOG1 PE=2 SV=2	Exserohilum turcicum	329	391	32.5	50.8	5.3e-40
+396	SP	Q4W6D3	Mitogen-activated protein kinase HOG1 OS=Cochliobolus heterostrophus OX=5016 GN=HOG1 PE=1 SV=1	Cochliobolus heterostrophus	355	393	33.8	52.6	5.4e-40
+397	SP	O02812	Mitogen-activated protein kinase 14 OS=Canis lupus familiaris OX=9615 GN=MAPK14 PE=2 SV=3	Canis lupus familiaris	360	393	31.8	50.8	6.1e-40
+398	SP	P47812	Mitogen-activated protein kinase 14 OS=Xenopus laevis OX=8355 GN=mapk14 PE=2 SV=1	Xenopus laevis	361	393	31.7	53.2	6.3e-40
+399	SP	A2QRF6	Mitogen-activated protein kinase hog1 OS=Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513) OX=425011 GN=hog1 PE=3 SV=2	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	365	393	33.7	52.2	6.9e-40
+400	SP	G2WXM2	Mitogen-activated protein kinase-like protein OS=Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137) OX=498257 GN=VDAG_02354 PE=2 SV=1	Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137)	361	392	33.2	51.7	8.5e-40
+401	SP	P31152	Mitogen-activated protein kinase 4 OS=Homo sapiens OX=9606 GN=MAPK4 PE=1 SV=2	Homo sapiens	587	406	35.8	52.6	8.5e-40
+402	SP	P0CP67	Mitogen-activated protein kinase CPK1 OS=Cryptococcus deneoformans (strain B-3501A) OX=283643 GN=CPK1 PE=3 SV=1	Cryptococcus deneoformans (strain B-3501A)	366	392	34.0	50.2	9.6e-40
+403	SP	P0CP66	Mitogen-activated protein kinase CPK1 OS=Cryptococcus deneoformans (strain JEC21 / ATCC MYA-565) OX=214684 GN=CPK1 PE=3 SV=1	Cryptococcus deneoformans (strain JEC21 / ATCC MYA-565)	366	392	34.0	50.2	9.6e-40
+404	SP	Q5A1D3	Extracellular signal-regulated kinase 1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=CEK1 PE=1 SV=3	Candida albicans (strain SC5314 / ATCC MYA-2876)	421	396	32.8	51.7	9.6e-40
+405	SP	A1CAF0	Mitogen-activated protein kinase mpkC OS=Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107) OX=344612 GN=mpkC PE=3 SV=1	Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)	380	392	34.7	53.4	1.3e-39
+406	SP	Q9U9Y8	Serine/threonine kinase NLK OS=Caenorhabditis elegans OX=6239 GN=lit-1 PE=1 SV=1	Caenorhabditis elegans	634	405	33.0	53.1	2.1e-39
+407	SP	Q9I958	Mitogen-activated protein kinase 14B OS=Cyprinus carpio OX=7962 GN=mapk14b PE=1 SV=1	Cyprinus carpio	361	389	30.4	49.7	2.1e-39
+408	SP	B0Y462	Mitogen-activated protein kinase mpkC OS=Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10) OX=451804 GN=mpkC PE=3 SV=1	Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10)	378	390	34.7	52.7	2.3e-39
+409	SP	A1DES4	Mitogen-activated protein kinase mpkC OS=Aspergillus fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181) OX=331117 GN=mpkc PE=3 SV=2	Aspergillus fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181)	377	389	33.7	52.6	3.1e-39
+410	SP	Q8TGA9	Mitogen-activated protein kinase HOG1 OS=Blumeria graminis OX=34373 GN=HOG1 PE=3 SV=1	Blumeria graminis	357	387	32.4	52.2	3.5e-39
+411	SP	Q8TD08	Mitogen-activated protein kinase 15 OS=Homo sapiens OX=9606 GN=MAPK15 PE=1 SV=1	Homo sapiens	544	399	34.5	51.3	3.6e-39
+412	SP	Q95NE7	Mitogen-activated protein kinase 14 OS=Pan troglodytes OX=9598 GN=MAPK14 PE=2 SV=3	Pan troglodytes	360	387	31.6	50.8	3.8e-39
+413	SP	D3ZSZ3	Serine/threonine-protein kinase NLK OS=Rattus norvegicus OX=10116 GN=Nlk PE=3 SV=1	Rattus norvegicus	527	397	33.4	53.0	5e-39
+414	SP	O54949	Serine/threonine-protein kinase NLK OS=Mus musculus OX=10090 GN=Nlk PE=1 SV=2	Mus musculus	527	397	33.4	53.0	5e-39
+415	SP	Q9UBE8	Serine/threonine-protein kinase NLK OS=Homo sapiens OX=9606 GN=NLK PE=1 SV=2	Homo sapiens	527	397	33.4	53.0	5e-39
+416	SP	E2QWQ2	Serine/threonine-protein kinase NLK OS=Canis lupus familiaris OX=9615 GN=NLK PE=3 SV=1	Canis lupus familiaris	527	397	33.4	53.0	5e-39
+417	SP	Q702W0	Mitogen-activated protein kinase hog1 OS=Blastobotrys adeninivorans OX=409370 GN=hog1 PE=1 SV=1	Blastobotrys adeninivorans	400	389	33.6	50.8	5.1e-39
+418	SP	Q9DGE2	Mitogen-activated protein kinase 14A OS=Danio rerio OX=7955 GN=mapk14a PE=1 SV=1	Danio rerio	361	386	31.5	51.7	5.3e-39
+419	SP	E1BMN8	Serine/threonine-protein kinase NLK OS=Bos taurus OX=9913 GN=NLK PE=3 SV=2	Bos taurus	534	397	33.4	53.0	5.5e-39
+420	SP	Q4WUN7	Mitogen-activated protein kinase mpkC OS=Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) OX=330879 GN=mpkC PE=1 SV=2	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	378	387	34.4	52.7	5.7e-39
+421	SP	A1IVT7	Mitogen-activated protein kinase hog1 OS=Botrytis cinerea (strain B05.10) OX=332648 GN=hog1 PE=1 SV=1	Botrytis cinerea (strain B05.10)	354	385	33.0	51.7	6.1e-39
+422	SP	M1T7M3	Mitogen-activated protein kinase HOG1B OS=Wallemia ichthyophaga (strain EXF-994 / CBS 113033) OX=1299270 GN=HOG1B PE=1 SV=1	Wallemia ichthyophaga (strain EXF-994 / CBS 113033)	368	386	34.2	52.5	6.2e-39
+423	SP	P83100	Putative mitogen-activated protein kinase 14C OS=Drosophila melanogaster OX=7227 GN=p38c PE=2 SV=1	Drosophila melanogaster	356	385	29.9	51.7	6.4e-39
+424	SP	Q1KTF2	Mitogen-activated protein kinase Hog1 OS=Zymoseptoria tritici (strain CBS 115943 / IPO323) OX=336722 GN=Hog1 PE=3 SV=2	Zymoseptoria tritici (strain CBS 115943 / IPO323)	357	385	32.7	53.1	6.5e-39
+425	SP	Q00772	Mitogen-activated protein kinase SLT2/MPK1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SLT2 PE=1 SV=2	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	484	393	37.2	53.2	7.9e-39
+426	SP	P90866	Cyclin-dependent kinase 8 OS=Caenorhabditis elegans OX=6239 GN=cdk-8 PE=3 SV=4	Caenorhabditis elegans	588	397	31.5	50.0	1.2e-38
+427	SP	Q63454	Mitogen-activated protein kinase 4 (Fragment) OS=Rattus norvegicus OX=10116 GN=Mapk4 PE=1 SV=1	Rattus norvegicus	274	376	35.7	52.1	1.3e-38
+428	SP	Q11179	Mitogen-activated protein kinase 15 OS=Caenorhabditis elegans OX=6239 GN=mapk-15 PE=1 SV=2	Caenorhabditis elegans	470	390	34.0	49.7	1.5e-38
+429	SP	Q61532	Mitogen-activated protein kinase 6 OS=Mus musculus OX=10090 GN=Mapk6 PE=1 SV=3	Mus musculus	720	401	35.0	51.1	1.6e-38
+430	SP	Q0D0P5	Mitogen-activated protein kinase hog1 OS=Aspergillus terreus (strain NIH 2624 / FGSC A1156) OX=341663 GN=hog1 PE=3 SV=2	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	364	382	33.6	52.9	1.9e-38
+431	SP	Q5F3W3	Mitogen-activated protein kinase 6 OS=Gallus gallus OX=9031 GN=MAPK6 PE=2 SV=1	Gallus gallus	721	400	33.9	51.0	2.1e-38
+432	SP	Q8NJT7	Mitogen-activated protein kinase HOG1 OS=Hortaea werneckii OX=91943 GN=HOG1 PE=3 SV=1	Hortaea werneckii	359	381	32.7	52.7	2.3e-38
+433	SP	Q9WUI1	Mitogen-activated protein kinase 11 OS=Mus musculus OX=10090 GN=Mapk11 PE=1 SV=2	Mus musculus	364	381	31.8	50.0	2.6e-38
+434	SP	Q9DGE1	Mitogen-activated protein kinase 14B OS=Danio rerio OX=7955 GN=mapk14b PE=1 SV=1	Danio rerio	348	379	29.5	49.4	3.3e-38
+435	SP	Q4P9T2	Serine/threonine-protein kinase SSN3 OS=Mycosarcoma maydis OX=5270 GN=SSN3 PE=3 SV=2	Mycosarcoma maydis	713	398	32.0	51.8	3.5e-38
+436	SP	Q38HL5	Mitogen-activated protein kinase hog1 OS=Aspergillus glaucus OX=41413 GN=hog1 PE=3 SV=1	Aspergillus glaucus	366	380	33.7	51.2	3.7e-38
+437	SP	P27704	Mitogen-activated protein kinase 6 OS=Rattus norvegicus OX=10116 GN=Mapk6 PE=2 SV=2	Rattus norvegicus	720	398	33.5	51.0	3.7e-38
+438	SP	Q5R7U1	Mitogen-activated protein kinase 6 OS=Pongo abelii OX=9601 GN=MAPK6 PE=2 SV=1	Pongo abelii	721	398	33.5	51.0	3.7e-38
+439	SP	Q16659	Mitogen-activated protein kinase 6 OS=Homo sapiens OX=9606 GN=MAPK6 PE=1 SV=1	Homo sapiens	721	398	33.5	51.0	3.7e-38
+440	SP	Q09892	Mitogen-activated protein kinase sty1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sty1 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	349	378	32.6	50.8	4.5e-38
+441	SP	Q4PC06	Mitogen-activated protein kinase HOG1 OS=Mycosarcoma maydis OX=5270 GN=HOG1 PE=3 SV=1	Mycosarcoma maydis	358	378	34.1	52.4	5.6e-38
+442	SP	Q6C4M9	Mitogen-activated protein kinase HOG1 OS=Yarrowia lipolytica (strain CLIB 122 / E 150) OX=284591 GN=HOG1 PE=3 SV=1	Yarrowia lipolytica (strain CLIB 122 / E 150)	386	379	33.1	53.1	7.7e-38
+443	SP	Q8QGV6	Serine/threonine-protein kinase NLK2 OS=Xenopus laevis OX=8355 GN=nlk.2 PE=1 SV=1	Xenopus laevis	447	382	32.9	52.0	1.1e-37
+444	SP	Q9W354	Extracellular signal-regulated kinase 7 OS=Drosophila melanogaster OX=7227 GN=Erk7 PE=1 SV=2	Drosophila melanogaster	916	398	27.1	45.0	1.1e-37
+445	SP	Q56R42	Mitogen-activated protein kinase HOG1 OS=Cryptococcus neoformans (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487) OX=235443 GN=HOG1 PE=1 SV=1	Cryptococcus neoformans (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	365	376	32.9	52.5	1.2e-37
+446	SP	P0CP69	Mitogen-activated protein kinase HOG1 OS=Cryptococcus deneoformans (strain B-3501A) OX=283643 GN=HOG1 PE=3 SV=1	Cryptococcus deneoformans (strain B-3501A)	365	376	32.9	52.5	1.2e-37
+447	SP	P0CP68	Mitogen-activated protein kinase HOG1 OS=Cryptococcus deneoformans (strain JEC21 / ATCC MYA-565) OX=214684 GN=HOG1 PE=1 SV=1	Cryptococcus deneoformans (strain JEC21 / ATCC MYA-565)	365	376	32.9	52.5	1.2e-37
+448	SP	B1H3E1	Serine/threonine-protein kinase NLK2 OS=Xenopus tropicalis OX=8364 GN=nlk.2 PE=2 SV=1	Xenopus tropicalis	454	382	32.9	52.0	1.2e-37
+449	SP	Q15759	Mitogen-activated protein kinase 11 OS=Homo sapiens OX=9606 GN=MAPK11 PE=1 SV=2	Homo sapiens	364	375	31.5	50.0	1.6e-37
+450	SP	P0C661	Cyclin-dependent kinase 8 OS=Caenorhabditis briggsae OX=6238 GN=cdk-8 PE=3 SV=2	Caenorhabditis briggsae	612	388	30.9	50.0	2.2e-37
+451	SP	Q0CIC7	Mitogen-activated protein kinase mpkC OS=Aspergillus terreus (strain NIH 2624 / FGSC A1156) OX=341663 GN=mpkC PE=3 SV=2	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	370	374	35.0	52.7	2.5e-37
+452	SP	P41808	Sporulation-specific mitogen-activated protein kinase SMK1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SMK1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	388	374	31.4	49.7	3.7e-37
+453	SP	A0A5B9GBF0	Mitogen-activated protein kinase HOG1 OS=Aureobasidium melanogenum OX=46634 GN=HOG1 PE=2 SV=1	Aureobasidium melanogenum	355	370	32.5	52.5	5.9e-37
+454	SP	Q54BC9	Probable serine/threonine-protein kinase dyrk2 OS=Dictyostelium discoideum OX=44689 GN=dyrk2 PE=3 SV=1	Dictyostelium discoideum	915	391	24.3	43.0	7.5e-37
+455	SP	Q5AHK2	Serine/threonine-protein kinase SSN3 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=SSN3 PE=3 SV=2	Candida albicans (strain SC5314 / ATCC MYA-2876)	608	382	32.5	52.3	1.2e-36
+456	SP	A3LN91	Mitogen-activated protein kinase HOG1 OS=Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545) OX=322104 GN=HOG1 PE=3 SV=2	Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545)	385	368	31.3	49.0	2.1e-36
+457	SP	Q9HG11	Mitogen-activated protein kinase mpkC OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) OX=227321 GN=mpkC PE=2 SV=2	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	415	370	33.7	50.7	2.1e-36
+458	SP	A0A2H0ZKS0	Mitogen-activated protein kinase HOG1 OS=Candidozyma auris OX=498019 GN=HOG1 PE=3 SV=1	Candidozyma auris	397	368	32.8	49.1	2.7e-36
+459	SP	Q9UV50	Mitogen-activated protein kinase HOG1 OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=HOG1 PE=1 SV=3	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	387	367	32.2	49.7	3e-36
+460	SP	O93982	Mitogen-activated protein kinase HOG1 OS=Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229) OX=559307 GN=HOG1 PE=3 SV=2	Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229)	431	368	31.0	49.7	5.3e-36
+461	SP	Q6FKC6	Serine/threonine-protein kinase SSN3 OS=Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) OX=284593 GN=SSN3 PE=3 SV=1	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)	567	375	31.8	50.3	5.7e-36
+462	SP	P32485	Mitogen-activated protein kinase HOG1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=HOG1 PE=1 SV=2	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	435	367	31.2	49.8	7.7e-36
+463	SP	Q92207	Mitogen-activated protein kinase HOG1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=HOG1 PE=1 SV=2	Candida albicans (strain SC5314 / ATCC MYA-2876)	377	363	32.1	49.7	8e-36
+464	SP	O59854	Mitogen-activated protein kinase HOG1 OS=Zygosaccharomyces rouxii OX=4956 GN=HOG1 PE=3 SV=1	Zygosaccharomyces rouxii	407	365	31.0	49.7	8.2e-36
+465	SP	Q1L5Z8	Mitogen-activated protein kinase HOG1 OS=Torulaspora delbrueckii OX=4950 GN=HOG1 PE=1 SV=1	Torulaspora delbrueckii	427	366	30.7	48.9	8.9e-36
+466	SP	O94737	Mitogen-activated protein kinase 1 OS=Pneumocystis carinii OX=4754 GN=MKP1 PE=1 SV=1	Pneumocystis carinii	370	361	32.8	52.5	1.3e-35
+467	SP	Q6FIU2	Mitogen-activated protein kinase HOG1 OS=Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) OX=284593 GN=HOG1 PE=3 SV=1	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)	447	365	31.0	48.7	1.7e-35
+468	SP	Q6CR51	Serine/threonine-protein kinase SSN3 OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) OX=284590 GN=SSN3 PE=3 SV=1	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	593	372	29.9	50.0	1.9e-35
+469	SP	Q6CJA8	Mitogen-activated protein kinase HOG1 OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) OX=284590 GN=HOG1 PE=3 SV=1	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	444	364	30.7	48.7	2.2e-35
+470	SP	A3EZ55	Mitogen-activated protein kinase HOG1A OS=Wallemia ichthyophaga (strain EXF-994 / CBS 113033) OX=1299270 GN=HOG1A PE=1 SV=2	Wallemia ichthyophaga (strain EXF-994 / CBS 113033)	365	358	31.4	50.5	2.8e-35
+471	SP	Q750A9	Mitogen-activated protein kinase HOG1 OS=Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) OX=284811 GN=HOG1 PE=3 SV=2	Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	447	363	31.5	48.5	3.2e-35
+472	SP	Q9GRU1	Mitogen-activated protein kinase 4 OS=Leishmania mexicana OX=5665 GN=MPK4 PE=1 SV=1	Leishmania mexicana	363	356	29.9	47.7	4.9e-35
+473	SP	Q55C57	Probable serine/threonine-protein kinase glkA OS=Dictyostelium discoideum OX=44689 GN=glkA PE=3 SV=1	Dictyostelium discoideum	473	362	32.1	50.2	6.7e-35
+474	SP	A2QN07	Mitogen-activated protein kinase mpkC OS=Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513) OX=425011 GN=mpkC PE=3 SV=1	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	396	357	33.0	50.2	7.3e-35
+475	SP	Q9WVS4	MAPK/MAK/MRK overlapping kinase OS=Mus musculus OX=10090 GN=Mok PE=1 SV=1	Mus musculus	420	358	32.3	49.5	8.6e-35
+476	SP	P39073	Meiotic mRNA stability protein kinase SSN3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SSN3 PE=1 SV=3	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	555	365	31.2	52.1	9.1e-35
+477	SP	Q751F5	Serine/threonine-protein kinase SSN3 OS=Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) OX=284811 GN=SSN3 PE=3 SV=2	Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	581	366	30.7	50.5	9.4e-35
+478	SP	P0CS77	Serine/threonine-protein kinase SSN3 OS=Cryptococcus deneoformans (strain B-3501A) OX=283643 GN=SSN3 PE=3 SV=1	Cryptococcus deneoformans (strain B-3501A)	466	360	27.6	50.3	1.1e-34
+479	SP	P0CS76	Serine/threonine-protein kinase SSN3 OS=Cryptococcus deneoformans (strain JEC21 / ATCC MYA-565) OX=214684 GN=SSN3 PE=3 SV=1	Cryptococcus deneoformans (strain JEC21 / ATCC MYA-565)	466	360	27.6	50.3	1.1e-34
+480	SP	Q9UQ07	MAPK/MAK/MRK overlapping kinase OS=Homo sapiens OX=9606 GN=MOK PE=1 SV=1	Homo sapiens	419	357	30.5	47.8	1.1e-34
+481	SP	Q92398	Mitogen-activated protein kinase spm1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=spm1 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	422	356	34.3	52.1	1.6e-34
+482	SP	Q5EDC3	Cyclin-dependent kinase 20 OS=Macaca mulatta OX=9544 GN=CDK20 PE=2 SV=1	Macaca mulatta	243	342	39.8	65.3	1.9e-34
+483	SP	O59853	Mitogen-activated protein kinase HOG2 OS=Zygosaccharomyces rouxii OX=4956 GN=HOG2 PE=3 SV=1	Zygosaccharomyces rouxii	420	355	30.7	49.0	2.1e-34
+484	SP	P43068	Mitogen-activated protein kinase MKC1 OS=Candida albicans OX=5476 GN=MKC1 PE=3 SV=1	Candida albicans	501	356	32.7	50.3	6.1e-34
+485	SP	Q60EZ2	Shaggy-related protein kinase GSK2 OS=Oryza sativa subsp. japonica OX=39947 GN=GSK2 PE=1 SV=1	Oryza sativa subsp. japonica	402	350	31.0	48.6	6.7e-34
+486	SP	Q5AAG6	Mitogen-activated protein kinase MKC1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=MKC1 PE=1 SV=1	Candida albicans (strain SC5314 / ATCC MYA-2876)	509	356	32.7	50.3	6.9e-34
+487	SP	Q9U2Q9	Glycogen synthase kinase-3 OS=Caenorhabditis elegans OX=6239 GN=gsk-3 PE=1 SV=1	Caenorhabditis elegans	362	344	30.6	48.5	1.8e-33
+488	SP	A8X5H5	Glycogen synthase kinase-3 OS=Caenorhabditis briggsae OX=6238 GN=gsk-3 PE=3 SV=1	Caenorhabditis briggsae	359	342	30.9	48.9	3.1e-33
+489	SP	Q9P419	Mitogen-activated protein kinase hog1 OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) OX=227321 GN=hog1 PE=1 SV=1	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	379	343	30.2	48.7	3.5e-33
+490	SP	Q39010	Shaggy-related protein kinase zeta OS=Arabidopsis thaliana OX=3702 GN=ASK6 PE=1 SV=2	Arabidopsis thaliana	412	344	27.4	45.9	4.9e-33
+491	SP	Q6FN53	Serine/threonine-protein kinase STE20 OS=Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) OX=284593 GN=STE20 PE=3 SV=1	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)	915	358	23.0	38.8	6.9e-33
+492	SP	Q8SRU0	Probable casein kinase II subunit alpha homolog OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=CKA1 PE=3 SV=1	Encephalitozoon cuniculi (strain GB-M1)	319	336	30.1	49.5	7.9e-33
+493	SP	Q9LWN0	Shaggy-related protein kinase GSK1 OS=Oryza sativa subsp. japonica OX=39947 GN=GSK1 PE=1 SV=1	Oryza sativa subsp. japonica	407	342	30.8	48.6	8.2e-33
+494	SP	O23145	Shaggy-related protein kinase beta OS=Arabidopsis thaliana OX=3702 GN=ASK2 PE=2 SV=1	Arabidopsis thaliana	431	342	29.5	48.2	1.3e-32
+495	SP	Q40518	Shaggy-related protein kinase NtK-1 OS=Nicotiana tabacum OX=4097 GN=NTK-1 PE=2 SV=1	Nicotiana tabacum	409	338	29.9	48.7	2.8e-32
+496	SP	Q39012	Shaggy-related protein kinase iota OS=Arabidopsis thaliana OX=3702 GN=ASK9 PE=1 SV=1	Arabidopsis thaliana	407	337	29.4	48.4	3.6e-32
+497	SP	P51139	Glycogen synthase kinase-3 homolog MsK-3 OS=Medicago sativa OX=3879 GN=MSK-3 PE=2 SV=2	Medicago sativa	411	337	30.3	49.2	3.9e-32
+498	SP	O44514	Mitogen-activated protein kinase pmk-3 OS=Caenorhabditis elegans OX=6239 GN=pmk-3 PE=1 SV=2	Caenorhabditis elegans	474	339	31.7	49.1	6.2e-32
+499	SP	O14132	Sporulation protein kinase pit1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pit1 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	650	345	25.3	42.3	7.7e-32
+500	SP	Q5Z7J0	Shaggy-related protein kinase GSK4 OS=Oryza sativa subsp. japonica OX=39947 GN=GSK4 PE=1 SV=1	Oryza sativa subsp. japonica	403	334	30.0	49.4	8.3e-32
+501	SP	Q91Y86	Mitogen-activated protein kinase 8 OS=Mus musculus OX=10090 GN=Mapk8 PE=1 SV=1	Mus musculus	384	331	29.6	50.0	1.4e-31
+502	SP	P51137	Glycogen synthase kinase-3 homolog MsK-1 OS=Medicago sativa OX=3879 GN=MSK-1 PE=2 SV=1	Medicago sativa	411	331	30.6	50.2	2.4e-31
+503	SP	P43289	Shaggy-related protein kinase gamma OS=Arabidopsis thaliana OX=3702 GN=ASK3 PE=1 SV=1	Arabidopsis thaliana	409	330	30.4	49.2	3.1e-31
+504	SP	P45983	Mitogen-activated protein kinase 8 OS=Homo sapiens OX=9606 GN=MAPK8 PE=1 SV=2	Homo sapiens	427	331	29.6	50.0	3.1e-31
+505	SP	P49185	Mitogen-activated protein kinase 8 OS=Rattus norvegicus OX=10116 GN=Mapk8 PE=1 SV=1	Rattus norvegicus	411	330	29.6	50.0	3.2e-31
+506	SP	P83101	Putative glycogen synthase kinase-3 homolog OS=Drosophila melanogaster OX=7227 GN=gskt PE=2 SV=1	Drosophila melanogaster	501	333	28.4	45.4	5.3e-31
+507	SP	A8XSC1	Serine/threonine kinase NLK OS=Caenorhabditis briggsae OX=6238 GN=lit-1 PE=3 SV=2	Caenorhabditis briggsae	657	337	35.3	54.8	7.9e-31
+508	SP	Q91757	Glycogen synthase kinase-3 beta OS=Xenopus laevis OX=8355 GN=gsk3b PE=1 SV=1	Xenopus laevis	420	326	29.8	47.3	1.2e-30
+509	SP	G5EBT1	Mitogen-activated protein kinase sma-5 OS=Caenorhabditis elegans OX=6239 GN=sma-5 PE=2 SV=1	Caenorhabditis elegans	509	329	27.3	47.8	1.9e-30
+510	SP	P49187	Mitogen-activated protein kinase 10 OS=Rattus norvegicus OX=10116 GN=Mapk10 PE=1 SV=3	Rattus norvegicus	464	326	29.4	49.4	2.5e-30
+511	SP	P53779	Mitogen-activated protein kinase 10 OS=Homo sapiens OX=9606 GN=MAPK10 PE=1 SV=2	Homo sapiens	464	326	29.4	49.4	2.5e-30
+512	SP	Q39011	Shaggy-related protein kinase eta OS=Arabidopsis thaliana OX=3702 GN=ASK7 PE=1 SV=2	Arabidopsis thaliana	380	321	29.1	48.1	2.7e-30
+513	SP	P79996	Mitogen-activated protein kinase 9 OS=Gallus gallus OX=9031 GN=MAPK9 PE=2 SV=1	Gallus gallus	382	321	30.0	48.9	2.8e-30
+514	SP	Q966Y3	Stress-activated protein kinase JNK OS=Suberites domuncula OX=55567 GN=JNK PE=2 SV=1	Suberites domuncula	361	319	27.7	47.1	3.4e-30
+515	SP	Q8BI55	Dual specificity tyrosine-phosphorylation-regulated kinase 4 OS=Mus musculus OX=10090 GN=Dyrk4 PE=2 SV=1	Mus musculus	632	331	30.6	48.5	3.6e-30
+516	SP	Q9WV60	Glycogen synthase kinase-3 beta OS=Mus musculus OX=10090 GN=Gsk3b PE=1 SV=2	Mus musculus	420	322	29.5	47.9	4e-30
+517	SP	P49841	Glycogen synthase kinase-3 beta OS=Homo sapiens OX=9606 GN=GSK3B PE=1 SV=2	Homo sapiens	420	322	29.5	47.9	4e-30
+518	SP	P18265	Glycogen synthase kinase-3 alpha OS=Rattus norvegicus OX=10116 GN=Gsk3a PE=1 SV=1	Rattus norvegicus	483	325	29.9	47.5	4.3e-30
+519	SP	P49840	Glycogen synthase kinase-3 alpha OS=Homo sapiens OX=9606 GN=GSK3A PE=1 SV=2	Homo sapiens	483	325	29.9	47.5	4.3e-30
+520	SP	Q8QHK8	Mitogen-activated protein kinase 8 OS=Xenopus laevis OX=8355 GN=mapk8 PE=2 SV=2	Xenopus laevis	426	322	29.3	48.9	4.5e-30
+521	SP	P51138	Glycogen synthase kinase-3 homolog MsK-2 OS=Medicago sativa OX=3879 GN=MSK-2 PE=2 SV=1	Medicago sativa	411	321	30.5	49.4	4.7e-30
+522	SP	P36005	Serine/threonine-protein kinase KDX1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=KDX1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	433	322	29.8	47.7	5e-30
+523	SP	P19026	Cell division control protein 2 homolog 1 (Fragment) OS=Pisum sativum OX=3888 GN=CDC2 PE=2 SV=1	Pisum sativum	148	300	41.1	63.3	5.1e-30
+524	SP	Q61831	Mitogen-activated protein kinase 10 OS=Mus musculus OX=10090 GN=Mapk10 PE=1 SV=2	Mus musculus	464	323	29.4	49.1	6e-30
+525	SP	Q9U6D2	Stress-activated protein kinase JNK-1 OS=Ancylostoma caninum OX=29170 GN=JNK-1 PE=2 SV=2	Ancylostoma caninum	376	318	28.9	50.0	6.1e-30
+526	SP	Q2NL51	Glycogen synthase kinase-3 alpha OS=Mus musculus OX=10090 GN=Gsk3a PE=1 SV=2	Mus musculus	490	324	30.0	46.4	6.4e-30
+527	SP	P43288	Shaggy-related protein kinase alpha OS=Arabidopsis thaliana OX=3702 GN=ASK1 PE=1 SV=3	Arabidopsis thaliana	405	319	30.1	48.5	7.7e-30
+528	SP	P49186	Mitogen-activated protein kinase 9 OS=Rattus norvegicus OX=10116 GN=Mapk9 PE=1 SV=1	Rattus norvegicus	423	320	29.7	48.9	7.7e-30
+529	SP	P45984	Mitogen-activated protein kinase 9 OS=Homo sapiens OX=9606 GN=MAPK9 PE=1 SV=2	Homo sapiens	424	320	29.7	48.9	7.8e-30
+530	SP	Q4U925	Casein kinase II subunit alpha OS=Theileria annulata OX=5874 GN=TA10630 PE=3 SV=2	Theileria annulata	348	315	27.1	49.3	8.7e-30
+531	SP	Q5YJC2	Glycogen synthase kinase-3 beta OS=Spermophilus citellus OX=9997 GN=GSK3B PE=2 SV=1	Spermophilus citellus	420	319	29.5	47.6	9.9e-30
+532	SP	P18266	Glycogen synthase kinase-3 beta OS=Rattus norvegicus OX=10116 GN=Gsk3b PE=1 SV=1	Rattus norvegicus	420	319	29.2	47.9	9.9e-30
+533	SP	Q4PKS0	Mitogen-activated protein kinase HOG1 (Fragment) OS=Gibberella intermedia OX=948311 GN=HOG1 PE=3 SV=1	Gibberella intermedia	200	302	33.8	53.4	1.3e-29
+534	SP	Q9FVS6	Shaggy-related protein kinase delta OS=Arabidopsis thaliana OX=3702 GN=ASK4 PE=2 SV=1	Arabidopsis thaliana	420	318	28.7	48.9	1.3e-29
+535	SP	Q4PNJ1	Mitogen-activated protein kinase HOG1 (Fragment) OS=Fusarium culmorum OX=5516 GN=HOG1 PE=3 SV=1	Fusarium culmorum	207	302	33.8	53.4	1.5e-29
+536	SP	O54833	Casein kinase II subunit alpha' OS=Mus musculus OX=10090 GN=Csnk2a2 PE=1 SV=1	Mus musculus	350	313	28.5	51.2	1.6e-29
+537	SP	P20427	Casein kinase II subunit alpha' OS=Bos taurus OX=9913 GN=CSNK2A2 PE=1 SV=3	Bos taurus	350	313	28.5	51.2	1.6e-29
+538	SP	Q02720	Casein kinase II subunit alpha OS=Dictyostelium discoideum OX=44689 GN=casK PE=2 SV=1	Dictyostelium discoideum	337	312	28.6	52.3	1.7e-29
+539	SP	O04160	Shaggy-related protein kinase theta OS=Brassica napus OX=3708 PE=2 SV=2	Brassica napus	468	319	28.5	48.1	2.1e-29
+540	SP	P19139	Casein kinase II subunit alpha OS=Rattus norvegicus OX=10116 GN=Csnk2a1 PE=1 SV=2	Rattus norvegicus	391	314	25.2	45.7	2.7e-29
+541	SP	P18431	Protein kinase shaggy OS=Drosophila melanogaster OX=7227 GN=sgg PE=1 SV=3	Drosophila melanogaster	514	320	30.5	48.0	2.8e-29
+542	SP	P28547	Casein kinase II subunit alpha OS=Theileria parva OX=5875 GN=TP04_0659 PE=3 SV=2	Theileria parva	348	310	27.3	50.6	3.9e-29
+543	SP	P19784	Casein kinase II subunit alpha' OS=Homo sapiens OX=9606 GN=CSNK2A2 PE=1 SV=1	Homo sapiens	350	310	28.2	51.2	4.1e-29
+544	SP	Q66KH9	Cyclin-dependent kinase 8 OS=Xenopus laevis OX=8355 GN=cdk8 PE=2 SV=1	Xenopus laevis	416	314	30.4	47.2	4.1e-29
+545	SP	Q96287	Shaggy-related protein kinase theta OS=Arabidopsis thaliana OX=3702 GN=ASK8 PE=2 SV=3	Arabidopsis thaliana	472	316	28.8	47.8	5.3e-29
+546	SP	P21869	Casein kinase II subunit alpha' OS=Gallus gallus OX=9031 PE=2 SV=1	Gallus gallus	350	309	28.2	50.9	5.5e-29
+547	SP	Q39019	Shaggy-related protein kinase kappa OS=Arabidopsis thaliana OX=3702 GN=ASK10 PE=2 SV=2	Arabidopsis thaliana	421	313	29.0	48.8	6e-29
+548	SP	P51136	Glycogen synthase kinase-3 OS=Dictyostelium discoideum OX=44689 GN=gskA PE=1 SV=2	Dictyostelium discoideum	467	315	28.3	46.3	6.6e-29
+549	SP	P18334	Casein kinase II subunit alpha OS=Caenorhabditis elegans OX=6239 GN=kin-3 PE=1 SV=1	Caenorhabditis elegans	360	309	26.7	51.7	6.7e-29
+550	SP	P92208	Stress-activated protein kinase JNK OS=Drosophila melanogaster OX=7227 GN=bsk PE=1 SV=1	Drosophila melanogaster	372	309	28.5	48.7	8.4e-29
+551	SP	Q9WTU6	Mitogen-activated protein kinase 9 OS=Mus musculus OX=10090 GN=Mapk9 PE=1 SV=2	Mus musculus	423	311	28.8	48.6	1.1e-28
+552	SP	P68400	Casein kinase II subunit alpha OS=Homo sapiens OX=9606 GN=CSNK2A1 PE=1 SV=1	Homo sapiens	391	309	26.7	49.3	1.2e-28
+553	SP	P21868	Casein kinase II subunit alpha OS=Gallus gallus OX=9031 GN=CSNK2A1 PE=2 SV=1	Gallus gallus	391	309	26.4	49.6	1.2e-28
+554	SP	P68399	Casein kinase II subunit alpha OS=Bos taurus OX=9913 GN=CSNK2A1 PE=1 SV=1	Bos taurus	391	309	26.7	49.3	1.2e-28
+555	SP	A3EZ54	Mitogen-activated protein kinase HOG1 (Fragment) OS=Wallemia sebi OX=148960 GN=HOG1 PE=3 SV=1	Wallemia sebi	278	301	30.9	50.4	1.3e-28
+556	SP	Q60737	Casein kinase II subunit alpha OS=Mus musculus OX=10090 GN=Csnk2a1 PE=1 SV=2	Mus musculus	391	308	27.4	49.9	1.6e-28
+557	SP	P28020	Casein kinase II subunit alpha OS=Xenopus laevis OX=8355 GN=csnk2a1 PE=2 SV=2	Xenopus laevis	392	308	26.7	49.3	1.6e-28
+558	SP	Q8VZD5	Shaggy-related protein kinase epsilon OS=Arabidopsis thaliana OX=3702 GN=ASK5 PE=1 SV=1	Arabidopsis thaliana	410	309	29.8	48.2	1.6e-28
+559	SP	A3EZ53	Mitogen-activated protein kinase HOG1 (Fragment) OS=Wallemia muriae OX=245175 GN=HOG1 PE=3 SV=1	Wallemia muriae	278	300	30.9	50.4	1.8e-28
+560	SP	P33674	Casein kinase II subunit alpha OS=Oryctolagus cuniculus OX=9986 GN=CSNK2A1 PE=2 SV=1	Oryctolagus cuniculus	391	305	26.8	49.7	3.9e-28
+561	SP	P08181	Casein kinase II subunit alpha OS=Drosophila melanogaster OX=7227 GN=CkIIalpha PE=1 SV=2	Drosophila melanogaster	336	300	26.6	49.4	6.3e-28
+562	SP	P38615	Serine/threonine-protein kinase RIM11/MSD1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RIM11 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	370	301	33.2	52.3	8.9e-28
+563	SP	P28523	Casein kinase II subunit alpha OS=Zea mays OX=4577 GN=ACK2 PE=1 SV=1	Zea mays	332	298	25.4	50.7	1.1e-27
+564	SP	O43077	Sporulation protein kinase mde3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mde3 PE=3 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	559	309	33.5	54.3	1.1e-27
+565	SP	Q90327	Mitogen-activated protein kinase 8A OS=Cyprinus carpio OX=7962 GN=mapk8a PE=2 SV=1	Cyprinus carpio	427	303	29.0	47.8	1.3e-27
+566	SP	Q8NEV1	Casein kinase II subunit alpha 3 OS=Homo sapiens OX=9606 GN=CSNK2A3 PE=1 SV=2	Homo sapiens	391	300	26.4	48.5	1.7e-27
+567	SP	Q09595	Putative serine/threonine-protein kinase gskl-1 OS=Caenorhabditis elegans OX=6239 GN=gskl-1 PE=1 SV=2	Caenorhabditis elegans	363	297	28.9	46.4	2.6e-27
+568	SP	Q8WQG9	Stress-activated protein kinase jnk-1 OS=Caenorhabditis elegans OX=6239 GN=jnk-1 PE=1 SV=2	Caenorhabditis elegans	463	302	28.5	46.7	2.8e-27
+569	SP	Q388M1	Glycogen synthase kinase 3 OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=GSK3 PE=1 SV=1	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	352	296	30.1	46.9	2.9e-27
+570	SP	B6F107	Casein kinase II subunit alpha-2 OS=Oryza sativa subsp. japonica OX=39947 GN=HD6 PE=3 SV=1	Oryza sativa subsp. japonica	333	294	25.1	49.9	3.6e-27
+571	SP	Q9AR27	Casein kinase II subunit alpha-2 OS=Oryza sativa subsp. indica OX=39946 GN=HD6 PE=2 SV=1	Oryza sativa subsp. indica	333	294	25.1	49.9	3.6e-27
+572	SP	Q10452	Protein kinase gsk3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=gsk3 PE=1 SV=3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	387	297	30.2	47.8	4e-27
+573	SP	P19454	Casein kinase II subunit alpha' OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CKA2 PE=1 SV=2	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	339	291	28.3	49.5	1e-26
+574	SP	Q4R6S5	Dual specificity tyrosine-phosphorylation-regulated kinase 3 OS=Macaca fascicularis OX=9541 GN=DYRK3 PE=2 SV=1	Macaca fascicularis	568	301	32.6	50.2	1.2e-26
+575	SP	Q55FT4	Probable serine/threonine-protein kinase tsuA OS=Dictyostelium discoideum OX=44689 GN=tsuA PE=1 SV=1	Dictyostelium discoideum	2247	308	35.7	52.9	1.2e-26
+576	SP	O76484	Casein kinase II subunit alpha OS=Spodoptera frugiperda OX=7108 PE=2 SV=1	Spodoptera frugiperda	353	291	26.7	50.3	1.3e-26
+577	SP	O43781	Dual specificity tyrosine-phosphorylation-regulated kinase 3 OS=Homo sapiens OX=9606 GN=DYRK3 PE=1 SV=3	Homo sapiens	588	301	32.6	50.2	1.3e-26
+578	SP	O42099	Mitogen-activated protein kinase 8B OS=Cyprinus carpio OX=7962 GN=mapk8b PE=2 SV=1	Cyprinus carpio	427	295	28.3	47.5	1.4e-26
+579	SP	G4NH08	Glycogen synthase kinase 1 OS=Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) OX=242507 GN=GSK1 PE=1 SV=1	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	394	293	28.8	47.9	1.5e-26
+580	SP	Q8SRI3	Probable serine/threonine-protein kinase MRK1 homolog OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=MRK1 PE=3 SV=2	Encephalitozoon cuniculi (strain GB-M1)	318	288	29.9	46.1	1.6e-26
+581	SP	Q2QAV0	Serine/threonine-protein kinase TIO OS=Arabidopsis thaliana OX=3702 GN=TIO PE=1 SV=1	Arabidopsis thaliana	1322	305	32.4	51.6	2.1e-26
+582	SP	Q9URT9	Protein kinase gsk31 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=gsk31 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	381	291	30.0	46.1	2.2e-26
+583	SP	Q9DGD9	Mitogen-activated protein kinase 8 OS=Danio rerio OX=7955 GN=mapk8 PE=2 SV=1	Danio rerio	384	291	28.3	47.3	2.3e-26
+584	SP	Q08466	Casein kinase II subunit alpha-2 OS=Arabidopsis thaliana OX=3702 GN=CKA2 PE=1 SV=3	Arabidopsis thaliana	403	292	24.6	51.7	2.3e-26
+585	SP	Q5UNT1	Putative serine/threonine-protein kinase L673 OS=Acanthamoeba polyphaga mimivirus OX=212035 GN=MIMI_L673 PE=3 SV=1	Acanthamoeba polyphaga mimivirus	545	297	34.0	50.2	3e-26
+586	SP	Q3S406	Glycogen synthase kinase 1 OS=Pyricularia oryzae OX=318829 GN=GSK1 PE=1 SV=1	Pyricularia oryzae	394	290	28.4	47.9	3.6e-26
+587	SP	O64817	Casein kinase II subunit alpha-3 OS=Arabidopsis thaliana OX=3702 GN=CKA3 PE=1 SV=1	Arabidopsis thaliana	333	286	25.1	50.1	4e-26
+588	SP	Q9V3D5	Dual specificity tyrosine-phosphorylation-regulated kinase 2 OS=Drosophila melanogaster OX=7227 GN=Dyrk2 PE=1 SV=1	Drosophila melanogaster	722	298	30.0	49.5	6.3e-26
+589	SP	A5GFW1	Aurora kinase A OS=Sus scrofa OX=9823 GN=AURKA PE=3 SV=1	Sus scrofa	402	288	28.9	46.8	7.4e-26
+590	SP	Q9NR20	Dual specificity tyrosine-phosphorylation-regulated kinase 4 OS=Homo sapiens OX=9606 GN=DYRK4 PE=1 SV=2	Homo sapiens	520	292	27.3	43.9	1e-25
+591	SP	C4YRB7	Serine/threonine-protein kinase CST20 OS=Candida albicans (strain WO-1) OX=294748 GN=CST20 PE=3 SV=2	Candida albicans (strain WO-1)	1224	299	24.7	38.5	1e-25
+592	SP	P0CY23	Serine/threonine-protein kinase CST20 OS=Candida albicans OX=5476 GN=CST20 PE=3 SV=1	Candida albicans	1230	299	24.7	38.5	1e-25
+593	SP	A0A8I3S724	Aurora kinase A OS=Canis lupus familiaris OX=9615 GN=AURKA PE=1 SV=1	Canis lupus familiaris	405	287	28.6	47.1	1e-25
+594	SP	P83102	Putative dual specificity tyrosine-phosphorylation-regulated kinase 3 homolog OS=Drosophila melanogaster OX=7227 GN=Dyrk3 PE=1 SV=3	Drosophila melanogaster	828	297	33.5	51.5	1.1e-25
+595	SP	O44408	GLH-binding kinase 1 OS=Caenorhabditis elegans OX=6239 GN=kgb-1 PE=1 SV=2	Caenorhabditis elegans	390	285	27.6	46.8	1.5e-25
+596	SP	Q2TA06	Aurora kinase A OS=Bos taurus OX=9913 GN=AURKA PE=2 SV=1	Bos taurus	402	285	28.6	46.6	1.8e-25
+597	SP	Q08467	Casein kinase II subunit alpha-1 OS=Arabidopsis thaliana OX=3702 GN=CKA1 PE=1 SV=3	Arabidopsis thaliana	409	285	24.6	51.7	2e-25
+598	SP	P51956	Serine/threonine-protein kinase Nek3 OS=Homo sapiens OX=9606 GN=NEK3 PE=1 SV=2	Homo sapiens	506	289	34.0	53.4	2.1e-25
+599	SP	Q4V8A3	Dual specificity tyrosine-phosphorylation-regulated kinase 3 OS=Rattus norvegicus OX=10116 GN=Dyrk3 PE=2 SV=1	Rattus norvegicus	586	291	31.2	48.0	2.3e-25
+600	SP	Q5RAJ5	Serine/threonine-protein kinase 36 OS=Pongo abelii OX=9601 GN=STK36 PE=2 SV=1	Pongo abelii	1315	296	34.9	51.2	2.4e-25
+601	SP	Q9SLI2	Serine/threonine-protein kinase Nek1 OS=Arabidopsis thaliana OX=3702 GN=NEK1 PE=2 SV=2	Arabidopsis thaliana	612	291	31.7	52.9	2.7e-25
+602	SP	O64816	Casein kinase II subunit alpha-4, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=CKA4 PE=2 SV=1	Arabidopsis thaliana	432	285	24.4	51.8	2.8e-25
+603	SP	Q922Y0	Dual specificity tyrosine-phosphorylation-regulated kinase 3 OS=Mus musculus OX=10090 GN=Dyrk3 PE=1 SV=1	Mus musculus	586	290	31.2	48.0	3e-25
+604	SP	Q76NV1	Probable serine/threonine-protein kinase dyrk1 OS=Dictyostelium discoideum OX=44689 GN=dyrk1 PE=3 SV=1	Dictyostelium discoideum	836	293	28.3	44.1	3.4e-25
+605	SP	P0CY24	Serine/threonine-protein kinase CST20 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=CST20 PE=3 SV=1	Candida albicans (strain SC5314 / ATCC MYA-2876)	1228	294	24.4	38.4	3.9e-25
+606	SP	Q9NRP7	Serine/threonine-protein kinase 36 OS=Homo sapiens OX=9606 GN=STK36 PE=1 SV=2	Homo sapiens	1315	294	34.9	50.8	4.1e-25
+607	SP	O55099	Aurora kinase B OS=Rattus norvegicus OX=10116 GN=Aurkb PE=1 SV=1	Rattus norvegicus	343	278	28.8	44.6	5.4e-25
+608	SP	Q9CAD5	Mitogen-activated protein kinase kinase kinase YODA OS=Arabidopsis thaliana OX=3702 GN=YDA PE=1 SV=1	Arabidopsis thaliana	883	291	29.7	47.5	6.4e-25
+609	SP	P21965	Protein kinase MCK1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MCK1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	375	279	27.1	45.5	7e-25
+610	SP	Q09815	Serine/threonine-protein kinase ppk5 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ppk5 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	836	290	29.6	47.6	7.7e-25
+611	SP	Q5ZIU3	Dual specificity tyrosine-phosphorylation-regulated kinase 2 OS=Gallus gallus OX=9031 GN=DYRK2 PE=2 SV=1	Gallus gallus	526	285	33.2	50.8	7.9e-25
+612	SP	Q6YY75	Serine/threonine-protein kinase Nek6 OS=Oryza sativa subsp. japonica OX=39947 GN=NEK6 PE=1 SV=2	Oryza sativa subsp. japonica	534	285	28.7	50.0	8.5e-25
+613	SP	Q8TG13	Casein kinase II subunit alpha OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=cka PE=2 SV=1	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	336	276	24.7	50.6	8.6e-25
+614	SP	Q69ZM6	Serine/threonine-protein kinase 36 OS=Mus musculus OX=10090 GN=Stk36 PE=1 SV=3	Mus musculus	1316	291	34.5	50.4	9.3e-25
+615	SP	B7XHR6	Probable serine/threonine-protein kinase KIN1 homolog OS=Enterocytozoon bieneusi (strain H348) OX=481877 GN=KIN1 PE=3 SV=1	Enterocytozoon bieneusi (strain H348)	595	286	31.7	53.6	1e-24
+616	SP	Q01389	Serine/threonine-protein kinase BCK1/SLK1/SSP31 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=BCK1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	1478	290	23.7	41.9	1.3e-24
+617	SP	O14965	Aurora kinase A OS=Homo sapiens OX=9606 GN=AURKA PE=1 SV=3	Homo sapiens	403	278	29.4	48.0	1.5e-24
+618	SP	Q91820	Aurora kinase A-A OS=Xenopus laevis OX=8355 GN=aurka-a PE=1 SV=1	Xenopus laevis	407	277	27.7	46.7	2.1e-24
+619	SP	O88445	Aurora kinase C OS=Mus musculus OX=10090 GN=Aurkc PE=1 SV=2	Mus musculus	276	269	26.5	45.5	2.1e-24
+620	SP	Q09690	DYRK-family kinase pom1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pom1 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	1087	287	28.6	48.9	2.4e-24
+621	SP	Q03497	Serine/threonine-protein kinase STE20 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=STE20 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	939	286	21.9	37.9	2.7e-24
+622	SP	O59790	Aurora kinase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ark1 PE=1 SV=2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	355	273	27.4	45.5	3e-24
+623	SP	Q8T2I8	Serine/threonine-protein kinase sepA OS=Dictyostelium discoideum OX=44689 GN=sepA PE=2 SV=1	Dictyostelium discoideum	1167	286	30.3	51.6	3.3e-24
+624	SP	O01427	Aurora/IPL1-related protein kinase 2 OS=Caenorhabditis elegans OX=6239 GN=air-2 PE=1 SV=2	Caenorhabditis elegans	305	269	26.2	43.1	3.9e-24
+625	SP	Q9LT35	Serine/threonine-protein kinase Nek6 OS=Arabidopsis thaliana OX=3702 GN=NEK6 PE=3 SV=1	Arabidopsis thaliana	416	275	27.9	48.8	4.2e-24
+626	SP	Q5U4C9	Dual specificity tyrosine-phosphorylation-regulated kinase 2 OS=Mus musculus OX=10090 GN=Dyrk2 PE=2 SV=1	Mus musculus	599	280	34.8	52.4	5.6e-24
+627	SP	Q92630	Dual specificity tyrosine-phosphorylation-regulated kinase 2 OS=Homo sapiens OX=9606 GN=DYRK2 PE=1 SV=3	Homo sapiens	601	280	34.8	52.4	5.6e-24
+628	SP	Q54LR6	Probable serine/threonine-protein kinase DDB_G0286481 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0286481 PE=3 SV=1	Dictyostelium discoideum	605	280	28.0	50.2	5.8e-24
+629	SP	Q9R0A5	Serine/threonine-protein kinase Nek3 OS=Mus musculus OX=10090 GN=Nek3 PE=1 SV=2	Mus musculus	511	277	33.6	53.2	6.9e-24
+630	SP	Q63553	SNF-related serine/threonine-protein kinase OS=Rattus norvegicus OX=10116 GN=Snrk PE=1 SV=1	Rattus norvegicus	746	281	28.3	46.5	7.5e-24
+631	SP	Q8VDU5	SNF-related serine/threonine-protein kinase OS=Mus musculus OX=10090 GN=Snrk PE=1 SV=1	Mus musculus	748	281	28.3	46.5	7.6e-24
+632	SP	Q75DK7	Serine/threonine-protein kinase STE20 OS=Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) OX=284811 GN=STE20 PE=3 SV=2	Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	970	282	23.4	36.5	8.4e-24
+633	SP	A8WJR8	Dual specificity tyrosine-phosphorylation-regulated kinase mbk-2 OS=Caenorhabditis briggsae OX=6238 GN=mbk-2 PE=3 SV=2	Caenorhabditis briggsae	815	281	24.4	39.9	8.8e-24
+634	SP	Q54PB4	Probable myosin light chain kinase DDB_G0284661 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0284661 PE=3 SV=1	Dictyostelium discoideum	481	275	30.9	48.5	9.2e-24
+635	SP	Q8RXT4	Serine/threonine-protein kinase Nek4 OS=Arabidopsis thaliana OX=3702 GN=NEK4 PE=2 SV=1	Arabidopsis thaliana	555	277	29.5	52.3	9.8e-24
+636	SP	Q5ZMJ9	Serine/arginine repetitive matrix protein 1 OS=Gallus gallus OX=9031 GN=SRRM1 PE=2 SV=1	Gallus gallus	888	281	24.6	38.5	9.9e-24
+637	SP	Q62925	Mitogen-activated protein kinase kinase kinase 1 OS=Rattus norvegicus OX=10116 GN=Map3k1 PE=1 SV=1	Rattus norvegicus	1493	282	23.2	40.2	1.1e-23
+638	SP	Q55D99	Serine/threonine-protein kinase pakA OS=Dictyostelium discoideum OX=44689 GN=pakA PE=1 SV=1	Dictyostelium discoideum	1197	281	21.9	38.4	1.3e-23
+639	SP	P59241	Aurora kinase A OS=Rattus norvegicus OX=10116 GN=Aurka PE=1 SV=1	Rattus norvegicus	397	270	27.7	45.5	1.4e-23
+640	SP	O14427	Serine/threonine-protein kinase CLA4 OS=Candida albicans OX=5476 GN=CLA4 PE=3 SV=1	Candida albicans	971	280	21.1	40.7	1.4e-23
+641	SP	Q96GD4	Aurora kinase B OS=Homo sapiens OX=9606 GN=AURKB PE=1 SV=3	Homo sapiens	344	267	27.9	44.1	1.5e-23
+642	SP	Q7YRC6	Aurora kinase B OS=Bos taurus OX=9913 GN=AURKB PE=2 SV=1	Bos taurus	344	267	27.9	44.2	1.5e-23
+643	SP	Q7TSC3	Serine/threonine-protein kinase Nek5 OS=Mus musculus OX=10090 GN=Nek5 PE=2 SV=1	Mus musculus	627	277	34.2	50.7	1.5e-23
+644	SP	Q54XJ4	Probable serine/threonine-protein kinase DDB_G0278901 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0278901 PE=3 SV=1	Dictyostelium discoideum	1495	281	22.9	39.9	1.5e-23
+645	SP	O70126	Aurora kinase B OS=Mus musculus OX=10090 GN=Aurkb PE=1 SV=2	Mus musculus	345	267	27.6	44.1	1.5e-23
+646	SP	Q66HE5	NUAK family SNF1-like kinase 2 OS=Rattus norvegicus OX=10116 GN=Nuak2 PE=1 SV=1	Rattus norvegicus	630	276	33.2	52.5	2e-23
+647	SP	F4HRJ4	Mitogen-activated protein kinase kinase kinase 3 OS=Arabidopsis thaliana OX=3702 GN=MAPKKK3 PE=1 SV=1	Arabidopsis thaliana	609	275	31.9	53.5	2.4e-23
+648	SP	Q54R82	Mitogen-activated protein kinase kinase kinase A OS=Dictyostelium discoideum OX=44689 GN=mkkA PE=1 SV=2	Dictyostelium discoideum	942	278	29.5	53.9	2.4e-23
+649	SP	A4IGM9	Aurora kinase B OS=Xenopus tropicalis OX=8364 GN=aurkb PE=2 SV=1	Xenopus tropicalis	360	266	32.0	49.8	2.6e-23
+650	SP	Q9XTF3	Dual specificity tyrosine-phosphorylation-regulated kinase mbk-2 OS=Caenorhabditis elegans OX=6239 GN=mbk-2 PE=1 SV=1	Caenorhabditis elegans	817	277	30.4	45.4	2.6e-23
+651	SP	Q8BZN4	NUAK family SNF1-like kinase 2 OS=Mus musculus OX=10090 GN=Nuak2 PE=1 SV=2	Mus musculus	639	275	32.7	53.5	2.8e-23
+652	SP	Q9LJD8	MAP3K epsilon protein kinase 1 OS=Arabidopsis thaliana OX=3702 GN=M3KE1 PE=1 SV=1	Arabidopsis thaliana	1368	278	30.3	51.7	3.2e-23
+653	SP	Q5APR8	Serine/threonine-protein kinase CLA4 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=CLA4 PE=1 SV=1	Candida albicans (strain SC5314 / ATCC MYA-2876)	976	277	21.1	40.0	3.3e-23
+654	SP	Q641K5	NUAK family SNF1-like kinase 1 OS=Mus musculus OX=10090 GN=Nuak1 PE=1 SV=1	Mus musculus	658	274	30.5	54.2	4e-23
+655	SP	Q6C3J2	Aurora kinase OS=Yarrowia lipolytica (strain CLIB 122 / E 150) OX=284591 GN=IPL1 PE=3 SV=1	Yarrowia lipolytica (strain CLIB 122 / E 150)	371	265	29.4	44.3	4.2e-23
+656	SP	P42818	Serine/threonine-protein kinase AtPK1/AtPK6 OS=Arabidopsis thaliana OX=3702 GN=ATPK1 PE=1 SV=1	Arabidopsis thaliana	465	269	29.3	51.4	4.4e-23
+657	SP	Q9Z188	Dual specificity tyrosine-phosphorylation-regulated kinase 1B OS=Mus musculus OX=10090 GN=Dyrk1b PE=1 SV=3	Mus musculus	629	273	30.9	49.2	4.6e-23
+658	SP	Q9Y463	Dual specificity tyrosine-phosphorylation-regulated kinase 1B OS=Homo sapiens OX=9606 GN=DYRK1B PE=1 SV=1	Homo sapiens	629	273	33.7	53.2	4.6e-23
+659	SP	Q2ULU3	Serine/threonine-protein kinase ste20 OS=Aspergillus oryzae (strain ATCC 42149 / RIB 40) OX=510516 GN=ste20 PE=3 SV=1	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	848	275	21.2	36.5	4.8e-23
+660	SP	Q91819	Aurora kinase A-B OS=Xenopus laevis OX=8355 GN=aurka-b PE=2 SV=3	Xenopus laevis	408	266	27.0	49.6	5.4e-23
+661	SP	Q9NRH2	SNF-related serine/threonine-protein kinase OS=Homo sapiens OX=9606 GN=SNRK PE=1 SV=2	Homo sapiens	765	274	28.0	45.5	5.4e-23
+662	SP	Q6CVA2	Serine/threonine-protein kinase STE20 OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) OX=284590 GN=STE20 PE=3 SV=1	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	989	275	25.2	41.7	5.7e-23
+663	SP	Q9LPQ3	Mitogen-activated protein kinase kinase 7 OS=Arabidopsis thaliana OX=3702 GN=MKK7 PE=1 SV=1	Arabidopsis thaliana	307	260	33.9	49.1	6.1e-23
+664	SP	Q9UQB9	Aurora kinase C OS=Homo sapiens OX=9606 GN=AURKC PE=1 SV=1	Homo sapiens	309	260	27.7	43.1	6.4e-23
+665	SP	Q9N0X0	Aurora kinase B OS=Sus scrofa OX=9823 GN=AURKB PE=2 SV=2	Sus scrofa	344	262	27.7	43.1	6.6e-23
+666	SP	Q9UQ35	Serine/arginine repetitive matrix protein 2 OS=Homo sapiens OX=9606 GN=SRRM2 PE=1 SV=2	Homo sapiens	2752	276	31.6	44.8	7.1e-23
+667	SP	Q55BN8	Probable serine/threonine-protein kinase nek2 OS=Dictyostelium discoideum OX=44689 GN=nek2 PE=1 SV=1	Dictyostelium discoideum	418	265	30.6	52.8	8.2e-23
+668	SP	O60285	NUAK family SNF1-like kinase 1 OS=Homo sapiens OX=9606 GN=NUAK1 PE=1 SV=1	Homo sapiens	661	271	30.5	54.2	9.2e-23
+669	SP	Q0CL79	Cytokinesis protein sepH OS=Aspergillus terreus (strain NIH 2624 / FGSC A1156) OX=341663 GN=sepH PE=3 SV=2	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	1342	274	29.6	47.0	9.4e-23
+670	SP	Q6GPL3	Aurora kinase B-B OS=Xenopus laevis OX=8355 GN=aurkb-b PE=2 SV=1	Xenopus laevis	368	262	31.5	49.8	9.8e-23
+671	SP	Q54WE5	Serine/threonine-protein kinase prpf4B OS=Dictyostelium discoideum OX=44689 GN=prp4k PE=3 SV=1	Dictyostelium discoideum	811	272	21.8	37.6	1e-22
+672	SP	Q6NW76	Aurora kinase B OS=Danio rerio OX=7955 GN=aurkb PE=2 SV=1	Danio rerio	320	259	29.7	48.0	1.1e-22
+673	SP	Q9FJ54	CBL-interacting serine/threonine-protein kinase 20 OS=Arabidopsis thaliana OX=3702 GN=CIPK20 PE=1 SV=1	Arabidopsis thaliana	439	265	29.1	48.7	1.1e-22
+674	SP	Q55CA6	Probable serine/threonine-protein kinase DDB_G0270146 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0270146 PE=3 SV=1	Dictyostelium discoideum	635	270	29.1	51.0	1.1e-22
+675	SP	Q39030	Serine/threonine-protein kinase AtPK2/AtPK19 OS=Arabidopsis thaliana OX=3702 GN=ATPK2 PE=1 SV=2	Arabidopsis thaliana	471	266	29.3	51.0	1.1e-22
+676	SP	Q6DE08	Aurora kinase B-A OS=Xenopus laevis OX=8355 GN=aurkb-a PE=1 SV=1	Xenopus laevis	361	261	31.5	49.8	1.2e-22
+677	SP	Q5B4Z3	Cytokinesis protein sepH OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) OX=227321 GN=sepH PE=3 SV=2	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	1346	273	29.4	46.2	1.2e-22
+678	SP	Q8NE63	Homeodomain-interacting protein kinase 4 OS=Homo sapiens OX=9606 GN=HIPK4 PE=1 SV=1	Homo sapiens	616	269	29.8	48.5	1.3e-22
+679	SP	Q5R7G9	NUAK family SNF1-like kinase 2 OS=Pongo abelii OX=9601 GN=NUAK2 PE=2 SV=1	Pongo abelii	628	269	32.2	52.5	1.4e-22
+680	SP	Q9H093	NUAK family SNF1-like kinase 2 OS=Homo sapiens OX=9606 GN=NUAK2 PE=1 SV=1	Homo sapiens	628	269	32.2	52.5	1.4e-22
+681	SP	Q54PX0	Probable serine/threonine-protein kinase DDB_G0284251 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0284251 PE=3 SV=1	Dictyostelium discoideum	496	266	28.2	45.3	1.4e-22
+682	SP	P35465	Serine/threonine-protein kinase PAK 1 OS=Rattus norvegicus OX=10116 GN=Pak1 PE=1 SV=3	Rattus norvegicus	544	267	24.6	42.0	1.6e-22
+683	SP	Q8WP28	Homeodomain-interacting protein kinase 4 OS=Macaca fascicularis OX=9541 GN=HIPK4 PE=2 SV=1	Macaca fascicularis	616	268	29.8	48.5	1.8e-22
+684	SP	Q61XD3	Aurora/IPL1-related protein kinase 2 OS=Caenorhabditis briggsae OX=6238 GN=air-2 PE=3 SV=1	Caenorhabditis briggsae	302	256	27.3	43.7	1.9e-22
+685	SP	Q6DD27	Serine/threonine-protein kinase TAO3 OS=Xenopus laevis OX=8355 GN=taok3 PE=2 SV=1	Xenopus laevis	896	270	33.6	46.6	2e-22
+686	SP	Q4V793	Homeodomain-interacting protein kinase 4 OS=Rattus norvegicus OX=10116 GN=Hipk4 PE=2 SV=1	Rattus norvegicus	616	267	29.4	48.9	2.3e-22
+687	SP	Q3V016	Homeodomain-interacting protein kinase 4 OS=Mus musculus OX=10090 GN=Hipk4 PE=1 SV=2	Mus musculus	616	267	29.4	48.9	2.3e-22
+688	SP	A0A509AHB6	Calcium-dependent protein kinase 1 OS=Plasmodium berghei (strain Anka) OX=5823 GN=CDPK1 PE=1 SV=1	Plasmodium berghei (strain Anka)	523	265	29.1	46.4	2.4e-22
+689	SP	Q7RAH3	Calcium-dependent protein kinase 1 OS=Plasmodium yoelii yoelii OX=73239 GN=CDPK1 PE=3 SV=3	Plasmodium yoelii yoelii	535	265	29.1	46.4	2.6e-22
+690	SP	P97477	Aurora kinase A OS=Mus musculus OX=10090 GN=Aurka PE=1 SV=1	Mus musculus	395	260	25.3	43.2	2.6e-22
+691	SP	Q5UNT4	Putative serine/threonine-protein kinase L670 OS=Acanthamoeba polyphaga mimivirus OX=212035 GN=MIMI_L670 PE=3 SV=1	Acanthamoeba polyphaga mimivirus	539	265	30.3	52.1	2.7e-22
+692	SP	Q6ZEZ5	Serine/threonine-protein kinase Nek3 OS=Oryza sativa subsp. japonica OX=39947 GN=NEK3 PE=1 SV=1	Oryza sativa subsp. japonica	585	266	29.5	52.7	2.7e-22
+693	SP	Q54QI2	Serine/threonine-protein kinase DDB_G0283821 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0283821 PE=3 SV=1	Dictyostelium discoideum	941	269	23.5	41.2	2.8e-22
+694	SP	Q9SFB6	MAP3K epsilon protein kinase 2 OS=Arabidopsis thaliana OX=3702 GN=MAP3KE2 PE=2 SV=1	Arabidopsis thaliana	1367	270	30.3	51.3	2.8e-22
+695	SP	P14680	Dual specificity protein kinase YAK1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YAK1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	807	268	33.9	53.0	3.1e-22
+696	SP	Q94CU5	Serine/threonine-protein kinase Nek5 OS=Oryza sativa subsp. japonica OX=39947 GN=NEK5 PE=2 SV=1	Oryza sativa subsp. japonica	943	268	22.3	38.9	3.7e-22
+697	SP	Q00372	Carbon catabolite-derepressing protein kinase OS=Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) OX=284593 GN=SNF1 PE=3 SV=2	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)	612	265	25.7	43.5	4e-22
+698	SP	Q5BBL3	Serine/threonine-protein kinase ste20 OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) OX=227321 GN=ste20 PE=3 SV=1	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	848	267	22.2	37.5	4.3e-22
+699	SP	A0A078CGE6	MAP3K epsilon protein kinase 1 OS=Brassica napus OX=3708 GN=M3KE1 PE=1 SV=1	Brassica napus	1299	268	29.9	51.3	4.7e-22
+700	SP	Q6DE87	Serine/threonine-protein kinase Chk1 OS=Xenopus laevis OX=8355 GN=chek1 PE=1 SV=2	Xenopus laevis	474	261	31.4	49.8	4.9e-22
+701	SP	P27636	Cell division control protein 15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CDC15 PE=1 SV=3	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	974	267	33.3	52.9	5e-22
+702	SP	Q556S2	Serine/threonine-protein kinase pakH OS=Dictyostelium discoideum OX=44689 GN=pakH-1 PE=3 SV=1	Dictyostelium discoideum	513	262	24.9	44.1	5.2e-22
+703	SP	O80397	Mitogen-activated protein kinase kinase 4 OS=Arabidopsis thaliana OX=3702 GN=MKK4 PE=1 SV=1	Arabidopsis thaliana	366	256	26.8	42.1	5.6e-22
+704	SP	Q802A6	Serine/threonine-protein kinase 3/4 OS=Squalus acanthias OX=7797 GN=STK4 PE=2 SV=1	Squalus acanthias	491	261	24.9	42.5	5.7e-22
+705	SP	Q8IBS5	Calcium-dependent protein kinase 4 OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=CDPK4 PE=1 SV=3	Plasmodium falciparum (isolate 3D7)	528	262	28.3	47.2	5.8e-22
+706	SP	P06782	Carbon catabolite-derepressing protein kinase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SNF1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	633	264	25.8	44.6	5.8e-22
+707	SP	Q08E52	Serine/threonine-protein kinase PAK 1 OS=Bos taurus OX=9913 GN=PAK1 PE=1 SV=1	Bos taurus	544	262	24.3	41.7	6.5e-22
+708	SP	Q6P3R8	Serine/threonine-protein kinase Nek5 OS=Homo sapiens OX=9606 GN=NEK5 PE=1 SV=1	Homo sapiens	708	264	26.8	46.0	7.5e-22
+709	SP	Q4P5N0	Serine/threonine-protein kinase SMU1 OS=Mycosarcoma maydis OX=5270 GN=SMU1 PE=3 SV=1	Mycosarcoma maydis	746	264	22.8	38.5	8.2e-22
+710	SP	Q7ZYJ0	Serine/threonine-protein kinase TAO1-B OS=Xenopus laevis OX=8355 GN=taok1-b PE=2 SV=1	Xenopus laevis	1001	265	36.0	49.5	8.8e-22
+711	SP	O88643	Serine/threonine-protein kinase PAK 1 OS=Mus musculus OX=10090 GN=Pak1 PE=1 SV=1	Mus musculus	545	260	24.4	41.6	1.1e-21
+712	SP	Q13233	Mitogen-activated protein kinase kinase kinase 1 OS=Homo sapiens OX=9606 GN=MAP3K1 PE=1 SV=4	Homo sapiens	1512	265	23.9	45.1	1.1e-21
+713	SP	P51955	Serine/threonine-protein kinase Nek2 OS=Homo sapiens OX=9606 GN=NEK2 PE=1 SV=1	Homo sapiens	445	257	29.7	50.0	1.2e-21
+714	SP	Q9CAU7	Serine/threonine-protein kinase Nek2 OS=Arabidopsis thaliana OX=3702 GN=NEK2 PE=2 SV=1	Arabidopsis thaliana	606	261	29.0	51.3	1.2e-21
+715	SP	Q86I06	Probable serine/threonine-protein kinase nek3 OS=Dictyostelium discoideum OX=44689 GN=nek3 PE=3 SV=1	Dictyostelium discoideum	1123	264	21.9	38.2	1.3e-21
+716	SP	Q8RX66	Serine/threonine-protein kinase Nek3 OS=Arabidopsis thaliana OX=3702 GN=NEK3 PE=2 SV=1	Arabidopsis thaliana	568	260	29.4	51.7	1.3e-21
+717	SP	Q6IP06	Serine/threonine-protein kinase 3 OS=Xenopus laevis OX=8355 GN=stk3 PE=2 SV=1	Xenopus laevis	493	258	27.2	44.7	1.4e-21
+718	SP	Q10GB1	Serine/threonine-protein kinase Nek1 OS=Oryza sativa subsp. japonica OX=39947 GN=NEK1 PE=2 SV=1	Oryza sativa subsp. japonica	599	260	28.7	50.0	1.5e-21
+719	SP	Q38997	SNF1-related protein kinase catalytic subunit alpha KIN10 OS=Arabidopsis thaliana OX=3702 GN=KIN10 PE=1 SV=3	Arabidopsis thaliana	512	258	28.2	45.6	1.6e-21
+720	SP	Q54WX4	Aurora kinase OS=Dictyostelium discoideum OX=44689 GN=aurK PE=1 SV=1	Dictyostelium discoideum	384	253	26.9	44.6	1.8e-21
+721	SP	Q7RJG2	Calcium-dependent protein kinase 4 OS=Plasmodium yoelii yoelii OX=73239 GN=CDPK4 PE=3 SV=3	Plasmodium yoelii yoelii	528	258	28.4	46.9	1.8e-21
+722	SP	P62345	Calcium-dependent protein kinase 4 OS=Plasmodium berghei (strain Anka) OX=5823 GN=CDPK4 PE=1 SV=2	Plasmodium berghei (strain Anka)	528	258	28.4	46.9	1.8e-21
+723	SP	Q6NU21	Serine/threonine-protein kinase TAO1-A OS=Xenopus laevis OX=8355 GN=taok1-a PE=2 SV=1	Xenopus laevis	1001	262	35.5	49.5	2e-21
+724	SP	Q13153	Serine/threonine-protein kinase PAK 1 OS=Homo sapiens OX=9606 GN=PAK1 PE=1 SV=2	Homo sapiens	545	258	24.3	41.0	2e-21
+725	SP	A0A194W8T8	Mitogen-activated protein kinase kinase kinase mkh1 OS=Cytospora mali OX=578113 GN=mkh1 PE=3 SV=1	Cytospora mali	1849	263	20.2	38.3	2.1e-21
+726	SP	Q5Z6X0	CBL-interacting protein kinase 25 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK25 PE=2 SV=1	Oryza sativa subsp. japonica	514	257	28.1	47.8	2.2e-21
+727	SP	P43637	Serine/threonine-protein kinase TOS3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TOS3 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	560	258	26.8	45.0	2.2e-21
+728	SP	A6ZU08	Serine/threonine-protein kinase TOS3 OS=Saccharomyces cerevisiae (strain YJM789) OX=307796 GN=TOS3 PE=3 SV=1	Saccharomyces cerevisiae (strain YJM789)	560	258	26.8	45.0	2.2e-21
+729	SP	O94168	Carbon catabolite-derepressing protein kinase OS=Candida tropicalis OX=5482 GN=SNF1 PE=3 SV=1	Candida tropicalis	619	259	25.5	46.5	2.2e-21
+730	SP	B3KS81	Serine/arginine repetitive matrix protein 5 OS=Homo sapiens OX=9606 GN=SRRM5 PE=1 SV=3	Homo sapiens	715	260	27.3	39.1	2.3e-21
+731	SP	Q8W1D5	CBL-interacting serine/threonine-protein kinase 25 OS=Arabidopsis thaliana OX=3702 GN=CIPK25 PE=2 SV=1	Arabidopsis thaliana	488	256	26.6	45.7	2.3e-21
+732	SP	Q9S7U9	Mitogen-activated protein kinase kinase 2 OS=Arabidopsis thaliana OX=3702 GN=MKK2 PE=1 SV=2	Arabidopsis thaliana	363	251	30.8	52.7	2.4e-21
+733	SP	Q6H7U5	CBL-interacting protein kinase 26 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK26 PE=2 SV=1	Oryza sativa subsp. japonica	493	256	31.7	51.4	2.4e-21
+734	SP	P32581	Meiosis induction protein kinase IME2/SME1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=IME2 PE=3 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	645	259	24.3	41.3	2.5e-21
+735	SP	G2X6P0	Serine/threonine-protein kinase VST11 OS=Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137) OX=498257 GN=VST11 PE=1 SV=1	Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137)	805	260	28.2	50.6	2.7e-21
+736	SP	Q852Q0	Serine/threonine protein kinase OSK3 OS=Oryza sativa subsp. japonica OX=39947 GN=OSK3 PE=1 SV=1	Oryza sativa subsp. japonica	508	256	28.5	45.0	2.8e-21
+737	SP	A2XFF4	Serine/threonine protein kinase OSK3 OS=Oryza sativa subsp. indica OX=39946 GN=OSK3 PE=3 SV=1	Oryza sativa subsp. indica	508	256	28.5	45.0	2.8e-21
+738	SP	Q852Q1	Serine/threonine protein kinase OSK4 OS=Oryza sativa subsp. japonica OX=39947 GN=OSK4 PE=1 SV=1	Oryza sativa subsp. japonica	509	256	28.5	45.0	2.8e-21
+739	SP	B8BBT7	Serine/threonine protein kinase OSK4 OS=Oryza sativa subsp. indica OX=39946 GN=OSK4 PE=3 SV=1	Oryza sativa subsp. indica	509	256	28.5	45.0	2.8e-21
+740	SP	P49657	Serine/threonine-protein kinase minibrain OS=Drosophila melanogaster OX=7227 GN=mnb PE=1 SV=2	Drosophila melanogaster	908	260	33.3	51.6	3.2e-21
+741	SP	A2QHV0	Cytokinesis protein sepH OS=Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513) OX=425011 GN=sepH PE=3 SV=1	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	1336	261	30.7	50.2	3.2e-21
+742	SP	Q7RZD3	Serine/threonine-protein kinase ste20 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=stk-4 PE=3 SV=1	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	954	260	27.5	46.4	3.3e-21
+743	SP	P28829	Protein kinase byr2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=byr2 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	659	258	29.0	52.8	3.4e-21
+744	SP	Q8RXG3	Mitogen-activated protein kinase kinase 5 OS=Arabidopsis thaliana OX=3702 GN=MKK5 PE=1 SV=2	Arabidopsis thaliana	348	249	27.6	42.9	3.4e-21
+745	SP	Q2QMH1	Serine/threonine-protein kinase Nek2 OS=Oryza sativa subsp. japonica OX=39947 GN=NEK2 PE=2 SV=1	Oryza sativa subsp. japonica	591	257	29.1	51.5	3.4e-21
+746	SP	A2ZMH2	Serine/threonine-protein kinase Nek2 OS=Oryza sativa subsp. indica OX=39946 GN=NEK2 PE=3 SV=1	Oryza sativa subsp. indica	591	257	29.1	51.5	3.4e-21
+747	SP	O88664	Serine/threonine-protein kinase TAO1 OS=Rattus norvegicus OX=10116 GN=Taok1 PE=1 SV=1	Rattus norvegicus	1001	260	24.8	40.0	3.5e-21
+748	SP	Q924X7	Serine/threonine-protein kinase 33 OS=Mus musculus OX=10090 GN=Stk33 PE=1 SV=2	Mus musculus	491	254	30.4	50.0	4.3e-21
+749	SP	Q2TAE3	Dual specificity tyrosine-phosphorylation-regulated kinase 1A OS=Xenopus laevis OX=8355 GN=dyrk1a PE=2 SV=1	Xenopus laevis	750	258	30.9	50.4	4.3e-21
+750	SP	Q0IJ08	Dual specificity tyrosine-phosphorylation-regulated kinase 1A OS=Xenopus tropicalis OX=8364 GN=dyrk1a PE=2 SV=1	Xenopus tropicalis	751	258	30.9	50.4	4.3e-21
+751	SP	P50873	Serine/threonine-protein kinase MRK1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MRK1 PE=1 SV=2	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	501	254	28.8	48.9	4.6e-21
+752	SP	Q94CG0	CBL-interacting serine/threonine-protein kinase 21 OS=Arabidopsis thaliana OX=3702 GN=CIPK21 PE=1 SV=1	Arabidopsis thaliana	416	251	29.2	50.7	4.8e-21
+753	SP	O35942	Serine/threonine-protein kinase Nek2 OS=Mus musculus OX=10090 GN=Nek2 PE=1 SV=2	Mus musculus	443	252	30.3	51.1	4.9e-21
+754	SP	P52497	Carbon catabolite-derepressing protein kinase OS=Candida albicans OX=5476 GN=SNF1 PE=2 SV=2	Candida albicans	620	256	25.2	47.5	5.2e-21
+755	SP	Q5R4F3	Serine/threonine-protein kinase TAO3 OS=Pongo abelii OX=9601 GN=TAOK3 PE=2 SV=1	Pongo abelii	898	258	28.2	42.1	5.4e-21
+756	SP	Q9H2K8	Serine/threonine-protein kinase TAO3 OS=Homo sapiens OX=9606 GN=TAOK3 PE=1 SV=2	Homo sapiens	898	258	27.9	42.1	5.4e-21
+757	SP	Q09170	Serine/threonine-protein kinase cds1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cds1 PE=1 SV=2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	460	252	28.1	49.0	5.8e-21
+758	SP	Q9M8J5	Mitogen-activated protein kinase kinase 8 OS=Arabidopsis thaliana OX=3702 GN=MKK8 PE=3 SV=2	Arabidopsis thaliana	309	245	32.2	51.9	5.8e-21
+759	SP	Q54TA3	Probable serine/threonine-protein kinase MARK-C OS=Dictyostelium discoideum OX=44689 GN=mrkC PE=3 SV=1	Dictyostelium discoideum	773	257	28.6	52.7	5.9e-21
+760	SP	Q5F2E8	Serine/threonine-protein kinase TAO1 OS=Mus musculus OX=10090 GN=Taok1 PE=1 SV=1	Mus musculus	1001	258	35.1	49.3	5.9e-21
+761	SP	Q7L7X3	Serine/threonine-protein kinase TAO1 OS=Homo sapiens OX=9606 GN=TAOK1 PE=1 SV=1	Homo sapiens	1001	258	35.1	49.3	5.9e-21
+762	SP	A3B529	CBL-interacting protein kinase 28 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK28 PE=2 SV=2	Oryza sativa subsp. japonica	435	251	30.4	49.8	6e-21
+763	SP	P40231	Casein kinase II subunit alpha OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cka1 PE=2 SV=2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	332	246	26.2	49.2	6.4e-21
+764	SP	Q40541	Mitogen-activated protein kinase kinase kinase NPK1 OS=Nicotiana tabacum OX=4097 GN=NPK1 PE=1 SV=1	Nicotiana tabacum	690	256	30.2	55.0	6.5e-21
+765	SP	Q10156	Dual specificity protein kinase lkh1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=lkh1 PE=1 SV=3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	690	256	26.4	45.0	6.5e-21
+766	SP	Q55GC2	Serine/threonine-protein kinase dst2 OS=Dictyostelium discoideum OX=44689 GN=dst2 PE=3 SV=1	Dictyostelium discoideum	1142	258	23.5	40.6	6.6e-21
+767	SP	Q91ZN7	Serine/threonine-protein kinase Chk1 OS=Rattus norvegicus OX=10116 GN=Chek1 PE=2 SV=1	Rattus norvegicus	476	252	32.7	50.7	6.7e-21
+768	SP	Q8BYC6	Serine/threonine-protein kinase TAO3 OS=Mus musculus OX=10090 GN=Taok3 PE=1 SV=2	Mus musculus	898	257	29.7	43.0	7.1e-21
+769	SP	Q69Q47	CBL-interacting protein kinase 24 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK24 PE=1 SV=1	Oryza sativa subsp. japonica	453	251	31.4	51.2	7.2e-21
+770	SP	A4K2M3	Serine/threonine-protein kinase 4 OS=Papio anubis OX=9555 GN=STK4 PE=3 SV=1	Papio anubis	487	252	31.2	50.0	7.3e-21
+771	SP	Q5E9L6	Serine/threonine-protein kinase 4 OS=Bos taurus OX=9913 GN=STK4 PE=2 SV=1	Bos taurus	487	252	26.5	43.5	7.3e-21
+772	SP	Q13188	Serine/threonine-protein kinase 3 OS=Homo sapiens OX=9606 GN=STK3 PE=1 SV=2	Homo sapiens	491	252	26.9	45.6	7.6e-21
+773	SP	Q63470	Dual specificity tyrosine-phosphorylation-regulated kinase 1A OS=Rattus norvegicus OX=10116 GN=Dyrk1a PE=1 SV=2	Rattus norvegicus	763	256	32.5	52.8	7.6e-21
+774	SP	P85051	Dual specificity tyrosine-phosphorylation-regulated kinase 1A OS=Oryctolagus cuniculus OX=9986 GN=DYRK1A PE=1 SV=2	Oryctolagus cuniculus	763	256	32.5	52.8	7.6e-21
+775	SP	Q61214	Dual specificity tyrosine-phosphorylation-regulated kinase 1A OS=Mus musculus OX=10090 GN=Dyrk1a PE=1 SV=1	Mus musculus	763	256	32.5	52.8	7.6e-21
+776	SP	Q13627	Dual specificity tyrosine-phosphorylation-regulated kinase 1A OS=Homo sapiens OX=9606 GN=DYRK1A PE=1 SV=2	Homo sapiens	763	256	32.5	52.8	7.6e-21
+777	SP	P57059	Serine/threonine-protein kinase SIK1 OS=Homo sapiens OX=9606 GN=SIK1 PE=1 SV=2	Homo sapiens	783	256	28.0	43.9	7.9e-21
+778	SP	A0A423V942	Mitogen-activated protein kinase kinase kinae Ste11 OS=Cytospora chrysosperma OX=252740 GN=Ste11 PE=1 SV=1	Cytospora chrysosperma	820	256	28.3	50.2	8.4e-21
+779	SP	Q9GRT1	Putative mitogen-activated protein kinase kinase 4 OS=Leishmania mexicana OX=5665 GN=MKK4 PE=1 SV=2	Leishmania mexicana	350	246	28.9	50.4	8.6e-21
+780	SP	O24527	Serine/threonine-protein kinase 1 OS=Arabidopsis thaliana OX=3702 GN=SIK1 PE=1 SV=1	Arabidopsis thaliana	836	256	28.5	45.1	8.6e-21
+781	SP	O35280	Serine/threonine-protein kinase Chk1 OS=Mus musculus OX=10090 GN=Chek1 PE=1 SV=2	Mus musculus	476	251	32.7	51.2	8.9e-21
+782	SP	Q60DG4	Serine/threonine-protein kinase Nek4 OS=Oryza sativa subsp. japonica OX=39947 GN=NEK4 PE=2 SV=1	Oryza sativa subsp. japonica	943	256	28.8	47.3	9.7e-21
+783	SP	G4NDR3	Mitogen-activated protein kinase kinae kinase MCK1 OS=Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) OX=242507 GN=MCK1 PE=1 SV=1	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	1528	257	27.5	50.0	1e-20
+784	SP	Q4WXY0	Mitogen-activated protein kinase kinae kinase bck1 OS=Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) OX=330879 GN=bck1 PE=3 SV=1	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	1617	257	26.3	48.7	1e-20
+785	SP	B0XXN8	Mitogen-activated protein kinase kinae kinase bck1 OS=Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10) OX=451804 GN=bck1 PE=3 SV=1	Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10)	1617	257	26.3	48.7	1e-20
+786	SP	Q5UPU3	Putative serine/threonine-protein kinase L268 OS=Acanthamoeba polyphaga mimivirus OX=212035 GN=MIMI_L268 PE=3 SV=1	Acanthamoeba polyphaga mimivirus	546	252	27.4	46.5	1.1e-20
+787	SP	Q9C5H5	Mitogen-activated protein kinase kinase kinase 5 OS=Arabidopsis thaliana OX=3702 GN=MAPKKK5 PE=1 SV=1	Arabidopsis thaliana	716	254	26.7	46.3	1.2e-20
+788	SP	Q7XJR9	Calcium-dependent protein kinase 16 OS=Arabidopsis thaliana OX=3702 GN=CPK16 PE=1 SV=1	Arabidopsis thaliana	571	252	27.4	43.2	1.3e-20
+789	SP	Q54QV3	Probable serine/threonine-protein kinase yakA OS=Dictyostelium discoideum OX=44689 GN=yakA PE=1 SV=1	Dictyostelium discoideum	1458	256	32.8	50.2	1.3e-20
+790	SP	Q0WPH8	Serine/threonine-protein kinase Nek5 OS=Arabidopsis thaliana OX=3702 GN=NEK5 PE=1 SV=1	Arabidopsis thaliana	956	255	27.5	47.2	1.3e-20
+791	SP	Q9JI11	Serine/threonine-protein kinase 4 OS=Mus musculus OX=10090 GN=Stk4 PE=1 SV=1	Mus musculus	487	250	26.5	43.1	1.3e-20
+792	SP	Q13043	Serine/threonine-protein kinase 4 OS=Homo sapiens OX=9606 GN=STK4 PE=1 SV=2	Homo sapiens	487	250	26.8	42.8	1.3e-20
+793	SP	Q6PHR2	Serine/threonine-protein kinase ULK3 OS=Homo sapiens OX=9606 GN=ULK3 PE=1 SV=2	Homo sapiens	472	249	32.3	51.1	1.5e-20
+794	SP	O14757	Serine/threonine-protein kinase Chk1 OS=Homo sapiens OX=9606 GN=CHEK1 PE=1 SV=2	Homo sapiens	476	249	32.7	50.2	1.6e-20
+795	SP	Q9STV4	CBL-interacting serine/threonine-protein kinase 8 OS=Arabidopsis thaliana OX=3702 GN=CIPK8 PE=1 SV=1	Arabidopsis thaliana	445	248	30.8	53.4	1.6e-20
+796	SP	Q9LDI3	CBL-interacting serine/threonine-protein kinase 24 OS=Arabidopsis thaliana OX=3702 GN=CIPK24 PE=1 SV=1	Arabidopsis thaliana	446	248	32.1	51.7	1.6e-20
+797	SP	Q7Z8E9	Serine/threonine-protein kinase MST20 OS=Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) OX=242507 GN=MST20 PE=3 SV=3	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	914	254	24.7	40.6	1.6e-20
+798	SP	A4K2S1	Serine/threonine-protein kinase 4 OS=Lemur catta OX=9447 GN=STK4 PE=3 SV=1	Lemur catta	487	249	26.5	43.1	1.7e-20
+799	SP	O80902	CBL-interacting serine/threonine-protein kinase 22 OS=Arabidopsis thaliana OX=3702 GN=CIPK22 PE=1 SV=1	Arabidopsis thaliana	431	247	30.9	50.5	1.8e-20
+800	SP	O22040	Mitogen-activated protein kinase kinase kinase ANP1 OS=Arabidopsis thaliana OX=3702 GN=ANP1 PE=1 SV=2	Arabidopsis thaliana	666	252	30.2	53.9	1.8e-20
+801	SP	Q53UA7	Serine/threonine-protein kinase TAO3 OS=Rattus norvegicus OX=10116 GN=Taok3 PE=1 SV=1	Rattus norvegicus	898	253	29.0	43.0	2.1e-20
+802	SP	Q75JC9	Uncharacterized protein DDB_G0271670 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0271670 PE=3 SV=1	Dictyostelium discoideum	374	244	26.7	43.0	2.2e-20
+803	SP	Q9FJ55	CBL-interacting serine/threonine-protein kinase 19 OS=Arabidopsis thaliana OX=3702 GN=CIPK19 PE=1 SV=1	Arabidopsis thaliana	483	248	28.0	47.1	2.2e-20
+804	SP	A0A2I0BVG8	Calcium-dependent protein kinase 1 OS=Plasmodium falciparum (isolate NF54) OX=5843 GN=PDCK1 PE=1 SV=1	Plasmodium falciparum (isolate NF54)	524	249	28.6	45.5	2.3e-20
+805	SP	P62343	Calcium-dependent protein kinase 1 OS=Plasmodium falciparum (isolate K1 / Thailand) OX=5839 GN=CDPK1 PE=1 SV=2	Plasmodium falciparum (isolate K1 / Thailand)	524	249	28.6	45.5	2.3e-20
+806	SP	P62344	Calcium-dependent protein kinase 1 OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=CDPK1 PE=1 SV=2	Plasmodium falciparum (isolate 3D7)	524	249	28.6	45.5	2.3e-20
+807	SP	A4K2W5	Serine/threonine-protein kinase 4 OS=Aotus nancymaae OX=37293 GN=STK4 PE=3 SV=1	Aotus nancymaae	487	248	30.7	49.5	2.3e-20
+808	SP	O54748	Serine/threonine-protein kinase 3 OS=Rattus norvegicus OX=10116 GN=Stk3 PE=1 SV=1	Rattus norvegicus	491	248	26.9	45.0	2.4e-20
+809	SP	Q6ERS0	Putative CBL-interacting protein kinase 27 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK27 PE=3 SV=1	Oryza sativa subsp. japonica	404	245	28.3	46.4	2.4e-20
+810	SP	A8XJW8	Serine/threonine-protein kinase cst-1 OS=Caenorhabditis briggsae OX=6238 GN=cst-1 PE=3 SV=2	Caenorhabditis briggsae	494	248	30.6	49.3	2.4e-20
+811	SP	Q9JI10	Serine/threonine-protein kinase 3 OS=Mus musculus OX=10090 GN=Stk3 PE=1 SV=1	Mus musculus	497	248	26.9	45.0	2.5e-20
+812	SP	O22971	CBL-interacting serine/threonine-protein kinase 13 OS=Arabidopsis thaliana OX=3702 GN=CIPK13 PE=1 SV=2	Arabidopsis thaliana	502	248	30.0	51.4	2.6e-20
+813	SP	Q9I9E0	Serine/threonine-protein kinase TAO3 OS=Gallus gallus OX=9031 GN=TAOK3 PE=2 SV=2	Gallus gallus	898	252	35.5	49.1	2.8e-20
+814	SP	G4N7X0	Mitogen-activated protein kinase kinae kinase MST11 OS=Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) OX=242507 GN=MST11 PE=1 SV=1	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	915	252	27.9	49.8	2.8e-20
+815	SP	P53349	Mitogen-activated protein kinase kinase kinase 1 OS=Mus musculus OX=10090 GN=Map3k1 PE=1 SV=3	Mus musculus	1493	253	27.2	50.0	2.9e-20
+816	SP	Q21029	Mitogen-activated protein kinase kinase kinase nsy-1 OS=Caenorhabditis elegans OX=6239 GN=nsy-1 PE=1 SV=4	Caenorhabditis elegans	1498	253	33.0	50.9	2.9e-20
+817	SP	Q2VWQ3	Serine/threonine-protein kinase pakA OS=Talaromyces marneffei OX=37727 GN=pakA PE=3 SV=1	Talaromyces marneffei	642	250	28.3	46.4	3e-20
+818	SP	Q16W24	Serine/threonine-protein kinase PLK4 OS=Aedes aegypti OX=7159 GN=SAK PE=3 SV=1	Aedes aegypti	769	251	27.7	44.7	3e-20
+819	SP	A4K2Q5	Serine/threonine-protein kinase 4 OS=Otolemur garnettii OX=30611 GN=STK4 PE=3 SV=1	Otolemur garnettii	487	247	30.7	49.5	3.1e-20
+820	SP	A4K2T0	Serine/threonine-protein kinase 4 OS=Macaca mulatta OX=9544 GN=STK4 PE=3 SV=1	Macaca mulatta	487	247	30.7	49.5	3.1e-20
+821	SP	A4K2Y1	Serine/threonine-protein kinase 4 OS=Chlorocebus aethiops OX=9534 GN=STK4 PE=3 SV=1	Chlorocebus aethiops	487	247	30.7	49.5	3.1e-20
+822	SP	Q6ERS4	CBL-interacting protein kinase 16 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK16 PE=2 SV=1	Oryza sativa subsp. japonica	456	246	25.2	43.4	3.1e-20
+823	SP	D7UQM5	Aurora kinase OS=Patiria pectinifera OX=7594 GN=aur PE=1 SV=1	Patiria pectinifera	407	244	31.2	49.4	3.4e-20
+824	SP	Q02723	Carbon catabolite-derepressing protein kinase OS=Secale cereale OX=4550 GN=RKIN1 PE=2 SV=1	Secale cereale	502	247	29.4	44.8	3.4e-20
+825	SP	P32490	MAP kinase kinase MKK1/SSP32 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MKK1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	508	247	28.8	47.1	3.6e-20
+826	SP	Q3U3Q1	Serine/threonine-protein kinase ULK3 OS=Mus musculus OX=10090 GN=Ulk3 PE=2 SV=1	Mus musculus	472	246	32.3	50.6	3.6e-20
+827	SP	Q61036	Serine/threonine-protein kinase PAK 3 OS=Mus musculus OX=10090 GN=Pak3 PE=1 SV=2	Mus musculus	559	248	24.4	41.6	3.7e-20
+828	SP	Q9H4B4	Serine/threonine-protein kinase PLK3 OS=Homo sapiens OX=9606 GN=PLK3 PE=1 SV=2	Homo sapiens	646	249	24.2	39.8	4e-20
+829	SP	A4K2P5	Serine/threonine-protein kinase 4 OS=Colobus guereza OX=33548 GN=STK4 PE=3 SV=1	Colobus guereza	487	246	30.7	49.5	4.1e-20
+830	SP	Q2RAX3	CBL-interacting protein kinase 33 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK33 PE=2 SV=1	Oryza sativa subsp. japonica	454	245	30.8	52.6	4.1e-20
+831	SP	Q6BNF3	Serine/threonine-protein kinase STE20 OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=STE20 PE=3 SV=2	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	1079	251	25.9	41.8	4.2e-20
+832	SP	Q9P6P3	Serine/threonine-protein kinase ppk15 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ppk15 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	534	247	31.9	48.4	4.2e-20
+833	SP	O14299	MAP kinase kinase kinase wis4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=wis4 PE=3 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	1401	251	32.2	54.7	4.9e-20
+834	SP	P92958	SNF1-related protein kinase catalytic subunit alpha KIN11 OS=Arabidopsis thaliana OX=3702 GN=KIN11 PE=1 SV=1	Arabidopsis thaliana	512	246	28.2	44.7	4.9e-20
+835	SP	Q7X996	CBL-interacting protein kinase 2 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK2 PE=2 SV=1	Oryza sativa subsp. japonica	443	244	22.4	42.6	4.9e-20
+836	SP	Q6GPK9	Serine/threonine-protein kinase TAO2 OS=Xenopus laevis OX=8355 GN=taok2 PE=2 SV=1	Xenopus laevis	1025	250	34.6	48.6	5.3e-20
+837	SP	Q60670	Serine/threonine-protein kinase SIK1 OS=Mus musculus OX=10090 GN=Sik1 PE=1 SV=3	Mus musculus	779	249	26.9	44.2	5.4e-20
+838	SP	Q9SN43	CBL-interacting serine/threonine-protein kinase 12 OS=Arabidopsis thaliana OX=3702 GN=CIPK12 PE=1 SV=1	Arabidopsis thaliana	489	245	28.9	49.1	5.5e-20
+839	SP	Q10SC8	CBL-interacting protein kinase 9 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK9 PE=2 SV=1	Oryza sativa subsp. japonica	456	244	30.0	52.2	5.6e-20
+840	SP	Q852Q2	Serine/threonine protein kinase OSK1 OS=Oryza sativa subsp. japonica OX=39947 GN=OSK1 PE=1 SV=1	Oryza sativa subsp. japonica	505	245	26.8	42.6	6.2e-20
+841	SP	P32491	MAP kinase kinase MKK2/SSP33 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MKK2 PE=1 SV=2	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	506	245	29.1	48.7	6.2e-20
+842	SP	Q9SEZ7	CBL-interacting serine/threonine-protein kinase 16 OS=Arabidopsis thaliana OX=3702 GN=CIPK16 PE=1 SV=1	Arabidopsis thaliana	469	244	29.7	51.4	6.3e-20
+843	SP	Q2QY53	CBL-interacting protein kinase 32 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK32 PE=2 SV=2	Oryza sativa subsp. japonica	438	243	30.8	52.1	6.3e-20
+844	SP	Q61084	Mitogen-activated protein kinase kinase kinase 3 OS=Mus musculus OX=10090 GN=Map3k3 PE=1 SV=1	Mus musculus	626	247	29.3	50.9	6.5e-20
+845	SP	Q9M077	Serine/threonine-protein kinase Aurora-1 OS=Arabidopsis thaliana OX=3702 GN=AUR1 PE=1 SV=1	Arabidopsis thaliana	294	236	26.5	44.7	6.6e-20
+846	SP	Q8AXB4	Serine/threonine-protein kinase PAK 3 OS=Xenopus laevis OX=8355 GN=pak3 PE=2 SV=1	Xenopus laevis	564	246	25.3	41.9	6.6e-20
+847	SP	Q8AYC9	Serine/threonine-protein kinase Chk1 OS=Gallus gallus OX=9031 GN=CHEK1 PE=1 SV=1	Gallus gallus	476	244	31.2	50.2	6.6e-20
+848	SP	Q9LEU7	CBL-interacting serine/threonine-protein kinase 5 OS=Arabidopsis thaliana OX=3702 GN=CIPK5 PE=1 SV=1	Arabidopsis thaliana	445	243	25.3	45.1	6.7e-20
+849	SP	Q55DD4	Serine/threonine-protein kinase pakD OS=Dictyostelium discoideum OX=44689 GN=pakD PE=3 SV=1	Dictyostelium discoideum	1678	250	28.6	48.3	6.9e-20
+850	SP	Q38873	Calcium-dependent protein kinase 7 OS=Arabidopsis thaliana OX=3702 GN=CPK7 PE=2 SV=1	Arabidopsis thaliana	535	245	24.4	42.7	7.5e-20
+851	SP	Q9NB31	Serine/threonine-protein kinase cst-1 OS=Caenorhabditis elegans OX=6239 GN=cst-1 PE=1 SV=1	Caenorhabditis elegans	497	244	30.1	49.3	7.8e-20
+852	SP	F4JY37	Serine/threonine-protein kinase RUNKEL OS=Arabidopsis thaliana OX=3702 GN=RUK PE=1 SV=1	Arabidopsis thaliana	1366	249	31.1	46.0	8.3e-20
+853	SP	Q99759	Mitogen-activated protein kinase kinase kinase 3 OS=Homo sapiens OX=9606 GN=MAP3K3 PE=1 SV=2	Homo sapiens	626	246	29.3	50.5	8.5e-20
+854	SP	Q54VU4	Probable serine/threonine-protein kinase DDB_G0280133 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0280133 PE=3 SV=1	Dictyostelium discoideum	1505	249	24.9	38.7	8.7e-20
+855	SP	Q9R1U5	Serine/threonine-protein kinase SIK1 OS=Rattus norvegicus OX=10116 GN=Sik1 PE=1 SV=1	Rattus norvegicus	776	247	26.6	43.9	9.2e-20
+856	SP	P92937	CBL-interacting serine/threonine-protein kinase 15 OS=Arabidopsis thaliana OX=3702 GN=CIPK15 PE=1 SV=2	Arabidopsis thaliana	421	241	30.6	50.5	9.4e-20
+857	SP	Q6PA14	Serine/threonine-protein kinase 4 OS=Xenopus laevis OX=8355 GN=stk4 PE=2 SV=1	Xenopus laevis	485	243	28.2	47.8	9.5e-20
+858	SP	Q5ZJK4	Serine/threonine-protein kinase 4 OS=Gallus gallus OX=9031 GN=STK4 PE=2 SV=1	Gallus gallus	486	243	26.5	42.8	9.6e-20
+859	SP	Q683C9	Serine/threonine-protein kinase Aurora-2 OS=Arabidopsis thaliana OX=3702 GN=AUR2 PE=1 SV=2	Arabidopsis thaliana	282	234	30.0	49.8	9.6e-20
+860	SP	Q5W736	CBL-interacting protein kinase 18 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK18 PE=2 SV=1	Oryza sativa subsp. japonica	457	242	25.8	45.8	1e-19
+861	SP	Q9JLS3	Serine/threonine-protein kinase TAO2 OS=Rattus norvegicus OX=10116 GN=Taok2 PE=1 SV=1	Rattus norvegicus	1235	248	32.8	48.4	1e-19
+862	SP	Q9UL54	Serine/threonine-protein kinase TAO2 OS=Homo sapiens OX=9606 GN=TAOK2 PE=1 SV=2	Homo sapiens	1235	248	32.8	48.4	1e-19
+863	SP	Q6ZQ29	Serine/threonine-protein kinase TAO2 OS=Mus musculus OX=10090 GN=Taok2 PE=1 SV=3	Mus musculus	1240	248	32.8	48.4	1e-19
+864	SP	Q0JI49	CBL-interacting protein kinase 11 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK11 PE=2 SV=1	Oryza sativa subsp. japonica	502	243	30.0	49.8	1.1e-19
+865	SP	Q8LPZ7	Calcium-dependent protein kinase 3 OS=Oryza sativa subsp. japonica OX=39947 GN=CPK3 PE=2 SV=1	Oryza sativa subsp. japonica	551	244	24.8	42.8	1.1e-19
+866	SP	P38692	Serine/threonine-protein kinase KIC1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=KIC1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	1080	247	28.6	44.8	1.3e-19
+867	SP	Q8T0S6	Serine/threonine-protein kinase hippo OS=Drosophila melanogaster OX=7227 GN=hpo PE=1 SV=1	Drosophila melanogaster	669	245	27.0	43.1	1.3e-19
+868	SP	Q7ZUQ3	Serine/threonine-protein kinase 3 OS=Danio rerio OX=7955 GN=stk3 PE=2 SV=1	Danio rerio	492	242	26.9	44.7	1.3e-19
+869	SP	Q5JLS2	CBL-interacting protein kinase 12 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK12 PE=1 SV=1	Oryza sativa subsp. japonica	540	243	28.6	51.4	1.4e-19
+870	SP	Q5R5Q2	Serine/arginine repetitive matrix protein 1 OS=Pongo abelii OX=9601 GN=SRRM1 PE=2 SV=1	Pongo abelii	917	246	22.5	35.7	1.4e-19
+871	SP	O64629	Serine/threonine-protein kinase Aurora-3 OS=Arabidopsis thaliana OX=3702 GN=AUR3 PE=2 SV=1	Arabidopsis thaliana	288	233	27.7	45.5	1.5e-19
+872	SP	Q4V7Q6	Serine/threonine-protein kinase ULK3 OS=Xenopus laevis OX=8355 GN=ulk3 PE=2 SV=1	Xenopus laevis	468	241	32.6	52.8	1.5e-19
+873	SP	Q8LIG4	CBL-interacting protein kinase 3 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK3 PE=2 SV=1	Oryza sativa subsp. japonica	445	240	23.5	44.5	1.6e-19
+874	SP	Q0KHQ5	Serine/threonine-protein kinase Tao OS=Drosophila melanogaster OX=7227 GN=Tao PE=1 SV=1	Drosophila melanogaster	1039	246	33.6	49.3	1.6e-19
+875	SP	Q9VKN7	Aurora kinase B OS=Drosophila melanogaster OX=7227 GN=aurB PE=1 SV=1	Drosophila melanogaster	329	235	29.5	47.3	1.6e-19
+876	SP	Q54L81	Probable serine/threonine-protein kinase DDB_G0286841 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0286841 PE=3 SV=1	Dictyostelium discoideum	462	240	29.1	50.6	1.9e-19
+877	SP	Q4X1A8	Serine/threonine protein kinase ypkA OS=Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) OX=330879 GN=ypkA PE=1 SV=1	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	637	243	27.0	43.1	2e-19
+878	SP	O15865	Calcium-dependent protein kinase 2 OS=Plasmodium falciparum (isolate K1 / Thailand) OX=5839 GN=CDPK2 PE=1 SV=3	Plasmodium falciparum (isolate K1 / Thailand)	513	241	27.4	45.8	2e-19
+879	SP	Q8ICR0	Calcium-dependent protein kinase 2 OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=CDPK2 PE=1 SV=4	Plasmodium falciparum (isolate 3D7)	513	241	27.4	45.8	2e-19
+880	SP	Q2V452	CBL-interacting serine/threonine-protein kinase 3 OS=Arabidopsis thaliana OX=3702 GN=CIPK3 PE=1 SV=2	Arabidopsis thaliana	441	239	31.0	50.2	2.1e-19
+881	SP	P38991	Aurora kinase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=IPL1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	367	236	29.3	44.8	2.1e-19
+882	SP	Q9FZ36	Mitogen-activated protein kinase kinase kinase 2 OS=Arabidopsis thaliana OX=3702 GN=ANP2 PE=2 SV=1	Arabidopsis thaliana	651	243	30.0	52.9	2.1e-19
+883	SP	Q0D4B2	CBL-interacting protein kinase 21 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK21 PE=2 SV=2	Oryza sativa subsp. japonica	525	241	25.7	44.9	2.2e-19
+884	SP	Q9XA16	Probable serine/threonine-protein kinase SCO3848 OS=Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145) OX=100226 GN=SCO3848 PE=3 SV=1	Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145)	673	243	31.3	50.7	2.3e-19
+885	SP	P50528	Serine/threonine-protein kinase plo1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=plo1 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	683	243	24.2	39.1	2.3e-19
+886	SP	Q9FLZ3	SNF1-related protein kinase catalytic subunit alpha KIN12 OS=Arabidopsis thaliana OX=3702 GN=KIN12 PE=2 SV=1	Arabidopsis thaliana	494	240	32.0	51.3	2.4e-19
+887	SP	O61125	Serine/threonine-protein kinase 4 homolog A OS=Dictyostelium discoideum OX=44689 GN=krsA PE=1 SV=1	Dictyostelium discoideum	461	239	32.1	49.5	2.5e-19
+888	SP	Q9H0K1	Serine/threonine-protein kinase SIK2 OS=Homo sapiens OX=9606 GN=SIK2 PE=1 SV=1	Homo sapiens	926	244	26.3	43.6	2.5e-19
+889	SP	Q0IHQ8	Serine/threonine-protein kinase 10 OS=Xenopus tropicalis OX=8364 GN=stk10 PE=2 SV=1	Xenopus tropicalis	951	244	28.8	49.6	2.6e-19
+890	SP	F1NBT0	Serine/threonine-protein kinase 10 OS=Gallus gallus OX=9031 GN=STK10 PE=3 SV=2	Gallus gallus	969	244	29.2	48.9	2.6e-19
+891	SP	Q8SRL5	Aurora kinase OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=IPL1 PE=3 SV=1	Encephalitozoon cuniculi (strain GB-M1)	272	230	30.9	51.2	2.6e-19
+892	SP	Q8CIP4	MAP/microtubule affinity-regulating kinase 4 OS=Mus musculus OX=10090 GN=Mark4 PE=1 SV=1	Mus musculus	752	243	25.7	44.1	2.7e-19
+893	SP	Q96L34	MAP/microtubule affinity-regulating kinase 4 OS=Homo sapiens OX=9606 GN=MARK4 PE=1 SV=1	Homo sapiens	752	243	25.7	44.1	2.7e-19
+894	SP	Q55GV3	Serine/threonine-protein kinase pakC OS=Dictyostelium discoideum OX=44689 GN=pakC PE=1 SV=2	Dictyostelium discoideum	477	239	30.3	52.0	2.8e-19
+895	SP	Q6P3Q4	Serine/threonine-protein kinase 4 OS=Xenopus tropicalis OX=8364 GN=stk4 PE=2 SV=1	Xenopus tropicalis	485	239	27.8	47.5	3e-19
+896	SP	Q9VI13	Serine/threonine-protein kinase Pak OS=Drosophila melanogaster OX=7227 GN=Pak PE=1 SV=1	Drosophila melanogaster	704	242	27.1	45.1	3.2e-19
+897	SP	Q39008	Mitogen-activated protein kinase kinase kinase 1 OS=Arabidopsis thaliana OX=3702 GN=MEKK1 PE=1 SV=2	Arabidopsis thaliana	608	241	29.5	50.2	3.2e-19
+898	SP	Q9Y2U5	Mitogen-activated protein kinase kinase kinase 2 OS=Homo sapiens OX=9606 GN=MAP3K2 PE=1 SV=2	Homo sapiens	619	241	29.7	51.1	3.3e-19
+899	SP	Q68Y49	CBL-interacting protein kinase 19 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK19 PE=1 SV=1	Oryza sativa subsp. japonica	508	239	30.2	50.0	3.5e-19
+900	SP	D3ZHP7	Serine/threonine-protein kinase ULK3 OS=Rattus norvegicus OX=10116 GN=Ulk3 PE=1 SV=1	Rattus norvegicus	472	238	31.9	50.2	3.6e-19
+901	SP	B4IAQ8	Serine/threonine-protein kinase PLK4 OS=Drosophila sechellia OX=7238 GN=SAK PE=3 SV=1	Drosophila sechellia	769	242	30.7	49.5	3.6e-19
+902	SP	Q9LP51	CBL-interacting serine/threonine-protein kinase 18 OS=Arabidopsis thaliana OX=3702 GN=CIPK18 PE=1 SV=1	Arabidopsis thaliana	520	239	29.9	51.0	3.7e-19
+903	SP	Q9IA88	Serine/threonine-protein kinase SIK2 OS=Gallus gallus OX=9031 GN=SIK2 PE=2 SV=1	Gallus gallus	798	242	27.8	44.1	3.8e-19
+904	SP	P50527	Serine/threonine-protein kinase shk1/pak1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=shk1 PE=1 SV=2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	658	241	25.3	42.7	3.8e-19
+905	SP	Q10407	MAP kinase kinase kinase mkh1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mkh1 PE=3 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	1116	243	25.4	48.8	3.8e-19
+906	SP	Q5JLD8	CBL-interacting protein kinase 8 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK8 PE=2 SV=1	Oryza sativa subsp. japonica	446	237	29.3	52.9	3.8e-19
+907	SP	O95382	Mitogen-activated protein kinase kinase kinase 6 OS=Homo sapiens OX=9606 GN=MAP3K6 PE=1 SV=3	Homo sapiens	1288	243	32.1	51.9	4.1e-19
+908	SP	Q8MYF1	Probable serine/threonine-protein kinase DDB_G0277449 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0277449 PE=3 SV=1	Dictyostelium discoideum	456	237	24.6	47.0	4.2e-19
+909	SP	Q59W62	Serine/threonine-protein kinase GIN4 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=GIN4 PE=1 SV=1	Candida albicans (strain SC5314 / ATCC MYA-2876)	1349	243	29.3	46.9	4.2e-19
+910	SP	Q62915	Peripheral plasma membrane protein CASK OS=Rattus norvegicus OX=10116 GN=Cask PE=1 SV=1	Rattus norvegicus	909	242	27.5	45.3	4.3e-19
+911	SP	O70589	Peripheral plasma membrane protein CASK OS=Mus musculus OX=10090 GN=Cask PE=1 SV=2	Mus musculus	926	242	27.5	45.3	4.3e-19
+912	SP	O14936	Peripheral plasma membrane protein CASK OS=Homo sapiens OX=9606 GN=CASK PE=1 SV=3	Homo sapiens	926	242	27.5	45.3	4.3e-19
+913	SP	Q91604	Serine/threonine-protein kinase stk11 OS=Xenopus laevis OX=8355 GN=stk11 PE=1 SV=1	Xenopus laevis	432	236	25.6	44.2	4.5e-19
+914	SP	Q6CWQ4	Aurora kinase OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) OX=284590 GN=IPL1 PE=3 SV=1	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	361	233	26.4	40.5	4.7e-19
+915	SP	O81472	Mitogen-activated protein kinase kinase kinase 9 OS=Arabidopsis thaliana OX=3702 GN=MEKK2 PE=1 SV=1	Arabidopsis thaliana	773	241	28.4	46.5	4.8e-19
+916	SP	B4KYX8	Serine/threonine-protein kinase PLK4 OS=Drosophila mojavensis OX=7230 GN=SAK PE=3 SV=1	Drosophila mojavensis	778	241	27.7	44.9	4.8e-19
+917	SP	Q6ZLP5	CBL-interacting protein kinase 23 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK23 PE=2 SV=1	Oryza sativa subsp. japonica	450	236	29.2	49.5	5.3e-19
+918	SP	Q54BF0	Probable serine/threonine-protein kinase fhkA OS=Dictyostelium discoideum OX=44689 GN=fhkA PE=3 SV=1	Dictyostelium discoideum	593	239	25.2	43.6	5.3e-19
+919	SP	Q6Z9F4	CBL-interacting protein kinase 6 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK6 PE=2 SV=1	Oryza sativa subsp. japonica	451	236	28.9	51.5	5.3e-19
+920	SP	Q6A1A2	Putative 3-phosphoinositide-dependent protein kinase 2 OS=Homo sapiens OX=9606 GN=PDPK2P PE=5 SV=1	Homo sapiens	396	234	25.3	42.3	5.5e-19
+921	SP	Q8BGW6	Serine/threonine-protein kinase 32A OS=Mus musculus OX=10090 GN=Stk32a PE=2 SV=1	Mus musculus	398	234	28.9	48.2	5.6e-19
+922	SP	Q9SUL7	CBL-interacting serine/threonine-protein kinase 4 OS=Arabidopsis thaliana OX=3702 GN=CIPK4 PE=1 SV=1	Arabidopsis thaliana	426	235	30.2	49.8	5.6e-19
+923	SP	Q62829	Serine/threonine-protein kinase PAK 3 OS=Rattus norvegicus OX=10116 GN=Pak3 PE=1 SV=1	Rattus norvegicus	544	238	24.2	41.3	5.7e-19
+924	SP	Q7YQL3	Serine/threonine-protein kinase PAK 3 OS=Pongo pygmaeus OX=9600 GN=PAK3 PE=2 SV=1	Pongo pygmaeus	559	238	24.8	41.0	6.1e-19
+925	SP	Q7YQL4	Serine/threonine-protein kinase PAK 3 OS=Pan troglodytes OX=9598 GN=PAK3 PE=2 SV=1	Pan troglodytes	559	238	24.8	41.0	6.1e-19
+926	SP	O75914	Serine/threonine-protein kinase PAK 3 OS=Homo sapiens OX=9606 GN=PAK3 PE=1 SV=2	Homo sapiens	559	238	24.8	41.0	6.1e-19
+927	SP	O22932	CBL-interacting serine/threonine-protein kinase 11 OS=Arabidopsis thaliana OX=3702 GN=CIPK11 PE=1 SV=1	Arabidopsis thaliana	435	235	29.2	53.3	6.2e-19
+928	SP	Q622Z7	G protein-coupled receptor kinase 1 OS=Caenorhabditis briggsae OX=6238 GN=grk-1 PE=3 SV=1	Caenorhabditis briggsae	640	239	28.2	52.1	6.2e-19
+929	SP	Q7XIW5	CBL-interacting protein kinase 29 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK29 PE=2 SV=1	Oryza sativa subsp. japonica	443	235	30.7	49.5	6.6e-19
+930	SP	Q755C4	Aurora kinase OS=Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) OX=284811 GN=IPL1 PE=3 SV=1	Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	367	232	29.2	48.7	6.9e-19
+931	SP	Q8MQ70	Homeodomain-interacting protein kinase 1 OS=Caenorhabditis elegans OX=6239 GN=hpk-1 PE=1 SV=1	Caenorhabditis elegans	846	240	25.8	47.2	6.9e-19
+932	SP	Q9WTR2	Mitogen-activated protein kinase kinase kinase 6 OS=Mus musculus OX=10090 GN=Map3k6 PE=1 SV=4	Mus musculus	1291	241	31.6	51.4	7.1e-19
+933	SP	Q55GU0	Probable serine/threonine-protein kinase DDB_G0267514 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0267514 PE=3 SV=1	Dictyostelium discoideum	916	240	30.2	49.6	7.4e-19
+934	SP	Q8CFH6	Serine/threonine-protein kinase SIK2 OS=Mus musculus OX=10090 GN=Sik2 PE=1 SV=1	Mus musculus	931	240	25.6	43.6	7.5e-19
+935	SP	Q9BYT3	Serine/threonine-protein kinase 33 OS=Homo sapiens OX=9606 GN=STK33 PE=1 SV=1	Homo sapiens	514	236	23.1	42.6	8.4e-19
+936	SP	O12990	Tyrosine-protein kinase JAK1 OS=Danio rerio OX=7955 GN=jak1 PE=1 SV=1	Danio rerio	1153	240	31.7	50.0	8.7e-19
+937	SP	P51954	Serine/threonine-protein kinase Nek1 OS=Mus musculus OX=10090 GN=Nek1 PE=1 SV=2	Mus musculus	1203	240	27.8	48.1	8.9e-19
+938	SP	G5EDB2	Probable dual specificity protein kinase madd-3 OS=Caenorhabditis elegans OX=6239 GN=madd-3 PE=1 SV=1	Caenorhabditis elegans	887	239	22.2	37.9	9.5e-19
+939	SP	Q869W6	Probable myosin light chain kinase DDB_G0275057 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0275057 PE=3 SV=1	Dictyostelium discoideum	349	230	28.8	47.6	9.7e-19
+940	SP	P34102	Protein kinase 3 OS=Dictyostelium discoideum OX=44689 GN=pkgC PE=3 SV=2	Dictyostelium discoideum	910	239	22.1	39.2	9.7e-19
+941	SP	Q52KI8	Serine/arginine repetitive matrix protein 1 OS=Mus musculus OX=10090 GN=Srrm1 PE=1 SV=2	Mus musculus	946	239	24.0	35.8	1e-18
+942	SP	B7ZR30	Serine/threonine-protein kinase 10-A OS=Xenopus laevis OX=8355 GN=stk10-a PE=1 SV=1	Xenopus laevis	950	239	25.2	42.9	1e-18
+943	SP	Q5R9Z7	Serine/threonine-protein kinase PLK4 OS=Pongo abelii OX=9601 GN=PLK4 PE=2 SV=2	Pongo abelii	970	239	31.2	47.7	1e-18
+944	SP	O00444	Serine/threonine-protein kinase PLK4 OS=Homo sapiens OX=9606 GN=PLK4 PE=1 SV=3	Homo sapiens	970	239	31.2	47.7	1e-18
+945	SP	Q08942	Putative serine/threonine-protein kinase A OS=Trypanosoma brucei brucei OX=5702 GN=NRKA PE=2 SV=1	Trypanosoma brucei brucei	431	233	29.2	42.4	1.1e-18
+946	SP	B0WAU8	Serine/threonine-protein kinase PLK4 OS=Culex quinquefasciatus OX=7176 GN=SAK PE=3 SV=1	Culex quinquefasciatus	761	238	29.7	47.9	1.1e-18
+947	SP	B4J3F1	Serine/threonine-protein kinase PLK4 OS=Drosophila grimshawi OX=7222 GN=SAK PE=3 SV=1	Drosophila grimshawi	762	238	27.6	44.1	1.1e-18
+948	SP	Q9M342	Wall-associated receptor kinase-like 15 OS=Arabidopsis thaliana OX=3702 GN=WAKL15 PE=2 SV=2	Arabidopsis thaliana	639	237	31.5	49.2	1.1e-18
+949	SP	Q09537	G protein-coupled receptor kinase 1 OS=Caenorhabditis elegans OX=6239 GN=grk-1 PE=3 SV=1	Caenorhabditis elegans	642	237	27.7	51.7	1.1e-18
+950	SP	B4LDJ6	Serine/threonine-protein kinase PLK4 OS=Drosophila virilis OX=7244 GN=SAK PE=3 SV=1	Drosophila virilis	781	238	27.0	44.8	1.1e-18
+951	SP	D3ZBE5	Serine/threonine-protein kinase Nek7 OS=Rattus norvegicus OX=10116 GN=Nek7 PE=1 SV=1	Rattus norvegicus	302	227	31.0	46.1	1.1e-18
+952	SP	Q5JLQ9	CBL-interacting protein kinase 30 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK30 PE=2 SV=1	Oryza sativa subsp. japonica	476	234	29.4	48.7	1.2e-18
+953	SP	Q20347	MAP kinase kinase mkk-4 OS=Caenorhabditis elegans OX=6239 GN=mkk-4 PE=2 SV=3	Caenorhabditis elegans	363	230	31.4	48.2	1.2e-18
+954	SP	Q9FX43	Mitogen-activated protein kinase kinase 9 OS=Arabidopsis thaliana OX=3702 GN=MKK9 PE=1 SV=1	Arabidopsis thaliana	310	227	28.7	42.7	1.3e-18
+955	SP	Q12222	Glycogen synthase kinase-3 homolog YGK3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YGK3 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	375	230	29.4	48.2	1.4e-18
+956	SP	O15530	3-phosphoinositide-dependent protein kinase 1 OS=Homo sapiens OX=9606 GN=PDPK1 PE=1 SV=1	Homo sapiens	556	235	25.3	42.3	1.4e-18
+957	SP	P40631	Micronuclear linker histone polyprotein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=MLH PE=1 SV=2	Tetrahymena thermophila (strain SB210)	633	236	22.1	41.0	1.4e-18
+958	SP	A8WYE4	Serine/threonine-protein kinase par-1 OS=Caenorhabditis briggsae OX=6238 GN=par-1 PE=3 SV=1	Caenorhabditis briggsae	1088	238	30.0	47.8	1.5e-18
+959	SP	O14305	Serine/threonine-protein kinase sid1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sid1 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	471	233	31.2	54.5	1.5e-18
+960	SP	Q84VQ3	CBL-interacting serine/threonine-protein kinase 26 OS=Arabidopsis thaliana OX=3702 GN=CIPK26 PE=1 SV=2	Arabidopsis thaliana	439	232	30.5	49.8	1.5e-18
+961	SP	Q9TW45	Serine/threonine-protein kinase par-1 OS=Caenorhabditis elegans OX=6239 GN=par-1 PE=1 SV=1	Caenorhabditis elegans	1192	238	30.0	47.8	1.5e-18
+962	SP	Q9LZW4	CBL-interacting serine/threonine-protein kinase 14 OS=Arabidopsis thaliana OX=3702 GN=CIPK14 PE=1 SV=1	Arabidopsis thaliana	442	232	30.2	50.7	1.6e-18
+963	SP	Q64303	Serine/threonine-protein kinase PAK 2 OS=Rattus norvegicus OX=10116 GN=Pak2 PE=1 SV=1	Rattus norvegicus	524	234	25.0	42.1	1.6e-18
+964	SP	Q8CIN4	Serine/threonine-protein kinase PAK 2 OS=Mus musculus OX=10090 GN=Pak2 PE=1 SV=1	Mus musculus	524	234	25.0	42.1	1.6e-18
+965	SP	Q13177	Serine/threonine-protein kinase PAK 2 OS=Homo sapiens OX=9606 GN=PAK2 PE=1 SV=3	Homo sapiens	524	234	22.0	36.1	1.6e-18
+966	SP	Q93VD3	CBL-interacting serine/threonine-protein kinase 23 OS=Arabidopsis thaliana OX=3702 GN=CIPK23 PE=1 SV=1	Arabidopsis thaliana	482	233	29.2	49.3	1.6e-18
+967	SP	O94804	Serine/threonine-protein kinase 10 OS=Homo sapiens OX=9606 GN=STK10 PE=1 SV=1	Homo sapiens	968	237	23.9	42.9	1.8e-18
+968	SP	B3M6I4	Serine/threonine-protein kinase PLK4 OS=Drosophila ananassae OX=7217 GN=SAK PE=3 SV=1	Drosophila ananassae	770	236	30.5	48.7	1.9e-18
+969	SP	Q9Z2A0	3-phosphoinositide-dependent protein kinase 1 OS=Mus musculus OX=10090 GN=Pdpk1 PE=1 SV=2	Mus musculus	559	234	25.1	42.2	1.9e-18
+970	SP	P38990	SNF1-activating kinase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SAK1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	1142	237	23.7	41.4	2e-18
+971	SP	Q96PY6	Serine/threonine-protein kinase Nek1 OS=Homo sapiens OX=9606 GN=NEK1 PE=1 SV=2	Homo sapiens	1258	237	27.3	47.9	2.1e-18
+972	SP	Q29502	Serine/threonine-protein kinase PAK 2 OS=Oryctolagus cuniculus OX=9986 GN=PAK2 PE=1 SV=1	Oryctolagus cuniculus	524	233	26.4	43.4	2.1e-18
+973	SP	Q6BVA0	Aurora kinase OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=IPL1 PE=3 SV=2	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	412	230	30.9	47.2	2.1e-18
+974	SP	Q6X4A2	CBL-interacting protein kinase 31 OS=Oryza sativa subsp. japonica OX=39947 GN=CIPK31 PE=1 SV=1	Oryza sativa subsp. japonica	449	231	27.3	49.8	2.2e-18
+975	SP	Q15349	Ribosomal protein S6 kinase alpha-2 OS=Homo sapiens OX=9606 GN=RPS6KA2 PE=1 SV=2	Homo sapiens	733	235	26.6	48.0	2.3e-18
+976	SP	F4IRW0	Serine/threonine-protein kinase ATG1c OS=Arabidopsis thaliana OX=3702 GN=ATG1C PE=2 SV=1	Arabidopsis thaliana	733	235	31.1	49.1	2.3e-18
+977	SP	P0C8M8	Probable serine/threonine-protein kinase CCRP1 OS=Zea mays OX=4577 GN=CCRP1 PE=1 SV=1	Zea mays	626	234	24.9	44.3	2.4e-18
+978	SP	Q5QN75	Mitogen-activated protein kinase kinase 1 OS=Oryza sativa subsp. japonica OX=39947 GN=MKK1 PE=1 SV=1	Oryza sativa subsp. japonica	355	227	29.2	49.8	2.6e-18
+979	SP	Q81WH6	Serine/threonine-protein kinase PrkC OS=Bacillus anthracis OX=1392 GN=prkC PE=1 SV=1	Bacillus anthracis	657	234	31.6	49.6	2.6e-18
+980	SP	Q4WHP3	Serine/threonine-protein kinase ste20 OS=Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) OX=330879 GN=ste20 PE=3 SV=2	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	815	235	28.6	44.1	2.6e-18
+981	SP	O74536	SNF1-like protein kinase ssp2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ssp2 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	576	233	29.5	50.7	2.7e-18
+982	SP	A8X4H1	Dual specificity tyrosine-phosphorylation-regulated kinase mbk-1 OS=Caenorhabditis briggsae OX=6238 GN=mbk-1 PE=3 SV=2	Caenorhabditis briggsae	904	235	29.8	47.6	2.9e-18
+983	SP	B2GUY1	Serine/threonine-protein kinase PLK4 OS=Rattus norvegicus OX=10116 GN=Plk4 PE=2 SV=1	Rattus norvegicus	924	235	30.3	47.7	2.9e-18
+984	SP	Q64702	Serine/threonine-protein kinase PLK4 OS=Mus musculus OX=10090 GN=Plk4 PE=1 SV=2	Mus musculus	925	235	30.3	47.7	2.9e-18
+985	SP	D4A280	Serine/threonine-protein kinase PAK 5 OS=Rattus norvegicus OX=10116 GN=Pak5 PE=1 SV=1	Rattus norvegicus	718	234	27.0	43.3	3e-18
+986	SP	Q8C015	Serine/threonine-protein kinase PAK 5 OS=Mus musculus OX=10090 GN=Pak5 PE=1 SV=1	Mus musculus	719	234	27.0	43.3	3e-18
+987	SP	Q75GE8	Calcium-dependent protein kinase 8 OS=Oryza sativa subsp. japonica OX=39947 GN=CPK8 PE=2 SV=1	Oryza sativa subsp. japonica	538	232	26.3	42.4	3e-18
+988	SP	O55098	Serine/threonine-protein kinase 10 OS=Mus musculus OX=10090 GN=Stk10 PE=1 SV=2	Mus musculus	966	235	22.6	43.1	3e-18
+989	SP	Q7SY52	Serine/threonine-protein kinase 10 OS=Danio rerio OX=7955 GN=stk10 PE=2 SV=1	Danio rerio	974	235	30.9	49.0	3e-18
+990	SP	Q61083	Mitogen-activated protein kinase kinase kinase 2 OS=Mus musculus OX=10090 GN=Map3k2 PE=1 SV=2	Mus musculus	619	233	29.7	52.3	3.1e-18
+991	SP	P19525	Interferon-induced, double-stranded RNA-activated protein kinase OS=Homo sapiens OX=9606 GN=EIF2AK2 PE=1 SV=2	Homo sapiens	551	232	26.8	44.6	3.2e-18
+992	SP	A9SY39	Mitogen-activated protein kinase kinase kinase 1a OS=Physcomitrium patens OX=3218 GN=MEKK1a PE=2 SV=2	Physcomitrium patens	759	234	30.8	51.6	3.2e-18
+993	SP	Q28948	5'-AMP-activated protein kinase catalytic subunit alpha-2 OS=Sus scrofa OX=9823 GN=PRKAA2 PE=2 SV=2	Sus scrofa	552	232	25.8	43.9	3.2e-18
+994	SP	O22042	Mitogen-activated protein kinase kinase kinase 3 OS=Arabidopsis thaliana OX=3702 GN=ANP3 PE=1 SV=1	Arabidopsis thaliana	651	233	27.5	48.3	3.4e-18
+995	SP	H2L099	Germinal center kinase 1 OS=Caenorhabditis elegans OX=6239 GN=gck-1 PE=1 SV=1	Caenorhabditis elegans	653	233	27.0	48.4	3.4e-18
+996	SP	J9W0G9	Serine/threonine-protein kinase YPK1 OS=Cryptococcus neoformans (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487) OX=235443 GN=YPK1 PE=1 SV=1	Cryptococcus neoformans (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	575	232	31.6	49.3	3.5e-18
+997	SP	O65554	CBL-interacting serine/threonine-protein kinase 6 OS=Arabidopsis thaliana OX=3702 GN=CIPK6 PE=1 SV=1	Arabidopsis thaliana	441	229	28.8	50.7	3.7e-18
+998	SP	A2VDZ4	Serine/threonine-protein kinase PLK4 OS=Bos taurus OX=9913 GN=PLK4 PE=2 SV=1	Bos taurus	893	234	30.7	47.2	3.7e-18
+999	SP	Q9ES74	Serine/threonine-protein kinase Nek7 OS=Mus musculus OX=10090 GN=Nek7 PE=1 SV=1	Mus musculus	302	223	31.7	46.6	3.8e-18
+1000	SP	Q8TDX7	Serine/threonine-protein kinase Nek7 OS=Homo sapiens OX=9606 GN=NEK7 PE=1 SV=1	Homo sapiens	302	223	30.6	46.1	3.8e-18

@@ -1,0 +1,35 @@
+# PC3 competition assay, CDK12 G822E (CBE) vs NT (CBE NT), treated with Control, HQ461 or ZLY-025 (heatmap source data)
+# Values = fold change relative to T0; n = 3 replicates per condition.
+# Heatmap cells = mean +/- SEM.
+# Statistics: two-sided unpaired Student's t-test (scipy ttest_ind, equal variance), G822E vs NT within each treatment; no multiple-testing correction.
+# Significance: * p<0.05, ** p<0.01, *** p<0.001, **** p<0.0001; ns not significant.
+
+## Section 1: Per-replicate values
+Genotype	Treatment	Replicate	FoldChange_vs_T0
+NT	Control	1	1.646667
+NT	Control	2	1.717778
+NT	Control	3	1.644444
+NT	HQ461	1	0.822222
+NT	HQ461	2	0.784444
+NT	HQ461	3	0.811111
+NT	ZLY-025	1	0.962222
+NT	ZLY-025	2	0.880000
+NT	ZLY-025	3	0.708889
+CDK12 G822E	Control	1	0.327586
+CDK12 G822E	Control	2	0.370690
+CDK12 G822E	Control	3	0.363793
+CDK12 G822E	HQ461	1	1.015517
+CDK12 G822E	HQ461	2	1.013793
+CDK12 G822E	HQ461	3	0.917241
+CDK12 G822E	ZLY-025	1	0.601724
+CDK12 G822E	ZLY-025	2	0.665517
+CDK12 G822E	ZLY-025	3	0.660345
+
+## Section 2: Summary (values displayed in heatmap)
+Genotype	Treatment	n	Mean	SD	SEM	p_vs_NT	Significance
+NT	Control	3	1.6696	0.0417	0.0241	NA	NA
+NT	HQ461	3	0.8059	0.0194	0.0112	NA	NA
+NT	ZLY-025	3	0.8504	0.1292	0.0746	NA	NA
+CDK12 G822E	Control	3	0.3540	0.0232	0.0134	1.15e-06	****
+CDK12 G822E	HQ461	3	0.9822	0.0562	0.0325	0.00684	**
+CDK12 G822E	ZLY-025	3	0.6425	0.0354	0.0205	0.0549	ns

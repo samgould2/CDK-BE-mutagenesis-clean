@@ -1,0 +1,19 @@
+readout,screen,guide_class,n,R
+T0 vs Plasmid,Subpool1,non-targeting control,131,0.5542455181099983
+T0 vs Plasmid,Subpool1,intron,160,0.7802326310013759
+T0 vs Plasmid,Subpool1,targeting,2439,0.7303040385330783
+T0 vs Plasmid,Subpool2,non-targeting control,235,0.7935979529984954
+T0 vs Plasmid,Subpool2,intron,100,0.8850776767034845
+T0 vs Plasmid,Subpool2,targeting,4533,0.8624680253058753
+T0 vs Plasmid,Subpool3,non-targeting control,79,0.8162652876455383
+T0 vs Plasmid,Subpool3,intron,71,0.8235962329106062
+T0 vs Plasmid,Subpool3,targeting,1505,0.7821420642157525
+DMSO vs T0,Subpool1,non-targeting control,130,-0.5508254655492473
+DMSO vs T0,Subpool1,intron,151,-0.52826136610818
+DMSO vs T0,Subpool1,targeting,2406,-0.5811508425998186
+DMSO vs T0,Subpool2,non-targeting control,230,0.004230795838261415
+DMSO vs T0,Subpool2,intron,94,0.15545410990140057
+DMSO vs T0,Subpool2,targeting,4388,0.09405235179923599
+DMSO vs T0,Subpool3,non-targeting control,79,0.04101275971448107
+DMSO vs T0,Subpool3,intron,69,0.07943408923768251
+DMSO vs T0,Subpool3,targeting,1495,0.1365002077859341

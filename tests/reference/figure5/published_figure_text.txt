@@ -1,0 +1,562 @@
+a
+
+2 Cell Types X 2 Editors
+
+Non-targeting
+10 (14%)
+
+Fitness Hit
+16 (22%)
+
+A549
+A549
+CBE6-NG ABE8e-NG
+T47D
+T47D
+CBE6-NG ABE8e-NG
+
+Nonsense
+17 (24%)
+
+CBE
+
+72 gRNAs
+
+ABE or CBE
+CROP-seq
+library
+
+Resistance Hit
+29 (40%)
+Fitness Hit
+10 (11%)
+
+b
+
++7 days
+
+scRNA-seq
+&
+gRNA
+assigment
+(CROP-seq)
+
+Editing &
+Selection
+
+c
+
+A549 (n=18,000 cells)
+
+T47D (n=17,339 cells)
+
+Non-targeting
+10 (11%)
+
+CDK13
+CDK2
+CDK4
+CDK6
+NT
+
+CDK7
+CDK8
+CDK9
+CDK19
+CDK12
+
+Start Loss
+11 (12%)
+
+ABE
+
+92 gRNAs
+
+Resistance Hit
+61 (66%)
+
+Transcript NMD
+A549 * p = 0.035
+
+UMAP 2
+
+T47D * p = 0.018
+
+4
+2
+
+UMAP 1
+
+UMAP 1
+
+j
+
+0
+
+Transcriptional severity of targeting gRNAs
+
+−2
+
+10.0
+
+−4
+
+7.5
+
+−6
+A549
+T47D
+
+−8
+
+truncating
+
+missense
+
+e
+
+A549
+severity
+
+PTC
+escaping
+
+start
+loss
+
+PTC
+competent
+
+H73R
+
+M1V D2G
+
+L289P
+
+5.0
+
+M1T
+
+R29*
+
+0.0
+
+ΔG1 (percentage points)
+
+40
+
+L289P
+
+8
+
+D196N
+
+30
+
+T47D
+severity
+
+Q222*
+
+20
+10
+
+P262L
+nonsense, NMD-competent
+nonsense, NMD-escaping
+missense
+other CDKs, same arm
+
+−10
+
+K7
+
+0.25
+
+300
+200
+
+***
+
+K8
+
+k
+*
+
+0.6
+
+10
+
+**
+
+0.4
+
+severity
+
+*
+19
+8
+W
+
+D
+
+E5
+
+19
+6N
+
+6K
+
+T
+N
+BE
+C
+
+i
+− log10 Padj
+
+80
+343 up
+
+−2
+
+0
+
+log2 fold change
+
+D196N
+
+M1V
+
+I51V T53A
+
+T58A
+M1T
+
+2
+
+4
+
+160
+
+4
+
+K4
+
+CD
+
+K6
+
+CD
+
+A549
+
+CDK13 I711V T715A
+
+CDK7 V90A
+
+CDK7 L18F
+
+CDK12 G731K
+CDK9 L156F
+
+9 down
+
+−4
+
+−2
+
+MGP
+
+1 up
+
+0
+
+log2 fold change
+
+2
+
+4
+
+6
+
+4
+CDK13 I711V T715A
+CDK9 L156F
+CDK12 I733V
+CDK12 G822K
+
+0
+
+CDK12 G731K
+
+CDK12 I733V
+
+CDK12 M816I D817N
+PIP
+
+ABE
+CBE
+10 strongest resistance alleles
+all other gRNAs
+span of the 9 NT gRNAs
+
+10
+
+2
+
+CDK12 G822K
+CDK12 G822E
+CDK12 Y742C K743E
+
+0
+
+−6
+
+K2
+
+CD
+
+6
+
+2
+
+0
+6
+
+3
+
+K1
+
+CD
+
+8
+
+80
+477 down
+
+2
+
+K1
+
+CD
+
+ABE
+CBE
+10 strongest resistance alleles
+all other gRNAs
+span of the 9 NT gRNAs
+
+CDK4
+
+240
+
+160
+
+9
+
+K1
+
+CD
+
+6
+
+−0.2
+
+W198* vs D196N
+
+240
+
+−4
+
+T116A I117V
+
+I792V
+
+0.0
+
+8*
+W
+19
+
+D
+
+E5
+
+19
+6N
+
+6K
+
+T
+N
+BE
+
+CDK4
+
+−6
+
+M1V T3A Q222*
+
+Q820R
+
+T47D
+
+8
+
+0.2
+
+−0.4
+
+W198* vs CBE NT
+
+CD
+
+n.s.
+
+0
+
+0
+
+Q113*
+
+M816V D817G
+
+K274G
+
+K9
+
+CD
+
+1.0
+
+Hallmark E2F targets
+(mean z-score, n = 198)
+
+***
+
+C
+
+R168G
+
+R62*
+
+L825P
+
+0.50
+
+0.8
+
+n.s.
+
+100
+
+− log10 Padj
+
+L907P F908L
+
+0
+
+CD
+
+g
+
+CDK4 (TPM)
+
+S343P
+
+T287A
+
+A133T
+
+target-transcript log FC, phase-adjusted
+
+400
+
+K6G
+
+Q22*
+
+4
+
+T66M A67V
+
+E56K
+
+−1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00
+
+f
+
+W198*
+
+R29*
+
+2
+
+Q270*
+
+0
+
+M1V D2G
+
+6
+
+R62*
+
+h
+
+L907P F908L
+
+2.5
+
+−2.5
+
+T47D/CBE CDK4
+
+W198*
+
+point size
+q = 0.9
+q = 0.5
+q = 0.05
+
+severity
+
+target-transcript z (Poisson GLM vs controls)
+
+6
+
+UMAP 2
+
+d
+
+0
+
+2
+4
+6
+max drug log2 FC
+
+8
+
+CDK7 L18F
+
+CDK12 G822E
+CDK12 Y742C K743E
+CDK12 M816I D817N
+
+−2
+
+CDK7 V90A
+
+−4
+0
+
+2
+4
+6
+max drug log2 FC
+
+8
+
+

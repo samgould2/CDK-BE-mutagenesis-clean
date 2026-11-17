@@ -1,0 +1,1001 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	TR	A0A091DST1	Serine/threonine-protein OS=Fukomys damarensis OX=885580 GN=H920_05223 PE=3 SV=1	Fukomys damarensis	464	2508	100.0	100.0	0.0
+2	TR	A0A6P3ESJ3	Serine/threonine-protein OS=Octodon degus OX=10160 GN=Cdk8 PE=3 SV=1	Octodon degus	464	2508	100.0	100.0	0.0
+3	TR	A0A8C2YK59	Serine/threonine-protein OS=Chinchilla lanigera OX=34839 GN=CDK8 PE=3 SV=1	Chinchilla lanigera	464	2508	100.0	100.0	0.0
+4	TR	A0A8C5ZEW5	Serine/threonine-protein OS=Marmota marmota marmota OX=9994 GN=CDK8 PE=3 SV=1	Marmota marmota marmota	464	2508	100.0	100.0	0.0
+5	TR	A0A8C6QZW4	Serine/threonine-protein OS=Nannospalax galili OX=1026970 GN=Cdk8 PE=3 SV=1	Nannospalax galili	464	2508	100.0	100.0	0.0
+6	TR	I3MRT5	Serine/threonine-protein OS=Ictidomys tridecemlineatus OX=43179 GN=Cdk8 PE=3 SV=2	Ictidomys tridecemlineatus	464	2508	100.0	100.0	0.0
+7	TR	A0A8C9QC13	Serine/threonine-protein OS=Spermophilus dauricus OX=99837 PE=3 SV=1	Spermophilus dauricus	464	2508	100.0	100.0	0.0
+8	TR	A0A8D2JPJ4	Serine/threonine-protein OS=Sciurus vulgaris OX=55149 GN=CDK8 PE=3 SV=1	Sciurus vulgaris	464	2508	100.0	100.0	0.0
+9	TR	A0A8U0NH12	Serine/threonine-protein OS=Mustela putorius furo OX=9669 GN=CDK8 PE=3 SV=1	Mustela putorius furo	464	2508	100.0	100.0	0.0
+10	TR	A0ABD2DU71	Serine/threonine-protein OS=Daubentonia madagascariensis OX=31869 GN=WCI35_022783 PE=3 SV=1	Daubentonia madagascariensis	464	2508	100.0	100.0	0.0
+11	TR	A0A2K5INT8	Serine/threonine-protein OS=Colobus angolensis palliatus OX=336983 PE=3 SV=1	Colobus angolensis palliatus	464	2508	100.0	100.0	0.0
+12	TR	A0ACF8PHZ1	Serine/threonine-protein OS=Nasalis larvatus OX=43780 GN=H8958_016505 PE=3 SV=1	Nasalis larvatus	464	2508	100.0	100.0	0.0
+13	TR	A0ACF8IT53	Serine/threonine-protein OS=Semnopithecus entellus OX=88029 GN=H8957_007572 PE=3 SV=1	Semnopithecus entellus	464	2508	100.0	100.0	0.0
+14	TR	A0A2K6UGP7	Serine/threonine-protein OS=Saimiri boliviensis boliviensis OX=39432 PE=3 SV=1	Saimiri boliviensis boliviensis	464	2508	100.0	100.0	0.0
+15	TR	A0A485N8D7	Serine/threonine-protein OS=Lynx pardinus OX=191816 GN=LYPA_23C018910 PE=3 SV=1	Lynx pardinus	464	2508	100.0	100.0	0.0
+16	TR	A0ACF8JSS6	Serine/threonine-protein OS=Pygathrix nigripes OX=310352 GN=H8959_014140 PE=3 SV=1	Pygathrix nigripes	464	2508	100.0	100.0	0.0
+17	TR	A0A2K6BRD3	Serine/threonine-protein OS=Macaca nemestrina OX=9545 PE=3 SV=1	Macaca nemestrina	464	2508	100.0	100.0	0.0
+18	TR	A0A9V1FJ89	Serine/threonine-protein OS=Panthera pardus OX=9691 GN=CDK8 PE=3 SV=1	Panthera pardus	464	2508	100.0	100.0	0.0
+19	TR	G1T9S5	Serine/threonine-protein OS=Oryctolagus cuniculus OX=9986 GN=CDK8 PE=3 SV=1	Oryctolagus cuniculus	464	2508	100.0	100.0	0.0
+20	TR	A0A6J3J7Z2	Serine/threonine-protein OS=Sapajus apella OX=9515 GN=CDK8 PE=3 SV=1	Sapajus apella	464	2508	100.0	100.0	0.0
+21	TR	A0A6P6HWB2	Serine/threonine-protein OS=Puma concolor OX=9696 GN=CDK8 PE=3 SV=1	Puma concolor	464	2508	100.0	100.0	0.0
+22	TR	A0A667FYP5	Serine/threonine-protein OS=Lynx canadensis OX=61383 GN=CDK8 PE=3 SV=1	Lynx canadensis	464	2508	100.0	100.0	0.0
+23	TR	G3QUM8	Serine/threonine-protein OS=Gorilla gorilla gorilla OX=9595 GN=CDK8 PE=3 SV=2	Gorilla gorilla gorilla	464	2508	100.0	100.0	0.0
+24	TR	G1RUX2	Serine/threonine-protein OS=Nomascus leucogenys OX=61853 GN=CDK8 PE=3 SV=1	Nomascus leucogenys	464	2508	100.0	100.0	0.0
+25	TR	A0A0D9RZG8	Serine/threonine-protein OS=Chlorocebus sabaeus OX=60711 PE=3 SV=1	Chlorocebus sabaeus	464	2508	100.0	100.0	0.0
+26	TR	A0A8C9H4P2	Serine/threonine-protein OS=Piliocolobus tephrosceles OX=591936 GN=CDK8 PE=3 SV=1	Piliocolobus tephrosceles	464	2508	100.0	100.0	0.0
+27	TR	A0A2R9B4M4	Serine/threonine-protein OS=Pan paniscus OX=9597 PE=3 SV=1	Pan paniscus	464	2508	100.0	100.0	0.0
+28	TR	A0A8C5YAF0	Serine/threonine-protein OS=Microcebus murinus OX=30608 GN=CDK8 PE=3 SV=1	Microcebus murinus	464	2508	100.0	100.0	0.0
+29	TR	A0A2I3MHU0	Serine/threonine-protein OS=Papio anubis OX=9555 PE=3 SV=2	Papio anubis	464	2508	100.0	100.0	0.0
+30	TR	A0A2K5C2X2	Serine/threonine-protein OS=Aotus nancymaae OX=37293 PE=3 SV=1	Aotus nancymaae	464	2508	100.0	100.0	0.0
+31	TR	M3WW64	Serine/threonine-protein OS=Felis catus OX=9685 GN=CDK8 PE=3 SV=1	Felis catus	464	2508	100.0	100.0	0.0
+32	TR	A0A2K5L340	Serine/threonine-protein OS=Cercocebus atys OX=9531 PE=3 SV=1	Cercocebus atys	464	2508	100.0	100.0	0.0
+33	TR	A0A8C8Z6U6	Serine/threonine-protein OS=Prolemur simus OX=1328070 GN=CDK8 PE=3 SV=1	Prolemur simus	464	2508	100.0	100.0	0.0
+34	TR	H2Q7B5	Serine/threonine-protein OS=Pan troglodytes OX=9598 GN=CDK8 PE=3 SV=1	Pan troglodytes	464	2508	100.0	100.0	0.0
+35	TR	H2NJG6	Serine/threonine-protein OS=Pongo abelii OX=9601 GN=CDK8 PE=3 SV=1	Pongo abelii	464	2508	100.0	100.0	0.0
+36	TR	A0A2Y9LA31	Serine/threonine-protein OS=Enhydra lutris kenyoni OX=391180 GN=LOC111159923 PE=3 SV=1	Enhydra lutris kenyoni	464	2508	100.0	100.0	0.0
+37	TR	A0A8C8WKZ7	Serine/threonine-protein OS=Panthera leo OX=9689 GN=CDK8 PE=3 SV=1	Panthera leo	464	2508	100.0	100.0	0.0
+38	TR	A0ACM8QZH3	Serine/threonine-protein OS=Callithrix jacchus OX=9483 GN=CDK8 PE=3 SV=1	Callithrix jacchus	464	2508	100.0	100.0	0.0
+39	TR	A0A2K5SI45	Serine/threonine-protein OS=Cebus imitator OX=2715852 GN=CDK8 PE=3 SV=1	Cebus imitator	464	2508	100.0	100.0	0.0
+40	TR	A0A2K6R7R9	Serine/threonine-protein OS=Rhinopithecus roxellana OX=61622 GN=CDK8 PE=3 SV=1	Rhinopithecus roxellana	464	2508	100.0	100.0	0.0
+41	TR	A0A6J0A6K2	Serine/threonine-protein OS=Acinonyx jubatus OX=32536 GN=CDK8 PE=3 SV=1	Acinonyx jubatus	464	2508	100.0	100.0	0.0
+42	TR	K7BI45	Serine/threonine-protein OS=Pan troglodytes OX=9598 GN=CDK8 PE=2 SV=1	Pan troglodytes	464	2508	100.0	100.0	0.0
+43	TR	H9FNK1	Serine/threonine-protein OS=Macaca mulatta OX=9544 GN=CDK8 PE=2 SV=1	Macaca mulatta	464	2508	100.0	100.0	0.0
+44	TR	U3DXG6	Serine/threonine-protein OS=Callithrix jacchus OX=9483 GN=CDK8 PE=2 SV=1	Callithrix jacchus	464	2508	100.0	100.0	0.0
+45	SP	P49336	Cyclin-dependent kinase 8 OS=Homo sapiens OX=9606 GN=CDK8 PE=1 SV=1	Homo sapiens	464	2508	100.0	100.0	0.0
+46	TR	A0A6I9LB16	Serine/threonine-protein OS=Peromyscus maniculatus bairdii OX=230844 GN=Cdk8 PE=3 SV=1	Peromyscus maniculatus bairdii	464	2504	99.8	99.8	0.0
+47	TR	A0A8J6KT94	Serine/threonine-protein OS=Microtus ochrogaster OX=79684 GN=Cdk8 PE=3 SV=1	Microtus ochrogaster	464	2504	99.8	99.8	0.0
+48	TR	A0A1S3A385	Serine/threonine-protein OS=Erinaceus europaeus OX=9365 GN=CDK8 PE=3 SV=1	Erinaceus europaeus	464	2504	99.8	99.8	0.0
+49	TR	A0A2Y9NLP8	Serine/threonine-protein OS=Delphinapterus leucas OX=9749 GN=CDK8 PE=3 SV=1	Delphinapterus leucas	464	2504	99.8	99.8	0.0
+50	TR	A0ABN9ZXS5	Serine/threonine-protein OS=Pipistrellus nathusii OX=59473 GN=MPIPNATIZW_LOCUS11349 PE=3 SV=1	Pipistrellus nathusii	464	2504	99.8	99.8	0.0
+51	TR	A0A2U3X3V4	Serine/threonine-protein OS=Odobenus rosmarus divergens OX=9708 GN=CDK8 PE=3 SV=1	Odobenus rosmarus divergens	464	2504	99.8	99.8	0.0
+52	TR	A0A8C4MYB8	Serine/threonine-protein OS=Equus asinus OX=9793 GN=CDK8 PE=3 SV=1	Equus asinus	464	2504	99.8	99.8	0.0
+53	TR	A0A7J7ZGX2	Serine/threonine-protein OS=Pipistrellus kuhlii OX=59472 GN=mPipKuh1_002550 PE=3 SV=1	Pipistrellus kuhlii	464	2504	99.8	100.0	0.0
+54	TR	A0A384C7E7	Serine/threonine-protein OS=Ursus maritimus OX=29073 GN=CDK8 PE=3 SV=1	Ursus maritimus	464	2504	99.8	99.8	0.0
+55	TR	A0A671E142	Serine/threonine-protein OS=Rhinolophus ferrumequinum OX=59479 GN=CDK8 PE=3 SV=1	Rhinolophus ferrumequinum	464	2504	99.8	99.8	0.0
+56	TR	A0A811Y6Q3	Serine/threonine-protein OS=Nyctereutes procyonoides OX=34880 GN=NYPRO_LOCUS4099 PE=3 SV=1	Nyctereutes procyonoides	464	2504	99.8	99.8	0.0
+57	TR	A0ABM2FG76	Serine/threonine-protein OS=Equus przewalskii OX=9798 GN=CDK8 PE=3 SV=1	Equus przewalskii	464	2504	99.8	99.8	0.0
+58	TR	A0A8C9BMM8	Serine/threonine-protein OS=Phocoena sinus OX=42100 GN=CDK8 PE=3 SV=1	Phocoena sinus	464	2504	99.8	99.8	0.0
+59	TR	D2HP84	Serine/threonine-protein OS=Ailuropoda melanoleuca OX=9646 GN=CDK8 PE=3 SV=1	Ailuropoda melanoleuca	464	2504	99.8	99.8	0.0
+60	TR	A0A8I3PYQ8	Serine/threonine-protein OS=Canis lupus familiaris OX=9615 GN=CDK8 PE=3 SV=1	Canis lupus familiaris	464	2504	99.8	99.8	0.0
+61	TR	A0A8B7S321	Serine/threonine-protein OS=Hipposideros armiger OX=186990 GN=CDK8 PE=3 SV=1	Hipposideros armiger	464	2504	99.8	99.8	0.0
+62	TR	A0A6J2CRH4	Serine/threonine-protein OS=Zalophus californianus OX=9704 GN=CDK8 PE=3 SV=1	Zalophus californianus	464	2504	99.8	99.8	0.0
+63	TR	A0A2U4BGX0	Serine/threonine-protein OS=Tursiops truncatus OX=9739 GN=CDK8 PE=3 SV=1	Tursiops truncatus	464	2504	99.8	99.8	0.0
+64	TR	A0A3Q7PAT6	Serine/threonine-protein OS=Callorhinus ursinus OX=34884 GN=CDK8 PE=3 SV=1	Callorhinus ursinus	464	2504	99.8	99.8	0.0
+65	TR	A0A340YHH4	Serine/threonine-protein OS=Lipotes vexillifer OX=118797 GN=CDK8 PE=3 SV=1	Lipotes vexillifer	464	2504	99.8	99.8	0.0
+66	TR	A0A2Y9G4W4	Serine/threonine-protein OS=Neomonachus schauinslandi OX=29088 GN=CDK8 PE=3 SV=1	Neomonachus schauinslandi	464	2504	99.8	99.8	0.0
+67	TR	A0ABM0HWA6	Serine/threonine-protein OS=Ceratotherium simum simum OX=73337 GN=LOC101407177 PE=3 SV=1	Ceratotherium simum simum	464	2504	99.8	99.8	0.0
+68	TR	A0A3Q7RZG2	Serine/threonine-protein OS=Vulpes vulpes OX=9627 GN=CDK8 PE=3 SV=1	Vulpes vulpes	464	2504	99.8	99.8	0.0
+69	TR	A0A8C6CGY0	Serine/threonine-protein OS=Monodon monoceros OX=40151 GN=CDK8 PE=3 SV=1	Monodon monoceros	464	2504	99.8	99.8	0.0
+70	TR	A0A7J8FXR8	Serine/threonine-protein OS=Molossus molossus OX=27622 GN=HJG59_002592 PE=3 SV=1	Molossus molossus	464	2504	99.8	99.8	0.0
+71	TR	A0ABM2XXA1	Serine/threonine-protein OS=Mesocricetus auratus OX=10036 GN=Cdk8 PE=3 SV=1	Mesocricetus auratus	464	2503	99.8	99.8	0.0
+72	TR	A0A8C7CGS7	Serine/threonine-protein OS=Neogale vison OX=452646 GN=CDK8 PE=3 SV=1	Neogale vison	464	2503	99.8	99.8	0.0
+73	TR	A0A8C3X7Q9	Serine/threonine-protein OS=Catagonus wagneri OX=51154 GN=CDK8 PE=3 SV=1	Catagonus wagneri	464	2503	99.6	100.0	0.0
+74	TR	A0A8D2H7H7	Serine/threonine-protein OS=Urocitellus parryii OX=9999 GN=CDK8 PE=3 SV=1	Urocitellus parryii	464	2502	99.8	99.8	0.0
+75	TR	G5AMX6	Serine/threonine-protein OS=Heterocephalus glaber OX=10181 GN=Cdk8 PE=3 SV=1	Heterocephalus glaber	464	2502	99.8	99.8	0.0
+76	TR	A0A287ALK4	Serine/threonine-protein OS=Sus scrofa OX=9823 GN=CDK8 PE=3 SV=2	Sus scrofa	464	2500	99.6	99.8	0.0
+77	TR	A0A8C0XHK8	Serine/threonine-protein OS=Castor canadensis OX=51338 GN=Cdk8 PE=3 SV=1	Castor canadensis	464	2499	99.6	99.8	0.0
+78	TR	G3GWJ3	Serine/threonine-protein OS=Cricetulus griseus OX=10029 GN=Cdk8 PE=3 SV=1	Cricetulus griseus	464	2499	99.6	99.6	0.0
+79	TR	A0A4X2LZP7	Serine/threonine-protein OS=Vombatus ursinus OX=29139 GN=CDK8 PE=3 SV=1	Vombatus ursinus	464	2499	99.6	99.6	0.0
+80	TR	A0A6P5L443	Serine/threonine-protein OS=Phascolarctos cinereus OX=38626 GN=CDK8 PE=3 SV=1	Phascolarctos cinereus	464	2499	99.6	99.6	0.0
+81	TR	G3SYU2	Serine/threonine-protein OS=Loxodonta africana OX=9785 GN=CDK8 PE=3 SV=1	Loxodonta africana	464	2499	99.6	99.6	0.0
+82	TR	A0A2Y9E3R1	Serine/threonine-protein OS=Trichechus manatus latirostris OX=127582 GN=CDK8 PE=3 SV=1	Trichechus manatus latirostris	464	2499	99.6	99.6	0.0
+83	TR	A0A7J7Z0T4	Serine/threonine-protein OS=Myotis myotis OX=51298 GN=mMyoMyo1_002571 PE=3 SV=1	Myotis myotis	464	2499	99.6	99.6	0.0
+84	TR	G3WFK6	Serine/threonine-protein OS=Sarcophilus harrisii OX=9305 GN=CDK8 PE=3 SV=2	Sarcophilus harrisii	464	2499	99.6	99.6	0.0
+85	TR	F6TLP1	Serine/threonine-protein OS=Monodelphis domestica OX=13616 GN=CDK8 PE=3 SV=2	Monodelphis domestica	464	2499	99.6	99.6	0.0
+86	TR	A0A7K8GEI8	Serine/threonine-protein (Fragment) OS=Orthonyx spaldingii OX=38397 GN=Cdk8 PE=3 SV=1	Orthonyx spaldingii	464	2498	99.4	99.8	0.0
+87	TR	A0A8C3MQV1	Serine/threonine-protein OS=Geospiza parvula OX=87175 GN=CDK8 PE=3 SV=1	Geospiza parvula	464	2498	99.4	99.8	0.0
+88	TR	A0A7L3PB63	Serine/threonine-protein (Fragment) OS=Xiphorhynchus elegans OX=269412 GN=Cdk8 PE=3 SV=1	Xiphorhynchus elegans	464	2498	99.4	99.8	0.0
+89	TR	A0A7L2KNE2	Serine/threonine-protein (Fragment) OS=Zosterops hypoxanthus OX=2485327 GN=Cdk8 PE=3 SV=1	Zosterops hypoxanthus	464	2498	99.4	99.8	0.0
+90	TR	A0A7L4KU63	Serine/threonine-protein (Fragment) OS=Callaeas wilsoni OX=1347786 GN=Cdk8 PE=3 SV=1	Callaeas wilsoni	464	2498	99.4	99.8	0.0
+91	TR	A0A7K8QIS2	Serine/threonine-protein (Fragment) OS=Smithornis capensis OX=363769 GN=Cdk8 PE=3 SV=1	Smithornis capensis	464	2498	99.4	99.8	0.0
+92	TR	A0A7K7RZ84	Serine/threonine-protein (Fragment) OS=Nesospiza acunhae OX=381881 GN=Cdk8 PE=3 SV=1	Nesospiza acunhae	464	2498	99.4	99.8	0.0
+93	TR	A0A7K9VZG0	Serine/threonine-protein (Fragment) OS=Rhipidura dahli OX=667186 GN=Cdk8 PE=3 SV=1	Rhipidura dahli	464	2498	99.4	99.8	0.0
+94	TR	A0A7L0A0E1	Serine/threonine-protein (Fragment) OS=Dicrurus megarhynchus OX=450177 GN=Cdk8 PE=3 SV=1	Dicrurus megarhynchus	464	2498	99.4	99.8	0.0
+95	TR	A0A7L3B3M7	Serine/threonine-protein (Fragment) OS=Syrrhaptes paradoxus OX=302527 GN=Cdk8 PE=3 SV=1	Syrrhaptes paradoxus	464	2498	99.4	99.8	0.0
+96	TR	A0A7K8AY98	Serine/threonine-protein (Fragment) OS=Cnemophilus loriae OX=254448 GN=Cdk8 PE=3 SV=1	Cnemophilus loriae	464	2498	99.4	99.8	0.0
+97	TR	A0A7K8RMI9	Serine/threonine-protein (Fragment) OS=Rhodinocichla rosea OX=58203 GN=Cdk8 PE=3 SV=1	Rhodinocichla rosea	464	2498	99.4	99.8	0.0
+98	TR	A0A7K7MNJ1	Serine/threonine-protein (Fragment) OS=Brachypodius melanocephalos OX=3235156 GN=Cdk8 PE=3 SV=1	Brachypodius melanocephalos	464	2498	99.4	99.8	0.0
+99	TR	A0A7K8ZEY9	Serine/threonine-protein (Fragment) OS=Grallaria varia OX=117165 GN=Cdk8 PE=3 SV=1	Grallaria varia	464	2498	99.4	99.8	0.0
+100	TR	A0A674G7J7	Serine/threonine-protein OS=Taeniopygia guttata OX=59729 GN=CDK8 PE=3 SV=1	Taeniopygia guttata	668	2498	99.4	99.8	0.0
+101	TR	A0A8C3XES2	Serine/threonine-protein OS=Cyanoderma ruficeps OX=181631 PE=3 SV=1	Cyanoderma ruficeps	464	2498	99.4	99.8	0.0
+102	TR	A0A7K6I4E4	Serine/threonine-protein (Fragment) OS=Dasyornis broadbenti OX=243059 GN=Cdk8 PE=3 SV=1	Dasyornis broadbenti	464	2498	99.4	99.8	0.0
+103	TR	A0A7K6LB54	Serine/threonine-protein (Fragment) OS=Falcunculus frontatus OX=254539 GN=Cdk8 PE=3 SV=1	Falcunculus frontatus	464	2498	99.4	99.8	0.0
+104	TR	A0A7K9IXP2	Serine/threonine-protein (Fragment) OS=Myiagra hebetior OX=381031 GN=Cdk8 PE=3 SV=1	Myiagra hebetior	464	2498	99.4	99.8	0.0
+105	TR	A0A7L1E3N0	Serine/threonine-protein (Fragment) OS=Oenanthe oenanthe OX=279966 GN=Cdk8 PE=3 SV=1	Oenanthe oenanthe	464	2498	99.4	99.8	0.0
+106	TR	A0A7L0KWK9	Serine/threonine-protein (Fragment) OS=Sylvietta virens OX=208069 GN=Cdk8 PE=3 SV=1	Sylvietta virens	464	2498	99.4	99.8	0.0
+107	TR	A0A6J2H641	Serine/threonine-protein OS=Pipra filicauda OX=649802 GN=CDK8 PE=3 SV=1	Pipra filicauda	464	2498	99.4	99.8	0.0
+108	TR	A0A8C5J962	Serine/threonine-protein OS=Junco hyemalis OX=40217 PE=3 SV=1	Junco hyemalis	464	2498	99.4	99.8	0.0
+109	TR	A0A7L1VVR7	Serine/threonine-protein (Fragment) OS=Certhia brachydactyla OX=73330 GN=Cdk8 PE=3 SV=1	Certhia brachydactyla	464	2498	99.4	99.8	0.0
+110	TR	A0A852DKU5	Serine/threonine-protein (Fragment) OS=Passerina amoena OX=142471 GN=Cdk8 PE=3 SV=1	Passerina amoena	464	2498	99.4	99.8	0.0
+111	TR	A0A7K7H6G2	Serine/threonine-protein (Fragment) OS=Erithacus rubecula OX=37610 GN=Cdk8 PE=3 SV=1	Erithacus rubecula	464	2498	99.4	99.8	0.0
+112	TR	A0A6J0HJ84	Serine/threonine-protein OS=Lepidothrix coronata OX=321398 GN=CDK8 PE=3 SV=1	Lepidothrix coronata	464	2498	99.4	99.8	0.0
+113	TR	A0A7K6Y1K5	Serine/threonine-protein (Fragment) OS=Promerops cafer OX=254652 GN=Cdk8 PE=3 SV=1	Promerops cafer	464	2498	99.4	99.8	0.0
+114	TR	A0A7K4PIM7	Serine/threonine-protein (Fragment) OS=Melospiza melodia OX=44397 GN=Cdk8 PE=3 SV=1	Melospiza melodia	464	2498	99.4	99.8	0.0
+115	TR	A0A7K5KV46	Serine/threonine-protein (Fragment) OS=Vireo altiloquus OX=34956 GN=Cdk8 PE=3 SV=1	Vireo altiloquus	464	2498	99.4	99.8	0.0
+116	TR	A0A7K5WHW2	Serine/threonine-protein (Fragment) OS=Hylia prasina OX=208073 GN=Cdk8 PE=3 SV=1	Hylia prasina	464	2498	99.4	99.8	0.0
+117	TR	A0A7K5PG56	Serine/threonine-protein (Fragment) OS=Erythrocercus mccallii OX=107208 GN=Cdk8 PE=3 SV=1	Erythrocercus mccallii	464	2498	99.4	99.8	0.0
+118	TR	A0A7K7PAF2	Serine/threonine-protein (Fragment) OS=Acrocephalus arundinaceus OX=39621 GN=Cdk8 PE=3 SV=1	Acrocephalus arundinaceus	464	2498	99.4	99.8	0.0
+119	TR	A0A7K7J6E8	Serine/threonine-protein (Fragment) OS=Loxia curvirostra OX=64802 GN=Cdk8 PE=3 SV=1	Loxia curvirostra	464	2498	99.4	99.8	0.0
+120	TR	A0A7K6CPD6	Serine/threonine-protein (Fragment) OS=Origma solitaria OX=720586 GN=Cdk8 PE=3 SV=1	Origma solitaria	464	2498	99.4	99.8	0.0
+121	TR	A0A7L1RG07	Serine/threonine-protein (Fragment) OS=Helopsaltes ochotensis OX=3150915 GN=Cdk8 PE=3 SV=1	Helopsaltes ochotensis	464	2498	99.4	99.8	0.0
+122	TR	A0A7K7EMK0	Serine/threonine-protein (Fragment) OS=Sylvia atricapilla OX=48155 GN=Cdk8 PE=3 SV=1	Sylvia atricapilla	464	2498	99.4	99.8	0.0
+123	TR	A0A7K6T7I2	Serine/threonine-protein (Fragment) OS=Caloenas nicobarica OX=187106 GN=Cdk8 PE=3 SV=1	Caloenas nicobarica	464	2498	99.4	99.8	0.0
+124	TR	A0A7K5IWB6	Serine/threonine-protein (Fragment) OS=Toxostoma redivivum OX=99882 GN=Cdk8 PE=3 SV=1	Toxostoma redivivum	464	2498	99.4	99.8	0.0
+125	TR	A0A8C9MVF0	Serine/threonine-protein OS=Serinus canaria OX=9135 GN=CDK8 PE=3 SV=1	Serinus canaria	464	2498	99.4	99.8	0.0
+126	TR	A0A7K6R8T0	Serine/threonine-protein (Fragment) OS=Climacteris rufus OX=47695 GN=Cdk8 PE=3 SV=1	Climacteris rufus	464	2498	99.4	99.8	0.0
+127	TR	A0A7K5RLH5	Serine/threonine-protein (Fragment) OS=Lanius ludovicianus OX=28713 GN=Cdk8 PE=3 SV=1	Lanius ludovicianus	464	2498	99.4	99.8	0.0
+128	TR	A0A7K8JD22	Serine/threonine-protein (Fragment) OS=Chaetorhynchus papuensis OX=254446 GN=Cdk8 PE=3 SV=1	Chaetorhynchus papuensis	464	2498	99.4	99.8	0.0
+129	TR	A0A7K7CEB0	Serine/threonine-protein (Fragment) OS=Aphelocoma coerulescens OX=39617 GN=Cdk8 PE=3 SV=1	Aphelocoma coerulescens	464	2498	99.4	99.8	0.0
+130	TR	A0A7K7QE33	Serine/threonine-protein (Fragment) OS=Poecile atricapillus OX=48891 GN=Cdk8 PE=3 SV=1	Poecile atricapillus	464	2498	99.4	99.8	0.0
+131	TR	A0A7L1FJW9	Serine/threonine-protein (Fragment) OS=Sylvia borin OX=73324 GN=Cdk8 PE=3 SV=1	Sylvia borin	464	2498	99.4	99.8	0.0
+132	TR	A0A7L2PJI3	Serine/threonine-protein (Fragment) OS=Pycnonotus jocosus OX=182897 GN=Cdk8 PE=3 SV=1	Pycnonotus jocosus	464	2498	99.4	99.8	0.0
+133	TR	A0A8K1LDS9	Serine/threonine-protein OS=Zosterops borbonicus OX=364589 GN=HGM15179_016993 PE=3 SV=1	Zosterops borbonicus	464	2498	99.4	99.8	0.0
+134	TR	A0A7K9LA60	Serine/threonine-protein (Fragment) OS=Rhabdornis inornatus OX=237438 GN=Cdk8 PE=3 SV=1	Rhabdornis inornatus	464	2498	99.4	99.8	0.0
+135	TR	A0A851U2Y5	Serine/threonine-protein (Fragment) OS=Elachura formosa OX=1463973 GN=Cdk8 PE=3 SV=1	Elachura formosa	464	2498	99.4	99.8	0.0
+136	TR	A0A851N4J6	Serine/threonine-protein (Fragment) OS=Campylorhamphus procurvoides OX=190295 GN=Cdk8 PE=3 SV=1	Campylorhamphus procurvoides	464	2498	99.4	99.8	0.0
+137	TR	A0A7K7JIS8	Serine/threonine-protein (Fragment) OS=Agelaius phoeniceus OX=39638 GN=Cdk8 PE=3 SV=1	Agelaius phoeniceus	464	2498	99.4	99.8	0.0
+138	TR	A0A7L2MMN7	Serine/threonine-protein (Fragment) OS=Rhadina sibilatrix OX=2585818 GN=Cdk8 PE=3 SV=1	Rhadina sibilatrix	464	2498	99.4	99.8	0.0
+139	TR	A0A7K5ZWY3	Serine/threonine-protein (Fragment) OS=Onychorhynchus coronatus OX=360224 GN=Cdk8 PE=3 SV=1	Onychorhynchus coronatus	464	2498	99.4	99.8	0.0
+140	TR	A0A7K9Q2L4	Serine/threonine-protein (Fragment) OS=Pachycephala philippinensis OX=449367 GN=Cdk8 PE=3 SV=1	Pachycephala philippinensis	464	2498	99.4	99.8	0.0
+141	TR	A0A7K8BM96	Serine/threonine-protein (Fragment) OS=Rhagologus leucostigma OX=156170 GN=Cdk8 PE=3 SV=1	Rhagologus leucostigma	464	2498	99.4	99.8	0.0
+142	TR	A0A851VKG7	Serine/threonine-protein (Fragment) OS=Copsychus sechellarum OX=797021 GN=Cdk8 PE=3 SV=1	Copsychus sechellarum	464	2498	99.4	99.8	0.0
+143	TR	A0A7K8DN91	Serine/threonine-protein (Fragment) OS=Eulacestoma nigropectus OX=461239 GN=Cdk8 PE=3 SV=1	Eulacestoma nigropectus	464	2498	99.4	99.8	0.0
+144	TR	A0A851KDK7	Serine/threonine-protein (Fragment) OS=Vidua chalybeata OX=81927 GN=Cdk8 PE=3 SV=1	Vidua chalybeata	464	2498	99.4	99.8	0.0
+145	TR	A0A7L3V605	Serine/threonine-protein (Fragment) OS=Molothrus ater OX=84834 GN=Cdk8 PE=3 SV=1	Molothrus ater	464	2498	99.4	99.8	0.0
+146	TR	A0A8C3ELS4	Serine/threonine-protein OS=Corvus moneduloides OX=1196302 GN=CDK8 PE=3 SV=1	Corvus moneduloides	668	2498	99.4	99.8	0.0
+147	TR	A0A7K9MZS3	Serine/threonine-protein (Fragment) OS=Edolisoma coerulescens OX=2585810 GN=Cdk8 PE=3 SV=1	Edolisoma coerulescens	464	2498	99.4	99.8	0.0
+148	TR	A0A803VVQ2	Serine/threonine-protein OS=Ficedula albicollis OX=59894 GN=WASF3 PE=3 SV=1	Ficedula albicollis	464	2498	99.4	99.8	0.0
+149	TR	A0A7K8M3A5	Serine/threonine-protein (Fragment) OS=Ptilorrhoa leucosticta OX=449384 GN=Cdk8 PE=3 SV=1	Ptilorrhoa leucosticta	464	2498	99.4	99.8	0.0
+150	TR	A0A7L0QJ54	Serine/threonine-protein (Fragment) OS=Setophaga kirtlandii OX=298831 GN=Cdk8 PE=3 SV=1	Setophaga kirtlandii	464	2498	99.4	99.8	0.0
+151	TR	A0A7K7DII9	Serine/threonine-protein (Fragment) OS=Pheucticus melanocephalus OX=371919 GN=Cdk8 PE=3 SV=1	Pheucticus melanocephalus	464	2498	99.4	99.8	0.0
+152	TR	A0A851Z8G7	Serine/threonine-protein (Fragment) OS=Calcarius ornatus OX=198940 GN=Cdk8 PE=3 SV=1	Calcarius ornatus	464	2498	99.4	99.8	0.0
+153	TR	A0A7K9JS36	Serine/threonine-protein (Fragment) OS=Dicaeum eximium OX=667154 GN=Cdk8 PE=3 SV=1	Dicaeum eximium	464	2498	99.4	99.8	0.0
+154	TR	A0A7L0N2D6	Serine/threonine-protein (Fragment) OS=Formicarius rufipectus OX=1118560 GN=Cdk8 PE=3 SV=1	Formicarius rufipectus	464	2498	99.4	99.8	0.0
+155	TR	A0A7K5MGP1	Serine/threonine-protein (Fragment) OS=Cardinalis cardinalis OX=98964 GN=Cdk8 PE=3 SV=1	Cardinalis cardinalis	464	2498	99.4	99.8	0.0
+156	TR	A0A850UFW9	Serine/threonine-protein (Fragment) OS=Chloropsis hardwickii OX=667144 GN=Cdk8 PE=3 SV=1	Chloropsis hardwickii	464	2498	99.4	99.8	0.0
+157	TR	A0A852N4F6	Serine/threonine-protein (Fragment) OS=Atrichornis clamosus OX=449594 GN=Cdk8 PE=3 SV=1	Atrichornis clamosus	464	2498	99.4	99.8	0.0
+158	TR	A0A7K4UP67	Serine/threonine-protein (Fragment) OS=Sinosuthora webbiana OX=337173 GN=Cdk8 PE=3 SV=1	Sinosuthora webbiana	464	2498	99.4	99.8	0.0
+159	TR	A0A7K7YJB9	Serine/threonine-protein (Fragment) OS=Thryothorus ludovicianus OX=74200 GN=Cdk8 PE=3 SV=1	Thryothorus ludovicianus	464	2498	99.4	99.8	0.0
+160	TR	A0A8C3UH46	Serine/threonine-protein OS=Catharus ustulatus OX=91951 GN=LOC116992508 PE=3 SV=1	Catharus ustulatus	464	2498	99.4	99.8	0.0
+161	TR	A0A7L1BI21	Serine/threonine-protein (Fragment) OS=Gymnorhina tibicen OX=9132 GN=Cdk8 PE=3 SV=1	Gymnorhina tibicen	464	2498	99.4	99.8	0.0
+162	TR	A0A7K5EBH9	Serine/threonine-protein (Fragment) OS=Polioptila caerulea OX=66707 GN=Cdk8 PE=3 SV=1	Polioptila caerulea	464	2498	99.4	99.8	0.0
+163	TR	A0A8B9G4Q2	Serine/threonine-protein OS=Amazona collaria OX=241587 PE=3 SV=1	Amazona collaria	464	2498	99.4	99.8	0.0
+164	TR	A0A851QS58	Serine/threonine-protein (Fragment) OS=Tychaedon coryphoeus OX=614051 GN=Cdk8 PE=3 SV=1	Tychaedon coryphoeus	464	2498	99.4	99.8	0.0
+165	TR	A0A7L4IP93	Serine/threonine-protein (Fragment) OS=Pomatorhinus ruficollis OX=932028 GN=Cdk8 PE=3 SV=1	Pomatorhinus ruficollis	464	2498	99.4	99.8	0.0
+166	TR	A0A7K9QKW8	Serine/threonine-protein (Fragment) OS=Irena cyanogastra OX=175120 GN=Cdk8 PE=3 SV=1	Irena cyanogastra	464	2498	99.4	99.8	0.0
+167	TR	A0A7L2BYD8	Serine/threonine-protein (Fragment) OS=Alaudala cheleensis OX=670337 GN=Cdk8 PE=3 SV=1	Alaudala cheleensis	464	2498	99.4	99.8	0.0
+168	TR	A0AA97MQ92	Serine/threonine-protein (Fragment) OS=Menura novaehollandiae OX=47692 GN=Cdk8 PE=3 SV=1	Menura novaehollandiae	464	2498	99.4	99.8	0.0
+169	TR	A0A7L3SHP8	Serine/threonine-protein (Fragment) OS=Rissa tridactyla OX=75485 GN=Cdk8 PE=3 SV=1	Rissa tridactyla	464	2498	99.4	99.8	0.0
+170	TR	A0A0Q3LUG4	Serine/threonine-protein OS=Amazona aestiva OX=12930 GN=AAES_160574 PE=3 SV=1	Amazona aestiva	464	2498	99.4	99.8	0.0
+171	TR	A0A9Q0XPX6	Serine/threonine-protein OS=Phrynocephalus forsythii OX=171643 GN=JRQ81_019716 PE=3 SV=1	Phrynocephalus forsythii	466	2498	99.4	99.8	0.0
+172	TR	A0ABM4T8I2	Serine/threonine-protein OS=Bos indicus OX=9915 GN=CDK8 PE=3 SV=1	Bos indicus	464	2498	99.6	99.6	0.0
+173	TR	A0A8B9WNB8	Serine/threonine-protein OS=Bos grunniens OX=30521 GN=CDK8 PE=3 SV=1	Bos grunniens	584	2498	99.6	99.6	0.0
+174	TR	A0A6J0YAU4	Serine/threonine-protein OS=Odocoileus virginianus OX=9874 GN=CDK8 PE=3 SV=1	Odocoileus virginianus	464	2498	99.6	99.6	0.0
+175	TR	A0A6B0RWJ3	Serine/threonine-protein OS=Bos mutus OX=72004 GN=E5288_WYG022426 PE=3 SV=1	Bos mutus	464	2498	99.6	99.6	0.0
+176	TR	A0A452DSU4	Serine/threonine-protein OS=Capra hircus OX=9925 GN=CDK8 PE=3 SV=1	Capra hircus	464	2498	99.6	99.6	0.0
+177	TR	A0AAD4Y973	Serine/threonine-protein OS=Ovis ammon polii OX=230172 GN=MG293_011079 PE=3 SV=1	Ovis ammon polii	464	2498	99.6	99.6	0.0
+178	TR	A0A8C6CNH5	Serine/threonine-protein OS=Moschus moschiferus OX=68415 GN=CDK8 PE=3 SV=1	Moschus moschiferus	464	2498	99.6	99.6	0.0
+179	TR	A0ABN8ZXH3	Serine/threonine-protein OS=Rangifer tarandus platyrhynchus OX=3082113 GN=MRATA1EN1_LOCUS27667 PE=3 SV=1	Rangifer tarandus platyrhynchus	464	2498	99.6	99.6	0.0
+180	TR	A0A4W2FD44	Serine/threonine-protein OS=Bos indicus x Bos taurus OX=30522 GN=CDK8 PE=3 SV=1	Bos indicus x Bos taurus	464	2498	99.6	99.6	0.0
+181	TR	F1MPI8	Serine/threonine-protein OS=Bos taurus OX=9913 GN=CDK8 PE=3 SV=2	Bos taurus	464	2498	99.6	99.6	0.0
+182	TR	A0A8C5NWE9	Serine/threonine-protein OS=Jaculus jaculus OX=51337 GN=Cdk8 PE=3 SV=1	Jaculus jaculus	464	2497	99.6	99.6	0.0
+183	TR	A0A8I3PSM3	Serine/threonine-protein OS=Canis lupus familiaris OX=9615 GN=CDK8 PE=3 SV=1	Canis lupus familiaris	475	2497	99.8	99.8	0.0
+184	TR	A0A6I8PEA9	Serine/threonine-protein OS=Ornithorhynchus anatinus OX=9258 GN=CDK8 PE=3 SV=1	Ornithorhynchus anatinus	464	2496	99.4	99.4	0.0
+185	TR	A0A383YN46	Serine/threonine-protein OS=Balaenoptera acutorostrata OX=9767 GN=CDK8 PE=3 SV=1	Balaenoptera acutorostrata	464	2496	99.6	99.6	0.0
+186	TR	A0AB34H2J2	Serine/threonine-protein OS=Eschrichtius robustus OX=9764 GN=J1605_007250 PE=3 SV=1	Eschrichtius robustus	464	2496	99.6	99.6	0.0
+187	TR	A0A8C0DDN4	Serine/threonine-protein OS=Balaenoptera musculus OX=9771 GN=CDK8 PE=3 SV=1	Balaenoptera musculus	464	2496	99.6	99.6	0.0
+188	TR	A0A7K8DTN6	Serine/threonine-protein (Fragment) OS=Leucopsar rothschildi OX=127929 GN=Cdk8 PE=3 SV=1	Leucopsar rothschildi	464	2495	99.1	99.8	0.0
+189	TR	A0A6P7XLA2	Serine/threonine-protein OS=Microcaecilia unicolor OX=1415580 GN=CDK8 PE=3 SV=1	Microcaecilia unicolor	464	2494	99.1	99.8	0.0
+190	TR	A0A7L0T867	Serine/threonine-protein (Fragment) OS=Podilymbus podiceps OX=9252 GN=Cdk8 PE=3 SV=1	Podilymbus podiceps	464	2494	99.1	99.6	0.0
+191	TR	A0A7L4GTF9	Serine/threonine-protein (Fragment) OS=Podargus strigoides OX=8905 GN=Cdk8 PE=3 SV=1	Podargus strigoides	464	2494	99.1	99.6	0.0
+192	TR	A0A7K4VYB7	Serine/threonine-protein (Fragment) OS=Tachuris rubrigastra OX=495162 GN=Cdk8 PE=3 SV=1	Tachuris rubrigastra	464	2494	99.1	99.6	0.0
+193	TR	A0A7K8TBD0	Serine/threonine-protein (Fragment) OS=Nyctibius bracteatus OX=48426 GN=Cdk8 PE=3 SV=1	Nyctibius bracteatus	464	2494	99.1	99.6	0.0
+194	TR	A0A7L4A1V7	Serine/threonine-protein (Fragment) OS=Circaetus pectoralis OX=321084 GN=Cdk8 PE=3 SV=1	Circaetus pectoralis	464	2494	99.1	99.6	0.0
+195	TR	A0A7K7N7H7	Serine/threonine-protein (Fragment) OS=Haliaeetus albicilla OX=8969 GN=Cdk8 PE=3 SV=1	Haliaeetus albicilla	464	2494	99.1	99.6	0.0
+196	TR	J3S8D2	Serine/threonine-protein OS=Crotalus adamanteus OX=8729 PE=2 SV=1	Crotalus adamanteus	464	2494	99.1	99.6	0.0
+197	TR	A0A8D0ELT4	Serine/threonine-protein OS=Strix occidentalis caurina OX=311401 PE=3 SV=1	Strix occidentalis caurina	464	2494	99.1	99.6	0.0
+198	TR	A0A669QZU9	Serine/threonine-protein OS=Phasianus colchicus OX=9054 PE=3 SV=1	Phasianus colchicus	656	2494	99.1	99.6	0.0
+199	TR	A0A7K9Y628	Serine/threonine-protein (Fragment) OS=Odontophorus gujanensis OX=886794 GN=Cdk8 PE=3 SV=1	Odontophorus gujanensis	464	2494	99.1	99.6	0.0
+200	TR	A0ACE2TW46	Serine/threonine-protein OS=Lepidochelys olivacea OX=27788 GN=ACLRTO_LOCUS623 PE=3 SV=1	Lepidochelys olivacea	464	2494	99.1	99.6	0.0
+201	TR	A0A7K4R5I6	Serine/threonine-protein (Fragment) OS=Neopipo cinnamomea OX=456388 GN=Cdk8 PE=3 SV=1	Neopipo cinnamomea	464	2494	99.1	99.6	0.0
+202	TR	A0ACE2UBC9	Serine/threonine-protein OS=Lepidochelys kempii OX=8472 GN=ACLRTL_LOCUS576 PE=3 SV=1	Lepidochelys kempii	464	2494	99.1	99.6	0.0
+203	TR	A0A6P9BDY5	Serine/threonine-protein OS=Pantherophis guttatus OX=94885 GN=CDK8 PE=3 SV=1	Pantherophis guttatus	466	2494	99.1	99.6	0.0
+204	TR	A0A7K8KV69	Serine/threonine-protein (Fragment) OS=Ardeotis kori OX=89386 GN=Cdk8 PE=3 SV=1	Ardeotis kori	464	2494	99.1	99.6	0.0
+205	TR	A0A852J5R0	Serine/threonine-protein (Fragment) OS=Tricholaema leucomelas OX=240729 GN=Cdk8 PE=3 SV=1	Tricholaema leucomelas	464	2494	99.1	99.6	0.0
+206	TR	A0A6J1UIZ0	Serine/threonine-protein OS=Notechis scutatus OX=8663 GN=CDK8 PE=3 SV=1	Notechis scutatus	466	2494	99.1	99.6	0.0
+207	TR	A0A7L1HD26	Serine/threonine-protein (Fragment) OS=Nycticryphes semicollaris OX=227226 GN=Cdk8 PE=3 SV=1	Nycticryphes semicollaris	464	2494	99.1	99.6	0.0
+208	TR	A0ABM4E1T0	Serine/threonine-protein OS=Apteryx mantelli OX=2696672 GN=CDK8 PE=3 SV=1	Apteryx mantelli	464	2494	99.1	99.6	0.0
+209	TR	A0A7K9C278	Serine/threonine-protein (Fragment) OS=Psilopogon haemacephalus OX=2585815 GN=Cdk8 PE=3 SV=1	Psilopogon haemacephalus	464	2494	99.1	99.6	0.0
+210	TR	A0A7K5U148	Serine/threonine-protein (Fragment) OS=Cephalopterus ornatus OX=114276 GN=Cdk8 PE=3 SV=1	Cephalopterus ornatus	464	2494	99.1	99.6	0.0
+211	TR	A0ACE2TYI4	Serine/threonine-protein OS=Caretta caretta OX=8467 GN=ACLRTB_LOCUS643 PE=3 SV=1	Caretta caretta	464	2494	99.1	99.6	0.0
+212	TR	A0A852GMI8	Serine/threonine-protein (Fragment) OS=Larus smithsonianus OX=243888 GN=Cdk8 PE=3 SV=1	Larus smithsonianus	464	2494	99.1	99.6	0.0
+213	TR	A0A7L3RQ63	Serine/threonine-protein (Fragment) OS=Cepphus grylle OX=28697 GN=Cdk8 PE=3 SV=1	Cepphus grylle	464	2494	99.1	99.6	0.0
+214	TR	A0A9F2R102	Serine/threonine-protein OS=Python bivittatus OX=176946 GN=CDK8 PE=3 SV=1	Python bivittatus	466	2494	99.1	99.6	0.0
+215	TR	A0A7K8XXM0	Serine/threonine-protein (Fragment) OS=Eubucco bourcierii OX=91767 GN=Cdk8 PE=3 SV=1	Eubucco bourcierii	464	2494	99.1	99.6	0.0
+216	TR	A0A493T6M5	Serine/threonine-protein OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CDK8 PE=3 SV=1	Anas platyrhynchos platyrhynchos	602	2494	99.1	99.6	0.0
+217	TR	A0A8J4KYZ9	Serine/threonine-protein (Fragment) OS=Eudyptes chrysocome OX=79626 GN=CDK8 PE=3 SV=1	Eudyptes chrysocome	464	2494	99.1	99.6	0.0
+218	TR	A0AA97J3X3	Serine/threonine-protein OS=Eublepharis macularius OX=481883 GN=CDK8 PE=3 SV=1	Eublepharis macularius	466	2494	99.1	99.6	0.0
+219	TR	A0A7K4KS50	Serine/threonine-protein (Fragment) OS=Crypturellus soui OX=458187 GN=Cdk8 PE=3 SV=1	Crypturellus soui	464	2494	99.1	99.6	0.0
+220	TR	A0A7K7V9A8	Serine/threonine-protein (Fragment) OS=Eudromia elegans OX=8805 GN=Cdk8 PE=3 SV=1	Eudromia elegans	464	2494	99.1	99.6	0.0
+221	TR	A0A851Z7D7	Serine/threonine-protein (Fragment) OS=Halcyon senegalensis OX=342381 GN=Cdk8 PE=3 SV=1	Halcyon senegalensis	464	2494	99.1	99.6	0.0
+222	TR	A0A670YD20	Serine/threonine-protein OS=Pseudonaja textilis OX=8673 GN=CDK8 PE=3 SV=1	Pseudonaja textilis	466	2494	99.1	99.6	0.0
+223	TR	A0A8C3LBC5	Serine/threonine-protein OS=Chrysolophus pictus OX=9089 PE=3 SV=1	Chrysolophus pictus	464	2494	99.1	99.6	0.0
+224	TR	A0A7K9TIF3	Serine/threonine-protein (Fragment) OS=Galbula dea OX=1109041 GN=Cdk8 PE=3 SV=1	Galbula dea	464	2494	99.1	99.6	0.0
+225	TR	A0A7K4YLA1	Serine/threonine-protein (Fragment) OS=Bucorvus abyssinicus OX=153643 GN=Cdk8 PE=3 SV=1	Bucorvus abyssinicus	464	2494	99.1	99.6	0.0
+226	TR	A0A7K9HUY9	Serine/threonine-protein (Fragment) OS=Bucco capensis OX=135168 GN=Cdk8 PE=3 SV=1	Bucco capensis	464	2494	99.1	99.6	0.0
+227	TR	A0A7K5HJ68	Serine/threonine-protein (Fragment) OS=Crotophaga sulcirostris OX=33598 GN=Cdk8 PE=3 SV=1	Crotophaga sulcirostris	464	2494	99.1	99.6	0.0
+228	TR	A0A7K9E533	Serine/threonine-protein (Fragment) OS=Baryphthengus martii OX=176943 GN=Cdk8 PE=3 SV=1	Baryphthengus martii	464	2494	99.1	99.6	0.0
+229	TR	A0A7L3BTW5	Serine/threonine-protein (Fragment) OS=Pelecanoides urinatrix OX=37079 GN=Cdk8 PE=3 SV=1	Pelecanoides urinatrix	464	2494	99.1	99.6	0.0
+230	TR	A0A7K9TSA6	Serine/threonine-protein (Fragment) OS=Chloroceryle aenea OX=176938 GN=Cdk8 PE=3 SV=1	Chloroceryle aenea	464	2494	99.1	99.6	0.0
+231	TR	A0A852K8N4	Serine/threonine-protein (Fragment) OS=Urocolius indicus OX=458196 GN=Cdk8 PE=3 SV=1	Urocolius indicus	464	2494	99.1	99.6	0.0
+232	TR	A0A8C3D1N3	Serine/threonine-protein OS=Cairina moschata OX=8855 PE=3 SV=1	Cairina moschata	615	2494	99.1	99.6	0.0
+233	TR	A0A7L4C0S7	Serine/threonine-protein (Fragment) OS=Nyctiprogne leucopyga OX=382315 GN=Cdk8 PE=3 SV=1	Nyctiprogne leucopyga	464	2494	99.1	99.6	0.0
+234	TR	A0A7M4FZ11	Serine/threonine-protein OS=Crocodylus porosus OX=8502 GN=CDK8 PE=3 SV=1	Crocodylus porosus	642	2494	99.1	99.6	0.0
+235	TR	A0A7L0IG98	Serine/threonine-protein (Fragment) OS=Piprites chloris OX=114369 GN=Cdk8 PE=3 SV=1	Piprites chloris	464	2494	99.1	99.6	0.0
+236	TR	A0A7K5N119	Serine/threonine-protein (Fragment) OS=Chroicocephalus maculipennis OX=287016 GN=Cdk8 PE=3 SV=1	Chroicocephalus maculipennis	464	2494	99.1	99.6	0.0
+237	TR	A0A4D9EP40	Serine/threonine-protein OS=Platysternon megacephalum OX=55544 GN=DR999_PMT06974 PE=3 SV=1	Platysternon megacephalum	464	2494	99.1	99.6	0.0
+238	TR	A0A7L3LTI5	Serine/threonine-protein (Fragment) OS=Turnix velox OX=2529409 GN=Cdk8 PE=3 SV=1	Turnix velox	464	2494	99.1	99.6	0.0
+239	TR	A0A7K5CU86	Serine/threonine-protein (Fragment) OS=Pachyramphus minor OX=369605 GN=Cdk8 PE=3 SV=1	Pachyramphus minor	464	2494	99.1	99.6	0.0
+240	TR	A0A8J4JJW5	Serine/threonine-protein (Fragment) OS=Eudyptes sclateri OX=92688 GN=CDK8 PE=3 SV=1	Eudyptes sclateri	464	2494	99.1	99.6	0.0
+241	TR	A0A7K8K6C7	Serine/threonine-protein (Fragment) OS=Lophotis ruficrista OX=172689 GN=Cdk8 PE=3 SV=1	Lophotis ruficrista	464	2494	99.1	99.6	0.0
+242	TR	A0A7L3UBQ1	Serine/threonine-protein (Fragment) OS=Uria aalge OX=13746 GN=Cdk8 PE=3 SV=1	Uria aalge	464	2494	99.1	99.6	0.0
+243	TR	A0A852CHF1	Serine/threonine-protein (Fragment) OS=Ramphastos sulfuratus OX=322582 GN=Cdk8 PE=3 SV=1	Ramphastos sulfuratus	464	2494	99.1	99.6	0.0
+244	TR	A0A9D3XU49	Serine/threonine-protein OS=Mauremys mutica OX=74926 GN=KIL84_018902 PE=3 SV=1	Mauremys mutica	464	2494	99.1	99.6	0.0
+245	TR	A0A6J0T6Q6	Serine/threonine-protein OS=Pogona vitticeps OX=103695 GN=CDK8 PE=3 SV=1	Pogona vitticeps	466	2494	99.1	99.6	0.0
+246	TR	A0A8K0FJ64	Serine/threonine-protein (Fragment) OS=Eudyptes filholi OX=1419345 GN=CDK8 PE=3 SV=1	Eudyptes filholi	464	2494	99.1	99.6	0.0
+247	TR	A0A7K5F2D9	Serine/threonine-protein (Fragment) OS=Probosciger aterrimus OX=141839 GN=Cdk8 PE=3 SV=1	Probosciger aterrimus	464	2494	99.1	99.6	0.0
+248	TR	A0A850WYW6	Serine/threonine-protein (Fragment) OS=Piaya cayana OX=33601 GN=Cdk8 PE=3 SV=1	Piaya cayana	464	2494	99.1	99.6	0.0
+249	TR	A0A6J3E4Z4	Serine/threonine-protein OS=Aythya fuligula OX=219594 GN=CDK8 PE=3 SV=1	Aythya fuligula	464	2494	99.1	99.6	0.0
+250	TR	A0A7K4LVA5	Serine/threonine-protein (Fragment) OS=Crypturellus undulatus OX=48396 GN=Cdk8 PE=3 SV=1	Crypturellus undulatus	464	2494	99.1	99.6	0.0
+251	TR	A0A851XXI6	Serine/threonine-protein (Fragment) OS=Eolophus roseicapilla OX=176039 GN=Cdk8 PE=3 SV=1	Eolophus roseicapilla	464	2494	99.1	99.6	0.0
+252	TR	A0A672UKP5	Serine/threonine-protein OS=Strigops habroptila OX=2489341 GN=CDK8 PE=3 SV=1	Strigops habroptila	464	2494	99.1	99.6	0.0
+253	TR	A0A663FF70	Serine/threonine-protein OS=Aquila chrysaetos chrysaetos OX=223781 GN=CDK8 PE=3 SV=1	Aquila chrysaetos chrysaetos	464	2494	99.1	99.6	0.0
+254	TR	A0A8C4UE53	Serine/threonine-protein OS=Falco tinnunculus OX=100819 PE=3 SV=1	Falco tinnunculus	464	2494	99.1	99.6	0.0
+255	TR	A0A8B9ZPC0	Serine/threonine-protein OS=Anas zonorhyncha OX=75864 PE=3 SV=1	Anas zonorhyncha	578	2494	99.1	99.6	0.0
+256	TR	A0A674IFN4	Serine/threonine-protein OS=Terrapene triunguis OX=2587831 GN=LOC113406828 PE=3 SV=1	Terrapene triunguis	464	2494	99.1	99.6	0.0
+257	TR	A0A673SLS8	Serine/threonine-protein OS=Suricata suricatta OX=37032 GN=CDK8 PE=3 SV=1	Suricata suricatta	464	2494	99.4	99.6	0.0
+258	TR	A0A2Y9L3X2	Serine/threonine-protein OS=Enhydra lutris kenyoni OX=391180 GN=LOC111159923 PE=3 SV=1	Enhydra lutris kenyoni	467	2494	99.4	99.4	0.0
+259	TR	A0A7L0VB43	Serine/threonine-protein (Fragment) OS=Leptocoma aspasia OX=2585812 GN=Cdk8 PE=3 SV=1	Leptocoma aspasia	464	2493	99.1	99.6	0.0
+260	TR	A0A7K4UYC4	Serine/threonine-protein (Fragment) OS=Emberiza fucata OX=337179 GN=Cdk8 PE=3 SV=1	Emberiza fucata	464	2493	99.1	99.6	0.0
+261	TR	A0A8C8VPW2	Serine/threonine-protein OS=Pelusios castaneus OX=367368 PE=3 SV=1	Pelusios castaneus	464	2492	98.9	99.6	0.0
+262	TR	A0ABC9W493	Serine/threonine-protein OS=Grus japonensis OX=30415 GN=GRJ2_000506800 PE=3 SV=1	Grus japonensis	464	2491	98.9	99.6	0.0
+263	TR	A0A6I9XBV5	Serine/threonine-protein OS=Thamnophis sirtalis OX=35019 GN=CDK8 PE=3 SV=1	Thamnophis sirtalis	466	2491	98.9	99.6	0.0
+264	TR	A0A6P3F3H9	Serine/threonine-protein OS=Octodon degus OX=10160 GN=Cdk8 PE=3 SV=1	Octodon degus	463	2491	99.8	99.8	0.0
+265	TR	A0A8U0NFY2	Serine/threonine-protein OS=Mustela putorius furo OX=9669 GN=CDK8 PE=3 SV=1	Mustela putorius furo	463	2491	99.8	99.8	0.0
+266	TR	A0ABD2DTG5	Serine/threonine-protein OS=Daubentonia madagascariensis OX=31869 GN=WCI35_022783 PE=3 SV=1	Daubentonia madagascariensis	463	2491	99.8	99.8	0.0
+267	TR	A0A485N986	Serine/threonine-protein OS=Lynx pardinus OX=191816 GN=LYPA_23C018910 PE=3 SV=1	Lynx pardinus	463	2491	99.8	99.8	0.0
+268	TR	A0A9V1FIJ6	Serine/threonine-protein OS=Panthera pardus OX=9691 GN=CDK8 PE=3 SV=1	Panthera pardus	463	2491	99.8	99.8	0.0
+269	TR	A0A6J3J754	Serine/threonine-protein OS=Sapajus apella OX=9515 GN=CDK8 PE=3 SV=1	Sapajus apella	463	2491	99.8	99.8	0.0
+270	TR	A0A6P6HVY4	Serine/threonine-protein OS=Puma concolor OX=9696 GN=CDK8 PE=3 SV=1	Puma concolor	463	2491	99.8	99.8	0.0
+271	TR	G7PVW1	Serine/threonine-protein OS=Macaca fascicularis OX=9541 PE=3 SV=2	Macaca fascicularis	463	2491	99.8	99.8	0.0
+272	TR	A0A2Y9KX92	Serine/threonine-protein OS=Enhydra lutris kenyoni OX=391180 GN=LOC111159923 PE=3 SV=1	Enhydra lutris kenyoni	463	2491	99.8	99.8	0.0
+273	TR	A0A6J0A7P4	Serine/threonine-protein OS=Acinonyx jubatus OX=32536 GN=CDK8 PE=3 SV=1	Acinonyx jubatus	463	2491	99.8	99.8	0.0
+274	SP	P49336-2	Isoform 2 of Cyclin-dependent kinase 8 OS=Homo sapiens OX=9606 GN=CDK8	Homo sapiens	463	2491	99.8	99.8	0.0
+275	TR	A0A7L0CHA2	Serine/threonine-protein (Fragment) OS=Rostratula benghalensis OX=118793 GN=Cdk8 PE=3 SV=1	Rostratula benghalensis	464	2490	98.9	99.6	0.0
+276	TR	A0A6P8R5P8	Serine/threonine-protein OS=Geotrypetes seraphini OX=260995 GN=CDK8 PE=3 SV=1	Geotrypetes seraphini	464	2490	98.9	99.8	0.0
+277	TR	A0A8C4JEL4	Serine/threonine-protein OS=Dromaius novaehollandiae OX=8790 GN=CDK8 PE=3 SV=1	Dromaius novaehollandiae	597	2489	98.9	99.4	0.0
+278	TR	A0A7L0EII7	Serine/threonine-protein (Fragment) OS=Trogon melanurus OX=56311 GN=Cdk8 PE=3 SV=1	Trogon melanurus	464	2489	98.9	99.4	0.0
+279	TR	A0A8D0C480	Serine/threonine-protein OS=Salvator merianae OX=96440 PE=3 SV=1	Salvator merianae	466	2489	98.9	99.4	0.0
+280	TR	A0ABM1K6H2	Serine/threonine-protein OS=Gekko japonicus OX=146911 GN=CDK8 PE=3 SV=1	Gekko japonicus	464	2489	98.9	99.4	0.0
+281	TR	A0A2Y9SW67	Serine/threonine-protein OS=Physeter macrocephalus OX=9755 GN=CDK8 PE=3 SV=1	Physeter macrocephalus	464	2489	98.9	99.4	0.0
+282	TR	A0A7K6EUX4	Serine/threonine-protein (Fragment) OS=Grantiella picta OX=266360 GN=Cdk8 PE=3 SV=1	Grantiella picta	464	2488	98.9	99.6	0.0
+283	TR	A0A8T1SKQ0	Serine/threonine-protein (Fragment) OS=Chelydra serpentina OX=8475 GN=CDK8 PE=3 SV=1	Chelydra serpentina	524	2488	98.9	99.4	0.0
+284	TR	A0A8C3RQF5	Serine/threonine-protein OS=Chelydra serpentina OX=8475 PE=3 SV=1	Chelydra serpentina	464	2488	98.9	99.4	0.0
+285	TR	A0A9B0T2A3	Serine/threonine-protein OS=Chrysochloris asiatica OX=185453 GN=CDK8 PE=3 SV=1	Chrysochloris asiatica	464	2488	99.1	99.1	0.0
+286	TR	A0A151MSD2	Serine/threonine-protein OS=Alligator mississippiensis OX=8496 GN=CDK8 PE=3 SV=1	Alligator mississippiensis	547	2487	99.1	99.6	0.0
+287	TR	A0ABM0KED3	Serine/threonine-protein OS=Microtus ochrogaster OX=79684 GN=Cdk8 PE=3 SV=1	Microtus ochrogaster	463	2487	99.6	99.6	0.0
+288	TR	A0A1S3A3B0	Serine/threonine-protein OS=Erinaceus europaeus OX=9365 GN=CDK8 PE=3 SV=1	Erinaceus europaeus	463	2487	99.6	99.6	0.0
+289	TR	A0A2Y9N6A5	Serine/threonine-protein OS=Delphinapterus leucas OX=9749 GN=CDK8 PE=3 SV=1	Delphinapterus leucas	463	2487	99.6	99.6	0.0
+290	TR	A0A8D2FQI3	Serine/threonine-protein OS=Theropithecus gelada OX=9565 GN=CDK8 PE=3 SV=1	Theropithecus gelada	463	2487	99.6	99.6	0.0
+291	TR	A0A384C7M2	Serine/threonine-protein OS=Ursus maritimus OX=29073 GN=CDK8 PE=3 SV=1	Ursus maritimus	463	2487	99.6	99.6	0.0
+292	TR	A0ABM2FGB7	Serine/threonine-protein OS=Equus przewalskii OX=9798 GN=CDK8 PE=3 SV=1	Equus przewalskii	463	2487	99.6	99.6	0.0
+293	TR	A0A8B7S1W3	Serine/threonine-protein OS=Hipposideros armiger OX=186990 GN=CDK8 PE=3 SV=1	Hipposideros armiger	463	2487	99.6	99.6	0.0
+294	TR	A0A9B0SY07	Serine/threonine-protein OS=Chrysochloris asiatica OX=185453 GN=CDK8 PE=3 SV=1	Chrysochloris asiatica	465	2487	99.4	99.4	0.0
+295	TR	A0A6J2CTK8	Serine/threonine-protein OS=Zalophus californianus OX=9704 GN=CDK8 PE=3 SV=1	Zalophus californianus	463	2487	99.6	99.6	0.0
+296	TR	A0A2U4BGU0	Serine/threonine-protein OS=Tursiops truncatus OX=9739 GN=CDK8 PE=3 SV=1	Tursiops truncatus	463	2487	99.6	99.6	0.0
+297	TR	A0A3Q7QRQ3	Serine/threonine-protein OS=Callorhinus ursinus OX=34884 GN=CDK8 PE=3 SV=1	Callorhinus ursinus	463	2487	99.6	99.6	0.0
+298	TR	A0A340YJ96	Serine/threonine-protein OS=Lipotes vexillifer OX=118797 GN=CDK8 PE=3 SV=1	Lipotes vexillifer	463	2487	99.6	99.6	0.0
+299	TR	A0A2Y9G823	Serine/threonine-protein OS=Neomonachus schauinslandi OX=29088 GN=CDK8 PE=3 SV=1	Neomonachus schauinslandi	463	2487	99.6	99.6	0.0
+300	TR	A0A3Q7S938	Serine/threonine-protein OS=Vulpes vulpes OX=9627 GN=CDK8 PE=3 SV=1	Vulpes vulpes	463	2487	99.6	99.6	0.0
+301	TR	A0ABM1D4I1	Serine/threonine-protein OS=Ceratotherium simum simum OX=73337 GN=LOC101407177 PE=3 SV=1	Ceratotherium simum simum	463	2487	99.6	99.6	0.0
+302	TR	A0A0F7Z0X6	Serine/threonine-protein OS=Micrurus fulvius OX=8637 PE=2 SV=1	Micrurus fulvius	464	2486	98.9	99.4	0.0
+303	TR	A0ABM2Y1F7	Serine/threonine-protein OS=Mesocricetus auratus OX=10036 GN=Cdk8 PE=3 SV=1	Mesocricetus auratus	463	2486	99.6	99.6	0.0
+304	TR	A0A0P6J7E4	Serine/threonine-protein OS=Heterocephalus glaber OX=10181 GN=Cdk8 PE=3 SV=1	Heterocephalus glaber	463	2485	99.6	99.6	0.0
+305	TR	A0A6P5PJZ8	Serine/threonine-protein OS=Mus caroli OX=10089 GN=Cdk8 PE=3 SV=1	Mus caroli	464	2482	98.9	99.1	0.0
+306	TR	A0A8C6I0D2	Serine/threonine-protein OS=Mus spicilegus OX=10103 PE=3 SV=1	Mus spicilegus	464	2482	98.9	99.1	0.0
+307	TR	A0A8B7U251	Serine/threonine-protein OS=Castor canadensis OX=51338 GN=Cdk8 PE=3 SV=1	Castor canadensis	463	2482	99.4	99.6	0.0
+308	TR	A0A9J7FZ66	Serine/threonine-protein OS=Cricetulus griseus OX=10029 GN=Cdk8 PE=3 SV=1	Cricetulus griseus	463	2482	99.4	99.4	0.0
+309	TR	A0ABM5EG50	Serine/threonine-protein OS=Vicugna pacos OX=30538 GN=CDK8 PE=3 SV=1	Vicugna pacos	464	2482	98.9	99.1	0.0
+310	TR	A0AC58RHP7	Serine/threonine-protein OS=Camelus bactrianus OX=9837 GN=CDK8 PE=3 SV=1	Camelus bactrianus	464	2482	98.9	99.1	0.0
+311	TR	A0A8B8UDV8	Serine/threonine-protein OS=Camelus ferus OX=419612 GN=CDK8 PE=3 SV=1	Camelus ferus	464	2482	98.9	99.1	0.0
+312	TR	A0A6P5L7X4	Serine/threonine-protein OS=Phascolarctos cinereus OX=38626 GN=CDK8 PE=3 SV=1	Phascolarctos cinereus	463	2482	99.4	99.4	0.0
+313	TR	A0A2Y9G0A0	Serine/threonine-protein OS=Trichechus manatus latirostris OX=127582 GN=CDK8 PE=3 SV=1	Trichechus manatus latirostris	463	2482	99.4	99.4	0.0
+314	SP	Q8R3L8	Cyclin-dependent kinase 8 OS=Mus musculus OX=10090 GN=Cdk8 PE=1 SV=3	Mus musculus	464	2482	98.9	99.1	0.0
+315	TR	A0A6J2H5Q2	Serine/threonine-protein OS=Pipra filicauda OX=649802 GN=CDK8 PE=3 SV=1	Pipra filicauda	463	2481	99.1	99.6	0.0
+316	TR	A0A8C6J1F0	Serine/threonine-protein OS=Melopsittacus undulatus OX=13146 GN=LOC101870777 PE=3 SV=2	Melopsittacus undulatus	463	2481	99.1	99.6	0.0
+317	TR	A0A6J0HJC4	Serine/threonine-protein OS=Lepidothrix coronata OX=321398 GN=CDK8 PE=3 SV=1	Lepidothrix coronata	463	2481	99.1	99.6	0.0
+318	TR	A0A6P5L507	Serine/threonine-protein OS=Phascolarctos cinereus OX=38626 GN=CDK8 PE=3 SV=1	Phascolarctos cinereus	467	2481	98.7	98.9	0.0
+319	TR	A0ABM4T8J2	Serine/threonine-protein OS=Bos indicus OX=9915 GN=CDK8 PE=3 SV=1	Bos indicus	463	2481	99.4	99.4	0.0
+320	TR	A0A6J0YAJ6	Serine/threonine-protein OS=Odocoileus virginianus OX=9874 GN=CDK8 PE=3 SV=1	Odocoileus virginianus	463	2481	99.4	99.4	0.0
+321	TR	A0ACI8PT11	Serine/threonine-protein OS=Homo sapiens OX=9606 GN=CDK8 PE=1 SV=1	Homo sapiens	477	2481	97.1	97.3	0.0
+322	TR	A0A2Y9N6A1	Serine/threonine-protein OS=Delphinapterus leucas OX=9749 GN=CDK8 PE=3 SV=1	Delphinapterus leucas	477	2480	97.1	97.1	0.0
+323	TR	M3XQ62	Serine/threonine-protein OS=Mustela putorius furo OX=9669 GN=CDK8 PE=3 SV=1	Mustela putorius furo	477	2480	97.1	97.3	0.0
+324	TR	A0A9L0T6W0	Serine/threonine-protein OS=Equus caballus OX=9796 GN=CDK8 PE=3 SV=1	Equus caballus	477	2480	97.1	97.1	0.0
+325	TR	A0AAD1R6V5	Serine/threonine-protein OS=Pelobates cultripes OX=61616 GN=PECUL_23A033710 PE=3 SV=1	Pelobates cultripes	464	2479	98.3	99.4	0.0
+326	TR	A0AAV7NCY1	Serine/threonine-protein OS=Pleurodeles waltl OX=8319 GN=NDU88_002180 PE=3 SV=1	Pleurodeles waltl	508	2479	98.7	99.6	0.0
+327	TR	A0A383YN55	Serine/threonine-protein OS=Balaenoptera acutorostrata OX=9767 GN=CDK8 PE=3 SV=1	Balaenoptera acutorostrata	463	2479	99.4	99.4	0.0
+328	TR	A0A8B8VRV7	Serine/threonine-protein OS=Balaenoptera musculus OX=9771 GN=CDK8 PE=3 SV=1	Balaenoptera musculus	463	2479	99.4	99.4	0.0
+329	TR	G3WFK5	Serine/threonine-protein OS=Sarcophilus harrisii OX=9305 GN=CDK8 PE=3 SV=2	Sarcophilus harrisii	473	2479	97.7	97.7	0.0
+330	TR	A0A2K6MEC5	Serine/threonine-protein OS=Rhinopithecus bieti OX=61621 PE=3 SV=1	Rhinopithecus bieti	482	2478	96.1	96.3	0.0
+331	TR	A0A1D5QPF2	Serine/threonine-protein OS=Macaca mulatta OX=9544 GN=CDK8 PE=3 SV=2	Macaca mulatta	461	2478	99.4	99.4	0.0
+332	TR	A0ACI8PM05	Serine/threonine-protein OS=Homo sapiens OX=9606 GN=CDK8 PE=1 SV=1	Homo sapiens	461	2478	99.4	99.4	0.0
+333	TR	A0A6P7XUJ3	Serine/threonine-protein OS=Microcaecilia unicolor OX=1415580 GN=CDK8 PE=3 SV=1	Microcaecilia unicolor	463	2477	98.9	99.6	0.0
+334	TR	T1E629	Serine/threonine-protein OS=Crotalus horridus OX=35024 PE=2 SV=1	Crotalus horridus	463	2477	98.9	99.4	0.0
+335	TR	A0A0F7ZCK5	Serine/threonine-protein OS=Crotalus adamanteus OX=8729 PE=2 SV=1	Crotalus adamanteus	463	2477	98.9	99.4	0.0
+336	TR	A0A6P9BDZ0	Serine/threonine-protein OS=Pantherophis guttatus OX=94885 GN=CDK8 PE=3 SV=1	Pantherophis guttatus	465	2477	98.9	99.4	0.0
+337	TR	A0A6J1UIW6	Serine/threonine-protein OS=Notechis scutatus OX=8663 GN=CDK8 PE=3 SV=1	Notechis scutatus	465	2477	98.9	99.4	0.0
+338	TR	A0ABM4E1S8	Serine/threonine-protein OS=Apteryx mantelli OX=2696672 GN=CDK8 PE=3 SV=1	Apteryx mantelli	463	2477	98.9	99.4	0.0
+339	TR	A0A9F2R1E9	Serine/threonine-protein OS=Python bivittatus OX=176946 GN=CDK8 PE=3 SV=1	Python bivittatus	465	2477	98.9	99.4	0.0
+340	TR	A0AA97J3C8	Serine/threonine-protein OS=Eublepharis macularius OX=481883 GN=CDK8 PE=3 SV=1	Eublepharis macularius	465	2477	98.9	99.4	0.0
+341	TR	A0A8V0XNJ2	Serine/threonine-protein OS=Gallus gallus OX=9031 GN=CDK8 PE=3 SV=1	Gallus gallus	463	2477	98.9	99.4	0.0
+342	TR	A0A8C4VE31	Serine/threonine-protein OS=Gopherus evgoodei OX=1825980 GN=CDK8 PE=3 SV=1	Gopherus evgoodei	463	2477	98.9	99.4	0.0
+343	TR	A0A6J0TDE2	Serine/threonine-protein OS=Pogona vitticeps OX=103695 GN=CDK8 PE=3 SV=1	Pogona vitticeps	465	2477	98.9	99.4	0.0
+344	TR	A0A6J3EA03	Serine/threonine-protein OS=Aythya fuligula OX=219594 GN=CDK8 PE=3 SV=1	Aythya fuligula	463	2477	98.9	99.4	0.0
+345	TR	A0A6J2KWS8	Serine/threonine-protein OS=Phyllostomus discolor OX=89673 GN=CDK8 PE=3 SV=1	Phyllostomus discolor	463	2477	99.1	99.1	0.0
+346	TR	A0ACI8T6M7	Cyclin dependent kinase 8 OS=Homo sapiens OX=9606 GN=CDK8 PE=1 SV=1	Homo sapiens	484	2477	95.9	95.9	0.0
+347	TR	A0A7L1LUI5	Serine/threonine-protein (Fragment) OS=Bombycilla garrulus OX=125297 GN=Cdk8 PE=3 SV=1	Bombycilla garrulus	462	2476	98.9	99.4	0.0
+348	TR	A0A6I9X0A2	Serine/threonine-protein OS=Thamnophis sirtalis OX=35019 GN=CDK8 PE=3 SV=1	Thamnophis sirtalis	465	2474	98.7	99.4	0.0
+349	TR	A0A7L2L9Y0	Serine/threonine-protein (Fragment) OS=Hippolais icterina OX=68497 GN=Cdk8 PE=3 SV=1	Hippolais icterina	460	2474	99.3	99.8	0.0
+350	TR	K9J4I9	Serine/threonine-protein (Fragment) OS=Desmodus rotundus OX=9430 PE=2 SV=1	Desmodus rotundus	460	2474	99.6	99.6	0.0
+351	TR	A0A6P8RII7	Serine/threonine-protein OS=Geotrypetes seraphini OX=260995 GN=CDK8 PE=3 SV=1	Geotrypetes seraphini	463	2473	98.7	99.6	0.0
+352	TR	A0A8C5TF73	Serine/threonine-protein OS=Malurus cyaneus samueli OX=2593467 PE=3 SV=1	Malurus cyaneus samueli	462	2472	98.7	99.1	0.0
+353	TR	A0ABM1K6H3	Serine/threonine-protein OS=Gekko japonicus OX=146911 GN=CDK8 PE=3 SV=1	Gekko japonicus	463	2472	98.7	99.1	0.0
+354	TR	A0AA35P672	Serine/threonine-protein OS=Podarcis lilfordi OX=74358 GN=PODLI_1B014970 PE=3 SV=1	Podarcis lilfordi	464	2471	98.7	99.1	0.0
+355	TR	A0A670I1J7	Serine/threonine-protein OS=Podarcis muralis OX=64176 GN=CDK8 PE=3 SV=1	Podarcis muralis	464	2471	98.7	99.1	0.0
+356	TR	A0A8C5PJ85	Serine/threonine-protein OS=Leptobrachium leishanense OX=445787 GN=CDK8 PE=3 SV=1	Leptobrachium leishanense	464	2471	97.8	99.1	0.0
+357	TR	A0A151MSE9	Serine/threonine-protein OS=Alligator mississippiensis OX=8496 GN=CDK8 PE=3 SV=1	Alligator mississippiensis	546	2470	98.9	99.4	0.0
+358	TR	A0A7K9GIK2	Serine/threonine-protein (Fragment) OS=Loxia leucoptera OX=96539 GN=Cdk8 PE=3 SV=1	Loxia leucoptera	459	2468	99.3	99.8	0.0
+359	TR	A0A7L0GRH9	Serine/threonine-protein (Fragment) OS=Herpetotheres cachinnans OX=56343 GN=Cdk8 PE=3 SV=1	Herpetotheres cachinnans	460	2466	98.9	99.6	0.0
+360	TR	A0A7J8DW40	Serine/threonine-protein OS=Rousettus aegyptiacus OX=9407 GN=HJG63_002597 PE=3 SV=1	Rousettus aegyptiacus	466	2466	98.1	98.5	0.0
+361	TR	A0A7L1CA93	Serine/threonine-protein (Fragment) OS=Illadopsis cleaveri OX=201329 GN=Cdk8 PE=3 SV=1	Illadopsis cleaveri	460	2465	99.1	99.8	0.0
+362	TR	A0A6P5PPK0	Serine/threonine-protein OS=Mus caroli OX=10089 GN=Cdk8 PE=3 SV=1	Mus caroli	463	2465	98.7	98.9	0.0
+363	TR	A0ABM5EG46	Serine/threonine-protein OS=Vicugna pacos OX=30538 GN=CDK8 PE=3 SV=1	Vicugna pacos	463	2465	98.7	98.9	0.0
+364	TR	A0AC58RHP6	Serine/threonine-protein OS=Camelus bactrianus OX=9837 GN=CDK8 PE=3 SV=1	Camelus bactrianus	463	2465	98.7	98.9	0.0
+365	TR	A0A8B8UCJ4	Serine/threonine-protein OS=Camelus ferus OX=419612 GN=CDK8 PE=3 SV=1	Camelus ferus	463	2465	98.7	98.9	0.0
+366	TR	A0A8B9WN80	Serine/threonine-protein OS=Bos grunniens OX=30521 GN=CDK8 PE=3 SV=1	Bos grunniens	607	2464	94.9	94.9	0.0
+367	TR	A0A7K8UA87	Serine/threonine-protein (Fragment) OS=Oceanites oceanicus OX=79653 GN=Cdk8 PE=3 SV=1	Oceanites oceanicus	464	2463	97.8	99.1	0.0
+368	TR	A0A6P6EFP6	Serine/threonine-protein OS=Octodon degus OX=10160 GN=Cdk8 PE=3 SV=1	Octodon degus	459	2463	98.9	98.9	0.0
+369	TR	A0A2Y9N7K1	Serine/threonine-protein OS=Delphinapterus leucas OX=9749 GN=CDK8 PE=3 SV=1	Delphinapterus leucas	476	2463	96.9	96.9	0.0
+370	TR	A0A8U0US59	Serine/threonine-protein OS=Mustela putorius furo OX=9669 GN=CDK8 PE=3 SV=1	Mustela putorius furo	476	2463	96.9	97.1	0.0
+371	TR	A0ACI8R5M5	Serine/threonine-protein OS=Homo sapiens OX=9606 GN=CDK8 PE=1 SV=1	Homo sapiens	459	2463	98.9	98.9	0.0
+372	TR	A0A8C9KKU3	Serine/threonine-protein OS=Panthera tigris altaica OX=74533 GN=CDK8 PE=3 SV=2	Panthera tigris altaica	456	2462	99.8	100.0	0.0
+373	TR	A0A8J6KFD6	Serine/threonine-protein OS=Eleutherodactylus coqui OX=57060 GN=GDO78_000404 PE=3 SV=1	Eleutherodactylus coqui	464	2461	97.6	99.1	0.0
+374	TR	A0AAV7CKB0	Serine/threonine-protein OS=Engystomops pustulosus OX=76066 GN=GDO81_004790 PE=3 SV=1	Engystomops pustulosus	464	2461	97.6	99.1	0.0
+375	TR	A0A1L8HAP6	Serine/threonine-protein OS=Xenopus laevis OX=8355 GN=cdk8.S PE=3 SV=1	Xenopus laevis	464	2460	97.4	99.1	0.0
+376	TR	A0A8J0UHA8	Serine/threonine-protein OS=Xenopus laevis OX=8355 GN=cdk8.L PE=3 SV=1	Xenopus laevis	477	2460	97.4	99.1	0.0
+377	SP	Q6P3N6	Cyclin-dependent kinase 8 OS=Xenopus tropicalis OX=8364 GN=cdk8 PE=2 SV=1	Xenopus tropicalis	464	2460	97.4	99.1	0.0
+378	TR	A0A7L1PPI0	Serine/threonine-protein (Fragment) OS=Oriolus oriolus OX=181099 GN=Cdk8 PE=3 SV=1	Oriolus oriolus	457	2459	99.3	99.8	0.0
+379	TR	A0A8C4UE24	Cyclin dependent kinase 8 OS=Falco tinnunculus OX=100819 PE=3 SV=1	Falco tinnunculus	488	2459	94.3	94.7	0.0
+380	TR	A0ABM3XFT4	Serine/threonine-protein OS=Erinaceus europaeus OX=9365 GN=CDK8 PE=3 SV=1	Erinaceus europaeus	459	2459	98.7	98.7	0.0
+381	TR	A0ABM2FIM4	Serine/threonine-protein OS=Equus przewalskii OX=9798 GN=CDK8 PE=3 SV=1	Equus przewalskii	459	2459	98.7	98.7	0.0
+382	TR	A0A8B7S5R7	Serine/threonine-protein OS=Hipposideros armiger OX=186990 GN=CDK8 PE=3 SV=1	Hipposideros armiger	459	2459	98.7	98.7	0.0
+383	TR	A0A3Q7PLP1	Serine/threonine-protein OS=Callorhinus ursinus OX=34884 GN=CDK8 PE=3 SV=1	Callorhinus ursinus	459	2459	98.7	98.7	0.0
+384	TR	A0ABM1D4I2	Serine/threonine-protein OS=Ceratotherium simum simum OX=73337 GN=LOC101407177 PE=3 SV=1	Ceratotherium simum simum	459	2459	98.7	98.7	0.0
+385	TR	A0A401SAP0	Serine/threonine-protein OS=Chiloscyllium punctatum OX=137246 GN=chiPu_0005838 PE=3 SV=1	Chiloscyllium punctatum	464	2458	97.4	98.9	0.0
+386	TR	A0ABM2XXA3	Serine/threonine-protein OS=Mesocricetus auratus OX=10036 GN=Cdk8 PE=3 SV=1	Mesocricetus auratus	459	2458	98.7	98.7	0.0
+387	TR	A0ACM8I3K1	Serine/threonine-protein (Fragment) OS=Bufotes viridis OX=30338 GN=BUFVIR_LOCUS11037 PE=3 SV=1	Bufotes viridis	512	2456	97.4	98.9	0.0
+388	TR	A0A6P3IF67	Serine/threonine-protein OS=Bison bison bison OX=43346 GN=CDK8 PE=3 SV=1	Bison bison bison	645	2456	99.3	99.6	0.0
+389	TR	A0A9J7JQ40	Serine/threonine-protein OS=Cricetulus griseus OX=10029 GN=Cdk8 PE=3 SV=1	Cricetulus griseus	459	2454	98.5	98.5	0.0
+390	TR	A0A2Y9RYC0	Serine/threonine-protein OS=Trichechus manatus latirostris OX=127582 GN=CDK8 PE=3 SV=1	Trichechus manatus latirostris	459	2454	98.5	98.5	0.0
+391	TR	A0A8C6ZJJ6	Serine/threonine-protein OS=Nothoprocta perdicaria OX=30464 GN=CDK8 PE=3 SV=1	Nothoprocta perdicaria	467	2453	97.4	98.3	0.0
+392	TR	A0ABM3SGJ9	Serine/threonine-protein OS=Balaenoptera acutorostrata OX=9767 GN=CDK8 PE=3 SV=1	Balaenoptera acutorostrata	459	2451	98.5	98.5	0.0
+393	TR	A0A7L3KWA9	Serine/threonine-protein (Fragment) OS=Drymodes brunneopygia OX=626378 GN=Cdk8 PE=3 SV=1	Drymodes brunneopygia	455	2450	99.3	99.8	0.0
+394	TR	A0A7L4DQ11	Serine/threonine-protein (Fragment) OS=Eurystomus gularis OX=325343 GN=Cdk8 PE=3 SV=1	Eurystomus gularis	456	2450	99.1	99.6	0.0
+395	TR	A0A7L1D8F4	Serine/threonine-protein (Fragment) OS=Serilophus lunatus OX=239386 GN=Cdk8 PE=3 SV=1	Serilophus lunatus	453	2449	99.8	100.0	0.0
+396	TR	A0A7L0YEC3	Serine/threonine-protein (Fragment) OS=Ploceus nigricollis OX=441696 GN=Cdk8 PE=3 SV=1	Ploceus nigricollis	454	2449	99.8	100.0	0.0
+397	TR	A0A835NVL5	Serine/threonine-protein OS=Lamprotornis superbus OX=245042 GN=IHE44_0005477 PE=3 SV=1	Lamprotornis superbus	502	2449	91.8	92.2	0.0
+398	TR	A0A7K5VKV5	Serine/threonine-protein (Fragment) OS=Platysteira castanea OX=1160851 GN=Cdk8 PE=3 SV=1	Platysteira castanea	454	2449	99.8	100.0	0.0
+399	TR	A0A7K6GZE8	Serine/threonine-protein (Fragment) OS=Malurus elegans OX=720584 GN=Cdk8 PE=3 SV=1	Malurus elegans	458	2448	99.1	99.3	0.0
+400	TR	A0A3P8TY72	Serine/threonine-protein OS=Amphiprion percula OX=161767 PE=3 SV=1	Amphiprion percula	464	2442	97.0	98.5	0.0
+401	TR	A0A3Q2QT69	Serine/threonine-protein OS=Fundulus heteroclitus OX=8078 PE=3 SV=1	Fundulus heteroclitus	464	2442	97.0	98.5	0.0
+402	TR	A0A3Q2GEN3	Serine/threonine-protein OS=Cyprinodon variegatus OX=28743 PE=3 SV=1	Cyprinodon variegatus	464	2442	97.0	98.5	0.0
+403	TR	A0A2I4AQD6	Serine/threonine-protein OS=Austrofundulus limnaeus OX=52670 GN=cdk8 PE=3 SV=1	Austrofundulus limnaeus	464	2442	96.8	98.7	0.0
+404	TR	A0ABV0W8B4	Serine/threonine-protein OS=Xenotaenia resolanae OX=208358 GN=CDK8 PE=3 SV=1	Xenotaenia resolanae	549	2442	97.0	98.5	0.0
+405	TR	A0A3Q1BKG2	Serine/threonine-protein OS=Amphiprion ocellaris OX=80972 GN=CDK8 PE=3 SV=2	Amphiprion ocellaris	479	2442	97.0	98.5	0.0
+406	TR	A0AAV9SPA0	Serine/threonine-protein OS=Crenichthys baileyi OX=28760 GN=CDK8 PE=3 SV=1	Crenichthys baileyi	464	2442	97.0	98.5	0.0
+407	TR	A0AAQ5XAH4	Serine/threonine-protein OS=Amphiprion ocellaris OX=80972 GN=CDK8 PE=3 SV=1	Amphiprion ocellaris	464	2442	97.0	98.5	0.0
+408	TR	A0ABV0ZAZ3	Serine/threonine-protein OS=Ameca splendens OX=208324 GN=CDK8 PE=3 SV=1	Ameca splendens	464	2442	97.0	98.5	0.0
+409	TR	A0ABU7ECQ7	Serine/threonine-protein OS=Characodon lateralis OX=208331 GN=CDK8 PE=3 SV=1	Characodon lateralis	464	2442	97.0	98.5	0.0
+410	TR	A0ABU7B5D8	Serine/threonine-protein OS=Ataeniobius toweri OX=208326 GN=CDK8 PE=3 SV=1	Ataeniobius toweri	464	2442	97.0	98.5	0.0
+411	TR	A0ABM4L2S7	Serine/threonine-protein OS=Equus przewalskii OX=9798 GN=CDK8 PE=3 SV=1	Equus przewalskii	458	2442	98.5	98.5	0.0
+412	TR	A0AAV1PRE8	Serine/threonine-protein OS=Scomber scombrus OX=13677 GN=FSCOSCO3_A010811 PE=3 SV=1	Scomber scombrus	464	2439	96.8	98.5	0.0
+413	TR	A0AAV1PQR3	Serine/threonine-protein OS=Scomber scombrus OX=13677 GN=FSCOSCO3_A010811 PE=3 SV=1	Scomber scombrus	613	2439	96.8	98.5	0.0
+414	TR	A0A8C5F8M2	Serine/threonine-protein OS=Gadus morhua OX=8049 GN=CDK8 PE=3 SV=3	Gadus morhua	490	2437	96.8	98.5	0.0
+415	TR	A0AAW0MIV2	Serine/threonine-protein OS=Mugilogobius chulae OX=88201 GN=WMY93_030774 PE=3 SV=1	Mugilogobius chulae	464	2437	96.8	98.5	0.0
+416	SP	Q8R3L8-3	Isoform 3 of Cyclin-dependent kinase 8 OS=Mus musculus OX=10090 GN=Cdk8	Mus musculus	459	2437	97.8	98.1	0.0
+417	TR	A0A6P7M4Q8	Serine/threonine-protein OS=Betta splendens OX=158456 GN=cdk8 PE=3 SV=1	Betta splendens	464	2436	96.8	98.3	0.0
+418	TR	A0AAX7VFG5	Serine/threonine-protein OS=Astatotilapia calliptera OX=8154 GN=CDK8 PE=3 SV=1	Astatotilapia calliptera	482	2436	96.8	98.3	0.0
+419	TR	A0A6P7KLR7	Serine/threonine-protein OS=Parambassis ranga OX=210632 GN=cdk8 PE=3 SV=1	Parambassis ranga	464	2436	96.8	98.3	0.0
+420	TR	A0A3P9D495	Serine/threonine-protein OS=Maylandia zebra OX=106582 PE=3 SV=1	Maylandia zebra	464	2436	96.8	98.3	0.0
+421	TR	A0A8D0A6W3	Serine/threonine-protein OS=Sander lucioperca OX=283035 GN=cdk8 PE=3 SV=1	Sander lucioperca	490	2436	96.8	98.3	0.0
+422	TR	A0AAV1H8I7	Serine/threonine-protein OS=Xyrichtys novacula OX=13765 GN=XNOV1_A007899 PE=3 SV=1	Xyrichtys novacula	464	2436	96.8	98.3	0.0
+423	TR	A0A3B4F2G9	Serine/threonine-protein OS=Pundamilia nyererei OX=303518 GN=cdk8 PE=3 SV=1	Pundamilia nyererei	464	2436	96.8	98.3	0.0
+424	TR	A0A8S4AMT2	Serine/threonine-protein OS=Menidia menidia OX=238744 GN=MMEN_LOCUS7003 PE=3 SV=1	Menidia menidia	464	2436	96.8	98.3	0.0
+425	TR	A0AAW1EZF0	Serine/threonine-protein OS=Zoarces viviparus OX=48416 GN=VZT92_014281 PE=3 SV=1	Zoarces viviparus	464	2436	96.8	98.3	0.0
+426	TR	E1B2Z6	Serine/threonine-protein OS=Sander vitreus OX=283036 GN=Cdk8 PE=2 SV=1	Sander vitreus	464	2436	96.8	98.3	0.0
+427	TR	A0A8C4DPW3	Serine/threonine-protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	480	2436	96.8	98.3	0.0
+428	TR	A0A3Q2VVR7	Serine/threonine-protein OS=Haplochromis burtoni OX=8153 PE=3 SV=1	Haplochromis burtoni	464	2436	96.8	98.3	0.0
+429	TR	A0A672FCS1	Serine/threonine-protein OS=Salarias fasciatus OX=181472 GN=cdk8 PE=3 SV=1	Salarias fasciatus	464	2436	96.8	98.3	0.0
+430	TR	A0AA47NXL8	Serine/threonine-protein OS=Merluccius polli OX=89951 GN=cdk8 PE=3 SV=1	Merluccius polli	464	2436	96.8	98.3	0.0
+431	TR	A0AAV2LBR1	Serine/threonine-protein OS=Knipowitschia caucasica OX=637954 GN=KC01_LOCUS25566 PE=3 SV=1	Knipowitschia caucasica	464	2436	96.8	98.5	0.0
+432	TR	A0A5J5CKC6	Serine/threonine-protein OS=Etheostoma spectabile OX=54343 GN=FQN60_013718 PE=3 SV=1	Etheostoma spectabile	464	2436	96.8	98.3	0.0
+433	TR	A0A671TYA0	Serine/threonine-protein OS=Sparus aurata OX=8175 GN=cdk8 PE=3 SV=1	Sparus aurata	464	2436	96.8	98.3	0.0
+434	TR	A0A484C8M4	Serine/threonine-protein OS=Perca flavescens OX=8167 GN=EPR50_G00224520 PE=3 SV=1	Perca flavescens	464	2436	96.8	98.3	0.0
+435	TR	A0A6A5DP97	Serine/threonine-protein OS=Perca fluviatilis OX=8168 GN=PFLUV_G00256020 PE=3 SV=1	Perca fluviatilis	464	2436	96.8	98.3	0.0
+436	TR	A0A6G1QNE1	Serine/threonine-protein OS=Channa argus OX=215402 GN=EXN66_Car019284 PE=3 SV=1	Channa argus	464	2436	96.8	98.3	0.0
+437	TR	A0A3P8WMP4	Serine/threonine-protein OS=Cynoglossus semilaevis OX=244447 PE=3 SV=1	Cynoglossus semilaevis	464	2436	96.8	98.3	0.0
+438	TR	A0A3B5AY69	Serine/threonine-protein OS=Stegastes partitus OX=144197 GN=cdk8 PE=3 SV=1	Stegastes partitus	464	2436	96.8	98.3	0.0
+439	TR	A0ACF7E1Q4	Serine/threonine-protein OS=Sarotherodon galilaeus OX=8144 GN=ACER0C_006347 PE=3 SV=1	Sarotherodon galilaeus	464	2436	96.8	98.3	0.0
+440	TR	A0A6P5L3D7	Serine/threonine-protein OS=Phascolarctos cinereus OX=38626 GN=CDK8 PE=3 SV=1	Phascolarctos cinereus	462	2436	97.6	97.9	0.0
+441	TR	A0A665UUV1	Serine/threonine-protein OS=Echeneis naucrates OX=173247 GN=cdk8 PE=3 SV=1	Echeneis naucrates	464	2435	96.8	98.1	0.0
+442	TR	A0A3B4WL42	Serine/threonine-protein OS=Seriola lalandi dorsalis OX=1841481 PE=3 SV=1	Seriola lalandi dorsalis	464	2435	96.8	98.1	0.0
+443	TR	A0A8T2K5U1	Serine/threonine-protein OS=Hymenochirus boettgeri OX=247094 GN=GDO86_004609 PE=3 SV=1	Hymenochirus boettgeri	480	2435	96.3	98.5	0.0
+444	TR	A0A3B4UQK1	Serine/threonine-protein OS=Seriola dumerili OX=41447 PE=3 SV=1	Seriola dumerili	464	2435	96.8	98.1	0.0
+445	TR	A0A4W6DPT8	Serine/threonine-protein OS=Lates calcarifer OX=8187 GN=CDK8 PE=3 SV=1	Lates calcarifer	464	2435	96.8	98.1	0.0
+446	TR	A0A4W6DQ14	Serine/threonine-protein OS=Lates calcarifer OX=8187 GN=CDK8 PE=3 SV=1	Lates calcarifer	500	2435	96.8	98.1	0.0
+447	TR	A0AAV6T810	Serine/threonine-protein OS=Solea senegalensis OX=28829 GN=JOB18_027839 PE=3 SV=1	Solea senegalensis	464	2435	96.8	98.1	0.0
+448	TR	A0A4U5VHS5	Serine/threonine-protein OS=Collichthys lucidus OX=240159 GN=D9C73_021862 PE=3 SV=1	Collichthys lucidus	464	2433	96.6	98.3	0.0
+449	TR	A0A6G0HKY8	Serine/threonine-protein OS=Larimichthys crocea OX=215358 GN=D5F01_LYC22005 PE=3 SV=1	Larimichthys crocea	464	2433	96.6	98.3	0.0
+450	TR	A0A667XMA0	Serine/threonine-protein OS=Myripristis murdjan OX=586833 GN=cdk8 PE=3 SV=1	Myripristis murdjan	472	2432	96.6	98.3	0.0
+451	TR	A0A672ZKN3	Serine/threonine-protein OS=Sphaeramia orbicularis OX=375764 GN=cdk8 PE=3 SV=1	Sphaeramia orbicularis	464	2432	96.6	98.3	0.0
+452	TR	A0A672ZLH1	Serine/threonine-protein OS=Sphaeramia orbicularis OX=375764 GN=cdk8 PE=3 SV=1	Sphaeramia orbicularis	468	2432	96.6	98.3	0.0
+453	TR	A0A2U9CVH2	Serine/threonine-protein OS=Scophthalmus maximus OX=52904 GN=SMAX5B_001797 PE=3 SV=1	Scophthalmus maximus	464	2432	96.6	98.1	0.0
+454	TR	A0AAW1BJZ2	Serine/threonine-protein OS=Crotalus adamanteus OX=8729 GN=NXF25_010755 PE=3 SV=1	Crotalus adamanteus	455	2431	98.7	99.3	0.0
+455	TR	A0ABS2Z682	Serine/threonine-protein (Fragment) OS=Polypterus senegalus OX=55291 GN=Cdk8 PE=3 SV=1	Polypterus senegalus	518	2431	96.8	98.3	0.0
+456	TR	A0AAV6G2B4	Serine/threonine-protein OS=Alosa alosa OX=278164 GN=AALO_G00216200 PE=3 SV=1	Alosa alosa	464	2429	96.3	98.1	0.0
+457	TR	A0ACE1HZ75	Serine/threonine-protein OS=Lota lota OX=69944 GN=LOTLOTBUR_LOCUS9396 PE=3 SV=1	Lota lota	465	2429	96.8	98.3	0.0
+458	TR	A0A8C5GLU1	Serine/threonine-protein OS=Gouania willdenowi OX=441366 GN=cdk8 PE=3 SV=1	Gouania willdenowi	464	2429	96.3	98.3	0.0
+459	TR	A0A6P6EFV1	Serine/threonine-protein OS=Octodon degus OX=10160 GN=Cdk8 PE=3 SV=1	Octodon degus	454	2429	97.8	97.8	0.0
+460	TR	A0ACI8QA96	Serine/threonine-protein OS=Homo sapiens OX=9606 GN=CDK8 PE=1 SV=1	Homo sapiens	454	2429	97.8	97.8	0.0
+461	TR	A0AAD9F4K0	Serine/threonine-protein OS=Dissostichus eleginoides OX=100907 GN=KUDE01_031679 PE=3 SV=1	Dissostichus eleginoides	464	2428	96.3	98.1	0.0
+462	TR	A0A3Q2YBJ8	Serine/threonine-protein OS=Hippocampus comes OX=109280 PE=3 SV=1	Hippocampus comes	464	2428	96.6	98.1	0.0
+463	TR	M4A667	Serine/threonine-protein OS=Xiphophorus maculatus OX=8083 PE=3 SV=1	Xiphophorus maculatus	464	2428	96.1	98.3	0.0
+464	TR	A0A3P9Q3G6	Serine/threonine-protein OS=Poecilia reticulata OX=8081 PE=3 SV=1	Poecilia reticulata	464	2428	96.1	98.3	0.0
+465	TR	A0A315V451	Serine/threonine-protein OS=Gambusia affinis OX=33528 GN=CCH79_00004200 PE=3 SV=1	Gambusia affinis	464	2428	96.1	98.3	0.0
+466	TR	A0A6J2RVJ6	Serine/threonine-protein OS=Cottoperca gobio OX=56716 GN=cdk8 PE=3 SV=1	Cottoperca gobio	464	2427	96.3	97.8	0.0
+467	TR	A0A6J2UYP7	Serine/threonine-protein OS=Chanos chanos OX=29144 GN=cdk8 PE=3 SV=1	Chanos chanos	464	2426	96.3	98.1	0.0
+468	TR	A0AAY4ALT6	Serine/threonine-protein OS=Denticeps clupeoides OX=299321 GN=CDK8 PE=3 SV=1	Denticeps clupeoides	464	2426	96.3	98.1	0.0
+469	TR	A0AAY4ALS2	Serine/threonine-protein OS=Denticeps clupeoides OX=299321 GN=CDK8 PE=3 SV=2	Denticeps clupeoides	494	2426	96.3	98.1	0.0
+470	TR	A0A4Z2JGI4	Serine/threonine-protein OS=Liparis tanakae OX=230148 GN=cdk8_3 PE=3 SV=1	Liparis tanakae	464	2425	96.3	98.1	0.0
+471	TR	A0ABM3XFU7	Serine/threonine-protein OS=Erinaceus europaeus OX=9365 GN=CDK8 PE=3 SV=1	Erinaceus europaeus	454	2425	97.6	97.6	0.0
+472	TR	A0ABM2FHU8	Serine/threonine-protein OS=Equus przewalskii OX=9798 GN=CDK8 PE=3 SV=1	Equus przewalskii	454	2425	97.6	97.6	0.0
+473	TR	A0ABM1D4I3	Serine/threonine-protein OS=Ceratotherium simum simum OX=73337 GN=LOC101407177 PE=3 SV=1	Ceratotherium simum simum	454	2425	97.6	97.6	0.0
+474	TR	A0AAD8ZYC1	Serine/threonine-protein OS=Electrophorus voltai OX=2609070 GN=P4O66_005029 PE=3 SV=1	Electrophorus voltai	464	2424	96.3	97.8	0.0
+475	TR	A0ABM2XY99	Serine/threonine-protein OS=Mesocricetus auratus OX=10036 GN=Cdk8 PE=3 SV=1	Mesocricetus auratus	454	2424	97.6	97.6	0.0
+476	TR	A0AAN7WVT6	Serine/threonine-protein OS=Eleginops maclovinus OX=56733 GN=PBY51_013995 PE=3 SV=1	Eleginops maclovinus	467	2423	96.1	97.6	0.0
+477	TR	A0A8C5AEW4	Serine/threonine-protein OS=Gadus morhua OX=8049 GN=CDK8 PE=3 SV=3	Gadus morhua	467	2423	96.1	97.9	0.0
+478	TR	A0AA88T0X8	Serine/threonine-protein OS=Channa striata OX=64152 GN=Q5P01_004103 PE=3 SV=1	Channa striata	464	2423	96.3	97.8	0.0
+479	TR	A0ACE1RAX2	Serine/threonine-protein OS=Gadus morhua 'NCC' OX=328277 GN=GADMORNCC_LOCUS34233 PE=3 SV=1	Gadus morhua 'NCC'	467	2423	96.1	97.9	0.0
+480	TR	A0A3B3YUK5	Serine/threonine-protein OS=Poecilia mexicana OX=48701 PE=3 SV=1	Poecilia mexicana	464	2421	95.7	98.3	0.0
+481	TR	A0A087XQL8	Serine/threonine-protein OS=Poecilia formosa OX=48698 PE=3 SV=1	Poecilia formosa	464	2421	95.7	98.3	0.0
+482	TR	A0A9J7FY06	Serine/threonine-protein OS=Cricetulus griseus OX=10029 GN=Cdk8 PE=3 SV=1	Cricetulus griseus	454	2420	97.4	97.4	0.0
+483	TR	A0A8C1VU03	Serine/threonine-protein OS=Cyprinus carpio OX=7962 PE=3 SV=1	Cyprinus carpio	490	2419	96.1	97.8	0.0
+484	TR	H2SAH6	Serine/threonine-protein OS=Takifugu rubripes OX=31033 GN=cdk8 PE=3 SV=1	Takifugu rubripes	463	2419	96.6	98.1	0.0
+485	TR	A0A4Z2BVS6	Serine/threonine-protein OS=Takifugu bimaculatus OX=433685 GN=fugu_015966 PE=3 SV=1	Takifugu bimaculatus	463	2419	96.6	98.1	0.0
+486	TR	A0A3Q3A781	Serine/threonine-protein OS=Kryptolebias marmoratus OX=37003 PE=3 SV=1	Kryptolebias marmoratus	464	2419	96.1	98.1	0.0
+487	TR	A0A8C0YGT3	Serine/threonine-protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	490	2419	96.1	97.8	0.0
+488	TR	H3D5A2	Serine/threonine-protein OS=Tetraodon nigroviridis OX=99883 PE=3 SV=1	Tetraodon nigroviridis	463	2419	96.6	98.1	0.0
+489	TR	A0ACI6NNT5	Serine/threonine-protein OS=Ovis aries OX=9940 GN=CDK8 PE=3 SV=1	Ovis aries	454	2419	97.4	97.4	0.0
+490	TR	A0ABR3LAU9	Serine/threonine-protein OS=Cirrhinus molitorella OX=172907 GN=QQF64_021976 PE=3 SV=1	Cirrhinus molitorella	465	2418	96.3	97.8	0.0
+491	TR	A0AAN9C6C8	Serine/threonine-protein OS=Phoxinus phoxinus OX=58324 GN=R3I93_022000 PE=3 SV=1	Phoxinus phoxinus	465	2418	96.3	97.8	0.0
+492	TR	A0A8C4DNP0	Serine/threonine-protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=2	Dicentrarchus labrax	471	2418	95.3	96.8	0.0
+493	TR	A0AAW1YVY2	Serine/threonine-protein OS=Culter alburnus OX=194366 GN=ABG768_017329 PE=3 SV=1	Culter alburnus	465	2418	96.3	97.8	0.0
+494	TR	A0A3N0XXH8	Serine/threonine-protein OS=Anabarilius grahami OX=495550 GN=DPX16_16391 PE=3 SV=1	Anabarilius grahami	465	2418	96.3	97.8	0.0
+495	TR	A0ACE1K9K5	Serine/threonine-protein OS=Boreogadus saida OX=44932 GN=BORSAIPOL_LOCUS19129 PE=3 SV=1	Boreogadus saida	467	2418	95.9	97.6	0.0
+496	TR	A0A9W7WAT4	Serine/threonine-protein OS=Triplophysa rosa OX=992332 GN=IRJ41_012651 PE=3 SV=1	Triplophysa rosa	465	2418	96.3	97.8	0.0
+497	TR	A8E4S2	Serine/threonine-protein OS=Danio rerio OX=7955 GN=cdk8 PE=2 SV=1	Danio rerio	465	2418	96.3	97.8	0.0
+498	TR	A0ACM8QE92	Serine/threonine-protein OS=Danio rerio OX=7955 GN=cdk8 PE=1 SV=1	Danio rerio	465	2418	96.3	97.8	0.0
+499	TR	A0A673GB17	Serine/threonine-protein OS=Sinocyclocheilus rhinocerous OX=307959 PE=3 SV=1	Sinocyclocheilus rhinocerous	476	2418	96.3	97.8	0.0
+500	TR	A0A6P6JA29	Serine/threonine-protein OS=Carassius auratus OX=7957 GN=cdk8 PE=3 SV=1	Carassius auratus	465	2418	96.3	97.8	0.0
+501	TR	A0ABR0ZN12	Serine/threonine-protein OS=Huso huso OX=61971 GN=HHUSO_G12142 PE=3 SV=1	Huso huso	464	2417	96.1	97.8	0.0
+502	TR	A0ABM3SGK4	Serine/threonine-protein OS=Balaenoptera acutorostrata OX=9767 GN=CDK8 PE=3 SV=1	Balaenoptera acutorostrata	454	2417	97.4	97.4	0.0
+503	TR	A0A8B8VT54	Serine/threonine-protein OS=Balaenoptera musculus OX=9771 GN=CDK8 PE=3 SV=1	Balaenoptera musculus	454	2417	97.4	97.4	0.0
+504	TR	A0A671RSB3	Serine/threonine-protein OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107701677 PE=3 SV=1	Sinocyclocheilus anshuiensis	465	2416	96.3	97.8	0.0
+505	TR	A0A7J6BN73	Serine/threonine-protein OS=Onychostoma macrolepis OX=369639 GN=G5714_023456 PE=3 SV=1	Onychostoma macrolepis	465	2415	96.1	97.8	0.0
+506	TR	A0AAD3MJM0	Serine/threonine-protein OS=Lates japonicus OX=270547 GN=AKAME5_000733200 PE=3 SV=1	Lates japonicus	464	2415	96.1	97.4	0.0
+507	TR	A0ABD2FHQ1	Serine/threonine-protein OS=Pagothenia borchgrevinki OX=8213 GN=OYC64_011485 PE=3 SV=1	Pagothenia borchgrevinki	467	2415	95.7	97.4	0.0
+508	TR	A0AAN8B4K2	Serine/threonine-protein OS=Champsocephalus esox OX=159716 GN=CesoFtcFv8_025351 PE=3 SV=1	Champsocephalus esox	467	2414	95.7	97.4	0.0
+509	TR	A0A9N7U4I6	Serine/threonine-protein OS=Pleuronectes platessa OX=8262 GN=PLEPLA_LOCUS11787 PE=3 SV=1	Pleuronectes platessa	464	2414	95.9	97.6	0.0
+510	TR	A0A671TZN3	Serine/threonine-protein OS=Sparus aurata OX=8175 GN=cdk8 PE=3 SV=1	Sparus aurata	467	2414	95.9	97.4	0.0
+511	TR	A0AAN8C5S9	Serine/threonine-protein OS=Champsocephalus gunnari OX=52237 GN=CgunFtcFv8_015345 PE=3 SV=1	Champsocephalus gunnari	467	2414	95.7	97.4	0.0
+512	TR	A0ACB9W1J7	Serine/threonine-protein OS=Chaenocephalus aceratus OX=36190 GN=KUCAC02_017355 PE=3 SV=1	Chaenocephalus aceratus	467	2414	95.7	97.4	0.0
+513	TR	A0AAD8DGN3	Serine/threonine-protein OS=Acipenser oxyrinchus oxyrinchus OX=40147 GN=cdk8 PE=3 SV=1	Acipenser oxyrinchus oxyrinchus	464	2414	95.9	97.8	0.0
+514	TR	A0ABD1JDS2	Serine/threonine-protein OS=Coilia grayii OX=363190 GN=ACEWY4_018534 PE=3 SV=1	Coilia grayii	464	2413	95.9	97.6	0.0
+515	TR	A0A6J2RSN8	Serine/threonine-protein OS=Cottoperca gobio OX=56716 GN=cdk8 PE=3 SV=1	Cottoperca gobio	467	2413	95.7	97.2	0.0
+516	TR	A0A3Q3KL85	Serine/threonine-protein OS=Mastacembelus armatus OX=205130 PE=3 SV=2	Mastacembelus armatus	472	2413	94.9	96.6	0.0
+517	TR	A0A672NI91	Serine/threonine-protein OS=Sinocyclocheilus grahami OX=75366 GN=cdk8 PE=3 SV=1	Sinocyclocheilus grahami	463	2413	96.3	97.8	0.0
+518	TR	A0A4W3HU67	Serine/threonine-protein OS=Callorhinchus milii OX=7868 GN=cdk8 PE=3 SV=1	Callorhinchus milii	464	2412	96.3	97.8	0.0
+519	TR	A0ACI8PP86	Serine/threonine-protein OS=Homo sapiens OX=9606 GN=CDK8 PE=1 SV=1	Homo sapiens	453	2412	97.6	97.6	0.0
+520	TR	A0A6P8VGY2	Serine/threonine-protein OS=Gymnodraco acuticeps OX=8218 GN=cdk8 PE=3 SV=1	Gymnodraco acuticeps	467	2411	95.5	97.4	0.0
+521	TR	A0A9J8AV18	Serine/threonine-protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	508	2411	95.9	97.8	0.0
+522	TR	A0A9D3N7Z6	Serine/threonine-protein OS=Hemibagrus wyckioides OX=337641 GN=KOW79_018624 PE=3 SV=1	Hemibagrus wyckioides	463	2409	96.1	97.8	0.0
+523	TR	A0A7J5ZYQ5	Serine/threonine-protein OS=Ameiurus melas OX=219545 GN=AMELA_G00222420 PE=3 SV=1	Ameiurus melas	463	2409	96.1	97.8	0.0
+524	TR	A0A2D0PRY9	Serine/threonine-protein OS=Ictalurus punctatus OX=7998 GN=cdk8 PE=3 SV=1	Ictalurus punctatus	463	2409	96.1	97.8	0.0
+525	TR	W5U8M7	Serine/threonine-protein OS=Ictalurus punctatus OX=7998 GN=cdk8 PE=2 SV=1	Ictalurus punctatus	463	2409	96.1	97.8	0.0
+526	TR	A0A6P6EEV1	Serine/threonine-protein OS=Octodon degus OX=10160 GN=Cdk8 PE=3 SV=1	Octodon degus	449	2408	96.8	96.8	0.0
+527	TR	A0ABM4L2T9	Serine/threonine-protein OS=Equus przewalskii OX=9798 GN=CDK8 PE=3 SV=1	Equus przewalskii	453	2408	97.4	97.4	0.0
+528	TR	A0A667X818	Serine/threonine-protein OS=Myripristis murdjan OX=586833 GN=cdk8 PE=3 SV=1	Myripristis murdjan	478	2407	93.7	95.4	0.0
+529	SP	Q8JH47	Cyclin-dependent kinase 8 OS=Danio rerio OX=7955 GN=cdk8 PE=2 SV=1	Danio rerio	464	2407	95.7	97.4	0.0
+530	TR	A0A8C1GCN7	Serine/threonine-protein OS=Cyprinus carpio OX=7962 GN=LOC109064586 PE=3 SV=1	Cyprinus carpio	486	2406	95.9	97.8	0.0
+531	TR	A0A8C1I8M0	Serine/threonine-protein OS=Cyprinus carpio OX=7962 GN=LOC109064586 PE=3 SV=1	Cyprinus carpio	463	2406	95.9	97.8	0.0
+532	TR	A0A667XM73	Serine/threonine-protein OS=Myripristis murdjan OX=586833 GN=cdk8 PE=3 SV=1	Myripristis murdjan	473	2406	94.5	96.4	0.0
+533	TR	A0AA88P4P5	Serine/threonine-protein OS=Cirrhinus molitorella OX=172907 GN=Q8A67_024461 PE=3 SV=1	Cirrhinus molitorella	468	2404	95.3	96.8	0.0
+534	TR	A0AAN9C659	Serine/threonine-protein OS=Phoxinus phoxinus OX=58324 GN=R3I93_022000 PE=3 SV=1	Phoxinus phoxinus	468	2404	95.3	96.8	0.0
+535	TR	A0A8T0AJG6	Serine/threonine-protein OS=Silurus meridionalis OX=175797 GN=HF521_010637 PE=3 SV=1	Silurus meridionalis	463	2404	95.9	97.6	0.0
+536	TR	A0ABD0XF30	Serine/threonine-protein OS=Umbra pygmaea OX=75934 GN=UPYG_G00073300 PE=3 SV=1	Umbra pygmaea	467	2404	95.3	97.2	0.0
+537	TR	A0A8M2B9W5	Serine/threonine-protein OS=Danio rerio OX=7955 GN=cdk8 PE=1 SV=1	Danio rerio	468	2404	95.3	96.8	0.0
+538	TR	A0ACH2LCF7	Serine/threonine-protein OS=Leuciscus waleckii OX=155063 GN=PO909_017095 PE=3 SV=1	Leuciscus waleckii	468	2404	95.3	96.8	0.0
+539	TR	A0A6P6JEA0	Serine/threonine-protein OS=Carassius auratus OX=7957 GN=cdk8 PE=3 SV=1	Carassius auratus	468	2404	95.7	97.2	0.0
+540	TR	A0A3P8RDZ4	Serine/threonine-protein OS=Astatotilapia calliptera OX=8154 GN=CDK8 PE=3 SV=2	Astatotilapia calliptera	475	2403	94.1	95.8	0.0
+541	TR	A0A668SXX1	Serine/threonine-protein OS=Oreochromis aureus OX=47969 GN=CDK8 PE=3 SV=1	Oreochromis aureus	475	2403	94.1	95.8	0.0
+542	TR	A0AAQ4NTH3	Serine/threonine-protein OS=Gasterosteus aculeatus aculeatus OX=481459 PE=3 SV=1	Gasterosteus aculeatus aculeatus	467	2403	95.3	97.0	0.0
+543	TR	I3K9G2	Serine/threonine-protein OS=Oreochromis niloticus OX=8128 GN=cdk8 PE=3 SV=2	Oreochromis niloticus	475	2403	94.1	95.8	0.0
+544	TR	A0A6P6MBJ1	Serine/threonine-protein OS=Carassius auratus OX=7957 GN=LOC113066270 PE=3 SV=1	Carassius auratus	466	2403	95.5	97.4	0.0
+545	TR	A0ACF8ED26	Serine/threonine-protein OS=Arapaima gigas OX=113544 GN=CDK8 PE=3 SV=1	Arapaima gigas	462	2402	95.9	97.6	0.0
+546	TR	A0A0N8JWV3	Serine/threonine-protein OS=Scleropages formosus OX=113540 GN=cdk8 PE=3 SV=1	Scleropages formosus	462	2402	95.9	97.4	0.0
+547	TR	A0A8C9RYE0	Serine/threonine-protein OS=Scleropages formosus OX=113540 GN=cdk8 PE=3 SV=1	Scleropages formosus	484	2402	95.9	97.4	0.0
+548	TR	A0AA88IZU9	Serine/threonine-protein OS=Tachysurus vachellii OX=175792 GN=Q7C36_023143 PE=3 SV=1	Tachysurus vachellii	463	2402	95.7	97.8	0.0
+549	TR	A0A3P9A289	Serine/threonine-protein OS=Esox lucius OX=8010 GN=CDK8 PE=3 SV=2	Esox lucius	497	2401	95.7	97.6	0.0
+550	TR	A0ACC5ZCR1	Serine/threonine-protein OS=Pangasius djambal OX=1691987 GN=PDJAM_G00134780 PE=3 SV=1	Pangasius djambal	463	2400	95.9	97.6	0.0
+551	TR	A0A5N5KSG3	Serine/threonine-protein OS=Pangasianodon hypophthalmus OX=310915 GN=PHYPO_G00129450 PE=3 SV=1	Pangasianodon hypophthalmus	463	2400	95.9	97.6	0.0
+552	TR	A0A7L0RYG3	Serine/threonine-protein (Fragment) OS=Glaucidium brasilianum OX=78217 GN=Cdk8 PE=3 SV=1	Glaucidium brasilianum	444	2400	99.5	99.8	0.0
+553	TR	A0ACC5XJT7	Serine/threonine-protein OS=Pangasianodon gigas OX=30993 GN=PGIGA_G00136050 PE=3 SV=1	Pangasianodon gigas	463	2400	95.9	97.6	0.0
+554	TR	A0ABM1AQK1	Serine/threonine-protein OS=Microtus ochrogaster OX=79684 GN=Cdk8 PE=3 SV=1	Microtus ochrogaster	451	2400	97.0	97.0	0.0
+555	TR	A0A8T3D6K0	Serine/threonine-protein OS=Albula goreensis OX=1534307 GN=AGOR_G00141610 PE=3 SV=1	Albula goreensis	464	2399	95.3	97.4	0.0
+556	TR	A0ABM2XXB7	Serine/threonine-protein OS=Mesocricetus auratus OX=10036 GN=Cdk8 PE=3 SV=1	Mesocricetus auratus	451	2399	97.0	97.0	0.0
+557	TR	A0A7N6A8F3	Serine/threonine-protein OS=Anabas testudineus OX=64144 GN=CDK8 PE=3 SV=1	Anabas testudineus	478	2398	93.5	95.0	0.0
+558	TR	A0A9J7WVY9	Serine/threonine-protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	468	2397	94.9	96.8	0.0
+559	TR	A0A9D3THP1	Serine/threonine-protein OS=Megalops atlanticus OX=7932 GN=MATL_G00021650 PE=3 SV=1	Megalops atlanticus	464	2394	95.0	97.2	0.0
+560	TR	A0A9D3MKR9	Serine/threonine-protein OS=Anguilla anguilla OX=7936 GN=ANANG_G00085220 PE=3 SV=1	Anguilla anguilla	464	2394	95.0	97.4	0.0
+561	TR	A0A9Q1G529	Serine/threonine-protein OS=Synaphobranchus kaupii OX=118154 GN=SKAU_G00061300 PE=3 SV=1	Synaphobranchus kaupii	464	2393	95.0	97.2	0.0
+562	TR	A0AAD7T2D5	Serine/threonine-protein OS=Aldrovandia affinis OX=143900 GN=AAFF_G00091750 PE=3 SV=1	Aldrovandia affinis	464	2392	94.8	97.4	0.0
+563	TR	A0A3B4D2Q5	Serine/threonine-protein OS=Pygocentrus nattereri OX=42514 GN=CDK8 PE=3 SV=2	Pygocentrus nattereri	476	2391	93.5	95.2	0.0
+564	TR	A0A9R1SJL6	Serine/threonine-protein OS=Cyprinus carpio OX=7962 PE=3 SV=1	Cyprinus carpio	481	2391	92.7	94.4	0.0
+565	TR	A0A5C6NWD1	Serine/threonine-protein OS=Takifugu flavidus OX=433684 GN=D4764_17G0004620 PE=3 SV=1	Takifugu flavidus	480	2391	93.1	94.6	0.0
+566	TR	A0A3P9A3G7	Serine/threonine-protein OS=Esox lucius OX=8010 GN=CDK8 PE=3 SV=3	Esox lucius	469	2391	94.5	96.4	0.0
+567	TR	A0A9J7ZMZ0	Serine/threonine-protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	474	2391	94.1	96.0	0.0
+568	TR	A0A8C1A528	Serine/threonine-protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=2	Cyprinus carpio carpio	481	2391	92.7	94.4	0.0
+569	TR	A0A9Q1DRW4	Serine/threonine-protein OS=Conger conger OX=82655 GN=COCON_G00064090 PE=3 SV=1	Conger conger	464	2390	94.8	97.4	0.0
+570	TR	G1QAH6	Serine/threonine-protein OS=Myotis lucifugus OX=59463 GN=LOC102429085 PE=3 SV=1	Myotis lucifugus	464	2389	95.3	97.0	0.0
+571	TR	A0A6P8GLB4	Serine/threonine-protein OS=Clupea harengus OX=7950 GN=cdk8 PE=3 SV=1	Clupea harengus	463	2388	95.3	97.6	0.0
+572	TR	A0ACI8PLW6	Serine/threonine-protein OS=Homo sapiens OX=9606 GN=CDK8 PE=1 SV=1	Homo sapiens	450	2387	97.0	97.0	0.0
+573	TR	A0ACC2H4Q5	Serine/threonine-protein OS=Dallia pectoralis OX=75939 GN=DPEC_G00078210 PE=3 SV=1	Dallia pectoralis	466	2385	94.6	96.8	0.0
+574	TR	A0A673L2J0	Serine/threonine-protein OS=Sinocyclocheilus rhinocerous OX=307959 GN=LOC107732894 PE=3 SV=1	Sinocyclocheilus rhinocerous	462	2385	96.1	97.6	0.0
+575	TR	A0A8U0PQY5	Serine/threonine-protein OS=Salvelinus namaycush OX=8040 GN=cdk8 PE=3 SV=1	Salvelinus namaycush	465	2385	94.6	97.4	0.0
+576	TR	A0A673YGV5	Serine/threonine-protein OS=Salmo trutta OX=8032 GN=CDK8 PE=3 SV=1	Salmo trutta	478	2384	95.0	97.2	0.0
+577	TR	A0AAN8Q6Q3	Serine/threonine-protein OS=Coregonus suidteri OX=861788 GN=J4Q44_G00366060 PE=3 SV=1	Coregonus suidteri	465	2383	94.6	97.2	0.0
+578	TR	A0A8C8C6I1	Serine/threonine-protein OS=Oncorhynchus tshawytscha OX=74940 GN=CDK8 PE=3 SV=2	Oncorhynchus tshawytscha	464	2381	94.4	96.8	0.0
+579	TR	A0A8C7GXU3	Serine/threonine-protein OS=Oncorhynchus kisutch OX=8019 GN=CDK8 PE=3 SV=1	Oncorhynchus kisutch	489	2381	94.8	97.2	0.0
+580	TR	A0A8J7P1R4	Serine/threonine-protein (Fragment) OS=Atractosteus spatula OX=7917 GN=Cdk8 PE=3 SV=1	Atractosteus spatula	1102	2380	95.1	96.6	0.0
+581	TR	A0A060XTN4	Serine/threonine-protein OS=Oncorhynchus mykiss OX=8022 GN=cdk8 PE=3 SV=1	Oncorhynchus mykiss	465	2380	94.4	97.2	0.0
+582	TR	A0A4W5Q6A8	Serine/threonine-protein OS=Hucho hucho OX=62062 PE=3 SV=1	Hucho hucho	465	2380	94.4	97.2	0.0
+583	TR	A0A8C7H087	Serine/threonine-protein OS=Oncorhynchus kisutch OX=8019 GN=CDK8 PE=3 SV=1	Oncorhynchus kisutch	465	2380	94.4	97.2	0.0
+584	TR	A0A6P5PSD1	Serine/threonine-protein OS=Mus caroli OX=10089 GN=Cdk8 PE=3 SV=1	Mus caroli	451	2378	96.1	96.3	0.0
+585	TR	V9KRK1	Serine/threonine-protein (Fragment) OS=Callorhinchus milii OX=7868 PE=2 SV=1	Callorhinchus milii	458	2376	96.5	98.0	0.0
+586	TR	A0A6P3VGQ6	Serine/threonine-protein OS=Clupea harengus OX=7950 GN=cdk8 PE=3 SV=1	Clupea harengus	466	2374	94.6	97.0	0.0
+587	TR	A0A674DNF2	Serine/threonine-protein OS=Salmo trutta OX=8032 GN=CDK8 PE=3 SV=1	Salmo trutta	468	2373	94.8	97.2	0.0
+588	TR	A0A8K9VDD9	Serine/threonine-protein OS=Oncorhynchus mykiss OX=8022 PE=3 SV=1	Oncorhynchus mykiss	468	2373	94.8	97.2	0.0
+589	TR	A0A1S3NID2	Serine/threonine-protein OS=Salmo salar OX=8030 GN=cdk8 PE=3 SV=1	Salmo salar	466	2371	94.0	96.4	0.0
+590	TR	A0A7N6ASR3	Serine/threonine-protein OS=Anabas testudineus OX=64144 GN=CDK8 PE=3 SV=1	Anabas testudineus	469	2370	94.0	95.5	0.0
+591	TR	A0A3Q1IC24	Serine/threonine-protein OS=Anabas testudineus OX=64144 GN=CDK8 PE=3 SV=2	Anabas testudineus	501	2370	94.0	95.5	0.0
+592	TR	A0A673YHN6	Serine/threonine-protein OS=Salmo trutta OX=8032 GN=CDK8 PE=3 SV=1	Salmo trutta	473	2364	92.8	94.9	0.0
+593	TR	A0A8P4KCG8	Serine/threonine-protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	483	2363	91.5	93.0	0.0
+594	TR	A0AAE0Q784	Serine/threonine-protein OS=Hemibagrus guttatus OX=175788 GN=QTP70_024219 PE=3 SV=1	Hemibagrus guttatus	918	2363	95.9	97.6	0.0
+595	TR	A0AAN8QS89	Serine/threonine-protein OS=Coregonus suidteri OX=861788 GN=J4Q44_G00296650 PE=3 SV=1	Coregonus suidteri	465	2362	94.2	96.4	0.0
+596	TR	A0A1S3QAS1	Serine/threonine-protein OS=Salmo salar OX=8030 GN=LOC100195752 PE=3 SV=1	Salmo salar	465	2361	94.0	96.4	0.0
+597	TR	A0A8C7ZN06	Serine/threonine-protein OS=Oryzias sinensis OX=183150 PE=3 SV=1	Oryzias sinensis	500	2361	94.4	96.6	0.0
+598	TR	A0A674DNZ8	Serine/threonine-protein OS=Salmo trutta OX=8032 GN=CDK8 PE=3 SV=1	Salmo trutta	465	2361	94.0	96.4	0.0
+599	TR	A0A3B3BLG6	Serine/threonine-protein OS=Oryzias melastigma OX=30732 PE=3 SV=1	Oryzias melastigma	463	2361	94.4	96.6	0.0
+600	TR	A0A8C8EX41	Serine/threonine-protein OS=Oncorhynchus tshawytscha OX=74940 GN=CDK8 PE=3 SV=2	Oncorhynchus tshawytscha	465	2361	94.0	96.4	0.0
+601	TR	H2LYC9	Serine/threonine-protein OS=Oryzias latipes OX=8090 GN=cdk8 PE=3 SV=2	Oryzias latipes	463	2361	94.4	96.6	0.0
+602	TR	A0A8U0R1D2	Serine/threonine-protein OS=Salvelinus namaycush OX=8040 GN=LOC120050971 PE=3 SV=1	Salvelinus namaycush	465	2358	93.8	96.4	0.0
+603	TR	A0ACI8RZQ2	Serine/threonine-protein OS=Homo sapiens OX=9606 GN=CDK8 PE=1 SV=1	Homo sapiens	441	2345	95.0	95.0	0.0
+604	TR	A0A8C7F849	Serine/threonine-protein OS=Oncorhynchus kisutch OX=8019 GN=CDK8 PE=3 SV=1	Oncorhynchus kisutch	483	2343	91.1	93.2	0.0
+605	TR	A0A8C8EJK8	Serine/threonine-protein OS=Oncorhynchus tshawytscha OX=74940 GN=CDK8 PE=3 SV=2	Oncorhynchus tshawytscha	476	2339	91.8	94.1	0.0
+606	TR	A0A8C5K4L3	Serine/threonine-protein OS=Jaculus jaculus OX=51337 GN=Cdk8 PE=3 SV=1	Jaculus jaculus	446	2339	94.8	94.8	0.0
+607	TR	A0A8C7DI94	Serine/threonine-protein OS=Oncorhynchus kisutch OX=8019 GN=CDK8 PE=3 SV=1	Oncorhynchus kisutch	541	2335	95.0	97.4	0.0
+608	TR	A0A437C7U7	Serine/threonine-protein OS=Oryzias javanicus OX=123683 GN=OJAV_G00197770 PE=3 SV=1	Oryzias javanicus	463	2334	93.5	95.7	0.0
+609	TR	A0ACE1DPT2	Serine/threonine-protein OS=Arctogadus glacialis OX=185735 GN=ARCGLAARC_LOCUS509 PE=3 SV=1	Arctogadus glacialis	467	2324	96.2	97.8	0.0
+610	TR	A0A4W4HB12	Protein kinase domain-containing protein OS=Electrophorus electricus OX=8005 GN=CDK8 PE=3 SV=2	Electrophorus electricus	476	2320	92.7	95.0	0.0
+611	TR	A0A672FEB4	Serine/threonine-protein OS=Salarias fasciatus OX=181472 GN=cdk8 PE=3 SV=1	Salarias fasciatus	451	2298	92.7	94.0	0.0
+612	TR	A0A672FE34	Serine/threonine-protein OS=Salarias fasciatus OX=181472 GN=cdk8 PE=3 SV=1	Salarias fasciatus	475	2292	92.5	93.8	0.0
+613	TR	A0A7N8YBC6	Serine/threonine-protein OS=Mastacembelus armatus OX=205130 PE=3 SV=1	Mastacembelus armatus	456	2291	91.9	94.4	0.0
+614	TR	A0A3Q3KJP0	Serine/threonine-protein OS=Mastacembelus armatus OX=205130 PE=3 SV=2	Mastacembelus armatus	484	2291	91.9	94.4	0.0
+615	TR	A0A8U0PRI3	Serine/threonine-protein OS=Salvelinus namaycush OX=8040 GN=cdk8 PE=3 SV=1	Salvelinus namaycush	451	2291	91.6	94.4	0.0
+616	TR	A0A8D2PL90	Serine/threonine-protein OS=Zosterops lateralis melanops OX=1220523 PE=3 SV=1	Zosterops lateralis melanops	438	2287	97.3	97.7	0.0
+617	TR	A0A2K5ZVD6	Serine/threonine-protein OS=Mandrillus leucophaeus OX=9568 PE=3 SV=1	Mandrillus leucophaeus	445	2287	98.6	98.8	0.0
+618	TR	A0A8I3PYH0	Serine/threonine-protein OS=Canis lupus familiaris OX=9615 GN=CDK8 PE=3 SV=1	Canis lupus familiaris	428	2284	99.5	99.8	0.0
+619	TR	A0A6I9X2X2	Serine/threonine-protein OS=Thamnophis sirtalis OX=35019 GN=CDK8 PE=3 SV=1	Thamnophis sirtalis	433	2281	99.1	99.5	0.0
+620	TR	A0A803VG88	Serine/threonine-protein OS=Ficedula albicollis OX=59894 GN=WASF3 PE=3 SV=1	Ficedula albicollis	460	2280	98.1	98.8	0.0
+621	TR	A0A2Y9NBD0	Serine/threonine-protein OS=Delphinapterus leucas OX=9749 GN=CDK8 PE=3 SV=1	Delphinapterus leucas	475	2280	94.9	95.6	0.0
+622	TR	A0A8C9E232	Serine/threonine-protein OS=Phocoena sinus OX=42100 GN=CDK8 PE=3 SV=1	Phocoena sinus	475	2280	94.9	95.6	0.0
+623	TR	A0A2U4BGS7	Serine/threonine-protein OS=Tursiops truncatus OX=9739 GN=CDK8 PE=3 SV=2	Tursiops truncatus	475	2280	94.9	95.6	0.0
+624	TR	A0A2U4BGT7	Serine/threonine-protein OS=Tursiops truncatus OX=9739 GN=CDK8 PE=3 SV=2	Tursiops truncatus	462	2280	94.9	95.6	0.0
+625	TR	A0A8C6CCW0	Serine/threonine-protein OS=Monodon monoceros OX=40151 GN=CDK8 PE=3 SV=1	Monodon monoceros	475	2280	94.9	95.6	0.0
+626	TR	A0A8B9QB00	Serine/threonine-protein OS=Apteryx owenii OX=8824 PE=3 SV=1	Apteryx owenii	468	2279	94.5	95.6	0.0
+627	TR	A0A1V4K9I9	Serine/threonine-protein OS=Patagioenas fasciata monilis OX=372326 GN=CDK8 PE=3 SV=1	Patagioenas fasciata monilis	459	2279	99.8	100.0	0.0
+628	TR	A0ABM3XFV2	Serine/threonine-protein OS=Erinaceus europaeus OX=9365 GN=CDK8 PE=3 SV=1	Erinaceus europaeus	439	2279	100.0	100.0	0.0
+629	TR	U3KN30	Serine/threonine-protein OS=Oryctolagus cuniculus OX=9986 GN=CDK8 PE=3 SV=2	Oryctolagus cuniculus	434	2279	100.0	100.0	0.0
+630	TR	A0ACM7E4L9	Serine/threonine-protein OS=Tursiops truncatus OX=9739 GN=CDK8 PE=3 SV=1	Tursiops truncatus	427	2279	100.0	100.0	0.0
+631	TR	A0ABM3P2N2	Serine/threonine-protein OS=Acinonyx jubatus OX=32536 GN=CDK8 PE=3 SV=1	Acinonyx jubatus	434	2279	100.0	100.0	0.0
+632	TR	A0ABM3P2I8	Serine/threonine-protein OS=Acinonyx jubatus OX=32536 GN=CDK8 PE=3 SV=1	Acinonyx jubatus	442	2279	100.0	100.0	0.0
+633	TR	A0A286Y095	Serine/threonine-protein OS=Cavia porcellus OX=10141 GN=CDK8 PE=3 SV=1	Cavia porcellus	449	2276	92.9	93.5	0.0
+634	TR	A0A8B9D4I3	Serine/threonine-protein OS=Anser cygnoides OX=8845 PE=3 SV=1	Anser cygnoides	431	2275	99.5	99.8	0.0
+635	TR	A0A8C9MTV2	Serine/threonine-protein OS=Serinus canaria OX=9135 GN=CDK8 PE=3 SV=1	Serinus canaria	456	2274	97.9	98.6	0.0
+636	TR	A0A4X2LZ51	Serine/threonine-protein OS=Vombatus ursinus OX=29139 GN=CDK8 PE=3 SV=1	Vombatus ursinus	443	2274	99.8	99.8	0.0
+637	TR	A0A7L0MR88	Serine/threonine-protein (Fragment) OS=Amazona guildingii OX=175529 GN=Cdk8 PE=3 SV=1	Amazona guildingii	421	2273	99.8	100.0	0.0
+638	TR	A0A7L1V5H1	Serine/threonine-protein (Fragment) OS=Sitta europaea OX=50251 GN=Cdk8 PE=3 SV=1	Sitta europaea	421	2273	99.8	100.0	0.0
+639	TR	A0A091EHH0	Serine/threonine-protein (Fragment) OS=Corvus brachyrhynchos OX=85066 GN=N302_00916 PE=3 SV=1	Corvus brachyrhynchos	421	2273	99.8	100.0	0.0
+640	TR	A0A7L1QR11	Serine/threonine-protein (Fragment) OS=Cisticola juncidis OX=52622 GN=Cdk8 PE=3 SV=1	Cisticola juncidis	421	2273	99.8	100.0	0.0
+641	TR	A0A850Y4D9	Serine/threonine-protein (Fragment) OS=Aegithalos caudatus OX=73327 GN=Cdk8 PE=3 SV=1	Aegithalos caudatus	421	2273	99.8	100.0	0.0
+642	TR	A0A7K6CBU4	Serine/threonine-protein (Fragment) OS=Ptilonorhynchus violaceus OX=28724 GN=Cdk8 PE=3 SV=1	Ptilonorhynchus violaceus	421	2273	99.8	100.0	0.0
+643	TR	A0A7K9RVT4	Serine/threonine-protein (Fragment) OS=Sterrhoptilus dennistouni OX=2585820 GN=Cdk8 PE=3 SV=1	Sterrhoptilus dennistouni	421	2273	99.8	100.0	0.0
+644	TR	A0A7L2EYK3	Serine/threonine-protein (Fragment) OS=Quiscalus mexicanus OX=64278 GN=Cdk8 PE=3 SV=1	Quiscalus mexicanus	421	2273	99.8	100.0	0.0
+645	TR	A0A7L3EPR4	Serine/threonine-protein (Fragment) OS=Chaetops frenatus OX=221966 GN=Cdk8 PE=3 SV=1	Chaetops frenatus	421	2273	99.8	100.0	0.0
+646	TR	A0A7L3IRL5	Serine/threonine-protein (Fragment) OS=Pardalotus punctatus OX=254575 GN=Cdk8 PE=3 SV=1	Pardalotus punctatus	421	2273	99.8	100.0	0.0
+647	TR	A0A7K7SU50	Serine/threonine-protein (Fragment) OS=Sapayoa aenigma OX=239371 GN=Cdk8 PE=3 SV=1	Sapayoa aenigma	421	2273	99.8	100.0	0.0
+648	TR	A0A093SFL4	Serine/threonine-protein (Fragment) OS=Manacus vitellinus OX=328815 GN=N305_11023 PE=3 SV=1	Manacus vitellinus	421	2273	99.8	100.0	0.0
+649	TR	A0A7K6FSN3	Serine/threonine-protein (Fragment) OS=Daphoenositta chrysoptera OX=254528 GN=Cdk8 PE=3 SV=1	Daphoenositta chrysoptera	421	2273	99.8	100.0	0.0
+650	TR	A0A7L4FU51	Serine/threonine-protein (Fragment) OS=Pampusana beccarii OX=2953425 GN=Cdk8 PE=3 SV=1	Pampusana beccarii	421	2273	99.8	100.0	0.0
+651	TR	A0A7L3R381	Serine/threonine-protein (Fragment) OS=Cettia cetti OX=68486 GN=Cdk8 PE=3 SV=1	Cettia cetti	421	2273	99.8	100.0	0.0
+652	TR	K7FVA7	Serine/threonine-protein OS=Pelodiscus sinensis OX=13735 GN=CDK8 PE=3 SV=1	Pelodiscus sinensis	476	2273	99.3	99.5	0.0
+653	TR	A0A7K8A7E5	Serine/threonine-protein (Fragment) OS=Melanocharis versteri OX=254552 GN=Cdk8 PE=3 SV=1	Melanocharis versteri	421	2273	99.8	100.0	0.0
+654	TR	A0A7K8I7A7	Serine/threonine-protein (Fragment) OS=Aleadryas rufinucha OX=461220 GN=Cdk8 PE=3 SV=1	Aleadryas rufinucha	421	2273	99.8	100.0	0.0
+655	TR	A0A7K6VD12	Serine/threonine-protein (Fragment) OS=Notiomystis cincta OX=366454 GN=Cdk8 PE=3 SV=1	Notiomystis cincta	421	2273	99.8	100.0	0.0
+656	TR	A0A851FLZ9	Serine/threonine-protein (Fragment) OS=Pitta sordida OX=9163 GN=Cdk8 PE=3 SV=1	Pitta sordida	421	2273	99.8	100.0	0.0
+657	TR	A0A671TZP1	Serine/threonine-protein OS=Sparus aurata OX=8175 GN=cdk8 PE=3 SV=1	Sparus aurata	448	2273	92.2	94.0	0.0
+658	TR	A0A7K5SSA1	Serine/threonine-protein (Fragment) OS=Urocynchramus pylzowi OX=571890 GN=Cdk8 PE=3 SV=1	Urocynchramus pylzowi	421	2273	99.8	100.0	0.0
+659	TR	A0A7K8W2F8	Serine/threonine-protein (Fragment) OS=Sclerurus mexicanus OX=265632 GN=Cdk8 PE=3 SV=1	Sclerurus mexicanus	421	2273	99.8	100.0	0.0
+660	TR	A0A7L1YBQ2	Serine/threonine-protein (Fragment) OS=Scytalopus superciliaris OX=312124 GN=Cdk8 PE=3 SV=1	Scytalopus superciliaris	421	2273	99.8	100.0	0.0
+661	TR	A0A852FAG5	Serine/threonine-protein (Fragment) OS=Peucedramus taeniatus OX=135441 GN=Cdk8 PE=3 SV=1	Peucedramus taeniatus	421	2273	99.8	100.0	0.0
+662	TR	A0A851PHK8	Serine/threonine-protein (Fragment) OS=Penelope pileata OX=1118817 GN=Cdk8 PE=3 SV=1	Penelope pileata	421	2273	99.8	100.0	0.0
+663	TR	A0A851JUP3	Serine/threonine-protein (Fragment) OS=Donacobius atricapilla OX=237420 GN=Cdk8 PE=3 SV=1	Donacobius atricapilla	421	2273	99.8	100.0	0.0
+664	TR	A0A7K5YHW8	Serine/threonine-protein (Fragment) OS=Pterocles burchelli OX=2585816 GN=Cdk8 PE=3 SV=1	Pterocles burchelli	421	2273	99.8	100.0	0.0
+665	TR	A0AAX6PN73	Serine/threonine-protein OS=Heterocephalus glaber OX=10181 GN=Cdk8 PE=3 SV=1	Heterocephalus glaber	470	2273	99.8	99.8	0.0
+666	TR	A0ACB9UV62	Serine/threonine-protein OS=Ovis ammon polii x Ovis aries OX=2918886 GN=MJG53_009891 PE=3 SV=1	Ovis ammon polii x Ovis aries	476	2273	99.8	99.8	0.0
+667	TR	A0ABQ7T6E2	Serine/threonine-protein OS=Phrynosoma platyrhinos OX=52577 GN=JD844_033210 PE=3 SV=1	Phrynosoma platyrhinos	442	2272	98.8	99.3	0.0
+668	TR	A0A9L0T3Y5	Serine/threonine-protein OS=Equus caballus OX=9796 GN=CDK8 PE=3 SV=1	Equus caballus	487	2272	99.8	99.8	0.0
+669	TR	A0ACI6RQQ1	Serine/threonine-protein OS=Ovis aries OX=9940 GN=CDK8 PE=3 SV=1	Ovis aries	465	2272	99.5	99.5	0.0
+670	TR	L5MGH5	Serine/threonine-protein OS=Myotis davidii OX=225400 GN=MDA_GLEAN10008295 PE=3 SV=1	Myotis davidii	460	2271	99.3	99.3	0.0
+671	TR	A0A8C2E0I8	Serine/threonine-protein OS=Cyprinus carpio OX=7962 PE=3 SV=1	Cyprinus carpio	452	2270	91.4	94.0	0.0
+672	TR	A0A7K5AZB7	Serine/threonine-protein (Fragment) OS=Furnarius figulus OX=463165 GN=Cdk8 PE=3 SV=1	Furnarius figulus	421	2270	99.5	100.0	0.0
+673	TR	A0A803VHZ3	Serine/threonine-protein OS=Ficedula albicollis OX=59894 GN=WASF3 PE=3 SV=1	Ficedula albicollis	478	2270	99.1	99.8	0.0
+674	TR	A0A8C0YHN8	Serine/threonine-protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	452	2270	91.4	94.0	0.0
+675	TR	A0A7K9XNG2	Serine/threonine-protein (Fragment) OS=Psophia crepitans OX=54359 GN=Cdk8 PE=3 SV=1	Psophia crepitans	421	2270	99.5	100.0	0.0
+676	TR	A0A9J7FY50	Serine/threonine-protein OS=Cricetulus griseus OX=10029 GN=Cdk8 PE=3 SV=1	Cricetulus griseus	453	2270	99.5	99.5	0.0
+677	TR	A0A7L3NAB3	Serine/threonine-protein (Fragment) OS=Oreotrochilus melanogaster OX=689266 GN=Cdk8 PE=3 SV=1	Oreotrochilus melanogaster	421	2269	99.5	99.8	0.0
+678	TR	A0A7L1ZVV4	Serine/threonine-protein (Fragment) OS=Leiothrix lutea OX=36275 GN=Cdk8 PE=3 SV=1	Leiothrix lutea	423	2269	99.3	99.8	0.0
+679	TR	A0A851PKS7	Serine/threonine-protein (Fragment) OS=Anhinga anhinga OX=56067 GN=Cdk8 PE=3 SV=1	Anhinga anhinga	421	2269	99.5	99.8	0.0
+680	TR	A0A7K6S962	Serine/threonine-protein (Fragment) OS=Rhynochetos jubatus OX=54386 GN=Cdk8 PE=3 SV=1	Rhynochetos jubatus	421	2269	99.5	99.8	0.0
+681	TR	A0A7K8Z5D2	Serine/threonine-protein (Fragment) OS=Sakesphorus luctuosus OX=419690 GN=Cdk8 PE=3 SV=1	Sakesphorus luctuosus	421	2269	99.5	99.8	0.0
+682	TR	A0AA40GRF0	Serine/threonine-protein (Fragment) OS=Pygoscelis papua OX=30457 GN=Cdk8 PE=3 SV=1	Pygoscelis papua	421	2269	99.5	99.8	0.0
+683	TR	A0A7L0JUM0	Serine/threonine-protein (Fragment) OS=Chauna torquata OX=30388 GN=Cdk8 PE=3 SV=1	Chauna torquata	421	2269	99.5	99.8	0.0
+684	TR	A0A3Q0GYN5	Serine/threonine-protein OS=Alligator sinensis OX=38654 GN=CDK8 PE=3 SV=1	Alligator sinensis	438	2269	99.5	99.8	0.0
+685	TR	A0A087QMA5	Serine/threonine-protein (Fragment) OS=Aptenodytes forsteri OX=9233 GN=AS27_03141 PE=3 SV=1	Aptenodytes forsteri	421	2269	99.5	99.8	0.0
+686	TR	A0A7L1LK96	Serine/threonine-protein (Fragment) OS=Himantopus himantopus OX=225398 GN=Cdk8 PE=3 SV=1	Himantopus himantopus	421	2269	99.5	99.8	0.0
+687	TR	H0ZMS8	Serine/threonine-protein OS=Taeniopygia guttata OX=59729 GN=CDK8 PE=3 SV=2	Taeniopygia guttata	643	2269	99.3	99.8	0.0
+688	TR	A0A7L0CM93	Serine/threonine-protein (Fragment) OS=Spizaetus tyrannus OX=252798 GN=Cdk8 PE=3 SV=1	Spizaetus tyrannus	421	2269	99.5	99.8	0.0
+689	TR	A0A7L4B342	Serine/threonine-protein (Fragment) OS=Phaetusa simplex OX=297813 GN=Cdk8 PE=3 SV=1	Phaetusa simplex	421	2269	99.5	99.8	0.0
+690	TR	A0A7L0AF08	Serine/threonine-protein (Fragment) OS=Ciconia maguari OX=52777 GN=Cdk8 PE=3 SV=1	Ciconia maguari	421	2269	99.5	99.8	0.0
+691	TR	A0A7K9VHW5	Serine/threonine-protein (Fragment) OS=Anseranas semipalmata OX=8851 GN=Cdk8 PE=3 SV=1	Anseranas semipalmata	421	2269	99.5	99.8	0.0
+692	TR	A0A7K4ZJI9	Serine/threonine-protein (Fragment) OS=Centropus unirufus OX=1118519 GN=Cdk8 PE=3 SV=1	Centropus unirufus	421	2269	99.5	99.8	0.0
+693	TR	A0A663LVS2	Serine/threonine-protein OS=Athene cunicularia OX=194338 GN=CDK8 PE=3 SV=1	Athene cunicularia	422	2269	99.5	99.8	0.0
+694	TR	A0A8J4MXK7	Serine/threonine-protein (Fragment) OS=Eudyptula minor OX=37083 GN=CDK8 PE=3 SV=1	Eudyptula minor	421	2269	99.5	99.8	0.0
+695	TR	A0A7K5XZA2	Serine/threonine-protein (Fragment) OS=Dromas ardeola OX=458190 GN=Cdk8 PE=3 SV=1	Dromas ardeola	421	2269	99.5	99.8	0.0
+696	TR	A0A8J4LCT6	Serine/threonine-protein (Fragment) OS=Aptenodytes patagonicus OX=9234 GN=CDK8 PE=3 SV=1	Aptenodytes patagonicus	421	2269	99.5	99.8	0.0
+697	TR	A0A7K7FNF2	Serine/threonine-protein (Fragment) OS=Chionis minor OX=227182 GN=Cdk8 PE=3 SV=1	Chionis minor	421	2269	99.5	99.8	0.0
+698	TR	A0A7K9DAG5	Serine/threonine-protein (Fragment) OS=Hemiprocne comata OX=243314 GN=Cdk8 PE=3 SV=1	Hemiprocne comata	421	2269	99.5	100.0	0.0
+699	TR	A0A8B9CR26	Serine/threonine-protein OS=Anser brachyrhynchus OX=132585 GN=CDK8 PE=3 SV=1	Anser brachyrhynchus	422	2269	99.5	99.8	0.0
+700	TR	A0A091I2K9	Serine/threonine-protein (Fragment) OS=Calypte anna OX=9244 GN=N300_09443 PE=3 SV=1	Calypte anna	421	2269	99.5	99.8	0.0
+701	TR	A0A091GG72	Serine/threonine-protein (Fragment) OS=Cuculus canorus OX=55661 GN=N303_02097 PE=3 SV=1	Cuculus canorus	421	2269	99.5	99.8	0.0
+702	TR	A0A091VT57	Serine/threonine-protein (Fragment) OS=Nipponia nippon OX=128390 GN=Y956_13479 PE=3 SV=1	Nipponia nippon	421	2269	99.5	99.8	0.0
+703	TR	A0A7L0HKF3	Serine/threonine-protein (Fragment) OS=Arenaria interpres OX=54971 GN=Cdk8 PE=3 SV=1	Arenaria interpres	421	2269	99.5	99.8	0.0
+704	TR	A0A7L1X918	Serine/threonine-protein (Fragment) OS=Thinocorus orbignyianus OX=161742 GN=Cdk8 PE=3 SV=1	Thinocorus orbignyianus	421	2269	99.5	99.8	0.0
+705	TR	U3IP00	Serine/threonine-protein OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CDK8 PE=3 SV=2	Anas platyrhynchos platyrhynchos	434	2269	99.5	99.8	0.0
+706	TR	A0A7L0W4P7	Serine/threonine-protein (Fragment) OS=Alectura lathami OX=81907 GN=Cdk8 PE=3 SV=1	Alectura lathami	421	2269	99.5	99.8	0.0
+707	TR	A0A7K6WK13	Serine/threonine-protein (Fragment) OS=Steatornis caripensis OX=48435 GN=Cdk8 PE=3 SV=1	Steatornis caripensis	421	2269	99.5	99.8	0.0
+708	TR	R0L0E3	Serine/threonine-protein (Fragment) OS=Anas platyrhynchos OX=8839 GN=Anapl_08843 PE=3 SV=1	Anas platyrhynchos	421	2269	99.5	99.8	0.0
+709	TR	A0A7L2Z3X2	Serine/threonine-protein (Fragment) OS=Jacana jacana OX=54508 GN=Cdk8 PE=3 SV=1	Jacana jacana	421	2269	99.5	99.8	0.0
+710	TR	A0A7L1KD08	Serine/threonine-protein (Fragment) OS=Rynchops niger OX=227184 GN=Cdk8 PE=3 SV=1	Rynchops niger	421	2269	99.5	99.8	0.0
+711	TR	A0A7K6N1N5	Serine/threonine-protein (Fragment) OS=Pedionomus torquatus OX=227192 GN=Cdk8 PE=3 SV=1	Pedionomus torquatus	421	2269	99.5	99.8	0.0
+712	TR	H9G703	Serine/threonine-protein OS=Anolis carolinensis OX=28377 GN=cdk8 PE=3 SV=2	Anolis carolinensis	486	2269	99.5	99.8	0.0
+713	TR	A0A7L1MZN8	Serine/threonine-protein (Fragment) OS=Rhinopomastus cyanomelas OX=113115 GN=Cdk8 PE=3 SV=1	Rhinopomastus cyanomelas	421	2269	99.5	99.8	0.0
+714	TR	A0A091L3Q9	Serine/threonine-protein (Fragment) OS=Cathartes aura OX=43455 GN=N323_13089 PE=3 SV=1	Cathartes aura	421	2269	99.5	99.8	0.0
+715	TR	A0A7M4F1U6	Serine/threonine-protein OS=Crocodylus porosus OX=8502 GN=CDK8 PE=3 SV=1	Crocodylus porosus	623	2269	99.3	99.8	0.0
+716	TR	A0A093J0W2	Serine/threonine-protein (Fragment) OS=Dryobates pubescens OX=118200 GN=N307_02333 PE=3 SV=1	Dryobates pubescens	421	2269	99.5	99.8	0.0
+717	TR	A0A7L0TWX2	Serine/threonine-protein (Fragment) OS=Chordeiles acutipennis OX=118183 GN=Cdk8 PE=3 SV=1	Chordeiles acutipennis	421	2269	99.5	99.8	0.0
+718	TR	A0A803W0N4	Serine/threonine-protein OS=Ficedula albicollis OX=59894 GN=WASF3 PE=3 SV=1	Ficedula albicollis	426	2269	99.3	99.8	0.0
+719	TR	A0A803VYL2	Serine/threonine-protein OS=Ficedula albicollis OX=59894 GN=WASF3 PE=3 SV=1	Ficedula albicollis	433	2269	99.3	99.8	0.0
+720	TR	U3K1X5	Serine/threonine-protein OS=Ficedula albicollis OX=59894 GN=WASF3 PE=3 SV=2	Ficedula albicollis	428	2269	99.3	99.8	0.0
+721	TR	A0A7L0X5K1	Serine/threonine-protein (Fragment) OS=Tyrannus savana OX=137541 GN=Cdk8 PE=3 SV=1	Tyrannus savana	421	2269	99.5	99.8	0.0
+722	TR	A0A7K5GQ19	Serine/threonine-protein (Fragment) OS=Chunga burmeisteri OX=1352770 GN=Cdk8 PE=3 SV=1	Chunga burmeisteri	421	2269	99.5	99.8	0.0
+723	TR	A0A0A0AW49	Serine/threonine-protein (Fragment) OS=Charadrius vociferus OX=50402 GN=N301_06852 PE=3 SV=1	Charadrius vociferus	421	2269	99.5	99.8	0.0
+724	TR	A0A7K9MTT3	Serine/threonine-protein (Fragment) OS=Oceanodroma tethys OX=79633 GN=Cdk8 PE=3 SV=1	Oceanodroma tethys	421	2269	99.5	99.8	0.0
+725	TR	A0A7K6U0Z2	Serine/threonine-protein (Fragment) OS=Aegotheles bennettii OX=48278 GN=Cdk8 PE=3 SV=1	Aegotheles bennettii	421	2269	99.5	99.8	0.0
+726	TR	A0A7L2H1V8	Serine/threonine-protein (Fragment) OS=Nyctibius grandis OX=48427 GN=Cdk8 PE=3 SV=1	Nyctibius grandis	421	2269	99.5	99.8	0.0
+727	TR	A0A7K8PWS5	Serine/threonine-protein (Fragment) OS=Cochlearius cochlearius OX=110676 GN=Cdk8 PE=3 SV=1	Cochlearius cochlearius	421	2269	99.5	99.8	0.0
+728	TR	A0A093RFN3	Serine/threonine-protein (Fragment) OS=Pygoscelis adeliae OX=9238 GN=AS28_02409 PE=3 SV=1	Pygoscelis adeliae	421	2269	99.5	99.8	0.0
+729	TR	A0A091T8L4	Serine/threonine-protein (Fragment) OS=Nestor notabilis OX=176057 GN=N333_09573 PE=3 SV=1	Nestor notabilis	421	2269	99.5	99.8	0.0
+730	TR	A0A7K7U9G7	Serine/threonine-protein (Fragment) OS=Ibidorhyncha struthersii OX=425643 GN=Cdk8 PE=3 SV=1	Ibidorhyncha struthersii	421	2269	99.5	99.8	0.0
+731	TR	A0A093I7Z9	Serine/threonine-protein (Fragment) OS=Struthio camelus australis OX=441894 GN=N308_01862 PE=3 SV=1	Struthio camelus australis	421	2269	99.5	99.8	0.0
+732	TR	A0A8C0ERJ9	Serine/threonine-protein OS=Bubo bubo OX=30461 PE=3 SV=1	Bubo bubo	428	2269	99.5	99.8	0.0
+733	TR	A0A7L0FFM7	Serine/threonine-protein (Fragment) OS=Corythaixoides concolor OX=103956 GN=Cdk8 PE=3 SV=1	Corythaixoides concolor	421	2269	99.5	99.8	0.0
+734	TR	A0A663FF95	Serine/threonine-protein OS=Aquila chrysaetos chrysaetos OX=223781 GN=CDK8 PE=3 SV=1	Aquila chrysaetos chrysaetos	425	2269	99.5	99.8	0.0
+735	TR	A0A7K7L6H2	Serine/threonine-protein (Fragment) OS=Asarcornis scutulata OX=75869 GN=Cdk8 PE=3 SV=1	Asarcornis scutulata	421	2269	99.5	99.8	0.0
+736	TR	A0A091JJ46	Serine/threonine-protein (Fragment) OS=Egretta garzetta OX=188379 GN=Z169_16511 PE=3 SV=1	Egretta garzetta	421	2269	99.5	99.8	0.0
+737	TR	A0A091WQW9	Serine/threonine-protein (Fragment) OS=Opisthocomus hoazin OX=30419 GN=N306_09150 PE=3 SV=1	Opisthocomus hoazin	421	2268	99.5	99.8	0.0
+738	TR	A0A7K8N1T8	Serine/threonine-protein (Fragment) OS=Casuarius casuarius OX=8787 GN=Cdk8 PE=3 SV=1	Casuarius casuarius	421	2268	99.5	99.8	0.0
+739	TR	A0A7K5CGF9	Serine/threonine-protein (Fragment) OS=Motacilla alba OX=45807 GN=Cdk8 PE=3 SV=1	Motacilla alba	420	2268	99.8	100.0	0.0
+740	TR	A0A671TYA4	Serine/threonine-protein OS=Sparus aurata OX=8175 GN=cdk8 PE=3 SV=1	Sparus aurata	460	2267	91.4	94.0	0.0
+741	TR	A0A5F8G3B2	Serine/threonine-protein OS=Monodelphis domestica OX=13616 GN=CDK8 PE=3 SV=1	Monodelphis domestica	443	2267	99.5	99.5	0.0
+742	TR	A0A5F8G7N7	Serine/threonine-protein OS=Monodelphis domestica OX=13616 GN=CDK8 PE=3 SV=1	Monodelphis domestica	492	2267	99.5	99.5	0.0
+743	TR	A0A8D0A1J5	Serine/threonine-protein OS=Sander lucioperca OX=283035 GN=cdk8 PE=3 SV=1	Sander lucioperca	472	2266	90.7	92.8	0.0
+744	TR	A0A850TW14	Serine/threonine-protein (Fragment) OS=Grus americana OX=9117 GN=Cdk8 PE=3 SV=1	Grus americana	421	2266	99.3	99.8	0.0
+745	TR	A0A7L1T1F6	Serine/threonine-protein (Fragment) OS=Aramus guarauna OX=54356 GN=Cdk8 PE=3 SV=1	Aramus guarauna	421	2266	99.3	99.8	0.0
+746	TR	A0A087V4Y8	Serine/threonine-protein (Fragment) OS=Balearica regulorum gibbericeps OX=100784 GN=N312_07425 PE=3 SV=1	Balearica regulorum gibbericeps	421	2266	99.3	99.8	0.0
+747	TR	A0ACI6R8B2	Serine/threonine-protein OS=Ovis aries OX=9940 GN=CDK8 PE=3 SV=1	Ovis aries	456	2266	99.5	99.5	0.0
+748	TR	A0ACI6RDB8	Serine/threonine-protein OS=Ovis aries OX=9940 GN=CDK8 PE=3 SV=1	Ovis aries	426	2266	99.5	99.5	0.0
+749	TR	A0A7L0PUV2	Serine/threonine-protein (Fragment) OS=Mesembrinibis cayennensis OX=1118748 GN=Cdk8 PE=3 SV=1	Mesembrinibis cayennensis	420	2264	99.5	99.8	0.0
+750	TR	A0A093CDT2	Serine/threonine-protein (Fragment) OS=Tauraco erythrolophus OX=121530 GN=N340_02749 PE=3 SV=1	Tauraco erythrolophus	421	2264	99.3	99.5	0.0
+751	TR	A0A7L1IE22	Serine/threonine-protein (Fragment) OS=Smutsornis africanus OX=240209 GN=Cdk8 PE=3 SV=1	Smutsornis africanus	421	2264	99.3	99.5	0.0
+752	TR	A0A7L4M695	Serine/threonine-protein (Fragment) OS=Glareola pratincola OX=43316 GN=Cdk8 PE=3 SV=1	Glareola pratincola	421	2264	99.3	99.5	0.0
+753	TR	A0A6P8GYT0	Serine/threonine-protein OS=Clupea harengus OX=7950 GN=cdk8 PE=3 SV=1	Clupea harengus	447	2263	90.8	92.9	0.0
+754	TR	A0A8C0G0B3	Serine/threonine-protein OS=Chelonoidis abingdonii OX=106734 GN=CDK8 PE=3 SV=1	Chelonoidis abingdonii	452	2263	99.5	100.0	0.0
+755	TR	A0A7K9FG05	Serine/threonine-protein (Fragment) OS=Stercorarius parasiticus OX=54059 GN=Cdk8 PE=3 SV=1	Stercorarius parasiticus	420	2263	99.5	99.8	0.0
+756	TR	A0A2Y9NFJ7	Serine/threonine-protein OS=Delphinapterus leucas OX=9749 GN=CDK8 PE=3 SV=1	Delphinapterus leucas	474	2263	94.7	95.4	0.0
+757	TR	A0A2U4BGW6	Serine/threonine-protein OS=Tursiops truncatus OX=9739 GN=CDK8 PE=3 SV=2	Tursiops truncatus	474	2263	94.7	95.4	0.0
+758	TR	A0A1V4K9N2	Serine/threonine-protein OS=Patagioenas fasciata monilis OX=372326 GN=CDK8 PE=3 SV=1	Patagioenas fasciata monilis	458	2262	99.5	99.8	0.0
+759	TR	A0ABI7ZXB3	Serine/threonine-protein OS=Felis catus OX=9685 GN=CDK8 PE=3 SV=1	Felis catus	433	2262	99.8	99.8	0.0
+760	TR	A0ABI7ZXC7	Serine/threonine-protein OS=Felis catus OX=9685 GN=CDK8 PE=3 SV=1	Felis catus	441	2262	99.8	99.8	0.0
+761	TR	A0AAD1R9K0	Serine/threonine-protein OS=Pelobates cultripes OX=61616 GN=PECUL_23A033710 PE=3 SV=1	Pelobates cultripes	424	2260	98.6	99.5	0.0
+762	TR	A0A8C8LLH8	Serine/threonine-protein OS=Oncorhynchus tshawytscha OX=74940 GN=CDK8 PE=3 SV=2	Oncorhynchus tshawytscha	471	2258	89.9	92.4	0.0
+763	TR	A0A674N2U8	Serine/threonine-protein OS=Takifugu rubripes OX=31033 GN=cdk8 PE=3 SV=1	Takifugu rubripes	448	2257	92.0	93.8	0.0
+764	TR	A0AAX6PL64	Serine/threonine-protein OS=Heterocephalus glaber OX=10181 GN=Cdk8 PE=3 SV=1	Heterocephalus glaber	469	2256	99.5	99.5	0.0
+765	TR	A0A665UVP0	Serine/threonine-protein OS=Echeneis naucrates OX=173247 GN=cdk8 PE=3 SV=1	Echeneis naucrates	454	2255	91.0	92.9	0.0
+766	TR	A0A3Q0GZG7	Serine/threonine-protein OS=Alligator sinensis OX=38654 GN=CDK8 PE=3 SV=1	Alligator sinensis	437	2252	99.3	99.5	0.0
+767	TR	A0A8C4VHW5	Serine/threonine-protein OS=Gopherus evgoodei OX=1825980 GN=CDK8 PE=3 SV=1	Gopherus evgoodei	426	2252	99.1	99.5	0.0
+768	TR	A0A670I1I8	Serine/threonine-protein OS=Podarcis muralis OX=64176 GN=CDK8 PE=3 SV=1	Podarcis muralis	446	2251	97.7	98.4	0.0
+769	TR	A0A672ZKR2	Serine/threonine-protein OS=Sphaeramia orbicularis OX=375764 GN=LOC115411194 PE=3 SV=1	Sphaeramia orbicularis	447	2251	91.6	93.5	0.0
+770	TR	A0A8C6I0F9	Serine/threonine-protein OS=Mus spicilegus OX=10103 PE=3 SV=1	Mus spicilegus	480	2251	98.1	98.6	0.0
+771	TR	A0A8C9W6V7	Serine/threonine-protein OS=Scleropages formosus OX=113540 GN=cdk8 PE=3 SV=1	Scleropages formosus	449	2250	91.6	93.5	0.0
+772	TR	A0A3B5LKQ8	Serine/threonine-protein OS=Xiphophorus couchianus OX=32473 PE=3 SV=1	Xiphophorus couchianus	465	2250	90.3	93.8	0.0
+773	TR	A0A9J7X103	Serine/threonine-protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	456	2247	90.8	93.6	0.0
+774	TR	A0A674DP50	Serine/threonine-protein OS=Salmo trutta OX=8032 GN=CDK8 PE=3 SV=1	Salmo trutta	479	2246	88.4	90.9	0.0
+775	TR	A0A4W6DMQ0	Serine/threonine-protein OS=Lates calcarifer OX=8187 GN=CDK8 PE=3 SV=1	Lates calcarifer	465	2246	90.8	92.8	0.0
+776	TR	A0A8C2SNB8	Cyclin dependent kinase 8 OS=Coturnix japonica OX=93934 GN=CDK8 PE=3 SV=1	Coturnix japonica	440	2245	91.4	92.5	0.0
+777	TR	A0A8C8AXA8	Serine/threonine-protein OS=Otus sunia OX=257818 PE=3 SV=1	Otus sunia	430	2243	94.4	95.1	0.0
+778	TR	A0A8J0U927	Serine/threonine-protein OS=Xenopus laevis OX=8355 GN=cdk8.L PE=3 SV=1	Xenopus laevis	460	2242	97.6	99.3	0.0
+779	TR	A0AAR2J405	Serine/threonine-protein OS=Pygocentrus nattereri OX=42514 GN=CDK8 PE=3 SV=1	Pygocentrus nattereri	453	2241	90.5	93.1	0.0
+780	TR	A0A2Y9NLP4	Serine/threonine-protein OS=Delphinapterus leucas OX=9749 GN=CDK8 PE=3 SV=1	Delphinapterus leucas	487	2239	92.1	92.7	0.0
+781	TR	A0A8J6KKY3	Serine/threonine-protein OS=Eleutherodactylus coqui OX=57060 GN=GDO78_000404 PE=3 SV=1	Eleutherodactylus coqui	436	2236	97.6	99.3	0.0
+782	TR	A0A671TZU6	Serine/threonine-protein OS=Sparus aurata OX=8175 GN=cdk8 PE=3 SV=1	Sparus aurata	455	2236	91.6	93.3	0.0
+783	TR	A0A2U4BH74	Serine/threonine-protein OS=Tursiops truncatus OX=9739 GN=CDK8 PE=3 SV=2	Tursiops truncatus	470	2235	93.8	94.5	0.0
+784	TR	A0A8C1GDE3	Serine/threonine-protein OS=Cyprinus carpio OX=7962 GN=LOC109064586 PE=3 SV=1	Cyprinus carpio	457	2233	90.1	92.7	0.0
+785	TR	A0A7K7B5Q9	Serine/threonine-protein (Fragment) OS=Nothoprocta ornata OX=83376 GN=Cdk8 PE=3 SV=1	Nothoprocta ornata	424	2228	97.6	98.3	0.0
+786	TR	A0ACB8VI23	Serine/threonine-protein OS=Scortum barcoo OX=214431 GN=L3Q82_018119 PE=3 SV=1	Scortum barcoo	1016	2225	97.2	98.6	0.0
+787	TR	A0A7K6ZTN2	Serine/threonine-protein (Fragment) OS=Nothoprocta pentlandii OX=2585814 GN=Cdk8 PE=3 SV=1	Nothoprocta pentlandii	424	2222	97.4	98.1	0.0
+788	TR	A0ABM4E1U7	Serine/threonine-protein OS=Apteryx mantelli OX=2696672 GN=CDK8 PE=3 SV=1	Apteryx mantelli	422	2220	90.1	90.5	0.0
+789	TR	A0A3Q2TGB2	Serine/threonine-protein OS=Fundulus heteroclitus OX=8078 PE=3 SV=1	Fundulus heteroclitus	449	2217	97.1	98.6	0.0
+790	TR	A0A8C3AVA2	Serine/threonine-protein OS=Cyclopterus lumpus OX=8103 PE=3 SV=1	Cyclopterus lumpus	455	2217	89.4	91.5	0.0
+791	TR	A0A8I5ZVW8	Serine/threonine-protein OS=Rattus norvegicus OX=10116 GN=Cdk8 PE=3 SV=2	Rattus norvegicus	507	2214	99.3	99.5	0.0
+792	TR	A0A668SW45	Serine/threonine-protein OS=Oreochromis aureus OX=47969 GN=CDK8 PE=3 SV=2	Oreochromis aureus	459	2211	96.9	98.3	0.0
+793	TR	A0A3Q1H509	Serine/threonine-protein OS=Acanthochromis polyacanthus OX=80966 PE=3 SV=1	Acanthochromis polyacanthus	449	2211	96.9	98.3	0.0
+794	TR	A0A9J8C2Q4	Serine/threonine-protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	444	2208	96.5	98.1	0.0
+795	TR	A0A667X4N4	Serine/threonine-protein OS=Myripristis murdjan OX=586833 GN=cdk8 PE=3 SV=1	Myripristis murdjan	422	2207	96.7	98.3	0.0
+796	TR	A0A671T0F8	Serine/threonine-protein OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107654184 PE=3 SV=1	Sinocyclocheilus anshuiensis	470	2207	96.7	98.1	0.0
+797	TR	A0A8C8E133	Serine/threonine-protein OS=Oryzias sinensis OX=183150 PE=3 SV=1	Oryzias sinensis	447	2204	89.4	92.0	0.0
+798	TR	A0A8C3I9A5	Serine/threonine-protein OS=Chrysemys picta bellii OX=8478 PE=3 SV=1	Chrysemys picta bellii	457	2204	89.3	91.5	0.0
+799	TR	A0A2U4BGT2	Serine/threonine-protein OS=Tursiops truncatus OX=9739 GN=CDK8 PE=3 SV=2	Tursiops truncatus	465	2201	92.7	93.4	0.0
+800	TR	W5M970	Serine/threonine-protein OS=Lepisosteus oculatus OX=7918 PE=3 SV=1	Lepisosteus oculatus	426	2197	96.0	96.9	0.0
+801	TR	A0A674NJL4	Serine/threonine-protein OS=Takifugu rubripes OX=31033 GN=cdk8 PE=3 SV=1	Takifugu rubripes	459	2194	96.7	98.1	0.0
+802	TR	A0A674PN80	Serine/threonine-protein OS=Takifugu rubripes OX=31033 GN=cdk8 PE=3 SV=1	Takifugu rubripes	466	2194	96.7	98.1	0.0
+803	TR	A0A9J7Z8D9	Serine/threonine-protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	426	2194	96.2	97.9	0.0
+804	TR	A0AAY4ALV7	Serine/threonine-protein OS=Denticeps clupeoides OX=299321 GN=CDK8 PE=3 SV=1	Denticeps clupeoides	501	2192	94.0	95.6	0.0
+805	TR	A0A8D2MWX6	Serine/threonine-protein OS=Zonotrichia albicollis OX=44394 GN=CDK8 PE=3 SV=1	Zonotrichia albicollis	405	2190	99.8	100.0	0.0
+806	TR	A0A091RGI3	Serine/threonine-protein (Fragment) OS=Merops nubicus OX=57421 GN=N331_09321 PE=3 SV=1	Merops nubicus	409	2187	99.3	99.8	0.0
+807	TR	A0A8N5I5R9	Serine/threonine-protein OS=Geospiza fortis OX=48883 GN=CDK8 PE=3 SV=1	Geospiza fortis	404	2186	99.8	100.0	0.0
+808	TR	A0ABM3XFV4	Serine/threonine-protein OS=Erinaceus europaeus OX=9365 GN=CDK8 PE=3 SV=1	Erinaceus europaeus	404	2185	99.8	99.8	0.0
+809	TR	A0ABM4L2T7	Serine/threonine-protein OS=Equus przewalskii OX=9798 GN=CDK8 PE=3 SV=1	Equus przewalskii	404	2185	99.8	99.8	0.0
+810	TR	A0A341CBK5	Serine/threonine-protein OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=CDK8 PE=3 SV=1	Neophocaena asiaeorientalis asiaeorientalis	404	2185	99.8	99.8	0.0
+811	TR	A0ABM4XD31	Serine/threonine-protein OS=Vulpes vulpes OX=9627 GN=CDK8 PE=3 SV=1	Vulpes vulpes	404	2185	99.8	99.8	0.0
+812	TR	A0A8J4WXB1	Serine/threonine-protein (Fragment) OS=Clarias magur OX=1594786 GN=cdk8 PE=3 SV=1	Clarias magur	420	2184	96.2	97.9	0.0
+813	TR	A0ABM2XXA8	Serine/threonine-protein OS=Mesocricetus auratus OX=10036 GN=Cdk8 PE=3 SV=1	Mesocricetus auratus	404	2184	99.8	99.8	0.0
+814	TR	A0A8C8AX88	Serine/threonine-protein OS=Otus sunia OX=257818 PE=3 SV=1	Otus sunia	404	2182	99.5	99.8	0.0
+815	TR	A0ABM4E1V2	Serine/threonine-protein OS=Apteryx mantelli OX=2696672 GN=CDK8 PE=3 SV=1	Apteryx mantelli	404	2182	99.5	99.8	0.0
+816	TR	A0A8B9CU18	Serine/threonine-protein OS=Anser brachyrhynchus OX=132585 GN=CDK8 PE=3 SV=1	Anser brachyrhynchus	404	2182	99.5	99.8	0.0
+817	TR	A0A9F5MTB4	Serine/threonine-protein OS=Python bivittatus OX=176946 GN=CDK8 PE=3 SV=1	Python bivittatus	404	2182	99.5	99.8	0.0
+818	TR	A0A8B9SE03	Serine/threonine-protein OS=Apteryx owenii OX=8824 PE=3 SV=1	Apteryx owenii	404	2182	99.5	99.8	0.0
+819	TR	A0A8C0IBE1	Serine/threonine-protein OS=Bubo bubo OX=30461 PE=3 SV=1	Bubo bubo	404	2182	99.5	99.8	0.0
+820	TR	A0A671T3H6	Serine/threonine-protein OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107654184 PE=3 SV=1	Sinocyclocheilus anshuiensis	506	2182	93.2	94.5	0.0
+821	TR	A0AC58K4F0	Serine/threonine-protein OS=Castor canadensis OX=51338 GN=Cdk8 PE=3 SV=1	Castor canadensis	404	2180	99.5	99.8	0.0
+822	TR	A0A9J7FVZ6	Serine/threonine-protein OS=Cricetulus griseus OX=10029 GN=Cdk8 PE=3 SV=1	Cricetulus griseus	404	2180	99.5	99.5	0.0
+823	TR	A0ACE3CD44	Serine/threonine-protein OS=Leuciscus chuanchicus OX=3231064 GN=LCH_LOCUS26514 PE=3 SV=1	Leuciscus chuanchicus	430	2179	95.3	96.7	0.0
+824	TR	A0A9Q0ESI2	Serine/threonine-protein OS=Muraenolepis orangiensis OX=630683 GN=NHX12_021132 PE=3 SV=1	Muraenolepis orangiensis	432	2179	89.0	91.0	0.0
+825	TR	A0A6I9X476	Serine/threonine-protein OS=Thamnophis sirtalis OX=35019 GN=CDK8 PE=3 SV=1	Thamnophis sirtalis	404	2179	99.3	99.8	0.0
+826	TR	A0A6P8RKG9	Serine/threonine-protein OS=Geotrypetes seraphini OX=260995 GN=CDK8 PE=3 SV=1	Geotrypetes seraphini	404	2178	99.3	99.8	0.0
+827	TR	A0AAY4ALU9	Serine/threonine-protein OS=Denticeps clupeoides OX=299321 GN=CDK8 PE=3 SV=1	Denticeps clupeoides	494	2174	90.3	91.8	0.0
+828	TR	A0ABM0J5S7	Serine/threonine-protein OS=Echinops telfairi OX=9371 GN=CDK8 PE=3 SV=1	Echinops telfairi	404	2173	99.0	99.3	0.0
+829	TR	A0A1S3G1T9	Serine/threonine-protein OS=Dipodomys ordii OX=10020 GN=Cdk8 PE=3 SV=1	Dipodomys ordii	403	2172	99.8	99.8	0.0
+830	TR	B4DL75	Serine/threonine-protein OS=Homo sapiens OX=9606 PE=2 SV=1	Homo sapiens	403	2172	99.8	99.8	0.0
+831	TR	A0A8N5I5L9	Serine/threonine-protein OS=Geospiza fortis OX=48883 GN=CDK8 PE=3 SV=1	Geospiza fortis	403	2169	99.5	99.8	0.0
+832	TR	A0A2I0MCM0	Serine/threonine-protein OS=Columba livia OX=8932 GN=CDK8 PE=3 SV=1	Columba livia	403	2169	99.5	99.8	0.0
+833	TR	H0WUH0	Serine/threonine-protein OS=Otolemur garnettii OX=30611 PE=3 SV=1	Otolemur garnettii	407	2169	99.0	99.0	0.0
+834	TR	A0ABM4L2U2	Serine/threonine-protein OS=Equus przewalskii OX=9798 GN=CDK8 PE=3 SV=1	Equus przewalskii	403	2168	99.5	99.5	0.0
+835	TR	A0A341CAA7	Serine/threonine-protein OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=CDK8 PE=3 SV=1	Neophocaena asiaeorientalis asiaeorientalis	403	2168	99.5	99.5	0.0
+836	TR	A0A8C7C914	Serine/threonine-protein OS=Neogale vison OX=452646 GN=CDK8 PE=3 SV=1	Neogale vison	403	2167	99.5	99.5	0.0
+837	TR	A0A3Q0H3C2	Serine/threonine-protein OS=Alligator sinensis OX=38654 GN=CDK8 PE=3 SV=1	Alligator sinensis	410	2165	98.0	98.3	0.0
+838	TR	A0A8C8C5I8	Serine/threonine-protein OS=Oncorhynchus tshawytscha OX=74940 GN=CDK8 PE=3 SV=1	Oncorhynchus tshawytscha	423	2161	94.5	97.4	0.0
+839	TR	A0A8C7MF19	Serine/threonine-protein OS=Oncorhynchus kisutch OX=8019 GN=CDK8 PE=3 SV=1	Oncorhynchus kisutch	423	2161	94.5	97.4	0.0
+840	TR	A0A8C7GXP0	Serine/threonine-protein OS=Oncorhynchus kisutch OX=8019 GN=CDK8 PE=3 SV=1	Oncorhynchus kisutch	432	2161	94.5	97.4	0.0
+841	TR	A0ABM0J5S8	Serine/threonine-protein OS=Echinops telfairi OX=9371 GN=CDK8 PE=3 SV=1	Echinops telfairi	403	2156	98.8	99.0	0.0
+842	TR	A0A093BTQ9	Serine/threonine-protein (Fragment) OS=Pterocles gutturalis OX=240206 GN=N339_01799 PE=3 SV=1	Pterocles gutturalis	401	2150	98.8	99.3	0.0
+843	TR	A0A7K4S3G2	Serine/threonine-protein (Fragment) OS=Columbina picui OX=115618 GN=Cdk8 PE=3 SV=1	Columbina picui	404	2149	95.7	96.0	0.0
+844	TR	A0A6G1ABK3	Serine/threonine-protein (Fragment) OS=Crocuta crocuta OX=9678 GN=Cdk8 PE=3 SV=1	Crocuta crocuta	396	2149	100.0	100.0	0.0
+845	TR	A0A8C0ENY2	Serine/threonine-protein OS=Bubo bubo OX=30461 PE=3 SV=1	Bubo bubo	410	2148	97.3	97.6	0.0
+846	TR	A0A7K7XJV8	Serine/threonine-protein (Fragment) OS=Mohoua ochrocephala OX=874463 GN=Cdk8 PE=3 SV=1	Mohoua ochrocephala	398	2147	99.2	99.7	0.0
+847	TR	A0A8C0VVP6	Serine/threonine-protein OS=Cyanistes caeruleus OX=156563 GN=CDK8 PE=3 SV=1	Cyanistes caeruleus	442	2146	99.7	100.0	0.0
+848	TR	A0A093LTJ2	Serine/threonine-protein (Fragment) OS=Eurypyga helias OX=54383 GN=N326_12785 PE=3 SV=1	Eurypyga helias	398	2143	99.0	99.5	0.0
+849	TR	A0A091QTT0	Serine/threonine-protein (Fragment) OS=Mesitornis unicolor OX=54374 GN=N332_06338 PE=3 SV=1	Mesitornis unicolor	398	2143	99.0	99.5	0.0
+850	TR	A0A7K4JHS2	Serine/threonine-protein (Fragment) OS=Geococcyx californianus OX=8947 GN=Cdk8 PE=3 SV=1	Geococcyx californianus	398	2143	99.0	99.5	0.0
+851	TR	A0A7K8V7C8	Serine/threonine-protein (Fragment) OS=Ciccaba nigrolineata OX=1118524 GN=Cdk8 PE=3 SV=1	Ciccaba nigrolineata	398	2143	99.0	99.5	0.0
+852	TR	A0A7M4F1N4	Serine/threonine-protein OS=Crocodylus porosus OX=8502 GN=CDK8 PE=3 SV=1	Crocodylus porosus	545	2143	99.0	99.2	0.0
+853	TR	A0A7K6YSS1	Serine/threonine-protein (Fragment) OS=Alca torda OX=28689 GN=Cdk8 PE=3 SV=1	Alca torda	398	2143	99.0	99.5	0.0
+854	TR	A0A8C3D3C7	Serine/threonine-protein OS=Cairina moschata OX=8855 PE=3 SV=1	Cairina moschata	426	2142	99.5	99.7	0.0
+855	TR	A0A8C6T906	Serine/threonine-protein OS=Neogobius melanostomus OX=47308 PE=3 SV=1	Neogobius melanostomus	431	2140	87.3	90.3	0.0
+856	TR	A0A7L3F2J6	Serine/threonine-protein (Fragment) OS=Zapornia atra OX=2585822 GN=Cdk8 PE=3 SV=1	Zapornia atra	398	2140	98.7	99.5	0.0
+857	TR	A0A9J7FVU9	Serine/threonine-protein OS=Cricetulus griseus OX=10029 GN=Cdk8 PE=3 SV=1	Cricetulus griseus	412	2140	99.5	99.5	0.0
+858	TR	A0ABM4L2V0	Serine/threonine-protein OS=Equus przewalskii OX=9798 GN=CDK8 PE=3 SV=1	Equus przewalskii	399	2140	98.5	98.5	0.0
+859	TR	A0A091NQX6	Serine/threonine-protein (Fragment) OS=Apaloderma vittatum OX=57397 GN=N311_04012 PE=3 SV=1	Apaloderma vittatum	398	2138	98.7	99.2	0.0
+860	TR	A0A8C5K706	Serine/threonine-protein OS=Jaculus jaculus OX=51337 GN=Cdk8 PE=3 SV=1	Jaculus jaculus	399	2133	98.3	98.3	0.0
+861	TR	G1PD58	Serine/threonine-protein OS=Myotis lucifugus OX=59463 GN=CDK8 PE=3 SV=2	Myotis lucifugus	401	2131	99.0	99.0	0.0
+862	TR	A0A4W3HRB4	Serine/threonine-protein OS=Callorhinchus milii OX=7868 GN=cdk8 PE=3 SV=1	Callorhinchus milii	421	2130	94.3	96.5	0.0
+863	TR	A0A8C3UJA1	Serine/threonine-protein OS=Catharus ustulatus OX=91951 GN=LOC116992495 PE=3 SV=1	Catharus ustulatus	408	2130	99.0	99.5	0.0
+864	TR	A0A8C5GMT2	Serine/threonine-protein OS=Gouania willdenowi OX=441366 GN=cdk8 PE=3 SV=1	Gouania willdenowi	418	2127	94.5	96.2	0.0
+865	TR	A0A9W2XR50	Serine/threonine-protein OS=Betta splendens OX=158456 GN=cdk8 PE=3 SV=1	Betta splendens	404	2124	96.8	98.3	0.0
+866	TR	A0A3L8STZ9	Serine/threonine-protein OS=Chloebia gouldiae OX=44316 GN=DV515_00003135 PE=3 SV=1	Chloebia gouldiae	512	2124	99.2	99.5	0.0
+867	TR	A0A6P5L448	Serine/threonine-protein OS=Phascolarctos cinereus OX=38626 GN=CDK8 PE=3 SV=1	Phascolarctos cinereus	409	2122	98.5	98.7	0.0
+868	TR	A0A8C3ASH0	Serine/threonine-protein OS=Cyclopterus lumpus OX=8103 PE=3 SV=1	Cyclopterus lumpus	404	2119	96.5	98.0	0.0
+869	TR	E9Q6E2	Serine/threonine-protein OS=Mus musculus OX=10090 GN=Cdk8 PE=1 SV=1	Mus musculus	399	2118	97.5	97.8	0.0
+870	TR	A0A8C5UZR7	Serine/threonine-protein OS=Microcebus murinus OX=30608 GN=CDK8 PE=3 SV=1	Microcebus murinus	400	2115	98.0	98.0	0.0
+871	TR	A0A667WWY6	Serine/threonine-protein OS=Myripristis murdjan OX=586833 GN=cdk8 PE=3 SV=1	Myripristis murdjan	457	2111	85.6	89.0	0.0
+872	TR	A0A851LQG8	Serine/threonine-protein (Fragment) OS=Corythaeola cristata OX=103954 GN=Cdk8 PE=3 SV=1	Corythaeola cristata	405	2111	96.8	97.3	0.0
+873	TR	A0A2K5SI44	Serine/threonine-protein OS=Cebus imitator OX=2715852 GN=CDK8 PE=3 SV=1	Cebus imitator	401	2110	97.5	97.8	0.0
+874	TR	A0A2R9B4M8	Serine/threonine-protein OS=Pan paniscus OX=9597 PE=3 SV=1	Pan paniscus	398	2107	97.8	97.8	0.0
+875	TR	A0A2K5L377	Serine/threonine-protein OS=Cercocebus atys OX=9531 PE=3 SV=1	Cercocebus atys	398	2107	97.8	97.8	0.0
+876	TR	A0A2K5C2X8	Serine/threonine-protein OS=Aotus nancymaae OX=37293 PE=3 SV=1	Aotus nancymaae	393	2104	98.7	98.7	0.0
+877	TR	A0A2K6R7V5	Serine/threonine-protein OS=Rhinopithecus roxellana OX=61622 GN=CDK8 PE=3 SV=1	Rhinopithecus roxellana	398	2100	97.5	97.8	0.0
+878	TR	A0A2K6BR82	Serine/threonine-protein OS=Macaca nemestrina OX=9545 PE=3 SV=1	Macaca nemestrina	398	2098	97.5	97.8	0.0
+879	TR	A0A2K5ZVF5	Serine/threonine-protein OS=Mandrillus leucophaeus OX=9568 PE=3 SV=1	Mandrillus leucophaeus	398	2098	97.5	97.8	0.0
+880	TR	A0A2K5INU2	Serine/threonine-protein OS=Colobus angolensis palliatus OX=336983 PE=3 SV=1	Colobus angolensis palliatus	397	2097	97.5	97.5	0.0
+881	TR	A0A6I9MEK5	Serine/threonine-protein OS=Notothenia coriiceps OX=8208 GN=cdk8 PE=3 SV=1	Notothenia coriiceps	413	2092	93.7	96.4	0.0
+882	TR	A0A6A1QFC5	Protein kinase domain-containing protein (Fragment) OS=Balaenoptera physalus OX=9770 GN=E2I00_018936 PE=3 SV=1	Balaenoptera physalus	446	2089	95.4	95.9	0.0
+883	TR	A0ABM4L2U4	Serine/threonine-protein OS=Equus przewalskii OX=9798 GN=CDK8 PE=3 SV=1	Equus przewalskii	393	2089	97.0	97.0	0.0
+884	TR	A0A8C6YJV2	Serine/threonine-protein OS=Naja naja OX=35670 GN=CDK8 PE=3 SV=1	Naja naja	448	2088	85.7	87.2	0.0
+885	TR	A0A8C6PZC6	Serine/threonine-protein OS=Nothobranchius furzeri OX=105023 GN=CDK8 PE=3 SV=2	Nothobranchius furzeri	398	2087	96.2	98.5	0.0
+886	TR	A0A851S7H6	Serine/threonine-protein (Fragment) OS=Certhia familiaris OX=73333 GN=Cdk8 PE=3 SV=1	Certhia familiaris	415	2081	92.9	94.1	0.0
+887	TR	A0A4W3HY82	Serine/threonine-protein OS=Callorhinchus milii OX=7868 GN=cdk8 PE=3 SV=1	Callorhinchus milii	404	2080	96.0	97.3	0.0
+888	TR	A0A6I9MP60	Serine/threonine-protein OS=Notothenia coriiceps OX=8208 GN=cdk8 PE=3 SV=1	Notothenia coriiceps	416	2078	93.0	95.7	0.0
+889	TR	A0A8C3ASE4	Serine/threonine-protein OS=Cyclopterus lumpus OX=8103 PE=3 SV=1	Cyclopterus lumpus	468	2077	86.2	88.6	0.0
+890	TR	A0A673G336	Serine/threonine-protein OS=Sinocyclocheilus rhinocerous OX=307959 PE=3 SV=1	Sinocyclocheilus rhinocerous	400	2066	96.2	97.7	0.0
+891	TR	A0ABM3E6K0	Serine/threonine-protein OS=Salmo salar OX=8030 GN=LOC100195752 PE=3 SV=1	Salmo salar	405	2055	93.8	96.3	0.0
+892	TR	A0A4W5P9S9	Serine/threonine-protein OS=Hucho hucho OX=62062 PE=3 SV=1	Hucho hucho	457	2055	84.3	88.3	0.0
+893	TR	A0A6Q2Z1P4	Serine/threonine-protein OS=Esox lucius OX=8010 GN=CDK8 PE=3 SV=2	Esox lucius	405	2055	94.5	96.8	0.0
+894	TR	A0A8C9WLK5	Serine/threonine-protein OS=Scleropages formosus OX=113540 GN=cdk8 PE=3 SV=1	Scleropages formosus	396	2052	95.2	97.2	0.0
+895	TR	A0A8C3XNF1	Serine/threonine-protein OS=Chelydra serpentina OX=8475 PE=3 SV=1	Chelydra serpentina	486	2051	80.7	86.6	0.0
+896	TR	A0A3B3STD6	Serine/threonine-protein OS=Paramormyrops kingsleyae OX=1676925 PE=3 SV=1	Paramormyrops kingsleyae	528	2050	95.7	97.2	0.0
+897	TR	A0A6G1QIG9	Serine/threonine-protein OS=Channa argus OX=215402 GN=EXN66_Car018159 PE=3 SV=1	Channa argus	465	2049	82.2	89.2	0.0
+898	TR	A0A2U4BGT4	Serine/threonine-protein OS=Tursiops truncatus OX=9739 GN=CDK8 PE=3 SV=2	Tursiops truncatus	473	2048	94.4	95.1	0.0
+899	TR	A0A7K7W670	Serine/threonine-protein (Fragment) OS=Nothocercus julius OX=2585813 GN=Cdk8 PE=3 SV=1	Nothocercus julius	380	2044	99.7	100.0	0.0
+900	TR	A0A851T9P9	Serine/threonine-protein (Fragment) OS=Nothocercus nigrocapillus OX=1977171 GN=Cdk8 PE=3 SV=1	Nothocercus nigrocapillus	380	2044	99.7	100.0	0.0
+901	TR	A0A803SV08	Serine/threonine-protein OS=Anolis carolinensis OX=28377 GN=cdk8 PE=3 SV=1	Anolis carolinensis	490	2044	99.7	100.0	0.0
+902	TR	A0A671U2N1	Serine/threonine-protein OS=Sparus aurata OX=8175 GN=cdk19 PE=3 SV=1	Sparus aurata	493	2044	79.1	85.0	0.0
+903	TR	A0A9L0SW27	Serine/threonine-protein OS=Equus caballus OX=9796 GN=CDK19 PE=3 SV=1	Equus caballus	466	2044	82.9	88.5	0.0
+904	TR	A0A6P7LTS1	Serine/threonine-protein OS=Betta splendens OX=158456 GN=cdk19 PE=3 SV=1	Betta splendens	493	2043	79.1	85.2	0.0
+905	TR	A0ABQ8LE48	Serine/threonine-protein OS=Labeo rohita OX=84645 GN=H4Q32_020180 PE=3 SV=1	Labeo rohita	407	2043	91.5	93.1	0.0
+906	TR	A0A8C4FFB8	Serine/threonine-protein OS=Dicentrarchus labrax OX=13489 GN=cdk19 PE=3 SV=1	Dicentrarchus labrax	493	2042	78.9	85.0	0.0
+907	TR	A0A8U0PQN3	Serine/threonine-protein OS=Salvelinus namaycush OX=8040 GN=cdk8 PE=3 SV=1	Salvelinus namaycush	416	2039	94.5	97.5	0.0
+908	TR	A0A3Q3B5S8	Serine/threonine-protein OS=Kryptolebias marmoratus OX=37003 PE=3 SV=1	Kryptolebias marmoratus	493	2038	78.3	84.0	0.0
+909	TR	A0A6P7HGY7	Serine/threonine-protein OS=Parambassis ranga OX=210632 GN=cdk19 PE=3 SV=1	Parambassis ranga	493	2037	78.7	85.0	0.0
+910	TR	A0A3P8RYH3	Serine/threonine-protein OS=Amphiprion percula OX=161767 PE=3 SV=1	Amphiprion percula	493	2037	78.9	85.0	0.0
+911	TR	A0ABM1KKL2	Serine/threonine-protein OS=Gekko japonicus OX=146911 GN=CDK19 PE=3 SV=1	Gekko japonicus	496	2037	79.0	84.5	0.0
+912	TR	A0A674HX82	Serine/threonine-protein OS=Terrapene triunguis OX=2587831 GN=CDK19 PE=3 SV=1	Terrapene triunguis	498	2036	78.7	84.3	0.0
+913	TR	A0A6J2W0T5	Serine/threonine-protein OS=Chanos chanos OX=29144 GN=cdk19 PE=3 SV=1	Chanos chanos	471	2036	81.8	88.6	0.0
+914	TR	A0A2I4CY37	Serine/threonine-protein OS=Austrofundulus limnaeus OX=52670 GN=cdk19 PE=3 SV=1	Austrofundulus limnaeus	493	2035	78.5	84.4	0.0
+915	TR	A0A8D0C4C3	Serine/threonine-protein OS=Salvator merianae OX=96440 PE=3 SV=1	Salvator merianae	501	2035	78.2	84.2	0.0
+916	TR	H0ZP90	Serine/threonine-protein OS=Taeniopygia guttata OX=59729 GN=CDK19 PE=3 SV=2	Taeniopygia guttata	502	2034	78.1	84.1	0.0
+917	TR	A0ABM4EB92	Serine/threonine-protein OS=Apteryx mantelli OX=2696672 GN=CDK19 PE=3 SV=1	Apteryx mantelli	502	2034	78.1	83.7	0.0
+918	TR	W5NK51	Serine/threonine-protein OS=Lepisosteus oculatus OX=7918 PE=3 SV=1	Lepisosteus oculatus	496	2034	78.2	83.9	0.0
+919	TR	A0AA97JGS5	Serine/threonine-protein OS=Eublepharis macularius OX=481883 GN=CDK19 PE=3 SV=1	Eublepharis macularius	498	2034	78.9	84.3	0.0
+920	TR	A0A668A564	Serine/threonine-protein OS=Myripristis murdjan OX=586833 GN=cdk19 PE=3 SV=1	Myripristis murdjan	493	2033	78.7	85.0	0.0
+921	TR	A0ABN8YUA4	Serine/threonine-protein OS=Rangifer tarandus platyrhynchus OX=3082113 GN=MRATA1EN1_LOCUS13173 PE=3 SV=1	Rangifer tarandus platyrhynchus	465	2033	82.4	88.2	0.0
+922	TR	A0A8C6JLY0	Serine/threonine-protein OS=Melopsittacus undulatus OX=13146 GN=LOC101877306 PE=3 SV=2	Melopsittacus undulatus	502	2032	78.1	83.7	0.0
+923	TR	A0AAV1P9V8	Serine/threonine-protein OS=Scomber scombrus OX=13677 GN=FSCOSCO3_A008898 PE=3 SV=1	Scomber scombrus	493	2032	78.7	84.8	0.0
+924	TR	A0A9D3PLC7	Serine/threonine-protein OS=Megalops atlanticus OX=7932 GN=MATL_G00201460 PE=3 SV=1	Megalops atlanticus	493	2031	78.5	84.4	0.0
+925	TR	A0A4D9EYP5	Serine/threonine-protein OS=Platysternon megacephalum OX=55544 GN=DR999_PMT02217 PE=3 SV=1	Platysternon megacephalum	502	2031	77.9	83.9	0.0
+926	TR	A0A4W6BTD6	Serine/threonine-protein OS=Lates calcarifer OX=8187 GN=CDK19 PE=3 SV=1	Lates calcarifer	493	2031	78.5	84.8	0.0
+927	TR	A0A7J8DVN1	Serine/threonine-protein OS=Rousettus aegyptiacus OX=9407 GN=HJG63_002597 PE=3 SV=1	Rousettus aegyptiacus	431	2031	98.2	98.2	0.0
+928	TR	A0AA35K1B4	Serine/threonine-protein OS=Podarcis lilfordi OX=74358 GN=PODLI_1B038648 PE=3 SV=1	Podarcis lilfordi	496	2030	78.6	84.7	0.0
+929	TR	A0AAX7TIE7	Serine/threonine-protein OS=Astatotilapia calliptera OX=8154 GN=CDK19 PE=3 SV=1	Astatotilapia calliptera	492	2030	79.1	85.6	0.0
+930	TR	A0A9Y3VPG2	Serine/threonine-protein OS=Pundamilia nyererei OX=303518 GN=cdk19 PE=3 SV=1	Pundamilia nyererei	492	2030	79.1	85.6	0.0
+931	TR	A0A9D3SPL0	Serine/threonine-protein OS=Hemibagrus wyckioides OX=337641 GN=KOW79_005761 PE=3 SV=1	Hemibagrus wyckioides	479	2030	79.8	85.6	0.0
+932	TR	W5UBD4	Serine/threonine-protein OS=Ictalurus punctatus OX=7998 GN=Cdk19 PE=2 SV=1	Ictalurus punctatus	479	2030	79.8	85.6	0.0
+933	TR	A0A3B4U7Q4	Serine/threonine-protein OS=Seriola dumerili OX=41447 PE=3 SV=1	Seriola dumerili	493	2030	78.9	85.2	0.0
+934	TR	I3JZP2	Serine/threonine-protein OS=Oreochromis niloticus OX=8128 GN=cdk19 PE=3 SV=1	Oreochromis niloticus	492	2030	79.1	85.6	0.0
+935	TR	A0ACC5XXG7	Serine/threonine-protein OS=Pangasianodon gigas OX=30993 GN=PGIGA_G00195280 PE=3 SV=1	Pangasianodon gigas	479	2030	79.8	85.6	0.0
+936	TR	A0ACF7D228	Serine/threonine-protein OS=Sarotherodon galilaeus OX=8144 GN=ACER0C_017739 PE=3 SV=1	Sarotherodon galilaeus	492	2030	79.1	85.6	0.0
+937	TR	A0A2D0PK84	Serine/threonine-protein OS=Ictalurus punctatus OX=7998 GN=cdk19 PE=3 SV=1	Ictalurus punctatus	479	2030	79.8	85.6	0.0
+938	TR	A0A8C3M9X4	Serine/threonine-protein OS=Geospiza parvula OX=87175 PE=3 SV=2	Geospiza parvula	502	2029	77.9	83.9	0.0
+939	TR	A0A668T8Y8	Serine/threonine-protein OS=Oreochromis aureus OX=47969 GN=CDK19 PE=3 SV=1	Oreochromis aureus	492	2029	79.1	85.4	0.0
+940	TR	A0A9Q1HZN4	Serine/threonine-protein OS=Conger conger OX=82655 GN=COCON_G00096990 PE=3 SV=1	Conger conger	489	2029	78.9	84.9	0.0
+941	TR	A0A3Q3RPN2	Serine/threonine-protein OS=Mastacembelus armatus OX=205130 PE=3 SV=1	Mastacembelus armatus	493	2029	78.5	85.0	0.0
+942	TR	A0A672YJF6	Serine/threonine-protein OS=Sphaeramia orbicularis OX=375764 GN=cdk19 PE=3 SV=1	Sphaeramia orbicularis	493	2028	78.5	84.8	0.0
+943	TR	A0A8C3Y0C0	Serine/threonine-protein OS=Catharus ustulatus OX=91951 GN=CDK19 PE=3 SV=1	Catharus ustulatus	502	2028	77.9	83.7	0.0
+944	TR	A0A669Q9R5	Serine/threonine-protein OS=Phasianus colchicus OX=9054 GN=CDK19 PE=3 SV=1	Phasianus colchicus	502	2027	77.9	83.5	0.0
+945	TR	A0ACE2ZMW3	Serine/threonine-protein OS=Lepidochelys kempii OX=8472 GN=ACLRTL_LOCUS16619 PE=3 SV=1	Lepidochelys kempii	506	2027	77.3	83.2	0.0
+946	TR	A0A665WNA7	Serine/threonine-protein OS=Echeneis naucrates OX=173247 GN=cdk19 PE=3 SV=1	Echeneis naucrates	493	2027	78.5	84.8	0.0
+947	TR	A0A6J0IFE2	Serine/threonine-protein OS=Lepidothrix coronata OX=321398 GN=CDK19 PE=3 SV=1	Lepidothrix coronata	502	2027	77.9	83.5	0.0
+948	TR	A0A8C0QP50	Serine/threonine-protein OS=Chelonoidis abingdonii OX=106734 GN=CDK19 PE=3 SV=1	Chelonoidis abingdonii	502	2027	77.9	83.7	0.0
+949	TR	A0A493TEG6	Serine/threonine-protein OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CDK19 PE=3 SV=1	Anas platyrhynchos platyrhynchos	502	2027	77.9	83.5	0.0
+950	TR	A0A8C3KB35	Serine/threonine-protein OS=Calidris pygmaea OX=425635 PE=3 SV=1	Calidris pygmaea	502	2027	77.9	83.5	0.0
+951	TR	A0A8C2TFU0	Serine/threonine-protein OS=Coturnix japonica OX=93934 GN=CDK19 PE=3 SV=1	Coturnix japonica	502	2027	77.9	83.5	0.0
+952	TR	A0A8V0YFL1	Serine/threonine-protein OS=Gallus gallus OX=9031 GN=CDK19 PE=3 SV=1	Gallus gallus	502	2027	77.9	83.5	0.0
+953	TR	A0A8C4WF82	Serine/threonine-protein OS=Gopherus evgoodei OX=1825980 GN=CDK19 PE=3 SV=1	Gopherus evgoodei	502	2027	77.9	83.7	0.0
+954	TR	A0A8B9FLH0	Serine/threonine-protein OS=Amazona collaria OX=241587 PE=3 SV=1	Amazona collaria	502	2027	77.9	83.5	0.0
+955	TR	A0A6J3CQX5	Serine/threonine-protein OS=Aythya fuligula OX=219594 GN=CDK19 PE=3 SV=1	Aythya fuligula	502	2027	77.9	83.5	0.0
+956	TR	A0A663EA15	Serine/threonine-protein OS=Aquila chrysaetos chrysaetos OX=223781 GN=CDK19 PE=3 SV=1	Aquila chrysaetos chrysaetos	502	2027	77.9	83.5	0.0
+957	TR	A0A8D2CW13	Serine/threonine-protein OS=Sciurus vulgaris OX=55149 GN=CDK19 PE=3 SV=1	Sciurus vulgaris	502	2027	77.9	83.1	0.0
+958	TR	A0ACI6PD10	Serine/threonine-protein OS=Ovis aries OX=9940 GN=CDK19 PE=3 SV=1	Ovis aries	498	2027	78.3	83.9	0.0
+959	TR	A0ACE2VR18	Serine/threonine-protein OS=Lepidochelys olivacea OX=27788 GN=ACLRTO_LOCUS4990 PE=3 SV=1	Lepidochelys olivacea	507	2026	77.1	83.0	0.0
+960	TR	A0AAW1F8W3	Serine/threonine-protein OS=Zoarces viviparus OX=48416 GN=VZT92_010611 PE=3 SV=1	Zoarces viviparus	490	2026	78.8	84.9	0.0
+961	TR	A0A8C3BTK1	Serine/threonine-protein OS=Cairina moschata OX=8855 PE=3 SV=1	Cairina moschata	503	2026	77.7	83.3	0.0
+962	TR	A0A6A5EBC1	Serine/threonine-protein OS=Perca fluviatilis OX=8168 GN=PFLUV_G00207800 PE=3 SV=1	Perca fluviatilis	493	2026	78.5	84.6	0.0
+963	TR	A0A3B4C535	Serine/threonine-protein OS=Pygocentrus nattereri OX=42514 GN=CDK19 PE=3 SV=1	Pygocentrus nattereri	491	2025	78.4	84.5	0.0
+964	TR	A0A8C5JP96	Serine/threonine-protein OS=Junco hyemalis OX=40217 PE=3 SV=1	Junco hyemalis	502	2025	77.7	83.7	0.0
+965	TR	A0A9Q0Y4I0	Serine/threonine-protein OS=Phrynocephalus forsythii OX=171643 GN=JRQ81_007263 PE=3 SV=1	Phrynocephalus forsythii	499	2025	78.2	84.0	0.0
+966	TR	A0A8C9YPL3	Serine/threonine-protein OS=Sander lucioperca OX=283035 GN=cdk19 PE=3 SV=1	Sander lucioperca	493	2024	78.5	84.6	0.0
+967	TR	A0A8C6NZY4	Serine/threonine-protein OS=Nothobranchius furzeri OX=105023 GN=CDK19 PE=3 SV=1	Nothobranchius furzeri	480	2024	81.0	86.9	0.0
+968	TR	A0A6J2ICX1	Serine/threonine-protein OS=Pipra filicauda OX=649802 GN=CDK19 PE=3 SV=2	Pipra filicauda	502	2024	77.7	83.5	0.0
+969	TR	A0A7J6BAH7	Serine/threonine-protein OS=Ameiurus melas OX=219545 GN=AMELA_G00016670 PE=3 SV=1	Ameiurus melas	510	2024	79.6	85.6	0.0
+970	TR	A0A8C9SDZ7	Serine/threonine-protein OS=Scleropages formosus OX=113540 GN=cdk19 PE=3 SV=1	Scleropages formosus	498	2024	78.1	83.3	0.0
+971	TR	A0A6P5CCC5	Serine/threonine-protein OS=Bos indicus OX=9915 GN=CDK19 PE=3 SV=1	Bos indicus	500	2024	78.0	83.4	0.0
+972	TR	A0A8B9X859	Serine/threonine-protein OS=Bos grunniens OX=30521 GN=CDK19 PE=3 SV=1	Bos grunniens	500	2024	78.0	83.4	0.0
+973	TR	A0A6B0R5Z6	Serine/threonine-protein OS=Bos mutus OX=72004 GN=E5288_WYG001270 PE=3 SV=1	Bos mutus	500	2024	78.0	83.4	0.0
+974	TR	A0A452FSQ3	Serine/threonine-protein OS=Capra hircus OX=9925 GN=CDK19 PE=3 SV=1	Capra hircus	500	2024	78.0	83.4	0.0
+975	TR	A0AAD4U4N3	Serine/threonine-protein OS=Ovis ammon polii OX=230172 GN=MG293_010785 PE=3 SV=1	Ovis ammon polii	500	2024	78.0	83.4	0.0
+976	TR	A0A8C6D0E0	Serine/threonine-protein OS=Moschus moschiferus OX=68415 GN=CDK19 PE=3 SV=1	Moschus moschiferus	500	2024	78.0	83.4	0.0
+977	TR	A0ACB9UXC8	Serine/threonine-protein OS=Ovis ammon polii x Ovis aries OX=2918886 GN=MJG53_008870 PE=3 SV=1	Ovis ammon polii x Ovis aries	500	2024	78.0	83.4	0.0
+978	TR	A0A4W2FBP3	Serine/threonine-protein OS=Bos indicus x Bos taurus OX=30522 GN=CDK19 PE=3 SV=1	Bos indicus x Bos taurus	500	2024	78.0	83.4	0.0
+979	TR	A0ACI6QBQ0	Serine/threonine-protein OS=Ovis aries OX=9940 GN=CDK19 PE=3 SV=1	Ovis aries	500	2024	78.0	83.4	0.0
+980	TR	F1MVR0	Serine/threonine-protein OS=Bos taurus OX=9913 GN=CDK19 PE=3 SV=2	Bos taurus	500	2024	78.0	83.4	0.0
+981	TR	A0A6P3ITA3	Serine/threonine-protein OS=Bison bison bison OX=43346 GN=CDK19 PE=3 SV=1	Bison bison bison	500	2024	78.0	83.4	0.0
+982	TR	A0A8C0B1E0	Serine/threonine-protein OS=Buteo japonicus OX=224669 PE=3 SV=1	Buteo japonicus	376	2023	98.2	98.4	0.0
+983	TR	A0AAD7RKQ3	Serine/threonine-protein OS=Aldrovandia affinis OX=143900 GN=AAFF_G00179000 PE=3 SV=1	Aldrovandia affinis	493	2022	78.7	84.6	0.0
+984	TR	A0AA97KZN3	Serine/threonine-protein OS=Eublepharis macularius OX=481883 GN=CDK19 PE=3 SV=1	Eublepharis macularius	499	2022	78.8	84.2	0.0
+985	TR	A0A8T3DNN4	Serine/threonine-protein OS=Albula goreensis OX=1534307 GN=AGOR_G00083350 PE=3 SV=1	Albula goreensis	493	2022	78.7	84.6	0.0
+986	TR	A0AAD8G9F9	Serine/threonine-protein OS=Acipenser oxyrinchus oxyrinchus OX=40147 GN=CDK19 PE=3 SV=1	Acipenser oxyrinchus oxyrinchus	477	2022	80.5	87.2	0.0
+987	TR	A0A286X840	Serine/threonine-protein OS=Cavia porcellus OX=10141 GN=CDK19 PE=3 SV=1	Cavia porcellus	501	2022	77.6	83.4	0.0
+988	TR	A0ABD2F1A4	Serine/threonine-protein OS=Daubentonia madagascariensis OX=31869 GN=WCI35_007712 PE=3 SV=1	Daubentonia madagascariensis	502	2022	77.7	83.1	0.0
+989	TR	A0A8C3YG06	Serine/threonine-protein OS=Catagonus wagneri OX=51154 GN=CDK19 PE=3 SV=1	Catagonus wagneri	502	2022	77.7	83.1	0.0
+990	TR	A0AAV1H1J5	Serine/threonine-protein OS=Xyrichtys novacula OX=13765 GN=XNOV1_A000933 PE=3 SV=1	Xyrichtys novacula	493	2021	78.5	85.0	0.0
+991	TR	A0AAY4DJQ1	Serine/threonine-protein OS=Denticeps clupeoides OX=299321 GN=CDK19 PE=3 SV=1	Denticeps clupeoides	491	2021	78.4	84.3	0.0
+992	TR	A0A3P8WGK1	Serine/threonine-protein OS=Cynoglossus semilaevis OX=244447 PE=3 SV=1	Cynoglossus semilaevis	487	2021	79.1	86.0	0.0
+993	TR	A0ABM2EW08	Serine/threonine-protein OS=Equus przewalskii OX=9798 GN=CDK19 PE=3 SV=1	Equus przewalskii	502	2021	77.7	83.1	0.0
+994	TR	A0A287A4C6	Serine/threonine-protein OS=Sus scrofa OX=9823 GN=CDK19 PE=3 SV=1	Sus scrofa	502	2021	77.7	82.9	0.0
+995	TR	A0A9L0S111	Serine/threonine-protein OS=Equus caballus OX=9796 GN=CDK19 PE=3 SV=1	Equus caballus	502	2021	77.7	83.1	0.0
+996	TR	A0ABR0ZUG1	Serine/threonine-protein OS=Huso huso OX=61971 GN=HHUSO_G7296 PE=3 SV=1	Huso huso	477	2020	80.5	86.8	0.0
+997	TR	A0A6I8NI20	Serine/threonine-protein OS=Ornithorhynchus anatinus OX=9258 GN=CDK19 PE=3 SV=1	Ornithorhynchus anatinus	500	2020	77.6	83.4	0.0
+998	TR	A0A384ATM1	Serine/threonine-protein OS=Balaenoptera acutorostrata OX=9767 GN=CDK19 PE=3 SV=1	Balaenoptera acutorostrata	502	2020	77.7	82.9	0.0
+999	TR	A0A8C9BPF1	Serine/threonine-protein OS=Phocoena sinus OX=42100 GN=CDK19 PE=3 SV=1	Phocoena sinus	502	2020	77.7	82.9	0.0
+1000	TR	A0A341B1J9	Serine/threonine-protein OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=CDK19 PE=3 SV=1	Neophocaena asiaeorientalis asiaeorientalis	502	2020	77.7	82.9	0.0

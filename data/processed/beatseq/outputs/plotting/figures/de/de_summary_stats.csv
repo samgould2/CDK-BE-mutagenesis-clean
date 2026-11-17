@@ -1,0 +1,10 @@
+level,group,n_guide_arms,active,subthreshold,none,pct_active,median_de_genes,max_de_genes,median_cells_per_guide,rho_cells_vs_de
+overall,all,288,8,30,250,2.78,0.0,50,203,
+arm,A549/ABE,82,2,8,72,2.44,0.0,31,511,0.064
+arm,A549/CBE,62,0,5,57,0.0,0.0,1,540,-0.025
+arm,T47D/ABE,82,3,9,70,3.66,0.0,50,138,-0.046
+arm,T47D/CBE,62,3,8,51,4.84,0.0,37,70,0.051
+cell_line,A549,144,2,13,129,1.39,0.0,31,524,
+cell_line,T47D,144,6,17,121,4.17,0.0,50,93,
+editor,ABE,164,5,17,142,3.05,0.0,50,203,
+editor,CBE,124,3,13,108,2.42,0.0,37,214,

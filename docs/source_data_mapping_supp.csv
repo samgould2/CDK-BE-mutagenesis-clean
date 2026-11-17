@@ -1,0 +1,212 @@
+figure,panel,source_file,notes
+
+Supplementary figure 1,a,figures/CPD_s1.pdf,
+
+Supplementary figure 1,b,figures/CPD_sY.pdf,
+
+Supplementary figure 1,c,figures/CPD_s2.pdf,
+
+Supplementary figure 1,d,figures/CPD_s3.pdf,
+
+Supplementary figure 2,a,figures/subpool1_DR_curves.pdf,
+
+Supplementary figure 2,b,figures/subpool2_DR_curves.pdf,
+
+Supplementary figure 2,c,figures/subpool3_DR_curves.pdf,
+
+Supplementary figure 3,a,figures/editing_by_CDK/editing_by_proto_loc_CBE_all_CDKs.pdf,
+
+Supplementary figure 3,b,figures/editing_by_CDK/editing_by_proto_loc_ABE_all_CDKs.pdf,
+
+Supplementary figure 4,a,figures/LFC_correlation/ABE_subpool1_LFC_correlation_clustermap.pdf figures/LFC_correlation/CBE_subpool1_LFC_correlation_clustermap.pdf,
+
+Supplementary figure 4,b,figures/LFC_correlation/ABE_subpool2_LFC_correlation_clustermap.pdf figures/LFC_correlation/CBE_subpool2_LFC_correlation_clustermap.pdf,
+
+Supplementary figure 4,c,figures/LFC_correlation/CBE_subpool3_LFC_correlation_clustermap.pdf figures/LFC_correlation/ABE_subpool3_LFC_correlation_clustermap.pdf,
+
+Supplementary figure 5,A,figures/lollipop_canonical/subpool1_KI-CDK9d-32N_5000nM_lollipop.pdf,
+
+Supplementary figure 5,B,figures/lollipop_canonical/subpool1_KB-0742_1500nM_lollipop.pdf,
+
+Supplementary figure 5,c,nan,
+
+Supplementary figure 5,d,None (western blot),
+
+Supplementary figure 5,e,figures/RNA_seq_comp.png,
+
+Supplementary figure 6,a,nan,
+
+Supplementary figure 6,b,missing,
+
+Supplementary figure 6,c,None (western blot),
+
+Supplementary figure 6,d,None (western blot),
+
+Supplementary figure 6,e,manuscript_source_data/cdk9_boltz/plots/model_confidence_vs_binding_probability.svg,
+
+Supplementary figure 6,f,manuscript_source_data/cdk9_boltz/plots/cdk9_delta_binding_probabilities_l156f.svg,
+
+Supplementary figure 6,g,nan,
+
+Supplementary figure 6,h,manuscript_source_data/cdk9_boltz/plots/pca_WT_all_models.svg,
+
+Supplementary figure 6,i,manuscript_source_data/cdk9_boltz/plots/PC1_features_tb_5.svg,
+
+Supplementary figure 6,j,manuscript_source_data/cdk9_boltz/plots/PC2_feature_loadings_WT_all_models.png,
+
+Supplementary figure 6,k,nan,
+
+Supplementary figure 6,l,nan,
+
+Supplementary figure 6,m,nan,
+
+Supplementary figure 7,a,nan,
+
+Supplementary figure 7,b,None (Sanger trace),
+
+Supplementary figure 7,c,lab-dropbox/mCdk9 Summary Plot .txt,vendored to data/raw/competition_assays/B-ALL/mCdk9 Summary Plot.txt
+
+Supplementary figure 7,d,None (Sanger trace),
+
+Supplementary figure 7,e,lab-dropbox/mCdk7 Comp Assay Summary.txt,vendored to data/raw/competition_assays/B-ALL/mCdk7 Comp Assay Summary.txt
+
+Supplementary figure 7,f,figures/invivo_CDK9_1.pdf,Statistics added in illustrator
+
+Supplementary figure 7,g,figures/invivo_CDK9_normed.pdf,Statistics added in illustrator
+
+Supplementary figure 7,h,figures/invivo_CDK7.pdf,Statistics added in illustrator
+
+Supplementary figure 7,i,figures/invivo_CDK7_normed.pdf,Statistics added in illustrator
+
+Supplementary figure 8,a,figures/lollipop_canonical/subpool1_SEL120_4000nM_lollipop.pdf,
+
+Supplementary figure 8,b,figures/lollipop_canonical/subpool1_Senexin_B_15000nM_lollipop.pdf,
+
+Supplementary figure 8,c,figures/CDK8_19_resistance/CDK8_19_resistance_variants_large.pdf,
+
+Supplementary figure 9,a,nan,
+
+Supplementary figure 9,b,figures/KB_compound_mut_resistance/KB_compound_mut_resistance_variants_large.pdf,
+
+Supplementary figure 9,c,None (Sanger trace),
+
+Supplementary figure 9,d,figures/all_SY.pdf,
+
+Supplementary figure 9,e,figures/all_KI_CDK9d.pdf,
+
+Supplementary figure 9,f,figures/all_KB.pdf,
+
+Supplementary figure 9,g,figures/all_KB_bar.pdf,
+
+Supplementary figure 10,a,figures/lollipop_canonical/subpool2_BSJ-4-116_lollipop.pdf,
+
+Supplementary figure 10,b,figures/lollipop_canonical/subpool2_CDK12-IN-2_lollipop.pdf,
+
+Supplementary figure 10,c,None (Sanger trace),
+
+Supplementary figure 10,d,None (Sanger trace),
+
+Supplementary figure 10,e,nan,
+
+Supplementary figure 10,f,lab-dropbox/Cdk12 FC.txt,vendored to data/raw/competition_assays/A549/Cdk12 FC.txt; the CDK13 arm of the same panel is data/raw/competition_assays/A549/Cdk13 FC.txt
+
+Supplementary figure 10,g,lab-dropbox/Cdk12 FC ZLY.txt,vendored to data/raw/competition_assays/A549/Cdk12 FC ZLY.txt; the CDK13 arm of the same panel is data/raw/competition_assays/A549/Cdk13 FC ZLY.txt
+
+Supplementary figure 10,h,nan,
+
+Supplementary figure 11,a,nan,
+
+Supplementary figure 11,b,lab-dropbox/LNCaP Cdk12 FC.txt,vendored to data/raw/competition_assays/LNCaP/LNCaP Cdk12 FC.txt
+
+Supplementary figure 11,c,lab-dropbox/manuscript_deposition,vendored to data/raw/collaborator_panels/LNCaP/qPCR_heatmap
+
+Supplementary figure 11,D,lab-dropbox/manuscript_deposition,vendored to data/raw/collaborator_panels/LNCaP/RNAseq_panel_d
+
+Supplementary figure 11,E,lab-dropbox/manuscript_deposition,vendored to data/raw/collaborator_panels/LNCaP/RNAseq_panel_e
+
+Supplementary figure 11,F,lab-dropbox/manuscript_deposition,vendored to data/raw/collaborator_panels/LNCaP/RNAseq_panel_f
+
+Supplementary figure 11,G,lab-dropbox/manuscript_deposition,vendored to data/raw/collaborator_panels/LNCaP/RNAseq_panel_g
+
+Supplementary figure 11,H,lab-dropbox/Cdk12 Logo Plots,vendored to data/raw/collaborator_panels/PC3/Cdk12_logo_plots
+
+Supplementary figure 11,I,lab-dropbox/PC3_CDK12_G822E_CompAssay_heatmap_source_data.txt,vendored to data/raw/competition_assays/PC3/PC3_CDK12_G822E_CompAssay_heatmap_source_data.txt
+
+Supplementary figure 11,J,nan,
+
+Supplementary figure 11,K,lab-dropbox/PC3_panel_k,vendored to data/raw/collaborator_panels/PC3/PC3_panel_k
+
+Supplementary figure 12,a,figures/lollipop_canonical/subpool3_RIBO_lollipop.pdf,
+
+Supplementary figure 12,b,figures/lollipop_canonical/subpool3_PALBO_lollipop.pdf,
+
+Supplementary figure 12,c,figures/lollipop_canonical/subpool3_ABEMA_lollipop.pdf,
+
+Supplementary figure 12,d,figures/lollipop_canonical/subpool3_ATIRMO_lollipop.pdf,
+
+Supplementary figure 12,e,figures/lollipop_canonical/subpool3_INX_lollipop.pdf,
+
+Supplementary figure 12,f,figures/lollipop_canonical/subpool3_TAGTO_lollipop.pdf,
+
+Supplementary figure 13,a,lab-dropbox/cdk_variant_MCF7_plot_t0_tf.svg,vendored to data/raw/collaborator_panels/T47D_MCF7/cdk_variant_MCF7_plot_t0_tf.svg
+
+Supplementary figure 13,b,lab-dropbox/CDK_sanger_aa_logo_plots_all.svg,vendored to data/raw/collaborator_panels/T47D_MCF7/CDK_sanger_aa_logo_plots_all.svg
+
+Supplementary figure 13,c,lab-dropbox/T47D_cell_cycle_stacked_DMSO_Palbo_ABE.svg,"drawn from the FlowJo export vendored at data/raw/collaborator_panels/T47D_cell_cycle/20260908_T47D_cell_cycle.csv, with the delivered notebook and style module beside it"
+
+Supplementary figure 13,d,lab-dropbox/T47D_cell_cycle_stacked_DMSO_Palbo_CBE.svg,"drawn from the FlowJo export vendored at data/raw/collaborator_panels/T47D_cell_cycle/20260908_T47D_cell_cycle.csv, with the delivered notebook and style module beside it"
+
+Supplementary figure 13,e,lab-dropbox/PCA.svg,vendored to data/raw/collaborator_panels/T47D_MCF7/PCA.svg
+
+Supplementary figure 13,f,lab-dropbox/GSEA_variant_vs_control_palbo_dotplot.svg,vendored to data/raw/collaborator_panels/T47D_MCF7/GSEA_variant_vs_control_palbo_dotplot.svg
+
+Supplementary figure 13,g,lab-dropbox/volcano_variant_vs_control.svg,vendored to data/raw/collaborator_panels/T47D_MCF7/volcano_variant_vs_control.svg
+
+Supplementary figure 13,h,lab-dropbox/C018_ABE_paired_flanks_CDK2_S261G_d7.svg,vendored to data/raw/collaborator_panels/T47D_MCF7/C018_ABE_paired_flanks_CDK2_S261G_d7.svg
+
+Supplementary figure 13,i,lab-dropbox/C018_ABE_paired_flanks_CDK4_I51V_d7.svg,vendored to data/raw/collaborator_panels/T47D_MCF7/C018_ABE_paired_flanks_CDK4_I51V_d7.svg
+
+Supplementary figure 13,j,lab-dropbox/CDK6_R46W_Ki67.png,vendored to data/raw/collaborator_panels/T47D_MCF7/CDK6_R46W_Ki67.png
+
+Supplementary figure 14,a,CDK_Beatseq_outputs_20260813/cdk_lib/beatseq-cdk/plotting/figures/qc/experiment_summary.pdf,
+
+Supplementary figure 14,b,CDK_Beatseq_outputs_20260813/cdk_lib/beatseq-cdk/plotting/figures/qc/experiment_summary.pdf,
+
+Supplementary figure 14,c,CDK_Beatseq_outputs_20260813/cdk_lib/beatseq-cdk/plotting/figures/qc/experiment_summary.pdf,
+
+Supplementary figure 14,d,CDK_Beatseq_outputs_20260813/cdk_lib/beatseq-cdk/plotting/figures/qc/experiment_summary.pdf,
+
+Supplementary figure 14,e,CDK_Beatseq_outputs_20260813/cdk_lib/beatseq-cdk/plotting/figures/qc/cells_per_guide_per_arm.pdf,
+
+Supplementary figure 14,f,CDK_Beatseq_outputs_20260813/cdk_lib/beatseq-cdk/plotting/figures/de/de_by_variant_class.pdf,
+
+Supplementary figure 14,g,CDK_Beatseq_outputs_20260813/cdk_lib/beatseq-cdk/plotting/figures/de/de_summary.pdf,
+
+Supplementary figure 14,h,CDK_Beatseq_outputs_20260813/cdk_lib/beatseq-cdk/plotting/figures/de/de_summary.pdf,
+
+Supplementary figure 14,i,CDK_Beatseq_outputs_20260813/cdk_lib/beatseq-cdk/plotting/figures/de/de_summary.pdf,
+
+Supplementary figure 14,j,CDK_Beatseq_outputs_20260813/cdk_lib/beatseq-cdk/plotting/figures/de/de_summary.pdf,
+
+Supplementary figure 14,k,CDK_Beatseq_outputs_20260813/cdk_lib/beatseq-cdk/plotting/figures/clustermaps/pooled_corr.pdf,
+
+Supplementary figure 15,a,nan,
+
+Supplementary figure 15,b,figures/observed_resistance_oncokb_KLIFS_inclusion.pdf,
+
+Supplementary figure 15,c,figures/resistance_patterns/core7/KLIFS_resistance_MSA.pdf,
+
+Supplementary figure 15,d,figures/resistance_patterns/core7/MSA_resistance_peaks_kinase_domain.pdf,
+
+Supplementary figure 15,e,figures/chimerax/cxc_core7_peaks/peaks_leader_variants.svg,
+
+Supplementary figure 16,a,nan,
+
+Supplementary figure 16,b,figures/T0_plasmid_essentiality/klifs_position_detail.pdf,
+
+Supplementary figure 16,c,figures/T0_plasmid_essentiality/peak_significance_wide_flipped.pdf,
+
+Supplementary figure 16,d,figures/T0_plasmid_essentiality/peak_significance_wide_flipped.pdf,
+
+Supplementary figure 16,e,figures/T0_plasmid_essentiality/depleted_residues_montage_wide.pdf,
+

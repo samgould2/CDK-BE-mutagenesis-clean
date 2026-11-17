@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1400 796" width="1400" height="796" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<g id="structure">
+  <image xlink:href="peaks_variants_plain.png" x="0" y="0" width="1400" height="796"/>
+</g>
+<g id="leader-lines" fill="none" stroke-linecap="round">
+  <path d="M 324.4,311.5 L 624.1,286.0" stroke="#cb181d" stroke-width="1.6"/>
+  <path d="M 324.4,441.4 L 531.7,423.9" stroke="#6baed6" stroke-width="1.6"/>
+  <path d="M 331.0,528.2 L 592.6,456.7" stroke="#08306b" stroke-width="1.6"/>
+  <path d="M 331.0,622.9 L 549.1,572.0" stroke="#2171b5" stroke-width="1.6"/>
+  <path d="M 1009.8,329.0 L 665.2,271.7" stroke="#67000d" stroke-width="1.6"/>
+  <path d="M 1009.8,447.6 L 740.3,336.7" stroke="#cb181d" stroke-width="1.6"/>
+  <path d="M 1082.2,526.4 L 754.3,417.1" stroke="#fb6a4a" stroke-width="1.6"/>
+</g>
+<g id="labels" fill="#1a1a1a">
+  <text x="49.0" y="286.0" font-size="12.0">P4  VII:78  CDK2-135  7 variants / 4 CDKs</text>
+  <text x="55.6" y="302.0" font-size="12.0">CDK7 L138P</text>
+  <text x="55.6" y="317.9" font-size="12.0">CDK9 L156F, I157V, T158A, R159C</text>
+  <text x="55.6" y="333.8" font-size="12.0">CDK2 L134F</text>
+  <text x="55.6" y="349.7" font-size="12.0">CDK4 E144K</text>
+  <text x="49.0" y="423.9" font-size="12.0">P7  C-lobe  CDK2-263  6 variants / 3 CDKs</text>
+  <text x="55.6" y="439.8" font-size="12.0">CDK7 I272T, L275P/S</text>
+  <text x="55.6" y="455.8" font-size="12.0">CDK9 D290N, D293N</text>
+  <text x="55.6" y="471.7" font-size="12.0">CDK2 S261G</text>
+  <text x="49.0" y="494.8" font-size="12.0">P5  C-lobe  CDK2-187  17 variants / 5 CDKs</text>
+  <text x="55.6" y="510.7" font-size="12.0">CDK7 I202M, E205G</text>
+  <text x="55.6" y="526.6" font-size="12.0">CDK9 L212P, W213R, E221G, M222V</text>
+  <text x="55.6" y="542.5" font-size="12.0">CDK13 G905N/S, L907P, F908L</text>
+  <text x="55.6" y="558.4" font-size="12.0">CDK2 S181F, D185N</text>
+  <text x="55.6" y="574.4" font-size="12.0">CDK4 T193I, P194F/L, D196N, S199N</text>
+  <text x="49.0" y="597.4" font-size="12.0">P6  C-lobe  CDK2-241  14 variants / 4 CDKs</text>
+  <text x="55.6" y="613.4" font-size="12.0">CDK7 L243P, Y246H, V247A, I255T, L257P/S</text>
+  <text x="55.6" y="629.3" font-size="12.0">CDK2 P241F/L/S, A244T</text>
+  <text x="55.6" y="645.2" font-size="12.0">CDK4 D241N</text>
+  <text x="55.6" y="661.1" font-size="12.0">CDK6 S258F, A259V, P261L</text>
+  <text x="1015.4" y="271.7" font-size="12.0">P3  hinge:48  CDK2-83  36 variants / 6 CDKs</text>
+  <text x="1022.0" y="287.6" font-size="12.0">CDK7 V90A, F91L, E95G, T96A, D97G, V100I, I101T/V,</text>
+  <text x="1054.9" y="303.5" font-size="12.0">I102M/T/V</text>
+  <text x="1022.0" y="319.5" font-size="12.0">CDK9 G97S, I99T, Y100H, L101P, D104N, C106Y, E107K</text>
+  <text x="1022.0" y="335.4" font-size="12.0">CDK12 V812A, Y815C/H, M816I/V, D817G/N, H818R,</text>
+  <text x="1061.5" y="351.3" font-size="12.0">D819G, M821I, G822E/K</text>
+  <text x="1022.0" y="367.2" font-size="12.0">CDK2 E81K</text>
+  <text x="1022.0" y="383.1" font-size="12.0">CDK4 E94K, V96I, D97N</text>
+  <text x="1022.0" y="399.1" font-size="12.0">CDK6 T92I, D104N</text>
+  <text x="1015.4" y="422.2" font-size="12.0">P1  g.l:5  CDK2-12  22 variants / 4 CDKs</text>
+  <text x="1022.0" y="438.1" font-size="12.0">CDK7 L18F, G19E, E20G/K, G21K/R, V26A, Y27H</text>
+  <text x="1022.0" y="454.0" font-size="12.0">CDK12 G731K/R, I733V, E735G, V741A, Y742C/H, K743E</text>
+  <text x="1022.0" y="469.9" font-size="12.0">CDK13 I711V, T715A</text>
+  <text x="1022.0" y="485.8" font-size="12.0">CDK4 A23T/V, R24C/H</text>
+  <text x="1087.8" y="508.9" font-size="12.0">P2  αC:22  CDK2-50  13 variants / 3 CDKs</text>
+  <text x="1094.4" y="524.8" font-size="12.0">CDK7 I55T, R57G, I63T, L65P/S</text>
+  <text x="1094.4" y="540.8" font-size="12.0">CDK4 I51V, S52G, R55H, E56K</text>
+  <text x="1094.4" y="556.7" font-size="12.0">CDK6 M54T, L56F/P, S57F</text>
+</g>
+</svg>

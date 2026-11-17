@@ -1,0 +1,16 @@
+gene	matched	mismatched	unmodelled
+CDK7	9	0	0
+CDK8	10	0	0
+CDK19	9	0	0
+CDK9	15	0	1
+CDK12	11	0	1
+CDK13	10	0	0
+CDK2	7	0	0
+CDK4	11	0	0
+CDK6	5	0	2
+
+unmodelled variants (position absent from the structure):
+  CDK12 K1068R (residue 1068)
+  CDK6 D4N (residue 4)
+  CDK6 G5N (residue 5)
+  CDK9 C95R (residue 95)

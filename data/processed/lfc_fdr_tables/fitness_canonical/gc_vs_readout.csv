@@ -1,0 +1,19 @@
+screen,editor,guide_class,n,GC_vs_T0_Plasmid,GC_vs_DMSO_T0
+Subpool1,ABE,non-targeting control,131,0.168,0.077
+Subpool1,ABE,intron,160,0.343,-0.083
+Subpool1,ABE,targeting,2439,0.503,0.15
+Subpool1,CBE,non-targeting control,131,0.114,-0.032
+Subpool1,CBE,intron,160,0.501,-0.501
+Subpool1,CBE,targeting,2439,0.562,-0.489
+Subpool2,ABE,non-targeting control,235,0.093,0.097
+Subpool2,ABE,intron,100,0.22,-0.18
+Subpool2,ABE,targeting,4533,0.426,0.053
+Subpool2,CBE,non-targeting control,235,0.168,0.053
+Subpool2,CBE,intron,100,0.255,-0.178
+Subpool2,CBE,targeting,4533,0.575,0.208
+Subpool3,ABE,non-targeting control,79,0.101,0.105
+Subpool3,ABE,intron,71,0.489,0.175
+Subpool3,ABE,targeting,1505,0.436,0.121
+Subpool3,CBE,non-targeting control,79,0.163,-0.022
+Subpool3,CBE,intron,71,0.627,-0.037
+Subpool3,CBE,targeting,1505,0.645,0.049

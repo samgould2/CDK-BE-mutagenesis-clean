@@ -1,0 +1,5 @@
+"contrast","numerator","denominator","up_padj05","down_padj05","up_lfc1","down_lfc1"
+"NT_HQ461_vs_NT_Control","NT_HQ461","NT_Control",2166,2114,108,275
+"I733V_HQ461_vs_I733V_Control","I733V_HQ461","I733V_Control",116,281,6,3
+"I733V_Control_vs_NT_Control","I733V_Control","NT_Control",280,150,0,0
+"I733V_HQ461_vs_NT_HQ461","I733V_HQ461","NT_HQ461",1478,1517,44,51

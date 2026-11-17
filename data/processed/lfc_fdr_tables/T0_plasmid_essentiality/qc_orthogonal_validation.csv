@@ -1,0 +1,10 @@
+check,kind,n,statistic,cliffs_delta,p,expected,passes
+family conservation (alignment),correlation,5028,-0.02162425631826059,,0.12524154970980703,negative,False
+inside the catalytic domain,group difference,1187,-0.07503988359138689,-0.07357849408687844,0.00012443398455974004,negative,True
+invariant alignment column,group difference,427,0.02100939942424962,-0.0003532477157242031,0.990365204588637,negative,False
+ATP pocket (KLIFS),group difference,657,-0.05033395333199439,-0.06369432961886967,0.008382089393144306,negative,True
+predicted disorder (metapredict),correlation,5028,0.03450014344901506,,0.014426293090623961,positive,True
+ordered (disorder < 0.3),group difference,2512,-0.043060184526697354,-0.04204745678612298,0.009828576666312068,negative,True
+AlphaMissense pathogenicity,correlation,1480,-0.10628119710139503,,4.187686839039558e-05,negative,True
+solvent accessibility,correlation,2600,0.03427229708467158,,0.08059848639572964,positive,False
+buried (RSA < 0.20),group difference,1299,-0.060090192928660385,-0.06084140470700583,0.0010734558681795379,negative,True

@@ -1,0 +1,44 @@
+i2
+non-targeting
+10 (14%)
+fitness hit
+16 (22%)
+
+NT
+10
+
+CDK6
+5
+
+CBE
+
+nonsense / start loss
+17 (24%)
+
+72 gRNAs
+CDK4
+4
+CDK12
+7
+
+CDK9
+5
+
+resistance hit
+29 (40%)
+
+CDK7
+CDK8
+
+inner ring — CDK targeted
+CDK9
+CDK12
+CDK2
+CDK19
+CDK13
+CDK4
+
+CDK6
+NT
+
+

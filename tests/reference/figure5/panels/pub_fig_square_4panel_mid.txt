@@ -1,0 +1,154 @@
+a
+
+b
+
+Hallmark E2F targets
+(mean z-score, n = 198)
+
+***
+
+CDK4 (TPM)
+
+**
+
+0.8
+
+n.s.
+
+400
+
+1.0
+
+300
+
+200
+
+***
+
+100
+
+*
+0.6
+
+n.s.
+
+0.4
+0.2
+0.0
+−0.2
+−0.4
+
+c
+
+CDK4
+
+19
+8*
+W
+
+19
+6N
+D
+
+E5
+
+C
+
+d
+
+W198* vs CBE NT
+
+W198* vs D196N
+CDK4
+
+240
+
+−log10 Padj
+
+240
+
+−log10 Padj
+
+6K
+
+N
+T
+BE
+
+19
+8*
+W
+
+D
+
+C
+
+BE
+
+E5
+
+19
+6N
+
+6K
+
+N
+T
+
+0
+
+160
+
+160
+
+80
+
+80
+
+PIP
+
+477 down
+
+0
+−6
+
+−4
+
+343 up
+
+−2
+
+0
+
+log2 fold change
+
+2
+
+4
+
+9 down
+
+0
+6
+
+−6
+
+−4
+
+−2
+
+MGP
+
+1 up
+
+0
+
+log2 fold change
+
+2
+
+4
+
+6
+
+

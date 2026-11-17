@@ -1,0 +1,14 @@
+UMAP 2
+
+a3
+
+UMAP 1
+18,000 cells · phase = 22% of leading-PC variance
+
+G1
+
+S
+
+G2M
+
+

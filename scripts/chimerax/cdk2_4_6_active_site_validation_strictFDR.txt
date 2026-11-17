@@ -1,0 +1,51 @@
+window 1400x1400 (square, as in render_cdk2_4_6_active_site.cxc)
+
+=== CDK2_active_site
+    camera fov 30.0 deg, window 1400x1400
+    clip planes in force: none (clip off)
+    pocket marker: ATP
+    labeled hits: 3 -> 81, 134, 185
+    all labeled hits in frame: yes
+    clipped by near/far plane: none
+
+=== CDK2_active_site_labeled
+    camera fov 30.0 deg, window 1400x1400
+    clip planes in force: none (clip off)
+    pocket marker: ATP
+    labeled hits: 3 -> 81, 134, 185
+    all labeled hits in frame: yes
+    clipped by near/far plane: none
+
+=== CDK4_active_site
+    camera fov 30.0 deg, window 1400x1400
+    clip planes in force: none (clip off)
+    pocket marker: ATP(borrowed)
+    labeled hits: 9 -> 23, 24, 25, 56, 73, 96, 97, 144, 196
+    all labeled hits in frame: yes
+    clipped by near/far plane: none
+
+=== CDK4_active_site_labeled
+    camera fov 30.0 deg, window 1400x1400
+    clip planes in force: none (clip off)
+    pocket marker: ATP(borrowed)
+    labeled hits: 9 -> 23, 24, 25, 56, 73, 96, 97, 144, 196
+    all labeled hits in frame: yes
+    clipped by near/far plane: none
+
+=== CDK6_active_site
+    camera fov 30.0 deg, window 1400x1400
+    clip planes in force: none (clip off)
+    pocket marker: AP9
+    labeled hits: 7 -> 54, 56, 57, 92, 104, 165, 167
+    all labeled hits in frame: yes
+    clipped by near/far plane: none
+
+=== CDK6_active_site_labeled
+    camera fov 30.0 deg, window 1400x1400
+    clip planes in force: none (clip off)
+    pocket marker: AP9
+    labeled hits: 7 -> 54, 56, 57, 92, 104, 165, 167
+    all labeled hits in frame: yes
+    clipped by near/far plane: none
+
+OK

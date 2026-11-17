@@ -1,0 +1,6 @@
+CDK12  wide panel slab  291.35- 477.16  20 hit positions  clipped: none
+CDK12  glue zoom  slab   54.47- 240.22  20 hit positions  clipped: none
+CDK13  wide panel slab  266.27- 480.26  21 hit positions  clipped: none
+CDK13  glue zoom  slab   29.34- 243.33  21 hit positions  clipped: none
+
+TOTAL CLIPPED HIT RESIDUES: 0

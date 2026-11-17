@@ -1,0 +1,35 @@
+ATP centroid [38.29, 59.82, 1.22]   kinase centroid [47.6, 52.17, 0.92]
+catalytic-domain centre (shared frame): [43.09, 62.03, 2.8]
+radius from that centre to the furthest kinase+cyclin atom:
+    CDK2:   60.6 A
+    CDK4:   59.5 A
+    CDK6:   53.0 A
+shared framing radius 60.6 A -> camera distance 248.1 A (fov 30.0 deg, margin 1.06)
+occlusion = protein heavy atoms within 5.0 A of the ray, 1-25.0 A out
+
+hinge 80-86 centroid [41.52, 65.69, -3.71]
+
+CHOSEN axis (x = kinase->cyclin, y = ATP->hinge, z = x cross y): [-0.8122, 0.566, 0.1414], occlusion 50 atoms
+  hinge is +7.8 A above the ATP in screen y, depth offset +0.0 A (0 = beside, not behind)
+  cyclin is +34.2 A to the right
+
+for context only -- these are NOT used, the layout constraints decide the axis:
+  naive axis (kinase centroid -> ATP): occlusion 57 atoms
+  800 sampled directions: occlusion min 4  median 54  max 104
+  the least-occluded axis gives the most open pocket but puts the hinge behind the ligand
+
+ACTIVE_SITE_ROTATION = "0.2693,0.5176,-0.8122,0.0000,0.1487,0.8109,0.5660,0.0000,0.9515,-0.2731,0.1414,0.0000"
+ACTIVE_SITE_CAMERA = "0.2693,0.5176,-0.8122,-158.3881,0.1487,0.8109,0.5660,202.4535,0.9515,-0.2731,0.1414,37.8742"
+
+
+ligand-centred zoom cameras (half-width 20.0 A, distance 74.6 A,
+ canonical rotation so the zoom matches the wide panels):
+  CDK2: ATP (native), centroid [38.29, 59.82, 1.22]
+  ZOOM_CAMERA_CDK2 = "-0.5093,-0.1600,-0.8456,-24.8231,0.3444,0.8626,-0.3706,32.1610,0.7887,-0.4800,-0.3842,-27.4564"
+  CDK4: ATP (borrowed from 1QMZ, this structure is apo), centroid [38.29, 59.82, 1.22]
+  ZOOM_CAMERA_CDK4 = "-0.5093,-0.1600,-0.8456,-24.8231,0.3444,0.8626,-0.3706,32.1610,0.7887,-0.4800,-0.3842,-27.4564"
+  CDK6: AP9 (native), centroid [38.45, 62.15, -2.21]
+  ZOOM_CAMERA_CDK6 = "-0.5093,-0.1600,-0.8456,-24.6643,0.3444,0.8626,-0.3706,34.4813,0.7887,-0.4800,-0.3842,-30.8883"
+
+for reference, the naive axis would have been:
+  "0.2693,0.5176,-0.8122,0.0000,0.1487,0.8109,0.5660,0.0000,0.9515,-0.2731,0.1414,0.0000"

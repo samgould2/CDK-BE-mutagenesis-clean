@@ -1,0 +1,5 @@
+arm,cell_line,editor,gem_groups,cells_total,cells_targeting,cells_NT,gRNAs_targeting,gRNAs_NT,median_cells_per_targeting_gRNA,min_cells,max_cells,median_UMI
+A549/ABE,A549,ABE,2,45473,41256,4217,82,9,511,79,836,7618
+A549/CBE,A549,CBE,2,38993,33729,5264,62,9,540,332,804,8631
+T47D/ABE,T47D,ABE,1,12335,11217,1118,82,9,138,22,209,10812
+T47D/CBE,T47D,CBE,1,5004,4294,710,62,9,70,27,96,34140

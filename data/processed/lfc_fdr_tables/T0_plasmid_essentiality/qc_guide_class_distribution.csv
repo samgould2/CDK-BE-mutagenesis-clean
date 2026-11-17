@@ -1,0 +1,8 @@
+GuideClass,ess_early,ess_early,ess_early,ess_late,ess_late,ess_late
+,count,median,std,count,median,std
+Non-targeting,1152,0.0,1.031,1144,0.0,0.747
+Intron,982,0.047,1.139,942,0.047,0.931
+Unedited,2060,0.133,1.228,1961,0.07,1.027
+Silent,2032,0.438,1.081,2006,0.072,0.809
+Missense,14302,0.364,0.993,14180,0.031,0.771
+Truncating,699,0.219,0.996,698,0.063,0.865

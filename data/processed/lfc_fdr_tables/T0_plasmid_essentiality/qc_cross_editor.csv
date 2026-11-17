@@ -1,0 +1,37 @@
+stage,Screen_ID,guide_class,n,R
+raw,Subpool1,non-targeting control,131,0.5542455181099983
+raw,Subpool1,intron,160,0.7802326310013759
+raw,Subpool1,targeting,2439,0.7303040385330785
+raw,Subpool2,non-targeting control,235,0.7935979529984954
+raw,Subpool2,intron,100,0.8850776767034845
+raw,Subpool2,targeting,4533,0.8624680253058753
+raw,Subpool3,non-targeting control,79,0.8162652876455385
+raw,Subpool3,intron,71,0.8235962329106064
+raw,Subpool3,targeting,1505,0.7821420642157524
+raw,SY-5609,non-targeting control,131,0.5633454340110603
+raw,SY-5609,intron,160,0.8509448363970447
+raw,SY-5609,targeting,2439,0.8095977070781273
+corrected,Subpool1,non-targeting control,131,0.5377757636771717
+corrected,Subpool1,intron,160,0.7403480054290017
+corrected,Subpool1,targeting,2439,0.6691558734349325
+corrected,Subpool2,non-targeting control,235,0.7976412232322634
+corrected,Subpool2,intron,100,0.8015888478531782
+corrected,Subpool2,targeting,4533,0.7847833599210832
+corrected,Subpool3,non-targeting control,79,0.81604576498267
+corrected,Subpool3,intron,71,0.7973886973012602
+corrected,Subpool3,targeting,1505,0.7210837681220256
+corrected,SY-5609,non-targeting control,131,0.5737479871302515
+corrected,SY-5609,intron,160,0.7499703025084073
+corrected,SY-5609,targeting,2439,0.7020052466339061
+late,Subpool1,non-targeting control,130,-0.5508254655492473
+late,Subpool1,intron,151,-0.5282613661081799
+late,Subpool1,targeting,2406,-0.5811508425998186
+late,Subpool2,non-targeting control,230,0.004230795838261405
+late,Subpool2,intron,94,0.15545410990140057
+late,Subpool2,targeting,4388,0.094052351799236
+late,Subpool3,non-targeting control,79,0.04101275971448107
+late,Subpool3,intron,69,0.07943408923768251
+late,Subpool3,targeting,1495,0.13650020778593414
+late,SY-5609,non-targeting control,129,0.026477105214926577
+late,SY-5609,intron,149,0.06375415035864095
+late,SY-5609,targeting,2392,0.1628614676423672

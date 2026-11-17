@@ -1,0 +1,101 @@
+source,Gene,variant,klifs_idx,segment,label,region,Codon
+OncoKB,ABL1,T315I,GK:45,GK,ABL1 T315I,KLIFS pocket,
+OncoKB,ABL1,F359I,VI:66,VI,ABL1 F359I,KLIFS pocket,
+OncoKB,ABL1,F359V,VI:66,VI,ABL1 F359V,KLIFS pocket,
+OncoKB,ABL1,G250E,g.l:5,g.l,ABL1 G250E,KLIFS pocket,
+OncoKB,ABL1,T315A,GK:45,GK,ABL1 T315A,KLIFS pocket,
+OncoKB,ABL1,V299L,b.l:36,b.l,ABL1 V299L,KLIFS pocket,
+OncoKB,ABL1,Y253H,g.l:8,g.l,ABL1 Y253H,KLIFS pocket,
+OncoKB,ABL1,E255K,II:10,II,ABL1 E255K,KLIFS pocket,
+OncoKB,ABL1,E255V,II:10,II,ABL1 E255V,KLIFS pocket,
+OncoKB,ABL1,F359C,VI:66,VI,ABL1 F359C,KLIFS pocket,
+OncoKB,ABL1,F317C,hinge:47,hinge,ABL1 F317C,KLIFS pocket,
+OncoKB,ABL1,F317I,hinge:47,hinge,ABL1 F317I,KLIFS pocket,
+OncoKB,ABL1,F317L,hinge:47,hinge,ABL1 F317L,KLIFS pocket,
+OncoKB,ABL1,F317V,hinge:47,hinge,ABL1 F317V,KLIFS pocket,
+OncoKB,ALK,G1202R,linker:51,linker,ALK G1202R,KLIFS pocket,
+OncoKB,ALK,I1171N,αC:28,αC,ALK I1171N,KLIFS pocket,
+OncoKB,ALK,L1196M,GK:45,GK,ALK L1196M,KLIFS pocket,
+OncoKB,ALK,C1156Y,,III:αC,ALK C1156Y,gap (unnumbered),
+OncoKB,ALK,G1269A,xDFG:80,xDFG,ALK G1269A,KLIFS pocket,
+OncoKB,BTK,C481F,linker:52,linker,BTK C481F,KLIFS pocket,
+OncoKB,BTK,T474S,GK:45,GK,BTK T474S,KLIFS pocket,
+OncoKB,BTK,T474I,GK:45,GK,BTK T474I,KLIFS pocket,
+OncoKB,BTK,T316A,,,BTK T316A,outside kinase domain,
+OncoKB,BTK,C481Y,linker:52,linker,BTK C481Y,KLIFS pocket,
+OncoKB,BTK,C481S,linker:52,linker,BTK C481S,KLIFS pocket,
+OncoKB,BTK,C481R,linker:52,linker,BTK C481R,KLIFS pocket,
+OncoKB,EGFR,L718Q,I:3,I,EGFR L718Q,KLIFS pocket,
+OncoKB,EGFR,L718V,I:3,I,EGFR L718V,KLIFS pocket,
+OncoKB,EGFR,L792H,hinge:47,hinge,EGFR L792H,KLIFS pocket,
+OncoKB,EGFR,S492R,,,EGFR S492R,outside kinase domain,
+OncoKB,EGFR,S464L,,,EGFR S464L,outside kinase domain,
+OncoKB,EGFR,V441D,,,EGFR V441D,outside kinase domain,
+OncoKB,EGFR,V441G,,,EGFR V441G,outside kinase domain,
+OncoKB,EGFR,G724S,g.l:9,g.l,EGFR G724S,KLIFS pocket,
+OncoKB,EGFR,G465R,,,EGFR G465R,outside kinase domain,
+OncoKB,EGFR,L792F,hinge:47,hinge,EGFR L792F,KLIFS pocket,
+OncoKB,EGFR,G465E,,,EGFR G465E,outside kinase domain,
+OncoKB,EGFR,D761Y,αC:23,αC,EGFR D761Y,KLIFS pocket,
+OncoKB,EGFR,C797S,linker:52,linker,EGFR C797S,KLIFS pocket,
+OncoKB,EGFR,C797G,linker:52,linker,EGFR C797G,KLIFS pocket,
+OncoKB,EGFR,T790M,GK:45,GK,EGFR T790M,KLIFS pocket,
+OncoKB,KIT,D820,,C-lobe,KIT D820,C-lobe post-pocket,
+OncoKB,KIT,N822,,C-lobe,KIT N822,C-lobe post-pocket,
+OncoKB,KIT,V654A,b.l:36,b.l,KIT V654A,KLIFS pocket,
+OncoKB,KIT,Y823D,,C-lobe,KIT Y823D,C-lobe post-pocket,
+OncoKB,KIT,T670I,GK:45,GK,KIT T670I,KLIFS pocket,
+OncoKB,KIT,D816,,C-lobe,KIT D816,C-lobe post-pocket,
+OncoKB,KIT,A829P,,C-lobe,KIT A829P,C-lobe post-pocket,
+OncoKB,KIT,C809G,xDFG:80,xDFG,KIT C809G,KLIFS pocket,
+OncoKB,MET,Y1230H,,C-lobe,MET Y1230H,C-lobe post-pocket,
+OncoKB,MET,D1228N,,C-lobe,MET D1228N,C-lobe post-pocket,
+OncoKB,NTRK1,G595R,linker:51,linker,NTRK1 G595R,KLIFS pocket,
+OncoKB,NTRK3,G696A,xDFG:80,xDFG,NTRK3 G696A,KLIFS pocket,
+OncoKB,NTRK3,F617L,GK:45,GK,NTRK3 F617L,KLIFS pocket,
+OncoKB,NTRK3,G623R,linker:51,linker,NTRK3 G623R,KLIFS pocket,
+OncoKB,PDGFRA,D842V,,C-lobe,PDGFRA D842V,C-lobe post-pocket,
+OncoKB,ROS1,L2086F,VII:77,VII,ROS1 L2086F,KLIFS pocket,
+OncoKB,ROS1,G2032R,linker:51,linker,ROS1 G2032R,KLIFS pocket,
+CIViC,EGFR,T790M,GK:45,GK,EGFR T790M,KLIFS pocket,790.0
+CIViC,EGFR,S492R,,,EGFR S492R,outside kinase domain,492.0
+CIViC,EGFR,C797S,linker:52,linker,EGFR C797S,KLIFS pocket,797.0
+CIViC,EGFR,G465R,,,EGFR G465R,outside kinase domain,465.0
+CIViC,EGFR,K467T,,,EGFR K467T,outside kinase domain,467.0
+CIViC,EGFR,D761Y,αC:23,αC,EGFR D761Y,KLIFS pocket,761.0
+CIViC,EGFR,S768I,αC:30,αC,EGFR S768I,KLIFS pocket,768.0
+CIViC,EGFR,L838V,c.l:71,c.l,EGFR L838V,KLIFS pocket,838.0
+CIViC,EGFR,L858R,a.l:84,a.l,EGFR L858R,KLIFS pocket,858.0
+CIViC,EGFR,N826S,,αD:αE,EGFR N826S,gap (unnumbered),826.0
+CIViC,EGFR,V441F,,,EGFR V441F,outside kinase domain,441.0
+CIViC,PDGFRA,D842V,,,PDGFRA D842V,C-lobe post-pocket,842.0
+CIViC,PDGFRA,V561D,,,PDGFRA V561D,outside kinase domain,561.0
+CIViC,MET,D1228N,,,MET D1228N,C-lobe post-pocket,1228.0
+CIViC,MET,D1228V,,,MET D1228V,C-lobe post-pocket,1228.0
+CIViC,BTK,C481S,linker:52,linker,BTK C481S,KLIFS pocket,481.0
+CIViC,BTK,T316A,,,BTK T316A,outside kinase domain,316.0
+CIViC,NTRK3,F617L,GK:45,GK,NTRK3 F617L,KLIFS pocket,617.0
+CIViC,ALK,R1275Q,,,ALK R1275Q,C-lobe post-pocket,1275.0
+CIViC,ALK,F1174L,b.l:31,b.l,ALK F1174L,KLIFS pocket,1174.0
+CIViC,ALK,F1245C,VI:66,VI,ALK F1245C,KLIFS pocket,1245.0
+CIViC,ABL1,L298V,b.l:35,b.l,ABL1 L298V,KLIFS pocket,298.0
+CIViC,ABL1,V379I,VIII:79,VIII,ABL1 V379I,KLIFS pocket,379.0
+CIViC,ABL1,C475V,,,ABL1 C475V,C-lobe post-pocket,475.0
+CIViC,KIT,L576P,,,KIT L576P,outside kinase domain,576.0
+CIViC,KIT,V654A,b.l:36,b.l,KIT V654A,KLIFS pocket,654.0
+CIViC,KIT,N822H,,,KIT N822H,C-lobe post-pocket,822.0
+CIViC,KIT,D816V,,,KIT D816V,C-lobe post-pocket,816.0
+CIViC,KIT,V560G,,,KIT V560G,outside kinase domain,560.0
+CIViC,KIT,K642E,αC:26,αC,KIT K642E,KLIFS pocket,642.0
+CIViC,KIT,D820Y,,,KIT D820Y,C-lobe post-pocket,820.0
+CIViC,KIT,N822K,,,KIT N822K,C-lobe post-pocket,822.0
+CIViC,KIT,Y823D,,,KIT Y823D,C-lobe post-pocket,823.0
+CIViC,KIT,C809G,xDFG:80,xDFG,KIT C809G,KLIFS pocket,809.0
+CIViC,KIT,D820A,,,KIT D820A,C-lobe post-pocket,820.0
+CIViC,KIT,D820G,,,KIT D820G,C-lobe post-pocket,820.0
+CIViC,KIT,D816H,,,KIT D816H,C-lobe post-pocket,816.0
+CIViC,KIT,T670I,GK:45,GK,KIT T670I,KLIFS pocket,670.0
+CIViC,KIT,V560D,,,KIT V560D,outside kinase domain,560.0
+CIViC,KIT,D816E,,,KIT D816E,C-lobe post-pocket,816.0
+CIViC,KIT,A829P,,,KIT A829P,C-lobe post-pocket,829.0
+CIViC,ROS1,G2032R,linker:51,linker,ROS1 G2032R,KLIFS pocket,2032.0

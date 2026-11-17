@@ -1,0 +1,5 @@
+cell_line,arm,control_guides,off_target_guides,off_target_guides_list,control_cells_before,control_cells_after
+A549,A549/ABE,9,0,,4217,4217
+A549,A549/CBE,9,0,,5264,5264
+T47D,T47D/ABE,9,0,,1118,1118
+T47D,T47D/CBE,9,0,,710,710

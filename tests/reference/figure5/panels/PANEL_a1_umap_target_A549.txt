@@ -1,0 +1,22 @@
+UMAP 2
+
+a1
+
+UMAP 1
+18,000 cells · own-target neighbours 1.02× chance
+CDK7
+CDK8
+
+CDK9
+CDK19
+
+CDK12
+CDK13
+
+CDK2
+CDK4
+
+CDK6
+NT
+
+

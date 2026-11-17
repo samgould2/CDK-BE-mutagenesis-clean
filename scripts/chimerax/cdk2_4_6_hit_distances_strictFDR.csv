@@ -1,0 +1,37 @@
+gene,position,wt,variants,drug_class,modelled,wt_matches,min_dist_to_ATP,active_site,in_crop,label_dx,label_dy,label_dz,zoom_dx,zoom_dy,zoom_dz,zoom_in_frame
+CDK2,81,E,E81K,CDK2i only,True,True,2.67,True,True,-2.55,1.72,3.94,-1.78,1.21,2.76,True
+CDK2,134,L,L134F,CDK2i only,True,True,3.44,True,True,-0.11,3.72,-3.34,-1.78,1.21,2.76,True
+CDK2,181,S,S181F,CDK2i only,True,True,18.38,False,False,1.43,-4.61,1.3,-1.78,1.21,2.76,True
+CDK2,185,D,D185N,CDK2i only,True,True,13.11,False,True,-1.97,4.6,-0.11,-1.78,1.21,2.76,True
+CDK2,187,W,W187*,CDK2i only,True,True,16.04,False,False,1.97,-4.6,0.11,-1.78,1.21,2.76,True
+CDK2,241,P,P241L;P241S,CDK2i only,True,True,30.45,False,False,1.97,-4.6,0.11,-1.78,1.21,2.76,False
+CDK2,243,W,W243*,CDK2i only,True,True,28.29,False,False,0.58,2.87,-4.05,-1.78,1.21,2.76,False
+CDK2,261,S,S261G,CDK4/6i only,True,True,27.85,False,False,-1.97,4.6,-0.11,-1.78,1.21,2.76,False
+CDK4,23,A,A23T;A23V,CDK4/6i only,True,True,8.62,True,True,2.55,-1.72,-3.94,-1.78,1.21,2.76,True
+CDK4,24,R,R24C;R24H,CDK4/6i only,True,True,11.31,True,True,-1.97,4.6,-0.11,-1.78,1.21,2.76,True
+CDK4,25,D,D25N,CDK4/6i only,True,True,12.01,False,True,-2.55,1.72,3.94,-1.78,1.21,2.76,True
+CDK4,51,I,I51V,both,True,True,19.13,False,False,-2.55,1.72,3.94,-1.78,1.21,2.76,True
+CDK4,56,E,E56K,CDK4/6i only,True,True,13.82,False,True,-1.97,4.6,-0.11,-1.78,1.21,2.76,True
+CDK4,73,R,R73W,CDK4/6i only,True,True,6.5,True,True,-2.55,1.72,3.94,-1.78,1.21,2.76,True
+CDK4,96,V,V96I,CDK4/6i only,True,True,2.2,True,True,2.35,0.86,-6.0,-1.87,1.95,2.23,True
+CDK4,97,D,D97N,CDK4/6i only,True,True,3.93,True,True,-0.11,3.72,-3.34,-1.78,1.21,2.76,True
+CDK4,144,E,E144K,CDK4/6i only,True,True,4.03,True,True,-1.97,4.6,-0.11,-1.78,1.21,2.76,True
+CDK4,194,P,P194L,CDK4/6i only,True,True,17.82,False,False,1.97,-4.6,0.11,-1.78,1.21,2.76,True
+CDK4,196,D,D196N,CDK4/6i only,True,True,12.37,False,True,-1.97,4.6,-0.11,-1.78,1.21,2.76,True
+CDK4,198,W,W198*,CDK4/6i only,True,True,16.09,False,False,-0.11,3.72,-3.34,-1.38,3.22,-0.07,True
+CDK6,4,D,D4N,CDK4/6i only,False,,,False,False,,,,,,,
+CDK6,5,G,G5N,CDK4/6i only,False,,,False,False,,,,,,,
+CDK6,33,L,L33S,both,True,True,16.48,False,False,-2.55,1.72,3.94,-1.78,1.21,2.76,True
+CDK6,54,M,M54T,both,True,True,14.06,False,True,-2.55,1.72,3.94,-1.78,1.21,2.76,True
+CDK6,56,L,L56P,both,True,True,11.35,True,True,-2.55,1.72,3.94,-1.78,1.21,2.76,True
+CDK6,57,S,S57F,CDK4/6i only,True,True,6.67,True,True,1.28,-6.9,3.84,-1.78,1.21,2.76,True
+CDK6,92,T,T92I,both,True,True,15.94,False,True,-2.55,1.72,3.94,-1.78,1.21,2.76,False
+CDK6,104,D,D104N,CDK4/6i only,True,True,3.36,True,True,-1.97,4.6,-0.11,-1.78,1.21,2.76,True
+CDK6,165,G,G165D,CDK2i only,True,True,7.3,True,True,-1.97,4.6,-0.11,-1.66,2.99,0.76,True
+CDK6,167,A,A167T,CDK2i only,True,True,10.5,True,True,1.97,-4.6,0.11,-0.08,2.6,-2.34,True
+CDK6,233,D,D233N,CDK2i only,True,True,25.76,False,False,-1.43,4.61,-1.3,-1.78,1.21,2.76,False
+CDK6,258,S,S258F,CDK2i only,False,,,False,False,,,,,,,
+CDK6,259,A,A259V,CDK2i only,True,True,29.5,False,False,1.97,-4.6,0.11,1.87,-1.95,-2.23,False
+CDK6,260,Q,Q260*,CDK2i only,True,True,29.45,False,False,-0.15,4.84,-4.34,-1.87,1.95,2.23,False
+CDK6,261,P,P261L,CDK2i only,True,True,29.71,False,False,3.47,-3.61,-4.14,-1.78,1.21,2.76,False
+CDK6,288,R,R288K,CDK2i only,True,True,20.09,False,False,1.43,-4.61,1.3,-1.78,1.21,2.76,True

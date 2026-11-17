@@ -1,0 +1,85 @@
+readout,Gene,contrast,delta,q
+predictors,CDK7,resistance vs other pocket,-0.01666666666666672,0.9296514310021168
+predictors,CDK7,other pocket vs outside pocket,0.3276406035665296,1.9703063027045622e-06
+predictors,CDK7,resistance vs outside pocket,0.34207818930041145,0.07757343595434216
+predictors,CDK9,resistance vs other pocket,-0.15089514066496168,0.4445272618669729
+predictors,CDK9,other pocket vs outside pocket,0.4757595345830641,2.7403737657696874e-15
+predictors,CDK9,resistance vs outside pocket,0.33444816053511706,0.015944711212083566
+predictors,CDK12,resistance vs other pocket,-0.10921052631578942,0.6393891226944113
+predictors,CDK12,other pocket vs outside pocket,0.7919908466819221,3.13364021597291e-31
+predictors,CDK12,resistance vs outside pocket,0.8301790281329924,1.1159125852072689e-09
+predictors,CDK13,resistance vs other pocket,-0.45185185185185184,0.040028988653578755
+predictors,CDK13,other pocket vs outside pocket,0.8524632332382709,7.389106910846621e-42
+predictors,CDK13,resistance vs outside pocket,0.7368730078845831,3.6752929657710944e-05
+predictors,CDK2,resistance vs other pocket,-0.04424778761061943,0.9296514310021168
+predictors,CDK2,other pocket vs outside pocket,0.3517768906507357,3.253153391468072e-08
+predictors,CDK2,resistance vs outside pocket,0.3222172149616944,0.20731474420146925
+predictors,CDK4,resistance vs other pocket,-0.2883478260869565,0.0663564043889161
+predictors,CDK4,other pocket vs outside pocket,0.39658536585365844,9.374248493122593e-11
+predictors,CDK4,resistance vs outside pocket,0.1436903499469777,0.29130137303958537
+predictors,CDK6,resistance vs other pocket,-0.6649029982363316,0.006276839154668221
+predictors,CDK6,other pocket vs outside pocket,0.49406549406549405,7.050633807852608e-16
+predictors,CDK6,resistance vs outside pocket,-0.08775442108775444,0.6544557333703398
+T0 vs Plasmid,CDK7,resistance vs other pocket,0.02356406480117812,0.8904887429836775
+T0 vs Plasmid,CDK7,other pocket vs outside pocket,-0.2194923800986105,0.0015366726969017572
+T0 vs Plasmid,CDK7,resistance vs outside pocket,-0.2115683229813664,0.17934446338328824
+T0 vs Plasmid,CDK9,resistance vs other pocket,-0.32742316784869974,0.022191286787659838
+T0 vs Plasmid,CDK9,other pocket vs outside pocket,-0.1856815770369129,0.0015366726969017572
+T0 vs Plasmid,CDK9,resistance vs outside pocket,-0.4993438320209974,0.00012378102112387316
+T0 vs Plasmid,CDK12,resistance vs other pocket,0.4825026511134676,0.0015015815160084223
+T0 vs Plasmid,CDK12,other pocket vs outside pocket,-0.6811180896158371,3.4814672258274203e-25
+T0 vs Plasmid,CDK12,resistance vs outside pocket,-0.3826799066344898,0.0025605628889485005
+T0 vs Plasmid,CDK13,resistance vs other pocket,0.29895104895104896,0.09774840119425562
+T0 vs Plasmid,CDK13,other pocket vs outside pocket,-0.6896555284787906,3.1382022113907706e-27
+T0 vs Plasmid,CDK13,resistance vs outside pocket,-0.5941005836507881,0.000506653111500944
+T0 vs Plasmid,CDK2,resistance vs other pocket,-0.52734375,0.022191286787659838
+T0 vs Plasmid,CDK2,other pocket vs outside pocket,-0.13405393835616441,0.027960729359765783
+T0 vs Plasmid,CDK2,resistance vs outside pocket,-0.6294520547945206,0.002717297820977121
+T0 vs Plasmid,CDK4,resistance vs other pocket,0.5619047619047619,7.948242630931708e-05
+T0 vs Plasmid,CDK4,other pocket vs outside pocket,-0.0037414965986394266,0.9480880490599393
+T0 vs Plasmid,CDK4,resistance vs outside pocket,0.5145502645502646,0.00012378102112387316
+T0 vs Plasmid,CDK6,resistance vs other pocket,0.4464788732394367,0.02612464916806004
+T0 vs Plasmid,CDK6,other pocket vs outside pocket,0.1371792398224967,0.022975164532409605
+T0 vs Plasmid,CDK6,resistance vs outside pocket,0.5778082191780822,0.0025605628889485005
+DMSO vs T0,CDK7,resistance vs other pocket,-0.04123711340206182,0.8070142438310901
+DMSO vs T0,CDK7,other pocket vs outside pocket,-0.09169094576423131,0.2881670324863691
+DMSO vs T0,CDK7,resistance vs outside pocket,-0.2449534161490683,0.20996445541778874
+DMSO vs T0,CDK9,resistance vs other pocket,0.07978723404255317,0.6231939430228367
+DMSO vs T0,CDK9,other pocket vs outside pocket,-0.07903333891774167,0.2881670324863691
+DMSO vs T0,CDK9,resistance vs outside pocket,0.008858267716535417,0.9420435517572281
+DMSO vs T0,CDK12,resistance vs other pocket,-0.1861081654294804,0.40860824240329696
+DMSO vs T0,CDK12,other pocket vs outside pocket,-0.03041567722319627,0.7462434105126182
+DMSO vs T0,CDK12,resistance vs outside pocket,-0.2642323060489773,0.06777952324235244
+DMSO vs T0,CDK13,resistance vs other pocket,-0.6083916083916083,0.002973610254304842
+DMSO vs T0,CDK13,other pocket vs outside pocket,-0.05954421543926314,0.48008894235524197
+DMSO vs T0,CDK13,resistance vs outside pocket,-0.664872610351938,0.0002444226544740107
+DMSO vs T0,CDK2,resistance vs other pocket,-0.65234375,0.007135301229990849
+DMSO vs T0,CDK2,other pocket vs outside pocket,-0.08482448630136985,0.2881670324863691
+DMSO vs T0,CDK2,resistance vs outside pocket,-0.7712328767123288,0.0006678526417594566
+DMSO vs T0,CDK4,resistance vs other pocket,0.09523809523809534,0.6231939430228367
+DMSO vs T0,CDK4,other pocket vs outside pocket,-0.11126228269085414,0.2881670324863691
+DMSO vs T0,CDK4,resistance vs outside pocket,-0.0650352733686067,0.6925966491136759
+DMSO vs T0,CDK6,resistance vs other pocket,0.1253521126760564,0.6231939430228367
+DMSO vs T0,CDK6,other pocket vs outside pocket,-0.002064441443179632,0.9714574747028772
+DMSO vs T0,CDK6,resistance vs outside pocket,0.10438356164383555,0.6925966491136759
+DMSO vs T0 held-out,CDK12,resistance vs other pocket,0.017231533882806554,0.897754915113866
+DMSO vs T0 held-out,CDK12,other pocket vs outside pocket,0.012587665167125431,0.6082177353522349
+DMSO vs T0 held-out,CDK12,resistance vs outside pocket,0.03571284431448322,0.6681616233121779
+DMSO vs T0 held-out,CDK13,resistance vs other pocket,0.030125700833769236,0.6893241090703921
+DMSO vs T0 held-out,CDK13,other pocket vs outside pocket,-0.030926441753505413,0.8806176482185497
+DMSO vs T0 held-out,CDK13,resistance vs outside pocket,-0.00606035942739902,0.6825338074619683
+DMSO vs T0 held-out,CDK2,resistance vs other pocket,-0.09898903397523569,0.6930243882232487
+DMSO vs T0 held-out,CDK2,other pocket vs outside pocket,-0.013726552968752618,0.9946715224748144
+DMSO vs T0 held-out,CDK2,resistance vs outside pocket,-0.11084636650071926,0.5185603880989982
+DMSO vs T0 held-out,CDK4,resistance vs other pocket,-0.22636651025623233,0.1367473223198178
+DMSO vs T0 held-out,CDK4,other pocket vs outside pocket,0.07602768162810691,0.8895430220833621
+DMSO vs T0 held-out,CDK4,resistance vs outside pocket,-0.1468401417843684,0.09168790034414145
+DMSO vs T0 held-out,CDK6,resistance vs other pocket,0.14454218871330346,0.26096857300290327
+DMSO vs T0 held-out,CDK6,other pocket vs outside pocket,-0.15750627313559487,0.26380369391072966
+DMSO vs T0 held-out,CDK6,resistance vs outside pocket,-0.0056263677540308405,0.6681616233121779
+DMSO vs T0 held-out,CDK7,resistance vs other pocket,-0.28174963026897465,0.104688767425438
+DMSO vs T0 held-out,CDK7,other pocket vs outside pocket,0.09206330957589122,0.7332067488971566
+DMSO vs T0 held-out,CDK7,resistance vs outside pocket,-0.21140939432294936,0.18785080242487728
+DMSO vs T0 held-out,CDK9,resistance vs other pocket,0.09383240416466154,0.9695496812827427
+DMSO vs T0 held-out,CDK9,other pocket vs outside pocket,-0.10903646046525495,0.3919647679378915
+DMSO vs T0 held-out,CDK9,resistance vs outside pocket,-0.016900742989602275,0.8408568661526135

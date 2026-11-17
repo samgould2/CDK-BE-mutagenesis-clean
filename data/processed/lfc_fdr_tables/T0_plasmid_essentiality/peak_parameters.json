@@ -1,0 +1,27 @@
+{
+  "sigma": 5,
+  "height": 0.2,
+  "distance": 10,
+  "prominence": 0.3,
+  "n_perm": 2000,
+  "fdr_cut": 0.05,
+  "kinase_domain_columns": [
+    829,
+    1059
+  ],
+  "primary_profile": "calls (FDR < 0.05)",
+  "runs": {
+    "calls (FDR < 0.05)": {
+      "n_peaks": 1,
+      "null_mean": 1.453,
+      "null_sd": 0.7561686319862785,
+      "p_count": 0.917
+    },
+    "continuous (mean depletion)": {
+      "n_peaks": 4,
+      "null_mean": 4.064,
+      "null_sd": 1.0709360391732086,
+      "p_count": 0.7
+    }
+  }
+}

@@ -1,0 +1,6 @@
+cls,A549/ABE,A549/CBE,T47D/ABE,T47D/CBE,TOTAL
+non-targeting,4217,5264,1118,710,11309
+missense,35068,24341,9627,3143,72179
+nonsense_competent,0,8086,0,964,9050
+nonsense_escaping,0,1302,0,187,1489
+start_loss,6188,0,1590,0,7778

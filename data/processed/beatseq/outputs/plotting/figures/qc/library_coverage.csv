@@ -1,0 +1,9 @@
+arm,editor,classification,designed,recovered,missing,pct_recovered
+A549/ABE,ABE,non-targeting control,10,9,NT|gRNA_nt_9243,90.0
+A549/ABE,ABE,targeting,82,82,,100.0
+A549/CBE,CBE,non-targeting control,10,9,NT|gRNA_nt_9243,90.0
+A549/CBE,CBE,targeting,62,62,,100.0
+T47D/ABE,ABE,non-targeting control,10,9,NT|gRNA_nt_9243,90.0
+T47D/ABE,ABE,targeting,82,82,,100.0
+T47D/CBE,CBE,non-targeting control,10,9,NT|gRNA_nt_9243,90.0
+T47D/CBE,CBE,targeting,62,62,,100.0

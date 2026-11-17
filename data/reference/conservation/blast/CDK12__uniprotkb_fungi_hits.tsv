@@ -1,0 +1,1001 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	TR	A0A9P5P1M4	Serine/threonine-protein OS=Gymnopilus junonius OX=109634 GN=CPB84DRAFT_1757945 PE=3 SV=1	Gymnopilus junonius	1064	970	29.6	46.1	2.2e-108
+2	TR	A0AAD5W3U1	Serine/threonine-protein OS=Leucocoprinus birnbaumii OX=56174 GN=NP233_g578 PE=3 SV=1	Leucocoprinus birnbaumii	1078	967	29.0	44.7	7.3e-108
+3	TR	A0A284QZY0	Serine/threonine-protein OS=Armillaria ostoyae OX=47428 GN=ARMOST_05362 PE=3 SV=1	Armillaria ostoyae	990	956	31.2	46.1	4.2e-107
+4	TR	A0AAW0GT41	Serine/threonine-protein OS=Cerrena zonata OX=2478898 GN=QCA50_000480 PE=3 SV=1	Cerrena zonata	1085	957	32.1	45.6	1.9e-106
+5	TR	A0A0C3CBJ4	Serine/threonine-protein OS=Hebeloma cylindrosporum OX=76867 GN=M413DRAFT_441216 PE=3 SV=1	Hebeloma cylindrosporum	1065	952	29.4	44.7	6.2e-106
+6	TR	A0A0K6FS29	Serine/threonine-protein OS=Rhizoctonia solani OX=456999 GN=RSOLAG22IIIB_03753 PE=3 SV=1	Rhizoctonia solani	1082	940	29.3	45.0	3.6e-104
+7	TR	A0AAW0ECU3	Serine/threonine-protein OS=Favolaschia claudopus OX=2862362 GN=R3P38DRAFT_2831339 PE=3 SV=1	Favolaschia claudopus	974	924	28.9	44.8	6.9e-103
+8	TR	A0A180H0D5	Serine/threonine-protein OS=Puccinia triticina (isolate 1-1 / race 1 (BBBD)) OX=630390 PE=3 SV=1	Puccinia triticina (isolate 1-1 / race 1 (BBBD))	1257	938	30.6	43.9	1e-102
+9	TR	A0A8H6ZYW7	Serine/threonine-protein OS=Pleurotus ostreatus OX=5322 GN=CTK1 PE=3 SV=1	Pleurotus ostreatus	1008	923	29.1	45.7	1.8e-102
+10	TR	A0ABQ0M7S6	Serine/threonine-protein OS=Mycena chlorophos OX=658473 GN=MCHLO_15735 PE=3 SV=1	Mycena chlorophos	941	916	30.3	44.9	4.3e-102
+11	TR	A0A409XTM2	Serine/threonine-protein OS=Psilocybe cyanescens OX=93625 GN=CVT25_009894 PE=3 SV=1	Psilocybe cyanescens	1066	920	30.1	46.0	1.3e-101
+12	TR	A0A4Y9Z6K9	Serine/threonine-protein OS=Dentipellis fragilis OX=205917 GN=EVG20_g2842 PE=3 SV=1	Dentipellis fragilis	1032	918	29.5	44.5	1.4e-101
+13	TR	A0A9N9FYK1	Serine/threonine-protein OS=Paraglomus occultum OX=144539 GN=POCULU_LOCUS5774 PE=3 SV=1	Paraglomus occultum	1034	914	28.1	43.9	4.9e-101
+14	TR	A0A8S0XLE2	Serine/threonine-protein OS=Cyclocybe aegerita OX=1973307 GN=AAE3_LOCUS1956 PE=3 SV=1	Cyclocybe aegerita	1035	906	30.0	45.9	5.9e-100
+15	TR	A0A8H5FDV6	Serine/threonine-protein OS=Ephemerocybe angulata OX=980116 GN=D9611_002460 PE=3 SV=1	Ephemerocybe angulata	1167	909	29.8	45.8	2.1e-99
+16	TR	A0A0B7G5K2	Serine/threonine-protein OS=Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) OX=1108050 GN=RSOLAG1IB_05509 PE=3 SV=1	Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14)	1085	904	30.1	45.1	2.6e-99
+17	TR	A0ABQ8QRN0	Serine/threonine-protein OS=Lentinula boryana OX=40481 GN=F5050DRAFT_1561524 PE=3 SV=1	Lentinula boryana	530	863	37.7	54.0	2.9e-99
+18	TR	A0AA38ULH6	Serine/threonine-protein OS=Lentinula raphanica OX=153919 GN=F5878DRAFT_524289 PE=3 SV=1	Lentinula raphanica	563	865	37.3	51.8	4e-99
+19	TR	A0ACF7N157	Serine/threonine-protein OS=Pleurotus pulmonarius OX=28995 GN=AB1N83_000261 PE=3 SV=1	Pleurotus pulmonarius	1008	898	28.2	45.2	4.3e-99
+20	TR	A0AA38NNQ1	Serine/threonine-protein OS=Lentinula aff. detonsa OX=2804958 GN=GGU10DRAFT_261411 PE=3 SV=1	Lentinula aff. detonsa	530	860	37.5	53.9	7.5e-99
+21	TR	A0ABP1D2K6	Serine/threonine-protein OS=Somion occarium OX=3059160 GN=GFSPODELE1_LOCUS3245 PE=3 SV=1	Somion occarium	1009	893	30.1	44.1	2.1e-98
+22	TR	A0ACC1T527	Serine/threonine-protein OS=Phlebia brevispora OX=194682 GN=NM688_g3741 PE=3 SV=1	Phlebia brevispora	1555	915	29.6	44.1	2.2e-98
+23	TR	A0A409Y6C3	Serine/threonine-protein OS=Panaeolus cyanescens OX=181874 GN=CVT24_004051 PE=3 SV=1	Panaeolus cyanescens	1018	890	29.4	45.4	6.1e-98
+24	TR	A0A8H6W147	Serine/threonine-protein OS=Mycena indigotica OX=2126181 GN=MIND_00733400 PE=3 SV=1	Mycena indigotica	892	882	29.0	45.6	6.4e-98
+25	TR	A0A8H4QYN9	Serine/threonine-protein OS=Agrocybe pediades OX=84607 GN=D9613_005042 PE=3 SV=1	Agrocybe pediades	1055	890	30.3	45.4	1.2e-97
+26	TR	A0A165DRZ7	Serine/threonine-protein OS=Laetiporus sulphureus 93-53 OX=1314785 GN=LAESUDRAFT_760067 PE=3 SV=1	Laetiporus sulphureus 93-53	963	884	29.0	44.0	1.4e-97
+27	TR	A0A8H6S583	Serine/threonine-protein OS=Mycena chlorophos OX=658473 GN=HMN09_01229600 PE=3 SV=1	Mycena chlorophos	899	879	29.6	44.8	1.9e-97
+28	TR	A0A9W8TTA9	Serine/threonine-protein OS=Lentinula detonsa OX=2804962 GN=DFH05DRAFT_1406857 PE=3 SV=1	Lentinula detonsa	528	849	37.5	53.7	2.3e-97
+29	TR	A0ACB7IN05	Serine/threonine-protein OS=Pleurotus cornucopiae OX=5321 GN=CCMSSC00406_0000978 PE=3 SV=1	Pleurotus cornucopiae	965	882	29.6	46.9	2.7e-97
+30	TR	A0A1X2H695	Serine/threonine-protein OS=Syncephalastrum racemosum OX=13706 GN=BCR43DRAFT_443546 PE=3 SV=1	Syncephalastrum racemosum	420	838	44.6	63.4	2.9e-97
+31	TR	A0A9P3PDE6	Serine/threonine-protein OS=Lyophyllum shimeji OX=47721 GN=CTK1 PE=3 SV=1	Lyophyllum shimeji	1079	888	29.8	43.5	3.2e-97
+32	TR	A0ACF7L5I9	Serine/threonine-protein OS=Abortiporus biennis OX=137743 GN=ABKN59_000461 PE=3 SV=1	Abortiporus biennis	940	878	28.9	45.3	5.8e-97
+33	TR	A0A4S4L5X5	Serine/threonine-protein OS=Phellinidium pouzarii OX=167371 GN=EW145_g3846 PE=3 SV=1	Phellinidium pouzarii	1015	881	28.0	45.2	9.3e-97
+34	TR	A0A9P6ARX1	Serine/threonine-protein OS=Hydnum rufescens UP504 OX=1448309 GN=BS47DRAFT_1373238 PE=3 SV=1	Hydnum rufescens UP504	396	831	42.3	59.1	1.2e-96
+35	TR	A0A286UNI8	Serine/threonine-protein OS=Pyrrhoderma noxium OX=2282107 GN=PNOK_0380400 PE=3 SV=1	Pyrrhoderma noxium	1074	882	27.9	44.6	1.9e-96
+36	TR	A0A9N9GQN2	Serine/threonine-protein OS=Paraglomus brasilianum OX=144538 GN=PBRASI_LOCUS9072 PE=3 SV=1	Paraglomus brasilianum	984	876	37.4	54.6	2.5e-96
+37	TR	A0ABR3FGZ0	Serine/threonine-protein OS=Marasmius crinis-equi OX=585013 GN=CTK1 PE=3 SV=1	Marasmius crinis-equi	872	868	30.4	43.6	3.3e-96
+38	TR	A0A4Z0A8V6	Serine/threonine-protein OS=Hericium alpestre OX=135208 GN=EWM64_g1293 PE=3 SV=1	Hericium alpestre	558	843	37.4	53.7	3.6e-96
+39	TR	A0ABQ8VQT9	Serine/threonine-protein OS=Lentinula lateritia OX=40482 GN=C8R41DRAFT_756649 PE=3 SV=1	Lentinula lateritia	511	838	36.3	51.0	4.5e-96
+40	TR	A0A9P6Q1T2	Serine/threonine-protein OS=Mortierella polycephala OX=41804 GN=CTK1 PE=3 SV=1	Mortierella polycephala	2161	901	26.8	41.7	6.8e-96
+41	TR	A0A409W9G0	Serine/threonine-protein OS=Gymnopilus dilepis OX=231916 GN=CVT26_012090 PE=3 SV=1	Gymnopilus dilepis	1064	877	29.1	43.7	7.4e-96
+42	TR	A0A165U4M3	Serine/threonine-protein OS=Daedalea quercina L-15889 OX=1314783 GN=DAEQUDRAFT_190958 PE=3 SV=1	Daedalea quercina L-15889	886	866	29.0	44.6	8.1e-96
+43	TR	G4T7C2	Serine/threonine-protein OS=Serendipita indica (strain DSM 11827) OX=1109443 GN=PIIN_01059 PE=3 SV=1	Serendipita indica (strain DSM 11827)	1022	874	30.9	45.3	9.1e-96
+44	TR	A0A8H7D0W5	Pepsin A OS=Mycena sanguinolenta OX=230812 GN=MSAN_01451300 PE=3 SV=1	Mycena sanguinolenta	1931	899	28.5	45.7	9.3e-96
+45	TR	A0A2H3E574	Serine/threonine-protein OS=Armillaria gallica OX=47427 GN=ARMGADRAFT_1050229 PE=3 SV=1	Armillaria gallica	536	837	37.1	52.1	1.3e-95
+46	TR	A0ABY7CWC9	Serine/threonine-protein OS=Puccinia triticina OX=208348 GN=PtA15_10A662 PE=3 SV=1	Puccinia triticina	901	864	30.8	44.9	2.1e-95
+47	TR	A0A9P6FMP3	Serine/threonine-protein (Fragment) OS=Lunasporangiospora selenospora OX=979761 GN=CTK1 PE=3 SV=1	Lunasporangiospora selenospora	772	855	35.6	50.1	2.1e-95
+48	TR	A0A1J8QEC5	Serine/threonine-protein OS=Rhizopogon vesiculosus OX=180088 GN=AZE42_00362 PE=3 SV=1	Rhizopogon vesiculosus	1003	870	28.2	43.9	2.2e-95
+49	TR	A0A8H5HQZ6	Serine/threonine-protein OS=Tricholomella constricta OX=117010 GN=D9615_000442 PE=3 SV=1	Tricholomella constricta	1107	875	27.6	42.7	2.7e-95
+50	TR	A0ABR3AQI3	Serine/threonine-protein OS=Phycomyces blakesleeanus OX=4837 GN=J3Q64DRAFT_1764589 PE=3 SV=1	Phycomyces blakesleeanus	406	822	45.0	64.7	2.9e-95
+51	TR	A0A068RDQ5	Serine/threonine-protein OS=Lichtheimia corymbifera JMRC:FSU:9682 OX=1263082 GN=LCOR_00055.1 PE=3 SV=1	Lichtheimia corymbifera JMRC:FSU:9682	724	849	30.9	45.7	4.3e-95
+52	TR	A0ACB8ALP4	Serine/threonine-protein OS=Hygrophoropsis aurantiaca OX=72124 GN=BJ138DRAFT_415120 PE=3 SV=1	Hygrophoropsis aurantiaca	1029	868	28.9	44.7	6.5e-95
+53	TR	A0AA39PV14	Serine/threonine-protein OS=Armillaria novae-zelandiae OX=153914 GN=IW261DRAFT_1619995 PE=3 SV=1	Armillaria novae-zelandiae	506	829	36.4	51.9	6.7e-95
+54	TR	A0A1Q3EDX5	Serine/threonine-protein OS=Lentinula edodes OX=5353 GN=LENED_007224 PE=3 SV=1	Lentinula edodes	936	862	28.7	43.9	7.6e-95
+55	TR	S8A9G0	Serine/threonine-protein OS=Dactylellina haptotyla (strain CBS 200.50) OX=1284197 GN=H072_8586 PE=3 SV=1	Dactylellina haptotyla (strain CBS 200.50)	1001	865	30.6	43.1	1e-94
+56	TR	A0A2H3BRR2	Serine/threonine-protein OS=Armillaria solidipes OX=1076256 GN=ARMSODRAFT_885914 PE=3 SV=1	Armillaria solidipes	444	820	40.5	57.0	1.8e-94
+57	TR	A0AA38N3S5	Serine/threonine-protein OS=Lentinula guzmanii OX=2804957 GN=DFJ43DRAFT_989932 PE=3 SV=1	Lentinula guzmanii	530	828	37.4	53.2	1.9e-94
+58	TR	A0A9P3H5R8	Serine/threonine-protein OS=Entomortierella parvispora OX=205924 GN=EMPS_02854 PE=3 SV=1	Entomortierella parvispora	1544	883	33.5	47.8	2.5e-94
+59	TR	A0AAD7UZW0	Serine/threonine-protein OS=Lichtheimia ornata OX=688661 GN=O0I10_008361 PE=3 SV=1	Lichtheimia ornata	727	843	35.8	50.7	3e-94
+60	TR	A0A0D0DIB0	Serine/threonine-protein OS=Paxillus rubicundulus Ve08.2h10 OX=930991 GN=PAXRUDRAFT_135021 PE=3 SV=1	Paxillus rubicundulus Ve08.2h10	433	817	41.8	59.4	3.3e-94
+61	TR	A0A1U7LGM1	Serine/threonine-protein OS=Neolecta irregularis (strain DAH-3) OX=1198029 GN=NEOLI_000979 PE=3 SV=1	Neolecta irregularis (strain DAH-3)	468	819	39.6	55.5	5.1e-94
+62	TR	A0A167KJ93	Serine/threonine-protein (Fragment) OS=Phycomyces blakesleeanus (strain ATCC 8743b / DSM 1359 / FGSC 10004 / NBRC 33097 / NRRL 1555) OX=763407 GN=PHYBLDRAFT_1798 PE=3 SV=1	Phycomyces blakesleeanus (strain ATCC 8743b / DSM 1359 / FGSC 10004 / NBRC 33097 / NRRL 1555)	328	805	48.2	66.8	5.1e-94
+63	TR	K1WWG6	Serine/threonine-protein OS=Trichosporon asahii var. asahii (strain CBS 8904) OX=1220162 GN=A1Q2_00623 PE=3 SV=1	Trichosporon asahii var. asahii (strain CBS 8904)	1025	861	28.9	44.2	5.2e-94
+64	TR	A0A163MN40	Serine/threonine-protein OS=Absidia glauca OX=4829 GN=ABSGL_12467.1 scaffold 12955 PE=3 SV=1	Absidia glauca	707	839	36.3	51.9	6.5e-94
+65	TR	A0AA39K5Q7	Serine/threonine-protein OS=Armillaria borealis OX=47425 GN=EV421DRAFT_1887885 PE=3 SV=1	Armillaria borealis	385	810	47.3	66.8	6.7e-94
+66	TR	A0A2N5W0C7	Serine/threonine-protein OS=Puccinia coronata f. sp. avenae OX=200324 GN=PCANC_03487 PE=3 SV=1	Puccinia coronata f. sp. avenae	1286	872	29.1	42.0	7.2e-94
+67	TR	A0A401GYU3	Serine/threonine-protein OS=Sparassis crispa OX=139825 GN=SCP_1100120 PE=3 SV=1	Sparassis crispa	965	856	28.6	44.2	8.3e-94
+68	TR	A0A067N248	Serine/threonine-protein OS=Botryobasidium botryosum (strain FD-172 SS1) OX=930990 GN=BOTBODRAFT_169704 PE=3 SV=1	Botryobasidium botryosum (strain FD-172 SS1)	667	835	37.1	51.8	8.4e-94
+69	TR	A0A1Y2GBD9	Serine/threonine-protein (Fragment) OS=Lobosporangium transversale OX=64571 GN=BCR41DRAFT_311729 PE=3 SV=1	Lobosporangium transversale	384	808	49.8	68.7	1.2e-93
+70	TR	A0A2N5RVF4	Serine/threonine-protein OS=Puccinia coronata f. sp. avenae OX=200324 GN=PCANC_28660 PE=3 SV=1	Puccinia coronata f. sp. avenae	1355	872	29.1	42.0	1.5e-93
+71	TR	D6RMW6	Serine/threonine-protein OS=Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003) OX=240176 GN=CC1G_14638 PE=3 SV=1	Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003)	720	837	31.0	45.9	1.7e-93
+72	TR	A0ABR2WFS2	Serine/threonine-protein (Fragment) OS=Basidiobolus ranarum OX=34480 GN=CTK1_2 PE=3 SV=1	Basidiobolus ranarum	424	811	42.4	60.8	1.7e-93
+73	TR	A0AA39U0U9	Serine/threonine-protein OS=Armillaria tabescens OX=1929756 GN=EV420DRAFT_1259130 PE=3 SV=1	Armillaria tabescens	454	813	41.2	57.7	2.2e-93
+74	TR	A0A9P7GQV5	Serine/threonine-protein OS=Sphagnurus paluster OX=117069 GN=H0H81_008974 PE=3 SV=1	Sphagnurus paluster	1096	859	31.1	45.9	3e-93
+75	TR	A0ABR3BP23	Serine/threonine-protein OS=Cryptococcus tetragattii IND107 OX=1296105 GN=I308_104969 PE=3 SV=1	Cryptococcus tetragattii IND107	1121	859	28.1	44.3	4.3e-93
+76	TR	A0AAD4EJ43	Serine/threonine-protein OS=Suillus fuscotomentosus OX=1912939 GN=F5891DRAFT_939884 PE=3 SV=1	Suillus fuscotomentosus	490	814	41.6	60.5	4.8e-93
+77	TR	A0A0C3JV27	Serine/threonine-protein OS=Pisolithus tinctorius Marx 270 OX=870435 GN=M404DRAFT_705979 PE=3 SV=1	Pisolithus tinctorius Marx 270	987	851	28.4	43.5	5.7e-93
+78	TR	A0ABR2WMG1	Serine/threonine-protein OS=Basidiobolus ranarum OX=34480 GN=BUR1_4 PE=3 SV=1	Basidiobolus ranarum	468	811	43.5	61.5	6.4e-93
+79	TR	A0AAD4C6P3	Serine/threonine-protein OS=Boletus edulis BED1 OX=1328754 GN=L210DRAFT_3387013 PE=3 SV=1	Boletus edulis BED1	370	801	45.6	65.7	7.1e-93
+80	TR	A0A8E2J640	Serine/threonine-protein OS=Obba rivulosa OX=1052685 GN=OBBRIDRAFT_723619 PE=3 SV=1	Obba rivulosa	341	798	45.9	66.5	7.2e-93
+81	TR	A0A9P7VYP4	Serine/threonine-protein OS=Guyanagaster necrorhizus OX=856835 GN=BT62DRAFT_888395 PE=3 SV=1	Guyanagaster necrorhizus	443	807	41.9	59.9	1.1e-92
+82	TR	A0ACC1P368	Serine/threonine-protein OS=Xylaria curta OX=42375 GN=NUW58_g5219 PE=3 SV=1	Xylaria curta	1023	851	28.6	42.5	1.1e-92
+83	TR	A0A4S4KTA6	Serine/threonine-protein OS=Hermanssonia centrifuga OX=98765 GN=EW026_g1065 PE=3 SV=1	Hermanssonia centrifuga	339	796	45.3	65.6	1.3e-92
+84	TR	A0A2R6NM35	Serine/threonine-protein OS=Hermanssonia centrifuga OX=98765 GN=PHLCEN_2v10691 PE=3 SV=1	Hermanssonia centrifuga	547	816	35.5	53.5	1.3e-92
+85	TR	A0ACC0E5Q0	Serine/threonine-protein OS=Puccinia striiformis f. sp. tritici OX=168172 GN=MJO28_010875 PE=3 SV=1	Puccinia striiformis f. sp. tritici	1264	861	29.5	41.5	1.5e-92
+86	TR	A0A0L0UXS1	Serine/threonine-protein OS=Puccinia striiformis f. sp. tritici PST-78 OX=1165861 GN=PSTG_14752 PE=3 SV=1	Puccinia striiformis f. sp. tritici PST-78	1264	861	29.5	41.5	1.5e-92
+87	TR	A0AA39PNW8	Serine/threonine-protein OS=Armillaria luteobubalina OX=153913 GN=EDD18DRAFT_1311546 PE=3 SV=1	Armillaria luteobubalina	446	806	37.2	54.3	1.6e-92
+88	TR	A0ABR1K0R0	Serine/threonine-protein OS=Stygiomarasmius scandens OX=2682957 GN=CTK1 PE=3 SV=1	Stygiomarasmius scandens	1174	857	27.6	43.7	1.7e-92
+89	TR	A0A1Y1YEL1	Serine/threonine-protein (Fragment) OS=Basidiobolus meristosporus CBS 931.73 OX=1314790 GN=K493DRAFT_314650 PE=3 SV=1	Basidiobolus meristosporus CBS 931.73	465	807	45.8	63.3	2.1e-92
+90	TR	A0ABR4K0Z5	Serine/threonine-protein OS=Aspergillus pseudodeflectus OX=176178 GN=BJX68DRAFT_128602 PE=3 SV=1	Aspergillus pseudodeflectus	1051	850	28.2	43.2	2.3e-92
+91	TR	A0AAD5P8C2	Serine/threonine-protein OS=Phascolomyces articulosus OX=60185 GN=BDA99DRAFT_447025 PE=3 SV=1	Phascolomyces articulosus	359	796	45.1	65.3	2.4e-92
+92	TR	A0ABP1D116	Serine/threonine-protein OS=Somion occarium OX=3059160 GN=GFSPODELE1_LOCUS3245 PE=3 SV=1	Somion occarium	353	795	46.0	64.3	2.7e-92
+93	TR	A0A8I2YVK0	Serine/threonine-protein OS=Boletus reticuloceps OX=495285 GN=JVT61DRAFT_13231 PE=3 SV=1	Boletus reticuloceps	958	844	28.1	44.4	2.9e-92
+94	TR	A0A9N9CSL5	Serine/threonine-protein (Fragment) OS=Ambispora gerdemannii OX=144530 GN=AGERDE_LOCUS9742 PE=3 SV=1	Ambispora gerdemannii	690	825	38.3	54.2	3.4e-92
+95	TR	A0ACF5BU97	Serine/threonine-protein OS=Arthrobotrys megalospora OX=2528406 GN=CTK1 PE=3 SV=1	Arthrobotrys megalospora	970	844	28.8	42.9	3.6e-92
+96	TR	A0A1Y1ZB85	Serine/threonine-protein OS=Basidiobolus meristosporus CBS 931.73 OX=1314790 GN=K493DRAFT_202187 PE=3 SV=1	Basidiobolus meristosporus CBS 931.73	373	796	43.1	64.8	3.8e-92
+97	TR	A0ACB8SAK6	Serine/threonine-protein OS=Auriscalpium vulgare OX=40419 GN=FA95DRAFT_1481051 PE=3 SV=1	Auriscalpium vulgare	347	793	46.0	66.5	4.2e-92
+98	TR	A0AAN8NRW1	Serine/threonine-protein OS=Orbilia javanica OX=47235 GN=CTK1 PE=3 SV=1	Orbilia javanica	883	838	30.5	44.1	4.4e-92
+99	TR	A0AAD7AV51	Serine/threonine-protein OS=Mycena albidolilacea OX=1033008 GN=DFH08DRAFT_947263 PE=3 SV=1	Mycena albidolilacea	492	806	36.3	52.5	6.3e-92
+100	TR	A0AAD6XXP0	Serine/threonine-protein OS=Mycena belliarum OX=1033014 GN=B0H15DRAFT_946817 PE=3 SV=1	Mycena belliarum	492	806	41.1	58.2	6.3e-92
+101	TR	A0ABR3J1Z6	Serine/threonine-protein OS=Hohenbuehelia grisea OX=104357 GN=HGRIS_009574 PE=3 SV=1	Hohenbuehelia grisea	989	843	30.9	45.3	6.9e-92
+102	TR	A0AAD7KBE7	Serine/threonine-protein OS=Mycena metata OX=1033252 GN=B0H16DRAFT_1298491 PE=3 SV=1	Mycena metata	454	802	39.2	56.1	7.1e-92
+103	TR	A0ABR4FUI6	Serine/threonine-protein OS=Aspergillus keveii OX=714993 GN=BJX66DRAFT_20669 PE=3 SV=1	Aspergillus keveii	1052	846	27.5	41.7	7.9e-92
+104	TR	A0AAD6YSW2	Serine/threonine-protein OS=Mycena pura OX=153505 GN=GGX14DRAFT_346588 PE=3 SV=1	Mycena pura	472	803	39.3	58.9	8.9e-92
+105	TR	A0A6A4IPH4	Serine/threonine-protein OS=Gymnopus androsaceus JB14 OX=1447944 GN=BT96DRAFT_1067960 PE=3 SV=1	Gymnopus androsaceus JB14	412	797	39.9	56.9	9.5e-92
+106	TR	A0A9P7DZF1	Serine/threonine-protein OS=Suillus plorans OX=116603 GN=HD556DRAFT_340159 PE=3 SV=1	Suillus plorans	519	807	41.6	60.5	1e-91
+107	TR	A0A9P6ESE1	Serine/threonine-protein OS=Crepidotus variabilis OX=179855 GN=CPB83DRAFT_755704 PE=3 SV=1	Crepidotus variabilis	355	791	46.1	65.8	1e-91
+108	TR	A0A8H7UNY0	Serine/threonine-protein (Fragment) OS=Umbelopsis vinacea OX=44442 GN=INT44_002939 PE=3 SV=1	Umbelopsis vinacea	446	800	41.0	58.5	1e-91
+109	TR	G1X2F6	Serine/threonine-protein OS=Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491) OX=756982 GN=AOL_s00007g465 PE=3 SV=1	Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491)	966	840	28.7	42.2	1.1e-91
+110	TR	A0A9P6C9F8	Serine/threonine-protein OS=Macrolepiota fuliginosa MF-IS2 OX=1400762 GN=P691DRAFT_659394 PE=3 SV=1	Macrolepiota fuliginosa MF-IS2	409	796	40.0	59.5	1.2e-91
+111	TR	A0A2S4USM7	Serine/threonine-protein OS=Puccinia striiformis OX=27350 GN=PSTT_13203 PE=3 SV=1	Puccinia striiformis	1263	854	29.5	41.4	1.2e-91
+112	TR	A0ABR2WFS4	Serine/threonine-protein (Fragment) OS=Basidiobolus ranarum OX=34480 GN=CTK1_2 PE=3 SV=1	Basidiobolus ranarum	381	793	43.4	61.9	1.3e-91
+113	TR	A0A5C3NGE7	Serine/threonine-protein OS=Heliocybe sulcata OX=5364 GN=OE88DRAFT_1622088 PE=3 SV=1	Heliocybe sulcata	355	790	45.2	65.5	1.4e-91
+114	TR	A0A9P6IZ57	Serine/threonine-protein OS=Mortierella alpina OX=64518 GN=CTK1 PE=3 SV=1	Mortierella alpina	797	828	36.2	52.2	1.6e-91
+115	TR	A0A1Y1XSY8	Serine/threonine-protein OS=Basidiobolus meristosporus CBS 931.73 OX=1314790 GN=K493DRAFT_319150 PE=3 SV=1	Basidiobolus meristosporus CBS 931.73	461	800	46.1	64.4	1.6e-91
+116	TR	A0AAD7C4F2	Serine/threonine-protein OS=Roridomyces roridus OX=1738132 GN=FB45DRAFT_740725 PE=3 SV=1	Roridomyces roridus	453	799	40.4	56.4	1.8e-91
+117	TR	A0A9P7EFA7	Serine/threonine-protein OS=Suillus subaureus OX=48587 GN=BJ212DRAFT_1266902 PE=3 SV=1	Suillus subaureus	383	792	43.1	62.7	1.8e-91
+118	TR	A0A8H5GEX0	Serine/threonine-protein OS=Leucocoprinus leucothites OX=201217 GN=D9756_000417 PE=3 SV=1	Leucocoprinus leucothites	1087	844	28.1	43.5	2.5e-91
+119	TR	A0A074RR35	Serine/threonine-protein OS=Rhizoctonia solani 123E OX=1423351 GN=V565_102850 PE=3 SV=1	Rhizoctonia solani 123E	863	831	31.3	46.1	2.6e-91
+120	TR	A0A5N5QXD9	Serine/threonine-protein OS=Ceratobasidium theobromae OX=1582974 GN=CTheo_256 PE=3 SV=1	Ceratobasidium theobromae	5272	866	31.0	44.0	2.6e-91
+121	TR	J4G636	Serine/threonine-protein OS=Fibroporia radiculosa OX=599839 GN=FIBRA_03643 PE=3 SV=1	Fibroporia radiculosa	881	832	28.2	45.3	2.7e-91
+122	TR	A0A9P7KED6	Serine/threonine-protein OS=Asterophora parasitica OX=117018 GN=DXG03_000380 PE=3 SV=1	Asterophora parasitica	592	810	36.0	53.5	3e-91
+123	TR	A0A2G4SFT3	Serine/threonine-protein OS=Rhizopus microsporus ATCC 52813 OX=1340429 GN=RHIMIDRAFT_209058 PE=3 SV=1	Rhizopus microsporus ATCC 52813	371	789	46.2	67.3	3.2e-91
+124	TR	A0A9W8TCJ3	Serine/threonine-protein OS=Agrocybe chaxingu OX=84603 GN=NLJ89_g1965 PE=3 SV=1	Agrocybe chaxingu	576	808	35.5	52.1	3.6e-91
+125	TR	A0ABZ2ARA3	Serine/threonine-protein OS=Cryptococcus decagattii OX=1859122 GN=IAS62_002362 PE=3 SV=1	Cryptococcus decagattii	1122	844	26.9	43.6	4.1e-91
+126	TR	A0ABQ8L089	Serine/threonine-protein OS=Rhodofomes roseus OX=34475 GN=C8Q71DRAFT_697991 PE=3 SV=1	Rhodofomes roseus	347	785	44.7	67.4	5.3e-91
+127	TR	A0A0D0A8V2	Serine/threonine-protein OS=Pisolithus microcarpus 441 OX=765257 GN=PISMIDRAFT_87334 PE=3 SV=1	Pisolithus microcarpus 441	360	786	45.2	64.4	5.9e-91
+128	TR	A0A8H7PF32	Serine/threonine-protein OS=Mortierella isabellina OX=91625 GN=INT43_000119 PE=3 SV=1	Mortierella isabellina	560	805	46.7	65.3	5.9e-91
+129	TR	A0ACF7G9J1	Serine/threonine-protein OS=Scleroderma yunnanense OX=1163567 GN=V8B97DRAFT_124110 PE=3 SV=1	Scleroderma yunnanense	891	830	28.6	43.7	6.1e-91
+130	TR	A0A9P7A6A9	Serine/threonine-protein OS=Suillus placidus OX=48579 GN=EV702DRAFT_959246 PE=3 SV=1	Suillus placidus	495	799	41.5	60.1	6.2e-91
+131	TR	A0ABP9YZ49	Serine/threonine-protein OS=Mucor flavus OX=439312 GN=MFLAVUS_005568 PE=3 SV=1	Mucor flavus	684	815	33.7	50.3	6.6e-91
+132	TR	A0A9N9HGM9	Serine/threonine-protein (Fragment) OS=Ambispora leptoticha OX=144679 GN=ALEPTO_LOCUS11143 PE=3 SV=1	Ambispora leptoticha	691	815	37.7	54.0	7.8e-91
+133	TR	A0A0L6VMI3	Serine/threonine-protein OS=Puccinia sorghi OX=27349 GN=VP01_1328g6 PE=3 SV=1	Puccinia sorghi	1272	848	29.9	42.4	7.9e-91
+134	TR	A0A2S4WCX3	Serine/threonine-protein OS=Puccinia striiformis OX=27350 GN=PSHT_04491 PE=3 SV=1	Puccinia striiformis	1364	851	29.9	41.4	7.9e-91
+135	TR	A0A0D2QFC5	Serine/threonine-protein OS=Hypholoma sublateritium (strain FD-334 SS-4) OX=945553 GN=HYPSUDRAFT_125849 PE=3 SV=1	Hypholoma sublateritium (strain FD-334 SS-4)	350	784	46.1	66.1	8e-91
+136	TR	A0A1X6MV64	Serine/threonine-protein (Fragment) OS=Postia placenta MAD-698-R-SB12 OX=670580 GN=POSPLADRAFT_1147958 PE=3 SV=1	Postia placenta MAD-698-R-SB12	322	781	45.1	65.9	8.2e-91
+137	TR	A0A0B7MYL3	Serine/threonine-protein OS=Parasitella parasitica OX=35722 GN=PARPA_03864.1 scaffold 9853 PE=3 SV=1	Parasitella parasitica	695	815	44.7	63.1	8.6e-91
+138	TR	A0AAD4QSL8	Serine/threonine-protein OS=Multifurca ochricompacta OX=376703 GN=B0F90DRAFT_1622231 PE=3 SV=1	Multifurca ochricompacta	373	786	45.8	64.8	8.9e-91
+139	TR	A0A8H4QTE9	Serine/threonine-protein OS=Agrocybe pediades OX=84607 GN=D9613_008715 PE=3 SV=1	Agrocybe pediades	1096	840	35.5	49.7	9.5e-91
+140	TR	A0A1B7NEY2	Serine/threonine-protein OS=Rhizopogon vinicolor AM-OR11-026 OX=1314800 GN=K503DRAFT_789459 PE=3 SV=1	Rhizopogon vinicolor AM-OR11-026	372	785	45.6	66.2	1.2e-90
+141	TR	A0ACB8QA39	Serine/threonine-protein OS=Vararia minispora EC-137 OX=1314806 GN=K488DRAFT_58524 PE=3 SV=1	Vararia minispora EC-137	464	794	39.7	57.8	1.2e-90
+142	TR	A0A9P6DES6	Serine/threonine-protein OS=Pleurotus eryngii OX=5323 GN=BDN71DRAFT_1573001 PE=3 SV=1	Pleurotus eryngii	487	796	36.6	54.8	1.2e-90
+143	TR	A0A369JTM2	Serine/threonine-protein OS=Hypsizygus marmoreus OX=39966 GN=lsk1 PE=3 SV=1	Hypsizygus marmoreus	1057	837	30.3	44.4	1.3e-90
+144	TR	A0A9P7EU47	Serine/threonine-protein OS=Suillus discolor OX=1912936 GN=F5147DRAFT_587666 PE=3 SV=1	Suillus discolor	479	795	41.0	60.5	1.4e-90
+145	TR	A0A3N4LUY1	Serine/threonine-protein OS=Terfezia boudieri ATCC MYA-4762 OX=1051890 GN=L211DRAFT_856113 PE=3 SV=1	Terfezia boudieri ATCC MYA-4762	349	782	45.0	64.1	1.4e-90
+146	TR	A0AAD5EK07	Serine/threonine-protein OS=Umbelopsis ramanniana AG OX=1314678 GN=K450DRAFT_168067 PE=3 SV=1	Umbelopsis ramanniana AG	421	789	45.2	64.6	1.6e-90
+147	TR	A0A168KB69	Serine/threonine-protein (Fragment) OS=Mucor lusitanicus CBS 277.49 OX=747725 GN=MUCCIDRAFT_128698 PE=3 SV=1	Mucor lusitanicus CBS 277.49	328	779	45.9	66.7	1.9e-90
+148	TR	A0A9Q5HS35	Serine/threonine-protein OS=Sanghuangporus baumii OX=108892 GN=A7U60_g8060 PE=3 SV=1	Sanghuangporus baumii	1065	836	27.4	44.8	2e-90
+149	TR	S8FRE4	Serine/threonine-protein OS=Fomitopsis schrenkii OX=2126942 GN=FOMPIDRAFT_1035369 PE=3 SV=1	Fomitopsis schrenkii	340	780	44.7	66.2	2e-90
+150	TR	A0A1Y1WW59	Serine/threonine-protein OS=Basidiobolus meristosporus CBS 931.73 OX=1314790 GN=K493DRAFT_321324 PE=3 SV=1	Basidiobolus meristosporus CBS 931.73	461	792	44.2	63.0	2e-90
+151	TR	A0A0D0C1U5	Serine/threonine-protein OS=Suillus luteus UH-Slu-Lm8-n1 OX=930992 GN=CY34DRAFT_71115 PE=3 SV=1	Suillus luteus UH-Slu-Lm8-n1	518	797	41.2	60.4	2.2e-90
+152	TR	A0A8H5GRW5	Serine/threonine-protein OS=Tetrapyrgos nigripes OX=182062 GN=D9758_001012 PE=3 SV=1	Tetrapyrgos nigripes	1637	851	27.3	43.0	4.1e-90
+153	TR	A0A4P9Z0L6	Serine/threonine-protein OS=Syncephalis pseudoplumigaleata OX=1712513 GN=SYNPS1DRAFT_14931 PE=3 SV=1	Syncephalis pseudoplumigaleata	392	783	44.4	68.9	4.2e-90
+154	TR	A0A8H5F273	Serine/threonine-protein OS=Psilocybe cf. subviscida OX=2480587 GN=D9619_000907 PE=3 SV=1	Psilocybe cf. subviscida	1080	834	28.7	44.2	4.6e-90
+155	TR	A0AAD5SQS4	Serine/threonine-protein (Fragment) OS=Physocladia obscura OX=109957 GN=CTK1 PE=3 SV=1	Physocladia obscura	754	814	37.6	50.2	4.7e-90
+156	TR	A0A1Y1YRZ2	Serine/threonine-protein OS=Basidiobolus meristosporus CBS 931.73 OX=1314790 GN=K493DRAFT_312702 PE=3 SV=1	Basidiobolus meristosporus CBS 931.73	461	789	43.9	63.0	5.2e-90
+157	TR	A0A0C9M8C0	Serine/threonine-protein OS=Mucor ambiguus OX=91626 GN=MAM1_0039c02787 PE=3 SV=1	Mucor ambiguus	649	805	40.7	58.6	6.2e-90
+158	TR	S9VZ62	Serine/threonine-protein OS=Schizosaccharomyces cryophilus (strain OY26 / ATCC MYA-4695 / CBS 11777 / NBRC 106824 / NRRL Y48691) OX=653667 GN=SPOG_02665 PE=3 SV=1	Schizosaccharomyces cryophilus (strain OY26 / ATCC MYA-4695 / CBS 11777 / NBRC 106824 / NRRL Y48691)	590	800	37.2	53.4	6.4e-90
+159	TR	A0A0C9LVV3	Serine/threonine-protein OS=Mucor ambiguus OX=91626 GN=MAM1_0160d06922 PE=3 SV=1	Mucor ambiguus	377	780	46.8	67.6	6.7e-90
+160	TR	A0AAD7DUL8	Serine/threonine-protein OS=Mycena rosella OX=1033263 GN=B0H17DRAFT_925932 PE=3 SV=1	Mycena rosella	344	776	46.0	65.2	8.1e-90
+161	TR	A0AAD7NQF4	Serine/threonine-protein OS=Mycena maculata OX=230809 GN=DFH07DRAFT_734724 PE=3 SV=1	Mycena maculata	466	788	38.4	55.9	8.3e-90
+162	TR	A0A0C2XKL7	Serine/threonine-protein OS=Amanita muscaria (strain Koide BX008) OX=946122 GN=M378DRAFT_67830 PE=3 SV=1	Amanita muscaria (strain Koide BX008)	415	783	41.9	61.2	8.5e-90
+163	TR	A0ABP9YB26	Serine/threonine-protein OS=Helicostylum pulchrum OX=562976 GN=HPULCUR_009640 PE=3 SV=1	Helicostylum pulchrum	676	805	41.1	58.7	1.2e-89
+164	TR	A0AAN7DBX5	Serine/threonine-protein OS=Mucor velutinosus OX=708070 GN=ATC70_002054 PE=3 SV=1	Mucor velutinosus	377	778	46.8	67.6	1.2e-89
+165	TR	A0A9P6JGI5	Serine/threonine-protein (Fragment) OS=Modicella reniformis OX=1440133 GN=CTK1 PE=3 SV=1	Modicella reniformis	641	802	35.3	49.8	1.3e-89
+166	TR	A0AAD4HAX3	Serine/threonine-protein (Fragment) OS=Linnemannia exigua OX=604196 GN=CTK1 PE=3 SV=1	Linnemannia exigua	515	791	46.8	65.8	1.3e-89
+167	TR	A0A9P5TCI2	Serine/threonine-protein OS=Russula ochroleuca OX=152965 GN=DFH94DRAFT_791845 PE=3 SV=1	Russula ochroleuca	364	776	45.2	64.9	1.5e-89
+168	TR	A0A168HWR6	Serine/threonine-protein OS=Mucor lusitanicus CBS 277.49 OX=747725 GN=MUCCIDRAFT_157173 PE=3 SV=1	Mucor lusitanicus CBS 277.49	377	777	46.8	67.6	1.7e-89
+169	TR	A0A0U5CN84	Serine/threonine-protein OS=Aspergillus calidoustus OX=454130 GN=ASPCAL02714 PE=3 SV=1	Aspergillus calidoustus	1052	828	27.7	42.6	1.8e-89
+170	TR	A0A397UWP1	Serine/threonine-protein OS=Gigaspora rosea OX=44941 GN=C2G38_1973128 PE=3 SV=1	Gigaspora rosea	400	779	41.8	62.6	1.9e-89
+171	TR	A0ACB8TKB7	Serine/threonine-protein OS=Artomyces pyxidatus OX=48021 GN=BV25DRAFT_1792526 PE=3 SV=1	Artomyces pyxidatus	373	776	45.1	65.2	2.1e-89
+172	TR	A0ABR3AAZ8	Serine/threonine-protein OS=Marasmius tenuissimus OX=585030 GN=CTK1 PE=3 SV=1	Marasmius tenuissimus	602	797	34.8	50.8	2.2e-89
+173	TR	A0A0H2RV26	Serine/threonine-protein OS=Schizopora paradoxa OX=27342 GN=SCHPADRAFT_824418 PE=3 SV=1	Schizopora paradoxa	356	774	44.5	64.9	2.2e-89
+174	TR	A0A369KI12	Serine/threonine-protein OS=Hypsizygus marmoreus OX=39966 GN=cdk9 PE=3 SV=1	Hypsizygus marmoreus	921	820	29.5	42.6	2.3e-89
+175	TR	A0A8H5HWD9	Serine/threonine-protein OS=Collybiopsis confluens OX=2823264 GN=D9757_002769 PE=3 SV=1	Collybiopsis confluens	1068	828	28.8	44.2	2.4e-89
+176	TR	A0ABR4K1C7	Serine/threonine-protein OS=Aspergillus pseudoustus OX=1810923 GN=BJY01DRAFT_176865 PE=3 SV=1	Aspergillus pseudoustus	1049	827	27.7	42.8	2.4e-89
+177	TR	A0A367JZZ9	Serine/threonine-protein OS=Rhizopus azygosporus OX=86630 GN=CTK1 PE=3 SV=1	Rhizopus azygosporus	536	791	42.5	61.4	2.4e-89
+178	TR	A0A8H5FKJ9	Serine/threonine-protein OS=Ephemerocybe angulata OX=980116 GN=D9611_007873 PE=3 SV=1	Ephemerocybe angulata	1033	826	36.0	53.1	2.5e-89
+179	TR	A0A4P9XPI5	Serine/threonine-protein OS=Thamnocephalis sphaerospora OX=78915 GN=THASP1DRAFT_16383 PE=3 SV=1	Thamnocephalis sphaerospora	452	783	42.2	62.8	2.6e-89
+180	TR	A0A550CSN8	Serine/threonine-protein OS=Schizophyllum amplum OX=97359 GN=BD626DRAFT_394451 PE=3 SV=1	Schizophyllum amplum	411	779	38.2	55.3	2.6e-89
+181	TR	A0A2H3JT75	Serine/threonine-protein OS=Wolfiporia cocos (strain MD-104) OX=742152 GN=WOLCODRAFT_69041 PE=3 SV=1	Wolfiporia cocos (strain MD-104)	367	774	42.0	62.2	3.2e-89
+182	TR	A0A8H6IB78	Serine/threonine-protein OS=Ephemerocybe angulata OX=980116 GN=DFP72DRAFT_1061549 PE=3 SV=1	Ephemerocybe angulata	679	802	33.6	50.1	3.3e-89
+183	TR	S7S1A2	Serine/threonine-protein OS=Gloeophyllum trabeum (strain ATCC 11539 / FP-39264 / Madison 617) OX=670483 GN=GLOTRDRAFT_33343 PE=3 SV=1	Gloeophyllum trabeum (strain ATCC 11539 / FP-39264 / Madison 617)	410	778	45.7	65.1	3.5e-89
+184	TR	A0ACC1UEM9	Serine/threonine-protein OS=Lentinula aff. lateritia OX=2804960 GN=F5876DRAFT_85755 PE=3 SV=1	Lentinula aff. lateritia	343	771	46.6	64.0	3.8e-89
+185	TR	A0ACF6CZD9	Serine/threonine-protein OS=Lipomyces mesembrius OX=56874 GN=V1515DRAFT_594652 PE=3 SV=1	Lipomyces mesembrius	898	816	30.9	45.5	5.1e-89
+186	TR	A0ABR4H7E3	Serine/threonine-protein OS=Aspergillus granulosus OX=176169 GN=BJX63DRAFT_277785 PE=3 SV=1	Aspergillus granulosus	1042	824	27.9	41.8	5.3e-89
+187	TR	A0A1Y2IUF7	Serine/threonine-protein OS=Trametes coccinea (strain BRFM310) OX=1353009 GN=PYCCODRAFT_1364606 PE=3 SV=1	Trametes coccinea (strain BRFM310)	374	773	43.0	63.4	5.5e-89
+188	TR	J9VYP6	Serine/threonine-protein OS=Cryptococcus neoformans (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487) OX=235443 GN=CNAG_04118 PE=3 SV=1	Cryptococcus neoformans (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	1118	826	26.8	42.6	8.8e-89
+189	TR	A0AAD4LPK8	Serine/threonine-protein (Fragment) OS=Lactarius akahatsu OX=416441 GN=EDB92DRAFT_2005964 PE=3 SV=1	Lactarius akahatsu	441	778	39.5	56.3	9e-89
+190	TR	A0A4R5XH49	Serine/threonine-protein OS=Rickenella mellea OX=50990 GN=BD410DRAFT_710333 PE=3 SV=1	Rickenella mellea	390	773	40.6	60.7	9e-89
+191	TR	S2JV00	CMGC/CDK/CRK7 protein kinase OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_00821 PE=3 SV=1	Mucor circinelloides f. circinelloides (strain 1006PhL)	696	800	38.7	57.5	9.3e-89
+192	TR	A0AAD6XJF8	Serine/threonine-protein OS=Mycena alexandri OX=1745969 GN=C8F04DRAFT_936459 PE=3 SV=1	Mycena alexandri	456	779	39.5	56.3	1e-88
+193	TR	A0ACB8UDU6	Serine/threonine-protein OS=Irpex rosettiformis OX=378272 GN=BDY19DRAFT_883396 PE=3 SV=1	Irpex rosettiformis	337	767	45.4	64.2	1.1e-88
+194	TR	A0A9P6UC75	Serine/threonine-protein OS=Actinomortierella ambigua OX=1343610 GN=CTK1 PE=3 SV=1	Actinomortierella ambigua	2032	842	34.9	54.3	1.1e-88
+195	TR	A0A8H7SQC1	Serine/threonine-protein OS=Thamnidium elegans OX=101142 GN=INT48_005408 PE=3 SV=1	Thamnidium elegans	665	797	40.9	58.2	1.1e-88
+196	TR	A0ABR2X8P5	Serine/threonine-protein OS=Seiridium cardinale OX=138064 GN=SCAR479_13185 PE=3 SV=1	Seiridium cardinale	1036	821	30.1	44.2	1.2e-88
+197	TR	V2YWG1	Serine/threonine-protein OS=Moniliophthora roreri (strain MCA 2997) OX=1381753 GN=Moror_7379 PE=3 SV=1	Moniliophthora roreri (strain MCA 2997)	1003	819	27.6	42.5	1.3e-88
+198	TR	A0A8H7USW6	Serine/threonine-protein OS=Mucor plumbeus OX=97098 GN=INT46_004195 PE=3 SV=1	Mucor plumbeus	381	770	46.5	67.0	1.7e-88
+199	TR	A0A9W8LC21	Serine/threonine-protein OS=Coemansia pectinata OX=1052879 GN=CTK1 PE=3 SV=1	Coemansia pectinata	765	803	29.8	44.0	1.8e-88
+200	TR	A0A9P3FYD1	Serine/threonine-protein OS=Phanerochaete sordida OX=48140 GN=PsYK624_009240 PE=3 SV=1	Phanerochaete sordida	856	809	27.7	45.1	1.9e-88
+201	TR	A0A5C3MGG1	Serine/threonine-protein OS=Crucibulum laeve OX=68775 GN=BDQ12DRAFT_695653 PE=3 SV=1	Crucibulum laeve	437	775	42.8	61.8	2e-88
+202	TR	A0ACF7FQ23	Serine/threonine-protein OS=Scleroderma citrinum OX=68788 GN=J3A83DRAFT_2057666 PE=3 SV=1	Scleroderma citrinum	515	782	37.3	54.2	2.2e-88
+203	TR	A0A8H7BP06	Serine/threonine-protein OS=Apophysomyces ossiformis OX=679940 GN=CTK1 PE=3 SV=1	Apophysomyces ossiformis	658	794	37.7	53.0	2.4e-88
+204	TR	A0A060SSY7	Serine/threonine-protein OS=Pycnoporus cinnabarinus OX=5643 GN=BN946_scf184858.g28 PE=3 SV=1	Pycnoporus cinnabarinus	507	781	37.3	53.6	2.4e-88
+205	TR	A0A165TM25	Serine/threonine-protein OS=Neolentinus lepideus HHB14362 ss-1 OX=1314782 GN=NEOLEDRAFT_1155266 PE=3 SV=1	Neolentinus lepideus HHB14362 ss-1	355	766	45.7	66.2	2.7e-88
+206	TR	S2JG94	Serine/threonine-protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_05711 PE=3 SV=1	Mucor circinelloides f. circinelloides (strain 1006PhL)	377	768	46.5	66.7	2.9e-88
+207	TR	A0A166VSW6	Serine/threonine-protein OS=Athelia psychrophila OX=1759441 GN=FIBSPDRAFT_721955 PE=3 SV=1	Athelia psychrophila	349	765	45.1	66.2	3e-88
+208	TR	A0A0C2YMH3	Serine/threonine-protein OS=Hebeloma cylindrosporum OX=76867 GN=M413DRAFT_10408 PE=3 SV=1	Hebeloma cylindrosporum	1104	821	29.1	43.2	3.3e-88
+209	TR	A0A067QBU1	Serine/threonine-protein OS=Jaapia argillacea MUCL 33604 OX=933084 GN=JAAARDRAFT_118159 PE=3 SV=1	Jaapia argillacea MUCL 33604	343	764	43.6	64.7	3.4e-88
+210	TR	A0AAD7VSF1	Serine/threonine-protein OS=Lipomyces tetrasporus OX=54092 GN=POJ06DRAFT_195677 PE=3 SV=1	Lipomyces tetrasporus	345	764	47.8	65.7	3.6e-88
+211	TR	A0A409VX12	Serine/threonine-protein OS=Gymnopilus dilepis OX=231916 GN=CVT26_014048 PE=3 SV=1	Gymnopilus dilepis	1042	817	36.3	52.2	4.4e-88
+212	TR	A0A8H7UA35	Serine/threonine-protein OS=Mortierella isabellina OX=91625 GN=INT43_001551 PE=3 SV=1	Mortierella isabellina	499	778	43.5	61.8	5e-88
+213	TR	A0A0C9YEX1	Serine/threonine-protein OS=Laccaria amethystina LaAM-08-1 OX=1095629 GN=K443DRAFT_129601 PE=3 SV=1	Laccaria amethystina LaAM-08-1	408	769	45.7	64.6	5.5e-88
+214	TR	A0A1M2V833	Serine/threonine-protein OS=Trametes pubescens OX=154538 GN=TRAPUB_5583 PE=3 SV=1	Trametes pubescens	378	766	43.2	62.7	5.6e-88
+215	TR	A0A9P5SNV8	Serine/threonine-protein OS=Podila minutissima OX=64525 GN=CTK1 PE=3 SV=1	Podila minutissima	2375	837	35.1	51.0	5.7e-88
+216	TR	K5XA39	Serine/threonine-protein OS=Agaricus bisporus var. burnettii (strain JB137-S8 / ATCC MYA-4627 / FGSC 10392) OX=597362 GN=AGABI1DRAFT_84564 PE=3 SV=1	Agaricus bisporus var. burnettii (strain JB137-S8 / ATCC MYA-4627 / FGSC 10392)	331	761	43.9	64.6	5.9e-88
+217	TR	A0A164ZG19	Serine/threonine-protein OS=Sistotremastrum niveocremeum HHB9708 OX=1314777 GN=SISNIDRAFT_404972 PE=3 SV=1	Sistotremastrum niveocremeum HHB9708	361	764	43.9	66.1	6.1e-88
+218	TR	A0A9W9AB99	Serine/threonine-protein (Fragment) OS=Lentinula aciculospora OX=153920 GN=J3R30DRAFT_3290047 PE=3 SV=1	Lentinula aciculospora	332	761	45.7	64.0	6.1e-88
+219	TR	A0A9P5XUF7	Serine/threonine-protein OS=Collybia nuda OX=64659 GN=BDZ94DRAFT_1228656 PE=3 SV=1	Collybia nuda	353	763	44.4	65.3	6.4e-88
+220	TR	A0A397GYU3	Serine/threonine-protein OS=Diversispora epigaea OX=1348612 GN=Glove_423g31 PE=3 SV=1	Diversispora epigaea	773	799	35.7	53.8	7.4e-88
+221	TR	A0A166FZ92	Serine/threonine-protein OS=Sistotremastrum suecicum HHB10207 ss-3 OX=1314776 GN=SISSUDRAFT_982310 PE=3 SV=1	Sistotremastrum suecicum HHB10207 ss-3	361	763	43.9	65.8	8.3e-88
+222	TR	A0AAD7XBB8	Serine/threonine-protein OS=Trametes cubensis OX=1111947 GN=ONZ51_g5666 PE=3 SV=1	Trametes cubensis	853	804	28.6	45.3	8.4e-88
+223	TR	A0A0K3CJM9	Serine/threonine-protein OS=Rhodotorula toruloides OX=5286 GN=FGENESH: predicted gene_11.236 PE=3 SV=1	Rhodotorula toruloides	1157	820	28.0	42.7	8.8e-88
+224	TR	A0A9P5ZF61	Serine/threonine-protein OS=Pholiota conissans OX=109636 GN=BDN70DRAFT_795959 PE=3 SV=1	Pholiota conissans	347	761	45.8	65.2	1e-87
+225	TR	B6K5J4	Serine/threonine-protein OS=Schizosaccharomyces japonicus (strain yFS275 / FY16936) OX=402676 GN=lsk1 PE=3 SV=2	Schizosaccharomyces japonicus (strain yFS275 / FY16936)	606	785	37.3	53.0	1e-87
+226	TR	A0A197JWN5	Serine/threonine-protein OS=Linnemannia elongata AG-77 OX=1314771 GN=K457DRAFT_544088 PE=3 SV=1	Linnemannia elongata AG-77	835	802	35.9	50.1	1.1e-87
+227	TR	A0A9W8E3P3	Serine/threonine-protein OS=Dispira parvispora OX=1520584 GN=BUR1 PE=3 SV=1	Dispira parvispora	552	780	39.2	57.7	1.2e-87
+228	TR	A0A2A9NRL2	Serine/threonine-protein OS=Amanita thiersii Skay4041 OX=703135 GN=AMATHDRAFT_138953 PE=3 SV=1	Amanita thiersii Skay4041	392	765	41.2	59.6	1.2e-87
+229	TR	A0A367KJ16	Serine/threonine-protein OS=Rhizopus stolonifer OX=4846 GN=BUR1_1 PE=3 SV=1	Rhizopus stolonifer	382	764	46.1	65.8	1.2e-87
+230	TR	A0ABR0TJ86	Serine/threonine-protein OS=Aureobasidium pullulans OX=5580 GN=QM012_008381 PE=3 SV=1	Aureobasidium pullulans	954	809	28.2	43.3	1.2e-87
+231	TR	A0A1E3QF24	Serine/threonine-protein (Fragment) OS=Lipomyces starkeyi NRRL Y-11557 OX=675824 GN=LIPSTDRAFT_34833 PE=3 SV=1	Lipomyces starkeyi NRRL Y-11557	325	758	47.8	66.0	1.3e-87
+232	TR	A0A1Y2AW33	Serine/threonine-protein OS=Naematelia encephala OX=71784 GN=BCR39DRAFT_470168 PE=3 SV=1	Naematelia encephala	364	761	44.2	62.1	1.7e-87
+233	TR	A0ABR4LFI3	Serine/threonine-protein OS=Aspergillus lucknowensis OX=176173 GN=BJX67DRAFT_262389 PE=3 SV=1	Aspergillus lucknowensis	1034	812	28.5	42.4	1.8e-87
+234	TR	A0A1L9Q2N9	Serine/threonine-protein OS=Aspergillus versicolor CBS 583.65 OX=1036611 GN=ASPVEDRAFT_34152 PE=3 SV=1	Aspergillus versicolor CBS 583.65	1021	811	27.6	42.3	2e-87
+235	TR	A0ABR1F3V4	Serine/threonine-protein OS=Myxozyma melibiosi OX=54550 GN=BZA70DRAFT_239776 PE=3 SV=1	Myxozyma melibiosi	339	758	45.2	64.7	2e-87
+236	TR	A0ABR5BAE1	Serine/threonine-protein OS=Cryptococcus bacillisporus CA1873 OX=1296111 GN=I314_03284 PE=3 SV=1	Cryptococcus bacillisporus CA1873	575	780	39.4	57.8	2.2e-87
+237	TR	A0A371DT03	Serine/threonine-protein OS=Lentinus brumalis OX=2498619 GN=OH76DRAFT_1461105 PE=3 SV=1	Lentinus brumalis	375	761	40.7	60.4	2.4e-87
+238	TR	A0A8H7Q6L9	Serine/threonine-protein OS=Umbelopsis vinacea OX=44442 GN=INT44_002464 PE=3 SV=1	Umbelopsis vinacea	524	775	42.1	59.1	2.6e-87
+239	TR	A0A0C3E576	Serine/threonine-protein OS=Scleroderma citrinum Foug A OX=1036808 GN=SCLCIDRAFT_107165 PE=3 SV=1	Scleroderma citrinum Foug A	474	770	41.0	56.9	2.9e-87
+240	TR	A0AAN7D325	Serine/threonine-protein OS=Mucor velutinosus OX=708070 GN=ATC70_007048 PE=3 SV=1	Mucor velutinosus	685	788	42.9	62.6	2.9e-87
+241	TR	A0A1L9T345	Serine/threonine-protein OS=Aspergillus sydowii CBS 593.65 OX=1036612 GN=ASPSYDRAFT_161709 PE=3 SV=1	Aspergillus sydowii CBS 593.65	1010	809	28.3	42.4	3e-87
+242	TR	A0A4S8N0W3	Serine/threonine-protein OS=Dendrothele bispora (strain CBS 962.96) OX=1314807 GN=K435DRAFT_641404 PE=3 SV=1	Dendrothele bispora (strain CBS 962.96)	398	762	40.9	60.2	3.6e-87
+243	TR	A0A0W4ZN12	Serine/threonine-protein OS=Pneumocystis carinii (strain B80) OX=1408658 GN=T552_00974 PE=3 SV=1	Pneumocystis carinii (strain B80)	887	801	49.9	67.2	4e-87
+244	TR	A0A4R0S122	Serine/threonine-protein OS=Steccherinum ochraceum OX=92696 GN=CTK1 PE=3 SV=1	Steccherinum ochraceum	741	791	32.5	47.3	4.3e-87
+245	TR	A0A7R7XUI9	Serine/threonine-protein OS=Aspergillus puulaauensis OX=1220207 GN=CTK1 PE=3 SV=1	Aspergillus puulaauensis	1034	809	26.8	42.1	4.4e-87
+246	TR	A0A9P8ACK4	Serine/threonine-protein OS=Marasmius oreades OX=181124 GN=E1B28_004327 PE=3 SV=1	Marasmius oreades	990	806	31.7	46.0	5.4e-87
+247	TR	A0ABN7WCL6	Serine/threonine-protein (Fragment) OS=Gigaspora margarita OX=4874 GN=GMARGA_LOCUS29057 PE=3 SV=1	Gigaspora margarita	743	790	38.5	56.4	6.1e-87
+248	TR	A0ACF6ASG9	Serine/threonine-protein OS=Lipomyces doorenjongii OX=383834 GN=V1523DRAFT_405459 PE=3 SV=1	Lipomyces doorenjongii	916	801	29.6	42.1	6.9e-87
+249	TR	A0A1Y2C6N8	Pkinase-domain-containing protein (Fragment) OS=Rhizoclosmatium globosum OX=329046 GN=BCR33DRAFT_660732 PE=3 SV=1	Rhizoclosmatium globosum	504	770	39.2	51.9	6.9e-87
+250	TR	A0A367K0H9	Serine/threonine-protein OS=Rhizopus stolonifer OX=4846 GN=CTK1_1 PE=3 SV=1	Rhizopus stolonifer	660	783	45.9	66.3	7.5e-87
+251	TR	A0A9P6RND2	Serine/threonine-protein OS=Dissophora globulifera OX=979702 GN=CTK1 PE=3 SV=1	Dissophora globulifera	1519	823	28.5	42.1	7.8e-87
+252	TR	A0A1C7N767	Serine/threonine-protein OS=Choanephora cucurbitarum OX=101091 GN=lsk1 PE=3 SV=1	Choanephora cucurbitarum	625	780	35.7	52.1	8e-87
+253	TR	A0A067TKL1	Serine/threonine-protein OS=Galerina marginata (strain CBS 339.88) OX=685588 GN=GALMADRAFT_205611 PE=3 SV=1	Galerina marginata (strain CBS 339.88)	602	778	37.7	53.9	8.2e-87
+254	TR	A0ACB8BVI5	Serine/threonine-protein OS=Leucogyrophana mollusca OX=85980 GN=BV22DRAFT_1102451 PE=3 SV=1	Leucogyrophana mollusca	446	764	37.2	54.2	8.4e-87
+255	TR	A0ACD3BE45	Serine/threonine-protein OS=Pluteus cervinus OX=181527 GN=BDN72DRAFT_756201 PE=3 SV=1	Pluteus cervinus	448	764	39.4	57.3	8.9e-87
+256	SP	O14098	CTD kinase subunit alpha OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=lsk1 PE=1 SV=1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	593	777	39.0	54.4	8.9e-87
+257	TR	A0ACF6BRA1	Serine/threonine-protein OS=Lipomyces chichibuensis OX=1546026 GN=V1513DRAFT_415154 PE=3 SV=1	Lipomyces chichibuensis	914	800	29.8	43.4	9e-87
+258	TR	A0A1C7ND36	Serine/threonine-protein OS=Choanephora cucurbitarum OX=101091 GN=cdk9 PE=3 SV=1	Choanephora cucurbitarum	382	757	46.1	65.5	1.1e-86
+259	TR	A0A5C3PKJ6	Serine/threonine-protein OS=Polyporus arcularius HHB13444 OX=1314778 GN=K466DRAFT_486017 PE=3 SV=1	Polyporus arcularius HHB13444	455	764	34.5	51.8	1.1e-86
+260	TR	A0A8H6Y6F4	Serine/threonine-protein OS=Mycena venus OX=2733690 GN=MVEN_01242500 PE=3 SV=1	Mycena venus	556	773	35.2	51.2	1.2e-86
+261	TR	A0A1Y1XGS8	Serine/threonine-protein OS=Anaeromyces robustus OX=1754192 GN=BCR32DRAFT_266004 PE=3 SV=1	Anaeromyces robustus	561	773	42.2	59.8	1.3e-86
+262	TR	A0A7D8ZAZ2	Serine/threonine-protein OS=Vanrija humicola OX=5417 GN=VHUM_01873 PE=3 SV=1	Vanrija humicola	463	764	38.3	57.0	1.4e-86
+263	TR	A0ACF2F358	Serine/threonine-protein OS=Schizophyllum commune Tattone D OX=1314663 GN=K523DRAFT_238906 PE=3 SV=1	Schizophyllum commune Tattone D	343	752	43.1	61.4	1.5e-86
+264	TR	A0A1X2IFS6	Serine/threonine-protein OS=Absidia repens OX=90262 GN=BCR42DRAFT_327990 PE=3 SV=1	Absidia repens	393	757	45.0	65.4	1.5e-86
+265	TR	A0A9P7BXM3	Serine/threonine-protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000809 PE=3 SV=1	Rhizopus oryzae	384	756	45.5	67.3	1.5e-86
+266	TR	A0A4Q9PWK6	Serine/threonine-protein OS=Dichomitus squalens OX=114155 GN=BD310DRAFT_948178 PE=3 SV=1	Dichomitus squalens	345	752	44.2	64.7	1.6e-86
+267	TR	A0AAD5HA41	Serine/threonine-protein OS=Umbelopsis ramanniana AG OX=1314678 GN=K450DRAFT_255332 PE=3 SV=1	Umbelopsis ramanniana AG	524	769	43.2	61.8	1.7e-86
+268	TR	A0A5C2SV43	Serine/threonine-protein OS=Lentinus tigrinus ALCF2SS1-6 OX=1328759 GN=L227DRAFT_582518 PE=3 SV=1	Lentinus tigrinus ALCF2SS1-6	331	750	43.6	64.7	1.9e-86
+269	TR	A0A899G0Q4	Serine/threonine-protein OS=Pneumocystis wakefieldiae OX=38082 GN=MERGE_002232 PE=3 SV=1	Pneumocystis wakefieldiae	877	795	49.5	68.1	2.1e-86
+270	TR	A0A2G8STW7	Serine/threonine-protein OS=Ganoderma sinense ZZ0214-1 OX=1077348 GN=GSI_00845 PE=3 SV=1	Ganoderma sinense ZZ0214-1	678	781	35.7	52.8	2.2e-86
+271	TR	Q5KAZ9	Serine/threonine-protein OS=Cryptococcus deneoformans (strain JEC21 / ATCC MYA-565) OX=214684 GN=CNI04290 PE=3 SV=2	Cryptococcus deneoformans (strain JEC21 / ATCC MYA-565)	1128	808	28.9	44.1	2.2e-86
+272	TR	A0A9P6Z4L5	Serine/threonine-protein OS=Rhizopus delemar OX=936053 GN=G6F50_005300 PE=3 SV=1	Rhizopus delemar	606	775	40.8	58.7	2.3e-86
+273	TR	A0ACC3SVY3	Serine/threonine-protein OS=Lipomyces kononenkoae OX=34357 GN=V1525DRAFT_408937 PE=3 SV=1	Lipomyces kononenkoae	889	795	30.4	45.0	2.6e-86
+274	TR	A0A5M3MB77	Serine/threonine-protein OS=Coniophora puteana (strain RWD-64-598) OX=741705 GN=CONPUDRAFT_158168 PE=3 SV=1	Coniophora puteana (strain RWD-64-598)	466	762	41.6	59.9	2.8e-86
+275	TR	A0A9P7CMT7	Serine/threonine-protein OS=Rhizopus delemar OX=936053 GN=G6F50_007909 PE=3 SV=1	Rhizopus delemar	384	754	45.5	67.3	2.9e-86
+276	TR	A0A8H7VX17	Serine/threonine-protein OS=Thamnidium elegans OX=101142 GN=INT48_004493 PE=3 SV=1	Thamnidium elegans	376	753	44.1	64.3	3.1e-86
+277	TR	A0A9W7ZRK4	Serine/threonine-protein OS=Tieghemiomyces parasiticus OX=78921 GN=BUR1_2 PE=3 SV=1	Tieghemiomyces parasiticus	502	765	41.7	60.2	3.1e-86
+278	TR	A0A165QXH1	Serine/threonine-protein OS=Exidia glandulosa HHB12029 OX=1314781 GN=EXIGLDRAFT_709597 PE=3 SV=1	Exidia glandulosa HHB12029	339	749	45.9	66.1	3.3e-86
+279	TR	A0A9P3PPM1	Serine/threonine-protein OS=Lyophyllum shimeji OX=47721 GN=BUR1 PE=3 SV=1	Lyophyllum shimeji	903	795	34.3	50.4	3.4e-86
+280	TR	A0A367KU44	Serine/threonine-protein OS=Rhizopus stolonifer OX=4846 GN=CTK1_2 PE=3 SV=1	Rhizopus stolonifer	550	769	45.6	66.7	3.4e-86
+281	TR	A0ABR5BZZ2	Serine/threonine-protein OS=Cryptococcus gattii EJB2 OX=1296103 GN=I306_01742 PE=3 SV=1	Cryptococcus gattii EJB2	575	771	39.0	57.3	3.6e-86
+282	TR	E6RBG5	Serine/threonine-protein OS=Cryptococcus gattii serotype B (strain WM276 / ATCC MYA-4071) OX=367775 GN=CGB_H5650W PE=3 SV=1	Cryptococcus gattii serotype B (strain WM276 / ATCC MYA-4071)	575	771	39.0	57.3	3.6e-86
+283	TR	A0A4Y7TND5	Serine/threonine-protein OS=Coprinellus micaceus OX=71717 GN=FA13DRAFT_1684300 PE=3 SV=1	Coprinellus micaceus	333	748	44.5	64.9	3.7e-86
+284	TR	A0A9P6XB45	Serine/threonine-protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005286 PE=3 SV=1	Rhizopus oryzae	602	773	41.2	59.8	3.9e-86
+285	TR	A0AAD3TQV1	Serine/threonine-protein OS=Cutaneotrichosporon spelunceum OX=1672016 GN=CTK1 PE=3 SV=1	Cutaneotrichosporon spelunceum	913	795	28.1	44.8	4.1e-86
+286	TR	S9Q2A9	Serine/threonine-protein OS=Schizosaccharomyces octosporus (strain yFS286) OX=483514 GN=SOCG_03061 PE=3 SV=1	Schizosaccharomyces octosporus (strain yFS286)	587	771	36.1	52.4	4.9e-86
+287	TR	A0A4Y7T729	Serine/threonine-protein OS=Coprinellus micaceus OX=71717 GN=FA13DRAFT_606034 PE=3 SV=1	Coprinellus micaceus	987	798	34.7	47.9	5.8e-86
+288	TR	A0A397SUI7	Serine/threonine-protein OS=Glomus cerebriforme OX=658196 GN=C1645_695822 PE=3 SV=1	Glomus cerebriforme	407	754	45.2	64.7	5.9e-86
+289	TR	A0A9N8YZL4	Serine/threonine-protein OS=Diversispora eburnea OX=1213867 GN=DEBURN_LOCUS2933 PE=3 SV=1	Diversispora eburnea	736	782	35.9	53.2	6.1e-86
+290	TR	A0A9W8DZN0	Serine/threonine-protein OS=Tieghemiomyces parasiticus OX=78921 GN=BUR1_1 PE=3 SV=1	Tieghemiomyces parasiticus	504	763	41.7	60.2	6.2e-86
+291	TR	A0A0C3RUV3	Serine/threonine-protein OS=Phlebiopsis gigantea (strain 11061_1 CR5-6) OX=745531 GN=PHLGIDRAFT_75141 PE=3 SV=1	Phlebiopsis gigantea (strain 11061_1 CR5-6)	310	744	46.7	65.7	6.2e-86
+292	TR	A0A8H4B1Y7	Serine/threonine-protein OS=Gigaspora margarita OX=4874 GN=F8M41_019912 PE=3 SV=1	Gigaspora margarita	780	785	42.8	63.6	6.3e-86
+293	TR	A0A9P5XT74	Serine/threonine-protein OS=Collybia nuda OX=64659 GN=BDZ94DRAFT_1273965 PE=3 SV=1	Collybia nuda	945	794	34.9	48.5	9.6e-86
+294	TR	U4LG11	Serine/threonine-protein OS=Pyronema omphalodes (strain CBS 100304) OX=1076935 GN=PCON_09887 PE=3 SV=1	Pyronema omphalodes (strain CBS 100304)	1184	805	26.4	40.6	1.1e-85
+295	TR	A0ACF6B8D7	Serine/threonine-protein OS=Lipomyces kononenkoae OX=34357 GN=V1509DRAFT_625345 PE=3 SV=1	Lipomyces kononenkoae	889	790	29.7	43.3	1.2e-85
+296	TR	A0A0D0U0F4	Serine/threonine-protein OS=Cryptococcus deuterogattii Ram5 OX=1296110 GN=I313_02803 PE=3 SV=1	Cryptococcus deuterogattii Ram5	1149	803	26.9	41.5	1.3e-85
+297	TR	A0A8H7QMK2	Serine/threonine-protein OS=Mucor saturninus OX=64648 GN=INT47_006700 PE=3 SV=1	Mucor saturninus	714	778	38.5	56.3	1.3e-85
+298	TR	A0A168TCN6	Serine/threonine-protein OS=Absidia glauca OX=4829 GN=ABSGL_15549.1 scaffold 17607 PE=3 SV=1	Absidia glauca	649	773	31.6	47.3	1.3e-85
+299	TR	A0A1Y2F512	Serine/threonine-protein OS=Protomyces lactucae-debilis OX=2754530 GN=BCR37DRAFT_98755 PE=3 SV=1	Protomyces lactucae-debilis	913	791	39.4	57.1	1.4e-85
+300	TR	M7WYL4	Serine/threonine-protein OS=Rhodotorula toruloides (strain NP11) OX=1130832 GN=RHTO_07815 PE=3 SV=1	Rhodotorula toruloides (strain NP11)	1160	803	28.6	42.6	1.4e-85
+301	TR	A0ABP9Z552	Serine/threonine-protein OS=Mucor flavus OX=439312 GN=MFLAVUS_007737 PE=3 SV=1	Mucor flavus	376	748	43.8	64.1	1.5e-85
+302	TR	A0A9W8HK24	Serine/threonine-protein OS=Coemansia javaensis OX=2761396 GN=BUR1 PE=3 SV=1	Coemansia javaensis	537	763	40.9	56.6	1.5e-85
+303	TR	A0A507C5J7	Serine/threonine-protein OS=Synchytrium microbalum OX=1806994 GN=SmJEL517_g04112 PE=3 SV=1	Synchytrium microbalum	1318	808	27.9	42.1	1.6e-85
+304	TR	A0A139HIC2	Serine/threonine-protein OS=Pseudocercospora eumusae OX=321146 GN=AC578_5091 PE=3 SV=1	Pseudocercospora eumusae	978	794	27.9	43.4	1.7e-85
+305	TR	A0A0D6EJJ3	Serine/threonine-protein OS=Sporidiobolus salmonicolor OX=5005 GN=SPOSA6832_01696 PE=3 SV=1	Sporidiobolus salmonicolor	1067	798	34.8	49.6	1.9e-85
+306	TR	A0ABP9Y2Y3	Serine/threonine-protein OS=Helicostylum pulchrum OX=562976 GN=HPULCUR_006357 PE=3 SV=1	Helicostylum pulchrum	376	747	43.8	64.1	2e-85
+307	TR	A0ACB8GQ21	Serine/threonine-protein OS=Psilocybe cubensis OX=181762 GN=JR316_0009731 PE=3 SV=1	Psilocybe cubensis	1095	799	34.3	47.8	2.1e-85
+308	TR	A0A8K0JFT1	Serine/threonine-protein OS=Filobasidium floriforme OX=5210 GN=FFLO_06003 PE=3 SV=1	Filobasidium floriforme	380	747	39.0	61.7	2.3e-85
+309	TR	A0A9P6H7K2	Serine/threonine-protein OS=Thelephora terrestris OX=56493 GN=BJ322DRAFT_1012628 PE=3 SV=1	Thelephora terrestris	463	755	38.2	55.8	2.3e-85
+310	TR	A0A0W4ZVI2	Serine/threonine-protein OS=Pneumocystis jirovecii (strain RU7) OX=1408657 GN=T551_00479 PE=3 SV=1	Pneumocystis jirovecii (strain RU7)	875	787	49.5	67.9	2.3e-85
+311	TR	A0A8S0WBY6	Serine/threonine-protein OS=Cyclocybe aegerita OX=1973307 GN=AAE3_LOCUS12495 PE=3 SV=1	Cyclocybe aegerita	983	793	34.3	48.6	2.4e-85
+312	TR	A0ABQ7JLG4	Serine/threonine-protein (Fragment) OS=Linnemannia gamsii OX=64522 GN=CTK1 PE=3 SV=1	Linnemannia gamsii	1526	811	37.0	51.7	2.5e-85
+313	TR	A0A1X2HYE5	Serine/threonine-protein OS=Absidia repens OX=90262 GN=BCR42DRAFT_428535 PE=3 SV=1	Absidia repens	402	748	46.9	64.2	3.3e-85
+314	TR	A0A5C3QER4	Serine/threonine-protein OS=Pterulicium gracile OX=1884261 GN=BDV98DRAFT_612956 PE=3 SV=1	Pterulicium gracile	333	741	43.5	64.3	3.3e-85
+315	TR	A0AAV9VZA7	Serine/threonine-protein OS=Arthrobotrys musiformis OX=47236 GN=CTK1 PE=3 SV=1	Arthrobotrys musiformis	678	772	31.5	45.3	3.5e-85
+316	TR	A0A1Y1UT65	Serine/threonine-protein OS=Kockovaella imperatae OX=4999 GN=BD324DRAFT_575043 PE=3 SV=1	Kockovaella imperatae	354	743	46.0	68.0	3.5e-85
+317	TR	A0A367IYM2	Serine/threonine-protein OS=Rhizopus azygosporus OX=86630 GN=BUR1 PE=3 SV=1	Rhizopus azygosporus	384	746	45.6	67.4	3.5e-85
+318	TR	M7PIG4	Serine/threonine-protein OS=Pneumocystis murina (strain B123) OX=1069680 GN=PNEG_01513 PE=3 SV=1	Pneumocystis murina (strain B123)	882	786	49.8	67.9	3.6e-85
+319	TR	A0A165UEL6	Serine/threonine-protein OS=Neolentinus lepideus HHB14362 ss-1 OX=1314782 GN=NEOLEDRAFT_1129956 PE=3 SV=1	Neolentinus lepideus HHB14362 ss-1	933	789	34.9	49.5	3.6e-85
+320	TR	A0A2G4T917	Serine/threonine-protein OS=Rhizopus microsporus ATCC 52813 OX=1340429 GN=RHIMIDRAFT_254084 PE=3 SV=1	Rhizopus microsporus ATCC 52813	385	746	45.6	67.4	3.6e-85
+321	TR	M7NUN8	Serine/threonine-protein OS=Pneumocystis murina (strain B123) OX=1069680 GN=PNEG_00621 PE=3 SV=1	Pneumocystis murina (strain B123)	479	755	44.8	63.3	3.6e-85
+322	TR	F4RNS4	Serine/threonine-protein OS=Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7) OX=747676 GN=MELLADRAFT_36340 PE=3 SV=1	Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7)	439	751	39.3	55.0	3.9e-85
+323	TR	A0A9W8M0X4	Serine/threonine-protein OS=Coemansia brasiliensis OX=2650707 GN=CTK1 PE=3 SV=1	Coemansia brasiliensis	550	761	41.6	59.6	4.1e-85
+324	TR	A0A9P7Y6U9	Serine/threonine-protein OS=Linnemannia hyalina OX=64524 GN=CTK1 PE=3 SV=1	Linnemannia hyalina	1583	810	36.1	50.6	4.2e-85
+325	TR	A0ABZ1DAM0	Serine/threonine-protein OS=Kwoniella shivajii OX=564305 GN=IL334_007368 PE=3 SV=1	Kwoniella shivajii	1293	804	41.9	61.7	4.2e-85
+326	TR	A0A427Y9F2	Serine/threonine-protein OS=Apiotrichum porosum OX=105984 GN=CTK1 PE=3 SV=1	Apiotrichum porosum	1262	803	27.9	44.5	4.3e-85
+327	TR	A0A8H7REH9	Serine/threonine-protein OS=Mucor saturninus OX=64648 GN=INT47_005470 PE=3 SV=1	Mucor saturninus	351	742	44.8	65.2	4.3e-85
+328	TR	A0A0D7B980	Serine/threonine-protein OS=Cylindrobasidium torrendii FP15055 ss-10 OX=1314674 GN=CYLTODRAFT_354479 PE=3 SV=1	Cylindrobasidium torrendii FP15055 ss-10	361	743	44.7	63.5	4.4e-85
+329	TR	A0ACF6C978	Serine/threonine-protein OS=Kockiozyma suomiensis OX=1337062 GN=V2V93DRAFT_372141 PE=3 SV=1	Kockiozyma suomiensis	984	791	27.0	42.7	4.5e-85
+330	TR	A0A8K0UXY4	Serine/threonine-protein OS=Cristinia sonorae OX=1940300 GN=BXZ70DRAFT_396915 PE=3 SV=1	Cristinia sonorae	533	759	35.0	50.5	4.8e-85
+331	TR	A0A9W8BD38	Serine/threonine-protein OS=Coemansia thaxteri OX=2663907 GN=LSK1 PE=3 SV=1	Coemansia thaxteri	376	744	46.0	66.0	5.1e-85
+332	TR	A0AAW0FUM8	Serine/threonine-protein OS=Cerrena zonata OX=2478898 GN=QCA50_011825 PE=3 SV=1	Cerrena zonata	902	786	29.7	44.0	5.1e-85
+333	TR	A0A9W7XYJ8	Serine/threonine-protein OS=Coemansia erecta OX=147472 GN=CTK1 PE=3 SV=1	Coemansia erecta	343	740	44.4	65.6	6.3e-85
+334	TR	A0A9P6TBC0	Serine/threonine-protein OS=Cronartium quercuum f. sp. fusiforme G11 OX=708437 GN=CROQUDRAFT_45584 PE=3 SV=1	Cronartium quercuum f. sp. fusiforme G11	459	751	38.2	54.1	7.1e-85
+335	TR	A0A8H6I2C3	Serine/threonine-protein OS=Ephemerocybe angulata OX=980116 GN=DFP72DRAFT_1110219 PE=3 SV=1	Ephemerocybe angulata	793	778	34.7	51.4	7.1e-85
+336	TR	A0A1X2IEQ9	Serine/threonine-protein (Fragment) OS=Absidia repens OX=90262 GN=BCR42DRAFT_306539 PE=3 SV=1	Absidia repens	368	742	46.8	63.5	7.4e-85
+337	TR	A0A162TWF9	Serine/threonine-protein (Fragment) OS=Phycomyces blakesleeanus (strain ATCC 8743b / DSM 1359 / FGSC 10004 / NBRC 33097 / NRRL 1555) OX=763407 GN=PHYBLDRAFT_87822 PE=3 SV=1	Phycomyces blakesleeanus (strain ATCC 8743b / DSM 1359 / FGSC 10004 / NBRC 33097 / NRRL 1555)	330	738	46.0	65.5	7.7e-85
+338	TR	A0ABQ8PNJ0	Serine/threonine-protein OS=Coemansia umbellata OX=1424467 GN=BUR1 PE=3 SV=1	Coemansia umbellata	543	758	37.0	54.7	8.6e-85
+339	TR	A0A9W8HP66	Serine/threonine-protein OS=Coemansia interrupta OX=1126814 GN=BUR1 PE=3 SV=1	Coemansia interrupta	512	755	40.8	59.0	9.3e-85
+340	TR	A0A2T6ZT72	Serine/threonine-protein OS=Tuber borchii OX=42251 GN=B9Z19DRAFT_1126302 PE=3 SV=1	Tuber borchii	1122	795	27.8	40.9	9.8e-85
+341	TR	A0A9P6N2P1	Serine/threonine-protein OS=Entomortierella chlamydospora OX=101097 GN=CTK1 PE=3 SV=1	Entomortierella chlamydospora	1520	806	35.5	51.6	1e-84
+342	TR	A0ACB6ZS53	Serine/threonine-protein OS=Thelephora ganbajun OX=370292 GN=BDM02DRAFT_3153928 PE=3 SV=1	Thelephora ganbajun	321	736	44.1	64.9	1.1e-84
+343	TR	A0A0W4ZGB3	Serine/threonine-protein OS=Pneumocystis carinii (strain B80) OX=1408658 GN=T552_02365 PE=3 SV=1	Pneumocystis carinii (strain B80)	432	747	45.5	64.2	1.1e-84
+344	TR	A0A168MPM5	Serine/threonine-protein OS=Absidia glauca OX=4829 GN=ABSGL_04512.1 scaffold 5475 PE=3 SV=1	Absidia glauca	423	746	46.1	63.4	1.2e-84
+345	TR	A0A0C3CMC2	Serine/threonine-protein OS=Piloderma croceum (strain F 1598) OX=765440 GN=PILCRDRAFT_150253 PE=3 SV=1	Piloderma croceum (strain F 1598)	557	758	43.3	66.2	1.3e-84
+346	TR	A0AAF0AZ37	Serine/threonine-protein OS=Schizosaccharomyces osmophilus OX=2545709 GN=lsk1 PE=3 SV=1	Schizosaccharomyces osmophilus	582	760	35.7	52.3	1.3e-84
+347	TR	A0A9P6RPE8	Serine/threonine-protein OS=Linnemannia gamsii OX=64522 GN=CTK1 PE=3 SV=1	Linnemannia gamsii	1701	807	35.4	50.3	1.4e-84
+348	TR	A0A067Q9F2	Serine/threonine-protein OS=Jaapia argillacea MUCL 33604 OX=933084 GN=JAAARDRAFT_152682 PE=3 SV=1	Jaapia argillacea MUCL 33604	1181	796	29.2	42.2	1.5e-84
+349	TR	A0AA38H732	Serine/threonine-protein OS=Dioszegia hungarica OX=4972 GN=MKK02DRAFT_17996 PE=3 SV=1	Dioszegia hungarica	376	740	44.2	64.3	1.8e-84
+350	TR	A0A9N8KM57	Serine/threonine-protein OS=Aureobasidium uvarum OX=2773716 GN=AWRI4620_LOCUS8868 PE=3 SV=1	Aureobasidium uvarum	957	785	28.9	42.7	1.8e-84
+351	TR	A0A0P9F7H5	Serine/threonine-protein OS=Rhodotorula graminis (strain WP1) OX=578459 GN=RHOBADRAFT_30794 PE=3 SV=1	Rhodotorula graminis (strain WP1)	382	740	44.6	64.5	2.1e-84
+352	TR	A0ACC1K0H0	Serine/threonine-protein OS=Coemansia nantahalensis OX=2789366 GN=BUR1 PE=3 SV=1	Coemansia nantahalensis	489	750	40.6	58.4	2.3e-84
+353	TR	A0AAV4ZZK3	Serine/threonine-protein OS=Clathrus columnatus OX=1419009 GN=Clacol_002007 PE=3 SV=1	Clathrus columnatus	973	785	36.5	53.8	2.3e-84
+354	TR	A0A1X2GQK6	Serine/threonine-protein OS=Hesseltinella vesiculosa OX=101127 GN=DM01DRAFT_1318616 PE=3 SV=1	Hesseltinella vesiculosa	397	741	48.0	65.1	2.5e-84
+355	TR	A0ACB6ZU05	Serine/threonine-protein OS=Thelephora ganbajun OX=370292 GN=BDM02DRAFT_3089073 PE=3 SV=1	Thelephora ganbajun	451	746	38.9	55.6	2.7e-84
+356	TR	A0A9P6F1F2	Serine/threonine-protein OS=Mortierella hygrophila OX=979708 GN=CTK1 PE=3 SV=1	Mortierella hygrophila	1640	804	39.4	56.5	2.7e-84
+357	TR	A0A074XSH9	Serine/threonine-protein OS=Aureobasidium pullulans EXF-150 OX=1043002 GN=M438DRAFT_333475 PE=3 SV=1	Aureobasidium pullulans EXF-150	967	784	28.3	42.2	2.8e-84
+358	TR	A0A9P5RVT2	Serine/threonine-protein OS=Linnemannia schmuckeri OX=64567 GN=CTK1 PE=3 SV=1	Linnemannia schmuckeri	1691	804	36.3	50.9	3.1e-84
+359	TR	A0A1Y1XYQ0	Serine/threonine-protein OS=Basidiobolus meristosporus CBS 931.73 OX=1314790 GN=K493DRAFT_330763 PE=3 SV=1	Basidiobolus meristosporus CBS 931.73	641	762	42.0	64.5	3.1e-84
+360	TR	M2QCD8	Serine/threonine-protein OS=Ceriporiopsis subvermispora (strain B) OX=914234 GN=CERSUDRAFT_140279 PE=3 SV=1	Ceriporiopsis subvermispora (strain B)	920	781	29.4	44.0	3.2e-84
+361	TR	A0A0C2X5N3	Serine/threonine-protein OS=Serendipita vermifera MAFF 305830 OX=933852 GN=M408DRAFT_61109 PE=3 SV=1	Serendipita vermifera MAFF 305830	366	737	43.5	63.5	3.3e-84
+362	TR	A0ABR2WBD6	Serine/threonine-protein OS=Basidiobolus ranarum OX=34480 GN=CTK1_1 PE=3 SV=1	Basidiobolus ranarum	683	765	41.4	61.9	3.4e-84
+363	TR	A0ABR3AI44	Serine/threonine-protein OS=Phycomyces blakesleeanus OX=4837 GN=J3Q64DRAFT_1778941 PE=3 SV=1	Phycomyces blakesleeanus	428	743	46.2	65.7	3.4e-84
+364	TR	A0AAV5GRX1	Serine/threonine-protein OS=Rhodotorula paludigena OX=86838 GN=Rhopal_006013-T1 PE=3 SV=1	Rhodotorula paludigena	1268	796	26.7	42.3	3.5e-84
+365	TR	A0ABR3FKZ3	Serine/threonine-protein OS=Marasmius crinis-equi OX=585013 GN=BUR1 PE=3 SV=1	Marasmius crinis-equi	937	781	34.9	50.0	4.3e-84
+366	TR	A0AAW0B138	Serine/threonine-protein OS=Favolaschia claudopus OX=2862362 GN=R3P38DRAFT_1282839 PE=3 SV=1	Favolaschia claudopus	903	779	30.2	44.0	4.4e-84
+367	TR	A0A5C3L927	Serine/threonine-protein OS=Coprinopsis marcescibilis OX=230819 GN=FA15DRAFT_584323 PE=3 SV=1	Coprinopsis marcescibilis	673	763	34.4	51.5	5e-84
+368	TR	A0A9W8HI91	Serine/threonine-protein OS=Coemansia interrupta OX=1126814 GN=CTK1 PE=3 SV=1	Coemansia interrupta	700	765	35.9	50.7	5e-84
+369	TR	M5ECP7	Serine/threonine-protein OS=Malassezia sympodialis (strain ATCC 42132) OX=1230383 GN=MSYG_4390 PE=3 SV=1	Malassezia sympodialis (strain ATCC 42132)	395	738	39.2	58.8	6e-84
+370	TR	M2R8J0	Serine/threonine-protein OS=Ceriporiopsis subvermispora (strain B) OX=914234 GN=CERSUDRAFT_62703 PE=3 SV=1	Ceriporiopsis subvermispora (strain B)	328	731	45.0	64.6	6.5e-84
+371	TR	A0A9P5UEX8	Serine/threonine-protein OS=Rhodocollybia butyracea OX=206335 GN=BDP27DRAFT_1211512 PE=3 SV=1	Rhodocollybia butyracea	360	734	43.9	63.4	7e-84
+372	TR	A0ABQ8PU18	Serine/threonine-protein OS=Coemansia umbellata OX=1424467 GN=LSK1 PE=3 SV=1	Coemansia umbellata	804	771	29.7	45.1	7.6e-84
+373	TR	A0A9W8CLF3	Serine/threonine-protein OS=Coemansia asiatica OX=1052880 GN=LSK1 PE=3 SV=1	Coemansia asiatica	734	766	31.7	44.9	7.9e-84
+374	TR	A0A5C3KSP4	Serine/threonine-protein OS=Coprinopsis marcescibilis OX=230819 GN=FA15DRAFT_471894 PE=3 SV=1	Coprinopsis marcescibilis	617	757	36.2	53.9	8.1e-84
+375	TR	A0ACC1K573	Serine/threonine-protein OS=Coemansia linderi OX=2663919 GN=CTK1 PE=3 SV=1	Coemansia linderi	396	737	45.2	64.8	8.4e-84
+376	TR	A0A9W8GE81	Serine/threonine-protein OS=Coemansia spiralis OX=417178 GN=CTK1 PE=3 SV=1	Coemansia spiralis	396	737	45.2	64.8	8.4e-84
+377	TR	A0A0J0XMH9	Serine/threonine-protein (Fragment) OS=Cutaneotrichosporon oleaginosum OX=879819 GN=CC85DRAFT_260584 PE=3 SV=1	Cutaneotrichosporon oleaginosum	398	737	39.3	59.1	9e-84
+378	TR	A0ACF2F830	Serine/threonine-protein OS=Schizophyllum commune Tattone D OX=1314663 GN=K523DRAFT_414297 PE=3 SV=1	Schizophyllum commune Tattone D	928	778	28.5	43.4	9.1e-84
+379	TR	A0A1X2GIA5	Serine/threonine-protein OS=Hesseltinella vesiculosa OX=101127 GN=DM01DRAFT_1035416 PE=3 SV=1	Hesseltinella vesiculosa	623	757	34.6	51.2	9.4e-84
+380	TR	A0A4P9ZST6	Serine/threonine-protein OS=Dimargaris cristalligena OX=215637 GN=BJ085DRAFT_43445 PE=3 SV=1	Dimargaris cristalligena	360	733	42.8	60.6	9.6e-84
+381	TR	A0ABR1JAL4	Serine/threonine-protein OS=Stygiomarasmius scandens OX=2682957 GN=BUR1 PE=3 SV=1	Stygiomarasmius scandens	1076	785	28.2	42.5	1.1e-83
+382	TR	A0A8H7RZK2	Serine/threonine-protein OS=Circinella minor OX=1195481 GN=INT45_012207 PE=3 SV=1	Circinella minor	920	777	44.2	64.2	1.1e-83
+383	TR	A0A371DQN2	Serine/threonine-protein OS=Lentinus brumalis OX=2498619 GN=OH76DRAFT_1479036 PE=3 SV=1	Lentinus brumalis	909	776	33.9	49.2	1.2e-83
+384	TR	A0ACC1M2A1	Serine/threonine-protein OS=Coemansia aciculifera OX=417176 GN=CTK1 PE=3 SV=1	Coemansia aciculifera	739	765	30.4	44.4	1.2e-83
+385	TR	A0AAD7HCL3	Serine/threonine-protein OS=Mycena metata OX=1033252 GN=B0H16DRAFT_1740467 PE=3 SV=1	Mycena metata	864	773	37.7	52.2	1.3e-83
+386	TR	A0A1S7UL52	Serine/threonine-protein OS=Rosellinia necatrix OX=77044 GN=SAMD00023353_0601930 PE=3 SV=1	Rosellinia necatrix	1049	783	27.1	41.8	1.3e-83
+387	TR	A0A9N8JLI0	Serine/threonine-protein (Fragment) OS=Aureobasidium vineae OX=2773715 GN=AWRI4619_LOCUS6119 PE=3 SV=1	Aureobasidium vineae	937	777	30.5	44.2	1.4e-83
+388	TR	A0A9W8IJN3	Serine/threonine-protein OS=Coemansia brasiliensis OX=2650707 GN=BUR1 PE=3 SV=1	Coemansia brasiliensis	480	743	42.1	61.0	1.6e-83
+389	TR	A0A2B7XSI7	Serine/threonine-protein OS=Helicocarpus griseus UAMH5409 OX=1447875 GN=AJ79_04611 PE=3 SV=1	Helicocarpus griseus UAMH5409	1071	783	26.2	41.0	1.8e-83
+390	TR	A0ACC1JVZ0	Serine/threonine-protein OS=Coemansia nantahalensis OX=2789366 GN=CTK1 PE=3 SV=1	Coemansia nantahalensis	371	732	45.6	64.5	1.8e-83
+391	TR	B8MDE8	Serine/threonine-protein OS=Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006) OX=441959 GN=TSTA_116970 PE=3 SV=1	Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006)	1001	779	27.1	42.5	2.2e-83
+392	TR	A0A2G5BH72	Serine/threonine-protein (Fragment) OS=Coemansia reversa (strain ATCC 12441 / NRRL 1564) OX=763665 GN=COEREDRAFT_33261 PE=3 SV=1	Coemansia reversa (strain ATCC 12441 / NRRL 1564)	329	727	43.2	64.5	2.3e-83
+393	TR	A0ACD0NQ12	Serine/threonine-protein OS=Violaceomyces palustris OX=1673888 GN=IE53DRAFT_320352 PE=3 SV=1	Violaceomyces palustris	494	743	43.3	62.0	2.3e-83
+394	TR	A0A8H5HH12	Serine/threonine-protein OS=Tricholomella constricta OX=117010 GN=D9615_005069 PE=3 SV=1	Tricholomella constricta	931	775	35.4	51.8	2.4e-83
+395	TR	A0A4Y9XX92	Serine/threonine-protein (Fragment) OS=Dentipellis fragilis OX=205917 GN=EVG20_g9588 PE=3 SV=1	Dentipellis fragilis	863	771	28.9	42.2	2.4e-83
+396	TR	A0A9W8NA48	Serine/threonine-protein OS=Xylaria arbuscula OX=114810 GN=NPX13_g7685 PE=3 SV=1	Xylaria arbuscula	1095	783	26.7	41.3	2.5e-83
+397	TR	A0A4Q2DZ75	Serine/threonine-protein OS=Candolleomyces aberdarensis OX=2316362 GN=EST38_g1143 PE=3 SV=1	Candolleomyces aberdarensis	642	755	39.1	59.4	2.8e-83
+398	TR	A0A5C3QHX5	Serine/threonine-protein OS=Pterulicium gracile OX=1884261 GN=BDV98DRAFT_248234 PE=3 SV=1	Pterulicium gracile	1085	782	29.3	44.5	2.9e-83
+399	TR	A0A5C3MW08	Serine/threonine-protein OS=Heliocybe sulcata OX=5364 GN=OE88DRAFT_1633046 PE=3 SV=1	Heliocybe sulcata	596	751	37.6	54.9	3e-83
+400	TR	A0AAW0DG70	Serine/threonine-protein OS=Paramarasmius palmivorus OX=297713 GN=CTK1_2 PE=3 SV=1	Paramarasmius palmivorus	896	772	35.3	51.4	3.2e-83
+401	TR	A0A9W8JN27	Serine/threonine-protein (Fragment) OS=Candolleomyces eurysporus OX=2828524 GN=H1R20_g174 PE=3 SV=1	Candolleomyces eurysporus	563	748	33.3	51.3	3.2e-83
+402	TR	A0A4R0RP12	Serine/threonine-protein OS=Steccherinum ochraceum OX=92696 GN=BUR1 PE=3 SV=1	Steccherinum ochraceum	899	772	35.9	52.7	3.4e-83
+403	TR	A0A9W8HPG3	Serine/threonine-protein (Fragment) OS=Coemansia guatemalensis OX=2761395 GN=BUR1 PE=3 SV=1	Coemansia guatemalensis	361	729	42.4	62.4	3.4e-83
+404	TR	A0A9P6HMA1	Serine/threonine-protein OS=Thelephora terrestris OX=56493 GN=BJ322DRAFT_624565 PE=3 SV=1	Thelephora terrestris	869	770	37.5	51.5	3.6e-83
+405	TR	A0A1Y2J5Y2	Serine/threonine-protein OS=Trametes coccinea (strain BRFM310) OX=1353009 GN=PYCCODRAFT_1401578 PE=3 SV=1	Trametes coccinea (strain BRFM310)	879	770	33.8	48.9	4.3e-83
+406	TR	A0ACB8H3X1	Serine/threonine-protein OS=Psilocybe cubensis OX=181762 GN=JR316_0004788 PE=3 SV=1	Psilocybe cubensis	1077	780	46.1	65.2	4.7e-83
+407	TR	A0A4V1M478	Serine/threonine-protein OS=Tremella mesenterica OX=5217 GN=M231_03250 PE=3 SV=1	Tremella mesenterica	1126	782	28.2	43.6	4.9e-83
+408	TR	A0AAW0E5J3	Serine/threonine-protein OS=Paramarasmius palmivorus OX=297713 GN=CTK1_1 PE=3 SV=1	Paramarasmius palmivorus	906	771	35.3	51.4	5.2e-83
+409	TR	A0A9N8VNZ0	15986_t:CDS:1 OS=Acaulospora morrowiae OX=94023 GN=AMORRO_LOCUS1090 PE=3 SV=1	Acaulospora morrowiae	765	762	45.4	67.2	5.3e-83
+410	TR	A0A0W4ZTN4	Serine/threonine-protein OS=Pneumocystis jirovecii (strain RU7) OX=1408657 GN=T551_01001 PE=3 SV=1	Pneumocystis jirovecii (strain RU7)	491	740	45.1	64.6	5.4e-83
+411	TR	V2XU21	Serine/threonine-protein OS=Moniliophthora roreri (strain MCA 2997) OX=1381753 GN=Moror_7137 PE=3 SV=1	Moniliophthora roreri (strain MCA 2997)	946	773	34.8	49.0	5.6e-83
+412	TR	A0AAD9CV86	Serine/threonine-protein OS=Papiliotrema laurentii OX=5418 GN=DB88DRAFT_512498 PE=3 SV=1	Papiliotrema laurentii	598	749	44.7	65.9	5.9e-83
+413	TR	A0A0C9XC52	Serine/threonine-protein OS=Laccaria amethystina LaAM-08-1 OX=1095629 GN=K443DRAFT_680230 PE=3 SV=1	Laccaria amethystina LaAM-08-1	950	773	28.2	44.0	5.9e-83
+414	TR	A0A5J5F329	Serine/threonine-protein OS=Sphaerosporella brunnea OX=1250544 GN=FN846DRAFT_905007 PE=3 SV=1	Sphaerosporella brunnea	563	746	34.5	51.4	6e-83
+415	TR	A0ACC1LEZ5	Serine/threonine-protein OS=Coemansia furcata OX=417177 GN=CTK1 PE=3 SV=1	Coemansia furcata	411	732	45.7	65.5	6.3e-83
+416	TR	A0ACF6CFS0	Serine/threonine-protein OS=Kockiozyma suomiensis OX=1337062 GN=V2V93DRAFT_321769 PE=3 SV=1	Kockiozyma suomiensis	499	740	46.0	62.0	6.8e-83
+417	TR	A0A1J9PLH5	Serine/threonine-protein OS=Emergomyces pasteurianus Ep9510 OX=1447872 GN=AJ78_02553 PE=3 SV=1	Emergomyces pasteurianus Ep9510	1090	779	26.7	42.7	7.6e-83
+418	TR	A0A9P6CUT9	Serine/threonine-protein OS=Pholiota conissans OX=109636 GN=BDN70DRAFT_831965 PE=3 SV=1	Pholiota conissans	784	762	33.8	48.6	7.8e-83
+419	TR	A0AAD5W178	Serine/threonine-protein OS=Leucocoprinus birnbaumii OX=56174 GN=NP233_g4392 PE=3 SV=1	Leucocoprinus birnbaumii	974	773	29.1	43.8	8.7e-83
+420	TR	A0A9W7YHV6	Serine/threonine-protein OS=Coemansia biformis OX=1286918 GN=BUR1 PE=3 SV=1	Coemansia biformis	513	740	38.6	57.0	1e-82
+421	TR	A0A9W8IUI3	Serine/threonine-protein OS=Coemansia aciculifera OX=417176 GN=CTK1 PE=3 SV=1	Coemansia aciculifera	412	730	45.2	64.5	1.2e-82
+422	TR	I4Y9G7	Serine/threonine-protein OS=Wallemia mellicola (strain ATCC MYA-4683 / CBS 633.66) OX=671144 GN=WALSEDRAFT_39732 PE=3 SV=1	Wallemia mellicola (strain ATCC MYA-4683 / CBS 633.66)	444	733	44.3	64.8	1.2e-82
+423	TR	A0AAD7N848	Serine/threonine-protein OS=Mycena maculata OX=230809 GN=DFH07DRAFT_746791 PE=3 SV=1	Mycena maculata	607	747	36.0	50.2	1.4e-82
+424	TR	A0AAD4M8C9	Serine/threonine-protein OS=Multifurca ochricompacta OX=376703 GN=B0F90DRAFT_1701917 PE=3 SV=1	Multifurca ochricompacta	867	765	38.4	53.8	1.6e-82
+425	TR	A0AAJ8KV47	Serine/threonine-protein OS=Kwoniella dejecticola CBS 10117 OX=1296121 GN=I303_107035 PE=3 SV=1	Kwoniella dejecticola CBS 10117	1345	785	28.2	44.0	1.6e-82
+426	TR	A0A2P4QRK6	Serine/threonine-protein OS=Rhizophagus irregularis (strain DAOM 181602 / DAOM 197198 / MUCL 43194) OX=747089 GN=GLOIN_2v1519914 PE=3 SV=1	Rhizophagus irregularis (strain DAOM 181602 / DAOM 197198 / MUCL 43194)	424	730	44.5	64.8	1.7e-82
+427	TR	A0A0H2S7X1	Serine/threonine-protein OS=Schizopora paradoxa OX=27342 GN=SCHPADRAFT_853171 PE=3 SV=1	Schizopora paradoxa	1042	774	30.2	42.2	1.8e-82
+428	TR	A0A1B9GMH1	Serine/threonine-protein OS=Kwoniella heveanensis BCC8398 OX=1296120 GN=I316_06105 PE=3 SV=1	Kwoniella heveanensis BCC8398	827	762	29.0	44.0	1.8e-82
+429	TR	A0A177FHA7	Serine/threonine-protein OS=Fonsecaea monophora OX=254056 GN=AYO21_03154 PE=3 SV=1	Fonsecaea monophora	657	750	36.5	53.8	1.8e-82
+430	TR	A0AAV9V1D1	Serine/threonine-protein OS=Orbilia blumenaviensis OX=1796055 GN=CTK1 PE=3 SV=1	Orbilia blumenaviensis	931	768	30.7	43.8	2e-82
+431	TR	A0A0B7NKL9	Protein kinase domain-containing protein OS=Parasitella parasitica OX=35722 GN=PARPA_10142.1 scaffold 39588 PE=4 SV=1	Parasitella parasitica	404	727	43.1	62.1	2.4e-82
+432	TR	A0A9P6C6I6	Serine/threonine-protein OS=Macrolepiota fuliginosa MF-IS2 OX=1400762 GN=P691DRAFT_810973 PE=3 SV=1	Macrolepiota fuliginosa MF-IS2	944	768	30.0	45.1	2.4e-82
+433	TR	A0A367YET9	Serine/threonine-protein OS=Candida viswanathii OX=5486 GN=CTK1_0 PE=3 SV=1	Candida viswanathii	534	739	36.0	53.0	2.4e-82
+434	TR	A0AAF0IQT0	Serine/threonine-protein OS=Malassezia brasiliensis OX=1821822 GN=CTK1 PE=3 SV=1	Malassezia brasiliensis	392	725	40.3	58.9	3.1e-82
+435	TR	A0AAD7D1H5	Serine/threonine-protein OS=Mycena rosella OX=1033263 GN=B0H17DRAFT_1162288 PE=3 SV=1	Mycena rosella	709	752	38.9	55.9	3.3e-82
+436	TR	A0ACC1PSZ6	Serine/threonine-protein OS=Trametes sanguinea OX=158606 GN=NUW54_g6822 PE=3 SV=1	Trametes sanguinea	512	736	38.2	55.1	3.4e-82
+437	TR	S7RLU2	Serine/threonine-protein OS=Gloeophyllum trabeum (strain ATCC 11539 / FP-39264 / Madison 617) OX=670483 GN=GLOTRDRAFT_139827 PE=3 SV=1	Gloeophyllum trabeum (strain ATCC 11539 / FP-39264 / Madison 617)	947	767	34.4	50.2	3.4e-82
+438	TR	D5GPE4	Serine/threonine-protein OS=Tuber melanosporum (strain Mel28) OX=656061 GN=GSTUM_00011694001 PE=3 SV=1	Tuber melanosporum (strain Mel28)	1122	775	27.2	41.4	3.7e-82
+439	TR	A0A4S4MZU6	Serine/threonine-protein OS=Antrodiella citrinella OX=2447956 GN=EUX98_g5235 PE=3 SV=1	Antrodiella citrinella	1141	775	35.2	52.4	4.6e-82
+440	TR	A0AAF0EQL3	Serine/threonine-protein OS=Malassezia nana OX=180528 GN=CTK1 PE=3 SV=1	Malassezia nana	436	728	38.0	55.7	4.6e-82
+441	TR	A0A178D9W4	Serine/threonine-protein OS=Fonsecaea nubica OX=856822 GN=AYO20_02556 PE=3 SV=1	Fonsecaea nubica	644	746	36.9	53.6	4.6e-82
+442	TR	A0AAD4LNI2	Serine/threonine-protein OS=Lactarius akahatsu OX=416441 GN=EDB92DRAFT_1933185 PE=3 SV=1	Lactarius akahatsu	940	765	35.2	50.8	5.6e-82
+443	TR	A0A316U2H0	Serine/threonine-protein OS=Microstroma glucosiphilum OX=1684307 GN=BCV69DRAFT_252599 PE=3 SV=1	Microstroma glucosiphilum	433	727	45.7	63.6	5.8e-82
+444	TR	A0A1L9SPF5	Serine/threonine-protein OS=Penicilliopsis zonata CBS 506.65 OX=1073090 GN=ASPZODRAFT_61127 PE=3 SV=1	Penicilliopsis zonata CBS 506.65	824	758	28.5	45.3	5.9e-82
+445	TR	A0ACB7IIU0	Serine/threonine-protein OS=Pleurotus cornucopiae OX=5321 GN=CCMSSC00406_0008081 PE=3 SV=1	Pleurotus cornucopiae	694	749	33.3	49.3	5.9e-82
+446	TR	R9AJZ4	Serine/threonine-protein OS=Wallemia ichthyophaga (strain EXF-994 / CBS 113033) OX=1299270 GN=J056_000894 PE=3 SV=1	Wallemia ichthyophaga (strain EXF-994 / CBS 113033)	675	747	35.4	51.8	7.1e-82
+447	TR	U4LJ13	Serine/threonine-protein OS=Pyronema omphalodes (strain CBS 100304) OX=1076935 GN=PCON_12015 PE=3 SV=1	Pyronema omphalodes (strain CBS 100304)	600	741	40.7	61.1	7.3e-82
+448	TR	A0AAX4K384	Serine/threonine-protein OS=Kwoniella dendrophila CBS 6074 OX=1295534 GN=L201_006509 PE=3 SV=1	Kwoniella dendrophila CBS 6074	1485	782	47.1	67.8	8.3e-82
+449	TR	A0AAV0AT03	Serine/threonine-protein OS=Phakopsora pachyrhizi OX=170000 GN=PPACK8108_LOCUS7466 PE=3 SV=1	Phakopsora pachyrhizi	351	717	45.7	63.2	1.1e-81
+450	TR	A0A4S3JMV5	Serine/threonine-protein OS=Aspergillus tanneri OX=1220188 GN=EYZ11_003653 PE=3 SV=1	Aspergillus tanneri	615	741	39.9	59.6	1.1e-81
+451	TR	A0A3N4HRA6	Serine/threonine-protein OS=Ascobolus immersus RN42 OX=1160509 GN=BJ508DRAFT_213693 PE=3 SV=1	Ascobolus immersus RN42	567	737	40.6	57.8	1.1e-81
+452	TR	A0A2I1G8F3	Serine/threonine-protein OS=Rhizophagus irregularis OX=588596 GN=RhiirA4_397992 PE=3 SV=1	Rhizophagus irregularis	424	724	44.2	64.5	1.1e-81
+453	TR	A0A167NR40	Serine/threonine-protein OS=Calocera viscosa (strain TUFC12733) OX=1330018 GN=CALVIDRAFT_544926 PE=3 SV=1	Calocera viscosa (strain TUFC12733)	365	718	45.2	63.8	1.2e-81
+454	TR	A0AAD5K269	Serine/threonine-protein OS=Phascolomyces articulosus OX=60185 GN=BDA99DRAFT_522788 PE=3 SV=1	Phascolomyces articulosus	387	720	44.3	60.9	1.3e-81
+455	TR	A0ACC3T5X6	Serine/threonine-protein OS=Lipomyces kononenkoae OX=34357 GN=V1525DRAFT_398578 PE=3 SV=1	Lipomyces kononenkoae	461	727	38.1	53.3	1.3e-81
+456	TR	A0AAD7V0A8	Serine/threonine-protein OS=Lichtheimia ornata OX=688661 GN=O0I10_008102 PE=3 SV=1	Lichtheimia ornata	389	720	47.4	64.2	1.4e-81
+457	TR	A0AAD6VC32	Serine/threonine-protein OS=Mycena pura OX=153505 GN=GGX14DRAFT_366594 PE=3 SV=1	Mycena pura	600	739	35.9	48.9	1.4e-81
+458	TR	A0A8H7V133	Serine/threonine-protein OS=Mucor saturninus OX=64648 GN=INT47_007439 PE=3 SV=1	Mucor saturninus	340	715	48.3	65.9	1.4e-81
+459	TR	A0A8K0USB0	Serine/threonine-protein OS=Cristinia sonorae OX=1940300 GN=BXZ70DRAFT_931260 PE=3 SV=1	Cristinia sonorae	888	759	37.4	53.3	1.4e-81
+460	TR	A0AA38UI41	Serine/threonine-protein OS=Lentinula raphanica OX=153919 GN=F5878DRAFT_607059 PE=3 SV=1	Lentinula raphanica	968	763	28.5	44.1	1.6e-81
+461	TR	A0A9N8WMR4	Serine/threonine-protein OS=Dentiscutata erythropus OX=1348616 GN=DERYTH_LOCUS2357 PE=3 SV=1	Dentiscutata erythropus	753	750	34.1	49.2	1.6e-81
+462	TR	A0A9W8I0X6	Serine/threonine-protein OS=Coemansia guatemalensis OX=2761395 GN=LSK1 PE=3 SV=1	Coemansia guatemalensis	469	727	38.9	57.5	1.6e-81
+463	TR	A0A0D2GN74	Serine/threonine-protein OS=Fonsecaea pedrosoi CBS 271.37 OX=1442368 GN=Z517_06590 PE=3 SV=1	Fonsecaea pedrosoi CBS 271.37	757	750	37.1	53.8	1.7e-81
+464	TR	A0AAX4KC01	Serine/threonine-protein OS=Kwoniella europaea PYCC6329 OX=1423913 GN=V865_001536 PE=3 SV=1	Kwoniella europaea PYCC6329	1286	775	41.9	63.4	1.8e-81
+465	TR	A0A436ZSB9	Serine/threonine-protein OS=Arthrobotrys flagrans OX=97331 GN=DFL_009671 PE=3 SV=1	Arthrobotrys flagrans	413	721	42.9	58.9	2e-81
+466	TR	A0A9W7XS79	Serine/threonine-protein OS=Coemansia asiatica OX=1052880 GN=BUR1 PE=3 SV=1	Coemansia asiatica	545	733	42.4	62.6	2.1e-81
+467	TR	A0A7H9HP02	Serine/threonine-protein OS=Torulaspora globosa OX=48254 GN=HG537_0A03520 PE=3 SV=1	Torulaspora globosa	353	715	43.9	64.4	2.1e-81
+468	TR	A0A8H2VLM0	Serine/threonine-protein OS=Sclerotinia trifoliorum OX=28548 GN=SCLTRI_LOCUS317 PE=3 SV=1	Sclerotinia trifoliorum	582	736	42.1	58.4	2.2e-81
+469	TR	A0A5C3PBP5	Serine/threonine-protein OS=Polyporus arcularius HHB13444 OX=1314778 GN=K466DRAFT_550054 PE=3 SV=1	Polyporus arcularius HHB13444	866	756	33.2	49.4	2.4e-81
+470	TR	A0ACC0UKN3	Serine/threonine-protein OS=Russula earlei OX=71964 GN=F5148DRAFT_1274143 PE=3 SV=1	Russula earlei	563	734	39.0	56.1	2.5e-81
+471	TR	A0A8H7QKY3	cyclin-dependent kinase OS=Mucor plumbeus OX=97098 GN=INT46_001086 PE=3 SV=1	Mucor plumbeus	691	744	37.1	57.0	2.6e-81
+472	TR	G8ZLN9	Serine/threonine-protein OS=Torulaspora delbrueckii OX=4950 GN=TDEL0A02010 PE=3 SV=1	Torulaspora delbrueckii	485	727	44.6	63.6	2.6e-81
+473	TR	A0AAD6TJU3	Serine/threonine-protein OS=Mycena alexandri OX=1745969 GN=C8F04DRAFT_1205681 PE=3 SV=1	Mycena alexandri	618	738	37.9	54.6	2.9e-81
+474	TR	W9VXE8	Serine/threonine-protein OS=Cladophialophora yegresii CBS 114405 OX=1182544 GN=A1O7_04670 PE=3 SV=1	Cladophialophora yegresii CBS 114405	710	745	34.8	51.3	2.9e-81
+475	TR	A0A165PL82	Serine/threonine-protein OS=Daedalea quercina L-15889 OX=1314783 GN=DAEQUDRAFT_671468 PE=3 SV=1	Daedalea quercina L-15889	479	726	42.5	63.1	3e-81
+476	TR	A0A167M2T2	Serine/threonine-protein OS=Phycomyces blakesleeanus (strain ATCC 8743b / DSM 1359 / FGSC 10004 / NBRC 33097 / NRRL 1555) OX=763407 GN=PHYBLDRAFT_134624 PE=3 SV=1	Phycomyces blakesleeanus (strain ATCC 8743b / DSM 1359 / FGSC 10004 / NBRC 33097 / NRRL 1555)	417	720	40.9	59.4	3.1e-81
+477	TR	A0ABR3AJU2	Serine/threonine-protein OS=Phycomyces blakesleeanus OX=4837 GN=J3Q64DRAFT_1772769 PE=3 SV=1	Phycomyces blakesleeanus	417	720	40.9	59.4	3.1e-81
+478	TR	A0A409W185	Serine/threonine-protein OS=Panaeolus cyanescens OX=181874 GN=CVT24_004673 PE=3 SV=1	Panaeolus cyanescens	1105	767	34.0	47.6	3.2e-81
+479	TR	A0A316W0B0	Serine/threonine-protein OS=Ceraceosorus guamensis OX=1522189 GN=IE81DRAFT_334218 PE=3 SV=1	Ceraceosorus guamensis	337	712	45.0	63.7	3.2e-81
+480	TR	A0A0D1ZZ58	Serine/threonine-protein OS=Exophiala mesophila OX=212818 GN=PV10_06588 PE=3 SV=1	Exophiala mesophila	1038	764	33.0	48.9	3.3e-81
+481	TR	A0A0J9X2S2	Serine/threonine-protein OS=Geotrichum candidum OX=1173061 GN=BN980_GECA01s09657g PE=3 SV=1	Geotrichum candidum	601	736	43.6	62.3	3.5e-81
+482	TR	A0A8E2DET2	Serine/threonine-protein OS=Obba rivulosa OX=1052685 GN=OBBRIDRAFT_799262 PE=3 SV=1	Obba rivulosa	928	758	35.7	50.9	3.8e-81
+483	TR	A0AAW0CCB6	Serine/threonine-protein OS=Paramarasmius palmivorus OX=297713 GN=BUR1_1 PE=3 SV=1	Paramarasmius palmivorus	934	758	35.3	48.7	4.1e-81
+484	TR	A0AAN7A012	Serine/threonine-protein OS=Chaetomidium leptoderma OX=669021 GN=C8A00DRAFT_30626 PE=3 SV=1	Chaetomidium leptoderma	742	746	31.9	47.4	4.3e-81
+485	TR	A0A292PJM4	Serine/threonine-protein OS=Tuber aestivum OX=59557 GN=GSTUAT00008074001 PE=3 SV=1	Tuber aestivum	1138	767	34.9	51.0	4.7e-81
+486	TR	A0AAD2K2P0	Serine/threonine-protein OS=Mycena citricolor OX=2018698 GN=MYCIT1_LOCUS23357 PE=3 SV=1	Mycena citricolor	680	741	35.4	49.7	5e-81
+487	TR	A0A316UI47	Serine/threonine-protein OS=Jaminaea rosea OX=1569628 GN=BDZ90DRAFT_234568 PE=3 SV=1	Jaminaea rosea	709	743	34.7	48.8	5.2e-81
+488	TR	A0ABR4NE96	Serine/threonine-protein OS=Polyrhizophydium stewartii OX=2732419 GN=CTK1 PE=3 SV=1	Polyrhizophydium stewartii	403	717	40.2	59.6	5.2e-81
+489	TR	A0ACB8TRZ1	Serine/threonine-protein OS=Irpex rosettiformis OX=378272 GN=BDY19DRAFT_898059 PE=3 SV=1	Irpex rosettiformis	468	723	41.4	59.2	5.5e-81
+490	TR	A0A4S2N7L9	Serine/threonine-protein OS=Ascodesmis nigricans OX=341454 GN=EX30DRAFT_314304 PE=3 SV=1	Ascodesmis nigricans	632	737	39.1	58.2	5.5e-81
+491	TR	A0AAD6ZT88	Serine/threonine-protein OS=Mycena albidolilacea OX=1033008 GN=DFH08DRAFT_706534 PE=3 SV=1	Mycena albidolilacea	661	739	33.7	48.2	5.9e-81
+492	TR	A0ACF6ALJ2	Serine/threonine-protein OS=Lipomyces doorenjongii OX=383834 GN=V1523DRAFT_229051 PE=3 SV=1	Lipomyces doorenjongii	460	722	44.0	60.6	6e-81
+493	TR	A0A2T6ZYM3	Serine/threonine-protein OS=Tuber borchii OX=42251 GN=B9Z19DRAFT_974444 PE=3 SV=1	Tuber borchii	587	733	42.0	59.9	6.2e-81
+494	TR	A0ABN7J0I5	Serine/threonine-protein OS=Tilletia caries OX=13290 GN=JKIAZH3_G5589 PE=3 SV=1	Tilletia caries	922	756	42.1	58.7	6.2e-81
+495	TR	A0A4T0FRM7	Serine/threonine-protein OS=Wallemia hederae OX=1540922 GN=E3P99_01351 PE=3 SV=1	Wallemia hederae	871	753	26.3	44.0	6.4e-81
+496	TR	A0AAD4E675	Serine/threonine-protein OS=Suillus fuscotomentosus OX=1912939 GN=F5891DRAFT_952203 PE=3 SV=1	Suillus fuscotomentosus	678	740	37.3	54.3	6.5e-81
+497	TR	A0A9P7JS88	Serine/threonine-protein OS=Suillus discolor OX=1912936 GN=F5147DRAFT_580059 PE=3 SV=1	Suillus discolor	678	740	37.3	54.3	6.5e-81
+498	TR	A0AAV5A2C3	Serine/threonine-protein OS=Clathrus columnatus OX=1419009 GN=Clacol_001631 PE=3 SV=1	Clathrus columnatus	1388	773	47.1	65.7	6.6e-81
+499	TR	A0A4S8QS81	Serine/threonine-protein OS=Botrytis galanthina OX=278940 GN=BGAL_0365g00030 PE=3 SV=1	Botrytis galanthina	591	733	41.0	56.5	6.8e-81
+500	TR	A7E4H7	Serine/threonine-protein OS=Sclerotinia sclerotiorum (strain ATCC 18683 / 1980 / Ss-1) OX=665079 GN=SS1G_00199 PE=3 SV=1	Sclerotinia sclerotiorum (strain ATCC 18683 / 1980 / Ss-1)	581	732	42.2	58.1	7.2e-81
+501	TR	A0A427YKW9	Serine/threonine-protein OS=Saitozyma podzolica OX=1890683 GN=CTK1 PE=3 SV=1	Saitozyma podzolica	1243	769	45.8	66.6	7.4e-81
+502	TR	A0AAV9UVE8	Serine/threonine-protein OS=Orbilia brochopaga OX=3140254 GN=CTK1 PE=3 SV=1	Orbilia brochopaga	538	728	36.0	50.7	8.1e-81
+503	TR	A0ABR1FBK6	Serine/threonine-protein OS=Myxozyma melibiosi OX=54550 GN=BZA70DRAFT_270783 PE=3 SV=1	Myxozyma melibiosi	504	725	37.6	52.6	8.1e-81
+504	TR	A0ACC2WS06	Serine/threonine-protein OS=Naganishia adeliensis OX=92952 GN=QFC20_001438 PE=3 SV=1	Naganishia adeliensis	471	722	43.1	63.0	8.2e-81
+505	TR	A0A1M2VYV1	Serine/threonine-protein OS=Trametes pubescens OX=154538 GN=TRAPUB_10734 PE=3 SV=1	Trametes pubescens	885	753	35.2	50.9	8.2e-81
+506	TR	G0S7Q5	Serine/threonine-protein OS=Thermochaetoides thermophila (strain DSM 1495 / CBS 144.50 / DAOM 24625 / IMI 039719) OX=759272 GN=CTHT_0028450 PE=3 SV=1	Thermochaetoides thermophila (strain DSM 1495 / CBS 144.50 / DAOM 24625 / IMI 039719)	804	748	33.6	49.7	8.3e-81
+507	TR	A0A5C3MA22	Serine/threonine-protein OS=Crucibulum laeve OX=68775 GN=BDQ12DRAFT_599457 PE=3 SV=1	Crucibulum laeve	689	740	35.5	51.5	8.3e-81
+508	TR	A0A9W8CTH8	Serine/threonine-protein OS=Coemansia erecta OX=147472 GN=BUR1 PE=3 SV=1	Coemansia erecta	473	722	39.4	59.8	8.6e-81
+509	TR	A0A1B9I097	Serine/threonine-protein OS=Kwoniella pini CBS 10737 OX=1296096 GN=I206_105824 PE=3 SV=1	Kwoniella pini CBS 10737	1309	770	46.4	67.2	9.4e-81
+510	TR	A0A9N8LY10	Serine/threonine-protein OS=Tilletia laevis OX=157183 GN=JKILLFL_G4328 PE=3 SV=1	Tilletia laevis	948	756	42.1	58.7	9.5e-81
+511	TR	A0AAF0J588	Serine/threonine-protein OS=Malassezia cuniculi OX=948313 GN=CTK1 PE=3 SV=1	Malassezia cuniculi	332	708	43.3	61.4	9.5e-81
+512	TR	A0A9P5IVQ7	Serine/threonine-protein OS=Botrytis byssoidea OX=139641 GN=EAE97_000625 PE=3 SV=1	Botrytis byssoidea	580	731	41.0	56.2	9.6e-81
+513	TR	A0A8H5F0C1	Serine/threonine-protein OS=Psilocybe cf. subviscida OX=2480587 GN=D9619_010842 PE=3 SV=1	Psilocybe cf. subviscida	1131	764	34.7	50.5	1e-80
+514	TR	A0A4Z1ITE4	Serine/threonine-protein OS=Botryotinia narcissicola OX=278944 GN=BOTNAR_0094g00110 PE=3 SV=1	Botryotinia narcissicola	584	731	41.0	56.2	1.1e-80
+515	TR	A0ACB8T7Z4	Serine/threonine-protein OS=Artomyces pyxidatus OX=48021 GN=BV25DRAFT_1929451 PE=3 SV=1	Artomyces pyxidatus	956	756	29.4	44.1	1.1e-80
+516	TR	A0A4Z1GVB9	Serine/threonine-protein OS=Botrytis hyacinthi OX=278943 GN=BHYA_0100g00270 PE=3 SV=1	Botrytis hyacinthi	585	731	41.0	56.2	1.1e-80
+517	TR	L8X8R6	Serine/threonine-protein OS=Thanatephorus cucumeris (strain AG1-IA) OX=983506 GN=AG1IA_00507 PE=3 SV=1	Thanatephorus cucumeris (strain AG1-IA)	1042	760	29.2	44.1	1.1e-80
+518	TR	A0A9P7E9J4	Serine/threonine-protein OS=Suillus subaureus OX=48587 GN=BJ212DRAFT_1273625 PE=3 SV=1	Suillus subaureus	677	738	37.2	54.6	1.2e-80
+519	TR	A0A9W8CVZ3	Serine/threonine-protein OS=Coemansia biformis OX=1286918 GN=LSK1 PE=3 SV=1	Coemansia biformis	749	743	35.9	50.4	1.2e-80
+520	TR	A0A4Z1E8S5	Serine/threonine-protein OS=Botrytis tulipae OX=87230 GN=BTUL_0371g00010 PE=3 SV=1	Botrytis tulipae	591	731	41.0	56.2	1.3e-80
+521	TR	A0A1X6N520	Serine/threonine-protein OS=Postia placenta MAD-698-R-SB12 OX=670580 GN=POSPLADRAFT_1180575 PE=3 SV=1	Postia placenta MAD-698-R-SB12	489	722	40.3	57.9	1.4e-80
+522	TR	A0A5C2S0U2	Serine/threonine-protein OS=Lentinus tigrinus ALCF2SS1-6 OX=1328759 GN=L227DRAFT_552800 PE=3 SV=1	Lentinus tigrinus ALCF2SS1-6	864	750	32.6	47.8	1.4e-80
+523	TR	A0A1E4RT71	Serine/threonine-protein (Fragment) OS=Hyphopichia burtonii NRRL Y-1933 OX=984485 GN=HYPBUDRAFT_97324 PE=3 SV=1	Hyphopichia burtonii NRRL Y-1933	526	725	36.7	50.1	1.5e-80
+524	TR	A0A1E3QHB1	Serine/threonine-protein OS=Lipomyces starkeyi NRRL Y-11557 OX=675824 GN=LIPSTDRAFT_411 PE=3 SV=1	Lipomyces starkeyi NRRL Y-11557	461	719	44.0	60.3	1.6e-80
+525	TR	A0A409XCN2	Serine/threonine-protein OS=Psilocybe cyanescens OX=93625 GN=CVT25_009912 PE=3 SV=1	Psilocybe cyanescens	1115	762	34.6	48.6	1.6e-80
+526	TR	A0ACF7NAD6	Serine/threonine-protein OS=Pleurotus pulmonarius OX=28995 GN=AB1N83_001361 PE=3 SV=1	Pleurotus pulmonarius	692	738	33.4	48.6	1.6e-80
+527	TR	A0A367XYB6	Serine/threonine-protein OS=Candida viswanathii OX=5486 GN=CTK1_1 PE=3 SV=1	Candida viswanathii	532	725	35.3	50.7	1.7e-80
+528	TR	A0A384JCK3	Serine/threonine-protein OS=Botrytis cinerea (strain B05.10) OX=332648 GN=Bcsgv1 PE=3 SV=1	Botrytis cinerea (strain B05.10)	585	729	41.0	56.2	2e-80
+529	TR	A0A9P3L9G5	Serine/threonine-protein OS=Phanerochaete sordida OX=48140 GN=PsYK624_025790 PE=3 SV=1	Phanerochaete sordida	471	719	42.1	58.4	2.1e-80
+530	TR	A0A9W8LBM3	Serine/threonine-protein OS=Coemansia pectinata OX=1052879 GN=BUR1 PE=3 SV=1	Coemansia pectinata	574	728	39.5	58.4	2.1e-80
+531	TR	A0A9P8ADB5	Serine/threonine-protein OS=Marasmius oreades OX=181124 GN=E1B28_004936 PE=3 SV=1	Marasmius oreades	941	753	33.9	49.7	2.1e-80
+532	TR	R4XBA1	Serine/threonine-protein OS=Taphrina deformans (strain PYCC 5710 / ATCC 11124 / CBS 356.35 / IMI 108563 / JCM 9778 / NBRC 8474) OX=1097556 GN=TAPDE_003252 PE=3 SV=1	Taphrina deformans (strain PYCC 5710 / ATCC 11124 / CBS 356.35 / IMI 108563 / JCM 9778 / NBRC 8474)	563	727	37.7	56.7	2.1e-80
+533	TR	A0A9W7ZV24	Serine/threonine-protein OS=Mycoemilia scoparia OX=417184 GN=BUR1 PE=3 SV=1	Mycoemilia scoparia	663	735	44.0	61.4	2.1e-80
+534	TR	A0A9N9AY58	Serine/threonine-protein OS=Ambispora leptoticha OX=144679 GN=ALEPTO_LOCUS5785 PE=3 SV=1	Ambispora leptoticha	541	725	39.8	56.9	2.2e-80
+535	TR	A0A9P5NWY0	Serine/threonine-protein OS=Gymnopilus junonius OX=109634 GN=CPB84DRAFT_360810 PE=3 SV=1	Gymnopilus junonius	665	735	35.8	50.6	2.2e-80
+536	TR	A0A395HNJ1	Serine/threonine-protein OS=Aspergillus homomorphus (strain CBS 101889) OX=1450537 GN=BO97DRAFT_186418 PE=3 SV=1	Aspergillus homomorphus (strain CBS 101889)	1097	760	28.0	43.4	2.3e-80
+537	TR	A0A4Z1GAJ6	Serine/threonine-protein OS=Botrytis paeoniae OX=278948 GN=BPAE_0002g01400 PE=3 SV=1	Botrytis paeoniae	591	729	41.0	56.2	2.3e-80
+538	TR	A0A1D2VRB5	Serine/threonine-protein OS=Ascoidea rubescens DSM 1968 OX=1344418 GN=ASCRUDRAFT_30568 PE=3 SV=1	Ascoidea rubescens DSM 1968	391	711	43.4	61.7	2.4e-80
+539	TR	A0A9W8JID6	Serine/threonine-protein (Fragment) OS=Candolleomyces eurysporus OX=2828524 GN=H1R20_g813 PE=3 SV=1	Candolleomyces eurysporus	402	712	41.4	58.4	2.4e-80
+540	TR	A0ABP1DLJ7	Serine/threonine-protein OS=Somion occarium OX=3059160 GN=GFSPODELE1_LOCUS7001 PE=3 SV=1	Somion occarium	914	751	36.0	52.1	2.4e-80
+541	TR	A0A0D2K649	Serine/threonine-protein OS=Fonsecaea multimorphosa CBS 102226 OX=1442371 GN=Z520_05970 PE=3 SV=1	Fonsecaea multimorphosa CBS 102226	770	742	37.6	54.6	2.6e-80
+542	TR	A0A8H6TM41	Serine/threonine-protein OS=Mycena chlorophos OX=658473 GN=HMN09_00327300 PE=3 SV=1	Mycena chlorophos	688	736	36.0	53.9	2.8e-80
+543	TR	C5MA94	Serine/threonine-protein OS=Candida tropicalis (strain ATCC MYA-3404 / T1) OX=294747 GN=CTRG_02406 PE=3 SV=1	Candida tropicalis (strain ATCC MYA-3404 / T1)	527	723	44.4	62.9	2.8e-80
+544	TR	A0A5M6BX67	Serine/threonine-protein OS=Kwoniella shandongensis OX=1734106 GN=CI109_103945 PE=3 SV=1	Kwoniella shandongensis	1205	763	45.3	66.3	3e-80
+545	TR	S8DSG2	Serine/threonine-protein OS=Fomitopsis schrenkii OX=2126942 GN=FOMPIDRAFT_1038443 PE=3 SV=1	Fomitopsis schrenkii	894	749	36.7	55.7	3.2e-80
+546	TR	A0A1J8QFK0	Serine/threonine-protein OS=Rhizopogon vesiculosus OX=180088 GN=AZE42_09059 PE=3 SV=1	Rhizopogon vesiculosus	949	752	37.2	52.6	3.2e-80
+547	TR	A0A4Z1JZ56	Serine/threonine-protein OS=Botrytis elliptica OX=278938 GN=BELL_0053g00030 PE=3 SV=1	Botrytis elliptica	591	728	41.0	56.2	3.2e-80
+548	TR	A0ABQ7IDZ2	Serine/threonine-protein OS=Botrytis deweyae OX=2478750 GN=EAE98_008728 PE=3 SV=1	Botrytis deweyae	591	728	41.0	56.2	3.2e-80
+549	TR	A0A9P8F6D8	Serine/threonine-protein (Fragment) OS=Aureobasidium melanogenum OX=46634 GN=KCU98_g19427 PE=3 SV=1	Aureobasidium melanogenum	445	715	36.3	55.2	3.4e-80
+550	TR	A0ABQ0LXM7	Serine/threonine-protein OS=Mycena chlorophos OX=658473 GN=MCHLO_12570 PE=3 SV=1	Mycena chlorophos	685	735	36.5	53.5	3.5e-80
+551	TR	A0A9W4SI20	Serine/threonine-protein OS=Funneliformis geosporum OX=1117311 GN=FWILDA_LOCUS4469 PE=3 SV=1	Funneliformis geosporum	699	736	44.5	63.5	3.5e-80
+552	TR	A0A9W8M672	Serine/threonine-protein OS=Coemansia aciculifera OX=417176 GN=BUR1 PE=3 SV=1	Coemansia aciculifera	571	726	39.0	58.4	3.5e-80
+553	TR	A0A4Y8DF42	Serine/threonine-protein OS=Botryotinia calthae OX=38488 GN=BOTCAL_0037g00210 PE=3 SV=1	Botryotinia calthae	585	727	40.8	56.2	3.7e-80
+554	TR	A0A1B9J019	Serine/threonine-protein OS=Kwoniella mangroviensis CBS 10435 OX=1331196 GN=L486_00770 PE=3 SV=1	Kwoniella mangroviensis CBS 10435	1270	764	45.3	67.2	3.9e-80
+555	TR	A0ABN8VG63	Serine/threonine-protein OS=Saccharomyces eubayanus OX=1080349 GN=U6500K00900 PE=3 SV=1	Saccharomyces eubayanus	529	722	43.8	60.7	4e-80
+556	TR	A0A6C1EBR3	Serine/threonine-protein OS=Saccharomyces pastorianus OX=27292 GN=CTK1_2 PE=3 SV=1	Saccharomyces pastorianus	529	722	43.8	60.7	4e-80
+557	TR	A0AA39JPP9	Serine/threonine-protein OS=Armillaria borealis OX=47425 GN=EV421DRAFT_1798450 PE=3 SV=1	Armillaria borealis	874	747	33.2	50.8	4.1e-80
+558	TR	A0A284RVZ0	Serine/threonine-protein OS=Armillaria ostoyae OX=47428 GN=ARMOST_16349 PE=3 SV=1	Armillaria ostoyae	874	747	33.2	50.8	4.1e-80
+559	TR	A0ACF7LYX5	Serine/threonine-protein OS=Abortiporus biennis OX=137743 GN=ABKN59_005793 PE=3 SV=1	Abortiporus biennis	894	748	35.9	51.8	4.3e-80
+560	TR	A0A3N4LV10	Serine/threonine-protein OS=Terfezia boudieri ATCC MYA-4762 OX=1051890 GN=L211DRAFT_783739 PE=3 SV=1	Terfezia boudieri ATCC MYA-4762	603	728	41.0	61.1	4.3e-80
+561	TR	A0A0D2AUK4	Serine/threonine-protein OS=Exophiala spinifera OX=91928 GN=PV08_11146 PE=3 SV=1	Exophiala spinifera	655	732	41.6	58.7	4.4e-80
+562	TR	A0A9W8U0X3	Serine/threonine-protein OS=Lentinula detonsa OX=2804962 GN=DFH05DRAFT_1603250 PE=3 SV=1	Lentinula detonsa	971	752	28.7	44.3	4.5e-80
+563	TR	A0A8X7MP42	Serine/threonine-protein OS=Tilletia controversa OX=13291 GN=A4X06_0g6281 PE=3 SV=1	Tilletia controversa	1066	756	42.1	58.7	5.1e-80
+564	TR	A0ACB8BK19	Serine/threonine-protein (Fragment) OS=Leucogyrophana mollusca OX=85980 GN=BV22DRAFT_986380 PE=3 SV=1	Leucogyrophana mollusca	338	703	42.9	60.7	5.5e-80
+565	TR	A0A9W8GFT8	Serine/threonine-protein OS=Coemansia spiralis OX=417178 GN=BUR1 PE=3 SV=1	Coemansia spiralis	578	725	37.6	54.8	5.8e-80
+566	TR	A0ACC2RVB2	Serine/threonine-protein OS=Entomophthora muscae OX=34485 GN=CTK1_2 PE=3 SV=1	Entomophthora muscae	603	727	35.5	50.1	5.8e-80
+567	TR	A0AAD6XMV8	Serine/threonine-protein OS=Mycena belliarum OX=1033014 GN=B0H15DRAFT_805822 PE=3 SV=1	Mycena belliarum	629	729	38.4	56.1	6e-80
+568	TR	A0A1G4JI60	Serine/threonine-protein OS=Lachancea nothofagi CBS 11611 OX=1266666 GN=LANO_0D07602G PE=3 SV=1	Lachancea nothofagi CBS 11611	454	714	43.3	62.5	6e-80
+569	TR	A0ABN8WJP0	Serine/threonine-protein OS=Saccharomyces uvarum OX=230603 GN=SUVZ11G0800 PE=3 SV=1	Saccharomyces uvarum	533	721	43.8	60.4	6.1e-80
+570	TR	A0A3N4KZT6	Serine/threonine-protein OS=Morchella conica CCBAS932 OX=1392247 GN=P167DRAFT_481611 PE=3 SV=1	Morchella conica CCBAS932	593	726	43.2	59.4	6.2e-80
+571	TR	A0A9W8HB99	Serine/threonine-protein OS=Coemansia javaensis OX=2761396 GN=CTK1 PE=3 SV=1	Coemansia javaensis	671	732	37.2	53.7	6.4e-80
+572	TR	A0ABY8EV49	Serine/threonine-protein OS=Malassezia furfur OX=55194 GN=CTK1 PE=3 SV=1	Malassezia furfur	468	715	41.1	58.1	6.5e-80
+573	TR	A0A1Y1XYQ1	Serine/threonine-protein OS=Basidiobolus meristosporus CBS 931.73 OX=1314790 GN=K493DRAFT_265687 PE=3 SV=1	Basidiobolus meristosporus CBS 931.73	470	715	39.5	56.1	6.9e-80
+574	TR	A0A8H3YCU3	Serine/threonine-protein OS=Naganishia liquefaciens OX=104408 GN=NliqN6_1102 PE=3 SV=1	Naganishia liquefaciens	552	722	43.4	63.0	7.4e-80
+575	TR	A0A5N5X5L1	Serine/threonine-protein OS=Aspergillus leporis OX=41062 GN=BDV29DRAFT_189780 PE=3 SV=1	Aspergillus leporis	1081	755	28.1	43.1	8.2e-80
+576	TR	A0A4Q9Q377	Serine/threonine-protein OS=Dichomitus squalens OX=114155 GN=BD310DRAFT_921333 PE=3 SV=1	Dichomitus squalens	606	726	38.1	54.5	8.6e-80
+577	TR	G7DWI4	Serine/threonine-protein OS=Mixia osmundae (strain CBS 9802 / IAM 14324 / JCM 22182 / KY 12970) OX=764103 GN=Mo01599 PE=3 SV=1	Mixia osmundae (strain CBS 9802 / IAM 14324 / JCM 22182 / KY 12970)	832	742	28.0	42.9	8.7e-80
+578	TR	A0A1F5LVT4	Serine/threonine-protein OS=Penicillium arizonense OX=1835702 GN=PENARI_c002G05926 PE=3 SV=1	Penicillium arizonense	698	733	34.9	52.4	8.7e-80
+579	TR	A0A015IGH7	Serine/threonine-protein OS=Rhizophagus irregularis (strain DAOM 197198w) OX=1432141 GN=RirG_217640 PE=3 SV=1	Rhizophagus irregularis (strain DAOM 197198w)	757	737	36.0	53.6	9.1e-80
+580	TR	A0A4Z1IEL5	Serine/threonine-protein OS=Botryotinia convoluta OX=54673 GN=BCON_0038g00350 PE=3 SV=1	Botryotinia convoluta	584	724	40.8	56.2	9.1e-80
+581	TR	A0AAF0J8F0	Serine/threonine-protein OS=Malassezia japonica OX=223818 GN=CTK1 PE=3 SV=1	Malassezia japonica	550	721	39.9	56.1	9.6e-80
+582	TR	A0A4Z1KWR7	Serine/threonine-protein OS=Botrytis porri OX=87229 GN=BPOR_0130g00210 PE=3 SV=1	Botrytis porri	586	724	40.8	55.7	9.6e-80
+583	TR	A0ACF6B1P8	Serine/threonine-protein OS=Lipomyces kononenkoae OX=34357 GN=V1509DRAFT_655243 PE=3 SV=1	Lipomyces kononenkoae	461	713	38.2	53.3	9.9e-80
+584	TR	A0A9P7GAK9	Serine/threonine-protein OS=Asterophora parasitica OX=117018 GN=DXG03_009751 PE=3 SV=1	Asterophora parasitica	552	721	38.8	57.6	1e-79
+585	TR	A0ACE4JTZ5	Serine/threonine-protein OS=Histoplasma mississippiense OX=2059318 GN=HCAG_00490 PE=3 SV=1	Histoplasma mississippiense	378	705	41.2	61.5	1e-79
+586	TR	A0ACC3TMY0	Serine/threonine-protein OS=Lipomyces orientalis OX=1233043 GN=V1517DRAFT_352926 PE=3 SV=1	Lipomyces orientalis	300	697	46.2	64.9	1e-79
+587	TR	A0A1K0GCB7	Serine/threonine-protein OS=Ustilago bromivora OX=307758 GN=UBRO2_01561 PE=3 SV=1	Ustilago bromivora	973	749	41.5	62.1	1.1e-79
+588	TR	A0AAF0E1U0	Serine/threonine-protein OS=Malassezia obtusa OX=76774 GN=CTK1 PE=3 SV=1	Malassezia obtusa	499	716	37.1	53.4	1.1e-79
+589	TR	A0A2Z6RH18	Serine/threonine-protein OS=Rhizophagus clarus OX=94130 GN=RclHR1_04400019 PE=3 SV=1	Rhizophagus clarus	548	720	37.1	56.2	1.2e-79
+590	TR	A0A015LNA4	Serine/threonine-protein OS=Rhizophagus irregularis (strain DAOM 197198w) OX=1432141 GN=RirG_217640 PE=3 SV=1	Rhizophagus irregularis (strain DAOM 197198w)	758	736	36.0	53.6	1.3e-79
+591	TR	A0A238FRG8	Serine/threonine-protein OS=Microbotryum intermedium OX=269621 GN=BQ2448_6126 PE=3 SV=1	Microbotryum intermedium	1002	750	44.8	64.9	1.3e-79
+592	TR	A0AAD4GTD5	Serine/threonine-protein OS=Aspergillus nanangensis OX=2582783 GN=CTK1 PE=3 SV=1	Aspergillus nanangensis	716	733	39.4	58.2	1.3e-79
+593	TR	A0AA38XP00	Serine/threonine-protein OS=Cladophialophora chaetospira OX=386627 GN=LSK1 PE=3 SV=1	Cladophialophora chaetospira	1094	754	35.6	50.9	1.3e-79
+594	TR	A0AAV9XJF5	Serine/threonine-protein OS=Orbilia ellipsospora OX=2528407 GN=BUR1 PE=3 SV=1	Orbilia ellipsospora	552	720	39.3	55.1	1.4e-79
+595	TR	A0A8H7RQY4	Serine/threonine-protein OS=Circinella minor OX=1195481 GN=INT45_010723 PE=3 SV=1	Circinella minor	388	705	44.0	60.9	1.4e-79
+596	TR	A0A9P5MVV0	Serine/threonine-protein OS=Russula ochroleuca OX=152965 GN=DFH94DRAFT_740733 PE=3 SV=1	Russula ochroleuca	910	745	28.9	43.4	1.4e-79
+597	TR	A0A2G8S1W6	Serine/threonine-protein OS=Ganoderma sinense ZZ0214-1 OX=1077348 GN=GSI_10880 PE=3 SV=1	Ganoderma sinense ZZ0214-1	876	743	31.8	46.6	1.4e-79
+598	TR	F4NXZ1	Serine/threonine-protein (Fragment) OS=Batrachochytrium dendrobatidis (strain JAM81 / FGSC 10211) OX=684364 GN=BATDEDRAFT_10265 PE=3 SV=1	Batrachochytrium dendrobatidis (strain JAM81 / FGSC 10211)	349	701	43.7	62.4	1.4e-79
+599	TR	A0A9P7VTW2	Serine/threonine-protein OS=Guyanagaster necrorhizus OX=856835 GN=BT62DRAFT_893479 PE=3 SV=1	Guyanagaster necrorhizus	498	715	37.5	56.1	1.5e-79
+600	TR	A0AAD5YK47	Serine/threonine-protein OS=Meripilus lineatus OX=2056292 GN=NLI96_g4212 PE=3 SV=1	Meripilus lineatus	901	744	35.7	51.6	1.6e-79
+601	TR	A0A1Y2FCE6	Serine/threonine-protein OS=Protomyces lactucae-debilis OX=2754530 GN=BCR37DRAFT_380497 PE=3 SV=1	Protomyces lactucae-debilis	559	720	44.1	62.0	1.6e-79
+602	TR	A0ACF4ZAR1	Serine/threonine-protein OS=Scheffersomyces amazonensis OX=1078765 GN=RJT21DRAFT_121249 PE=3 SV=1	Scheffersomyces amazonensis	525	717	39.3	56.2	1.7e-79
+603	TR	A0A0D2G605	Serine/threonine-protein OS=Rhinocladiella mackenziei (strain CBS 650.93) OX=1442369 GN=Z518_01454 PE=3 SV=1	Rhinocladiella mackenziei (strain CBS 650.93)	674	729	41.1	57.3	1.7e-79
+604	TR	A0A8H7T0F8	Serine/threonine-protein OS=Thamnidium elegans OX=101142 GN=INT48_004484 PE=3 SV=1	Thamnidium elegans	345	700	45.7	65.7	1.7e-79
+605	TR	A0ACA9LXP1	Serine/threonine-protein OS=Racocetra persica OX=160502 GN=RPERSI_LOCUS3841 PE=3 SV=1	Racocetra persica	774	736	39.0	57.9	1.7e-79
+606	TR	A0A8X7ND16	Serine/threonine-protein OS=Tilletia walkeri OX=117179 GN=A4X09_0g646 PE=3 SV=1	Tilletia walkeri	1279	759	43.2	61.1	1.8e-79
+607	TR	A0ACC1KAK1	Serine/threonine-protein OS=Coemansia linderi OX=2663919 GN=BUR1 PE=3 SV=1	Coemansia linderi	577	721	38.5	56.3	1.9e-79
+608	TR	A0A401H3S0	Serine/threonine-protein OS=Sparassis crispa OX=139825 GN=SCP_1500880 PE=3 SV=1	Sparassis crispa	896	743	28.5	43.0	2e-79
+609	TR	A0AAN8RKW6	Serine/threonine-protein OS=Orbilia javanica OX=47235 GN=BUR1 PE=3 SV=1	Orbilia javanica	543	718	39.0	54.9	2e-79
+610	TR	A0A081CNQ7	Serine/threonine-protein OS=Moesziomyces antarcticus OX=84753 GN=PAN0_064d6547 PE=3 SV=1	Moesziomyces antarcticus	737	733	33.8	51.5	2e-79
+611	TR	A0ACB8AQ58	Serine/threonine-protein OS=Hygrophoropsis aurantiaca OX=72124 GN=BJ138DRAFT_998736 PE=3 SV=1	Hygrophoropsis aurantiaca	555	719	36.9	52.6	2e-79
+612	TR	A0AA40F6D0	Serine/threonine-protein OS=Schizothecium vesticola OX=314040 GN=B0T18DRAFT_320097 PE=3 SV=1	Schizothecium vesticola	580	721	34.1	52.2	2.1e-79
+613	TR	A0A9X0DI98	Serine/threonine-protein OS=Sclerotinia nivalis OX=352851 GN=OCU04_006848 PE=3 SV=1	Sclerotinia nivalis	582	721	41.6	57.6	2.2e-79
+614	TR	A0A5C3NIW3	Serine/threonine-protein OS=Heliocybe sulcata OX=5364 GN=OE88DRAFT_1651005 PE=3 SV=1	Heliocybe sulcata	435	708	40.2	56.8	2.2e-79
+615	TR	I2FT31	Serine/threonine-protein OS=Ustilago hordei OX=120017 GN=UHOR_07035 PE=3 SV=1	Ustilago hordei	1000	748	40.1	59.6	2.2e-79
+616	TR	A0A0D7AWF4	Serine/threonine-protein OS=Cylindrobasidium torrendii FP15055 ss-10 OX=1314674 GN=CYLTODRAFT_362585 PE=3 SV=1	Cylindrobasidium torrendii FP15055 ss-10	525	716	39.4	57.4	2.3e-79
+617	TR	A0A1L9VGY8	Serine/threonine-protein OS=Aspergillus glaucus CBS 516.65 OX=1160497 GN=ASPGLDRAFT_36639 PE=3 SV=1	Aspergillus glaucus CBS 516.65	574	720	38.1	57.1	2.4e-79
+618	TR	A0ACD1GGH6	Serine/threonine-protein OS=Aspergillus brunneoviolaceus CBS 621.78 OX=1450534 GN=BO95DRAFT_450997 PE=3 SV=1	Aspergillus brunneoviolaceus CBS 621.78	387	703	43.7	63.5	2.5e-79
+619	TR	A0A2H3DZU4	Serine/threonine-protein OS=Armillaria gallica OX=47427 GN=ARMGADRAFT_926988 PE=3 SV=1	Armillaria gallica	494	713	37.5	57.3	2.5e-79
+620	TR	A0ACF6CZ18	Serine/threonine-protein OS=Lipomyces mesembrius OX=56874 GN=V1515DRAFT_614220 PE=3 SV=1	Lipomyces mesembrius	461	710	43.3	60.1	2.5e-79
+621	TR	A0AAX4HBQ5	Serine/threonine-protein OS=Australozyma saopauloensis OX=291208 GN=PUMCH_003089 PE=3 SV=1	Australozyma saopauloensis	665	727	34.5	50.3	2.6e-79
+622	TR	A0A4U7KMR2	Serine/threonine-protein OS=Sporisorium graminicola OX=280036 GN=EX895_005743 PE=3 SV=1	Sporisorium graminicola	931	744	37.8	54.6	2.6e-79
+623	TR	A0A165BB03	Serine/threonine-protein OS=Laetiporus sulphureus 93-53 OX=1314785 GN=LAESUDRAFT_665625 PE=3 SV=1	Laetiporus sulphureus 93-53	543	717	37.2	55.0	2.7e-79
+624	TR	A0A066WQA9	Serine/threonine-protein OS=Tilletiaria anomala (strain ATCC 24038 / CBS 436.72 / UBC 951) OX=1037660 GN=K437DRAFT_219324 PE=3 SV=1	Tilletiaria anomala (strain ATCC 24038 / CBS 436.72 / UBC 951)	476	711	40.8	57.7	2.8e-79
+625	TR	A0A178ZPD1	Serine/threonine-protein OS=Fonsecaea erecta OX=1367422 GN=AYL99_03872 PE=3 SV=1	Fonsecaea erecta	657	726	38.1	55.7	2.9e-79
+626	TR	A0A507D5L3	Serine/threonine-protein OS=Synchytrium endobioticum OX=286115 GN=SeMB42_g03637 PE=3 SV=1	Synchytrium endobioticum	760	733	33.9	48.1	3.2e-79
+627	TR	A0A6A6W348	Serine/threonine-protein (Fragment) OS=Pseudovirgaria hyperparasitica OX=470096 GN=EJ05DRAFT_441559 PE=3 SV=1	Pseudovirgaria hyperparasitica	357	699	40.7	56.9	3.4e-79
+628	TR	A0AAF0Y2T2	Serine/threonine-protein OS=Vanrija pseudolonga OX=143232 GN=lsk1 PE=3 SV=1	Vanrija pseudolonga	1156	753	38.6	56.8	3.4e-79
+629	TR	K5V1V8	Serine/threonine-protein OS=Phanerochaete carnosa (strain HHB-10118-sp) OX=650164 GN=PHACADRAFT_141194 PE=3 SV=1	Phanerochaete carnosa (strain HHB-10118-sp)	483	711	41.5	59.3	3.4e-79
+630	TR	A0ACC1M4U7	Serine/threonine-protein OS=Coemansia aciculifera OX=417176 GN=BUR1 PE=3 SV=1	Coemansia aciculifera	506	713	39.7	58.9	3.5e-79
+631	TR	A0ABR0JNM9	Serine/threonine-protein OS=Exophiala sideris OX=1016849 GN=LSK1 PE=3 SV=1	Exophiala sideris	750	732	32.4	48.7	3.6e-79
+632	TR	W3VUU7	Serine/threonine-protein OS=Moesziomyces aphidis OX=84754 GN=PaG_00035 PE=3 SV=1	Moesziomyces aphidis	754	732	42.3	62.4	3.9e-79
+633	TR	A0A9P6R9J5	Serine/threonine-protein OS=Dissophora globulifera OX=979702 GN=BUR1 PE=3 SV=1	Dissophora globulifera	402	703	39.9	57.9	3.9e-79
+634	TR	A0ABR2VXQ8	Serine/threonine-protein OS=Basidiobolus ranarum OX=34480 GN=BUR1_1 PE=3 SV=1	Basidiobolus ranarum	363	699	46.9	62.5	4.1e-79
+635	TR	A0A5J5ESB1	Serine/threonine-protein OS=Sphaerosporella brunnea OX=1250544 GN=FN846DRAFT_781124 PE=3 SV=1	Sphaerosporella brunnea	583	719	39.4	60.8	4.1e-79
+636	TR	A0A8G1W4N0	Serine/threonine-protein OS=Aspergillus fijiensis CBS 313.89 OX=1448319 GN=BO72DRAFT_493289 PE=3 SV=1	Aspergillus fijiensis CBS 313.89	559	717	40.7	60.1	4.2e-79
+637	TR	A0ACF6BN06	Serine/threonine-protein OS=Lipomyces chichibuensis OX=1546026 GN=V1513DRAFT_472668 PE=3 SV=1	Lipomyces chichibuensis	461	708	43.4	59.8	4.7e-79
+638	TR	A0A0D2J250	Serine/threonine-protein OS=Rhinocladiella mackenziei (strain CBS 650.93) OX=1442369 GN=Z518_00872 PE=3 SV=1	Rhinocladiella mackenziei (strain CBS 650.93)	1012	746	34.9	50.9	4.8e-79
+639	TR	A0AAN9UKA8	Serine/threonine-protein OS=Cytospora paraplurivora OX=2898453 GN=LSK1_2 PE=3 SV=1	Cytospora paraplurivora	410	703	40.0	58.7	5e-79
+640	TR	A0ACF7FK71	Serine/threonine-protein OS=Scleroderma citrinum OX=68788 GN=J3A83DRAFT_4229535 PE=3 SV=1	Scleroderma citrinum	917	741	35.2	50.8	5.1e-79
+641	TR	A0ACB7FPN8	Serine/threonine-protein (Fragment) OS=Candida africana OX=241526 GN=BUR1 PE=3 SV=1	Candida africana	581	718	36.8	52.7	5.4e-79
+642	TR	A0A3N4K1T9	Serine/threonine-protein OS=Choiromyces venosus 120613-1 OX=1336337 GN=L873DRAFT_1786916 PE=3 SV=1	Choiromyces venosus 120613-1	1120	750	39.7	57.7	5.6e-79
+643	TR	A0AAW0YP74	Serine/threonine-protein OS=Kwoniella newhampshirensis OX=1651941 GN=IAR55_003774 PE=3 SV=1	Kwoniella newhampshirensis	1214	753	44.7	65.7	6e-79
+644	TR	A0A1Y2EZ88	Serine/threonine-protein OS=Leucosporidium creatinivorum OX=106004 GN=BCR35DRAFT_267296 PE=3 SV=1	Leucosporidium creatinivorum	427	704	42.5	64.2	6e-79
+645	TR	R9P3U0	Serine/threonine-protein OS=Pseudozyma hubeiensis (strain SY62) OX=1305764 GN=PHSY_003537 PE=3 SV=1	Pseudozyma hubeiensis (strain SY62)	873	738	44.0	65.1	6e-79
+646	TR	A0A1Y1WN77	Serine/threonine-protein OS=Linderina pennispora OX=61395 GN=DL89DRAFT_264614 PE=3 SV=1	Linderina pennispora	538	714	37.4	54.6	6e-79
+647	TR	A0A9P7ATT3	Serine/threonine-protein OS=Suillus plorans OX=116603 GN=HD556DRAFT_1364716 PE=3 SV=1	Suillus plorans	947	742	36.6	52.8	6.1e-79
+648	TR	A0AA39PAU7	Serine/threonine-protein OS=Armillaria novae-zelandiae OX=153914 GN=IW261DRAFT_1335407 PE=3 SV=1	Armillaria novae-zelandiae	494	710	37.5	57.1	6.3e-79
+649	TR	A0A8H7W3D9	Serine/threonine-protein OS=Cadophora malorum OX=108018 GN=IFR04_013207 PE=3 SV=1	Cadophora malorum	1159	751	33.1	51.5	6.3e-79
+650	TR	A0ACA9Y9H0	Serine/threonine-protein OS=[Candida] jaroonii OX=467808 GN=CLIB1444_07S00496 PE=3 SV=1	[Candida] jaroonii	588	718	40.2	56.6	6.4e-79
+651	TR	A0AAD6CEK4	Serine/threonine-protein OS=Penicillium daleae OX=63821 GN=N7458_003016 PE=3 SV=1	Penicillium daleae	707	727	36.4	56.7	6.6e-79
+652	TR	A0ACF7F4N7	Serine/threonine-protein OS=Scleroderma yunnanense OX=1163567 GN=V8B97DRAFT_1973704 PE=3 SV=1	Scleroderma yunnanense	915	740	35.4	51.2	6.7e-79
+653	TR	A0AA39JR89	Serine/threonine-protein OS=Armillaria tabescens OX=1929756 GN=EV420DRAFT_1276886 PE=3 SV=1	Armillaria tabescens	497	710	37.5	56.6	6.9e-79
+654	TR	A0A0C3FP72	Serine/threonine-protein OS=Piloderma croceum (strain F 1598) OX=765440 GN=PILCRDRAFT_776743 PE=3 SV=1	Piloderma croceum (strain F 1598)	520	712	37.2	53.8	6.9e-79
+655	TR	A0AAD6I5W6	Serine/threonine-protein OS=Penicillium canescens OX=5083 GN=N7460_008586 PE=3 SV=1	Penicillium canescens	1067	747	33.8	50.8	7.3e-79
+656	TR	A0AAV9V361	Serine/threonine-protein OS=Orbilia blumenaviensis OX=1796055 GN=BUR1 PE=3 SV=1	Orbilia blumenaviensis	547	714	41.4	57.5	7.7e-79
+657	TR	A0A4S4KVW0	Serine/threonine-protein OS=Phellinidium pouzarii OX=167371 GN=EW145_g6661 PE=3 SV=1	Phellinidium pouzarii	870	737	28.8	44.1	7.7e-79
+658	TR	A0AA48I2C1	Serine/threonine-protein OS=Cutaneotrichosporon cavernicola OX=279322 GN=CTK1 PE=3 SV=1	Cutaneotrichosporon cavernicola	963	742	28.5	44.5	7.8e-79
+659	TR	A0A177TXS8	Serine/threonine-protein OS=Tilletia indica OX=43049 GN=A4X13_0g3182 PE=3 SV=1	Tilletia indica	1283	754	42.9	60.9	7.8e-79
+660	TR	A0A436ZWZ8	Serine/threonine-protein OS=Arthrobotrys flagrans OX=97331 GN=DFL_007753 PE=3 SV=1	Arthrobotrys flagrans	548	714	38.5	54.1	7.9e-79
+661	TR	J5PFX6	Serine/threonine-protein OS=Saccharomyces kudriavzevii (strain ATCC MYA-4449 / AS 2.2408 / CBS 8840 / NBRC 1802 / NCYC 2889) OX=226230 GN=YKL139W PE=3 SV=1	Saccharomyces kudriavzevii (strain ATCC MYA-4449 / AS 2.2408 / CBS 8840 / NBRC 1802 / NCYC 2889)	514	711	46.3	61.1	8e-79
+662	TR	A0AA35J3B1	Serine/threonine-protein OS=Saccharomyces kudriavzevii (strain ATCC MYA-4449 / AS 2.2408 / CBS 8840 / NBRC 1802 / NCYC 2889) OX=226230 GN=SKDI11G0810 PE=3 SV=1	Saccharomyces kudriavzevii (strain ATCC MYA-4449 / AS 2.2408 / CBS 8840 / NBRC 1802 / NCYC 2889)	514	711	46.3	61.1	8e-79
+663	TR	H0GXD7	Serine/threonine-protein OS=Saccharomyces cerevisiae x Saccharomyces kudriavzevii (strain VIN7) OX=1095631 GN=VIN7_8287 PE=3 SV=1	Saccharomyces cerevisiae x Saccharomyces kudriavzevii (strain VIN7)	514	711	46.3	61.1	8e-79
+664	TR	A0A9P6DEZ8	Serine/threonine-protein OS=Pleurotus eryngii OX=5323 GN=BDN71DRAFT_1450760 PE=3 SV=1	Pleurotus eryngii	689	725	32.7	49.1	8.1e-79
+665	TR	A0A2H3BJ47	Serine/threonine-protein OS=Armillaria solidipes OX=1076256 GN=ARMSODRAFT_884318 PE=3 SV=1	Armillaria solidipes	492	709	37.1	56.9	8.2e-79
+666	TR	W9Y247	Serine/threonine-protein OS=Cladophialophora psammophila CBS 110553 OX=1182543 GN=A1O5_01052 PE=3 SV=1	Cladophialophora psammophila CBS 110553	734	728	37.0	53.9	8.6e-79
+667	TR	S8B6H7	Serine/threonine-protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09462 PE=3 SV=1	Penicillium oxalicum (strain 114-2 / CGMCC 5302)	653	722	38.9	58.4	9e-79
+668	TR	A0A0C7MUT8	Serine/threonine-protein OS=Lachancea lanzarotensis OX=1245769 GN=LALA0_S08e05952g PE=3 SV=1	Lachancea lanzarotensis	474	707	42.0	58.3	9.2e-79
+669	TR	A0A8A3PHL3	Serine/threonine-protein OS=Monilinia vaccinii-corymbosi OX=61207 GN=DSL72_007676 PE=3 SV=1	Monilinia vaccinii-corymbosi	580	716	41.3	57.4	9.6e-79
+670	TR	A0A5N6TUY8	Serine/threonine-protein OS=Aspergillus avenaceus OX=36643 GN=BDV25DRAFT_140098 PE=3 SV=1	Aspergillus avenaceus	745	728	39.3	58.4	1.1e-78
+671	TR	A0A0F7RXD8	Serine/threonine-protein OS=Sporisorium scitamineum OX=49012 GN=SSCI28730.1 PE=3 SV=1	Sporisorium scitamineum	908	738	38.9	55.0	1.1e-78
+672	TR	K5WK63	Serine/threonine-protein OS=Agaricus bisporus var. burnettii (strain JB137-S8 / ATCC MYA-4627 / FGSC 10392) OX=597362 GN=AGABI1DRAFT_79639 PE=3 SV=1	Agaricus bisporus var. burnettii (strain JB137-S8 / ATCC MYA-4627 / FGSC 10392)	574	715	40.2	57.7	1.1e-78
+673	TR	A0AAN6U796	Serine/threonine-protein OS=Parathielavia appendiculata OX=2587402 GN=N657DRAFT_661746 PE=3 SV=1	Parathielavia appendiculata	539	712	41.4	61.7	1.1e-78
+674	TR	A0A074VCX5	Serine/threonine-protein OS=Aureobasidium melanogenum (strain CBS 110374) OX=1043003 GN=M437DRAFT_59890 PE=3 SV=1	Aureobasidium melanogenum (strain CBS 110374)	408	700	39.6	58.5	1.2e-78
+675	TR	A0A6H0Y3I6	Serine/threonine-protein OS=Peltaster fructicola OX=286661 GN=AMS68_007094 PE=3 SV=1	Peltaster fructicola	639	720	32.7	51.0	1.2e-78
+676	TR	A0A166P4T1	Serine/threonine-protein OS=Athelia psychrophila OX=1759441 GN=FIBSPDRAFT_380050 PE=3 SV=1	Athelia psychrophila	518	710	41.4	57.8	1.2e-78
+677	TR	A0A9W9HGP7	Serine/threonine-protein OS=Penicillium bovifimosum OX=126998 GN=N7515_000965 PE=3 SV=1	Penicillium bovifimosum	542	712	39.3	60.4	1.2e-78
+678	TR	A0A317SVV9	Serine/threonine-protein OS=Tuber magnatum OX=42249 GN=C7212DRAFT_356617 PE=3 SV=1	Tuber magnatum	1113	747	34.7	50.4	1.3e-78
+679	TR	M3JDY0	Serine/threonine-protein OS=Candida maltosa (strain Xu316) OX=1245528 GN=G210_4550 PE=3 SV=1	Candida maltosa (strain Xu316)	531	711	37.7	54.8	1.3e-78
+680	TR	A0AA39CZE9	Serine/threonine-protein OS=Knufia peltigerae OX=1002370 GN=BUR1 PE=3 SV=1	Knufia peltigerae	668	722	42.0	57.8	1.3e-78
+681	TR	A0A0D2CBE5	Serine/threonine-protein OS=Exophiala oligosperma OX=215243 GN=PV06_02799 PE=3 SV=1	Exophiala oligosperma	668	722	42.0	57.8	1.3e-78
+682	TR	A0ACF5B7G0	Serine/threonine-protein OS=Scheffersomyces coipomensis OX=1788519 GN=DFJ63DRAFT_313393 PE=3 SV=1	Scheffersomyces coipomensis	616	718	35.3	51.5	1.3e-78
+683	TR	A0A4V1Q1D1	Serine/threonine-protein (Fragment) OS=Candolleomyces aberdarensis OX=2316362 GN=EST38_g14687 PE=3 SV=1	Candolleomyces aberdarensis	567	714	40.7	58.0	1.3e-78
+684	TR	A0A9W4JZS8	Serine/threonine-protein OS=Penicillium salamii OX=1612424 GN=PSALAMII_LOCUS11416 PE=3 SV=1	Penicillium salamii	520	710	40.9	57.3	1.3e-78
+685	TR	A0A8H7QY27	Serine/threonine-protein OS=Mucor saturninus OX=64648 GN=INT47_009276 PE=3 SV=1	Mucor saturninus	340	693	42.1	62.7	1.3e-78
+686	TR	A0A5C5G024	Serine/threonine-protein OS=Rhodotorula diobovata OX=5288 GN=DMC30DRAFT_348936 PE=3 SV=1	Rhodotorula diobovata	476	706	42.2	62.5	1.3e-78
+687	TR	A0A397GWK2	Serine/threonine-protein OS=Aspergillus thermomutatus OX=41047 GN=CDV56_104351 PE=3 SV=1	Aspergillus thermomutatus	1092	746	26.2	41.6	1.3e-78
+688	TR	M5GFE7	Serine/threonine-protein OS=Dacryopinax primogenitus OX=1858805 GN=DACRYDRAFT_19477 PE=3 SV=1	Dacryopinax primogenitus	698	724	39.9	57.0	1.3e-78
+689	TR	N1QFK3	Serine/threonine-protein OS=Sphaerulina musiva (strain SO2202) OX=692275 GN=SEPMUDRAFT_46374 PE=3 SV=1	Sphaerulina musiva (strain SO2202)	413	700	38.1	57.7	1.4e-78
+690	TR	R4XG90	Serine/threonine-protein OS=Taphrina deformans (strain PYCC 5710 / ATCC 11124 / CBS 356.35 / IMI 108563 / JCM 9778 / NBRC 8474) OX=1097556 GN=TAPDE_005288 PE=3 SV=1	Taphrina deformans (strain PYCC 5710 / ATCC 11124 / CBS 356.35 / IMI 108563 / JCM 9778 / NBRC 8474)	479	706	44.6	62.3	1.4e-78
+691	TR	A0ABR3GUA0	Serine/threonine-protein OS=Maublancomyces gigas OX=1032678 GN=LSK1 PE=3 SV=1	Maublancomyces gigas	759	728	44.7	63.4	1.4e-78
+692	TR	A0A9P4LZ75	Serine/threonine-protein OS=Saccharata proteae CBS 121410 OX=1314787 GN=K490DRAFT_62079 PE=3 SV=1	Saccharata proteae CBS 121410	572	714	38.0	55.9	1.5e-78
+693	TR	A0ACC1JBZ6	Serine/threonine-protein (Fragment) OS=Linderina macrospora OX=4868 GN=BUR1 PE=3 SV=1	Linderina macrospora	459	704	44.1	62.5	1.5e-78
+694	TR	A0A139IDS0	Serine/threonine-protein OS=Pseudocercospora musae OX=113226 GN=AC579_10463 PE=3 SV=1	Pseudocercospora musae	624	718	32.6	51.6	1.5e-78
+695	TR	A0ACH0FJ52	Serine/threonine-protein OS=Rhizophagus irregularis OX=588596 GN=OCT59_020348 PE=3 SV=1	Rhizophagus irregularis	763	728	35.7	53.3	1.6e-78
+696	TR	A0A1G4IPT7	Serine/threonine-protein OS=Lachancea meyersii CBS 8951 OX=1266667 GN=LAME_0A04698G PE=3 SV=1	Lachancea meyersii CBS 8951	461	704	40.1	55.7	1.6e-78
+697	TR	A0A2H3JRF2	Serine/threonine-protein OS=Wolfiporia cocos (strain MD-104) OX=742152 GN=WOLCODRAFT_77731 PE=3 SV=1	Wolfiporia cocos (strain MD-104)	530	710	39.5	57.8	1.7e-78
+698	TR	A0ACC0UDJ7	Pkinase-domain-containing protein OS=Russula earlei OX=71964 GN=F5148DRAFT_1275508 PE=4 SV=1	Russula earlei	400	698	42.6	62.9	1.7e-78
+699	TR	A0A2A9NIW4	Serine/threonine-protein OS=Amanita thiersii Skay4041 OX=703135 GN=AMATHDRAFT_144903 PE=3 SV=1	Amanita thiersii Skay4041	390	697	40.1	59.1	1.8e-78
+700	TR	A0A6A6JH61	Serine/threonine-protein OS=Westerdykella ornata OX=318751 GN=EI97DRAFT_434514 PE=3 SV=1	Westerdykella ornata	580	714	42.5	62.8	1.8e-78
+701	TR	A0ABQ8KD14	Serine/threonine-protein OS=Rhodofomes roseus OX=34475 GN=C8Q71DRAFT_849024 PE=3 SV=1	Rhodofomes roseus	889	735	35.1	53.0	2e-78
+702	TR	A0A6A6F7L0	Serine/threonine-protein OS=Cercospora zeae-maydis SCOH1-5 OX=717836 GN=CERZMDRAFT_61882 PE=3 SV=1	Cercospora zeae-maydis SCOH1-5	436	701	37.1	56.8	2e-78
+703	TR	A0AAW0B5D8	Serine/threonine-protein OS=Paramarasmius palmivorus OX=297713 GN=BUR1_2 PE=3 SV=1	Paramarasmius palmivorus	932	737	36.2	50.2	2.2e-78
+704	TR	A1C9P3	Serine/threonine-protein OS=Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107) OX=344612 GN=ACLA_008810 PE=3 SV=1	Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)	552	711	42.7	59.0	2.2e-78
+705	TR	A0A2Z6QMR2	Serine/threonine-protein OS=Rhizophagus clarus OX=94130 GN=RclHR1_16890004 PE=3 SV=1	Rhizophagus clarus	765	727	36.1	54.2	2.2e-78
+706	TR	A0A1F8A047	Serine/threonine-protein OS=Aspergillus bombycis OX=109264 GN=ABOM_006173 PE=3 SV=1	Aspergillus bombycis	694	722	38.6	57.6	2.3e-78
+707	TR	A0ACF5AMK6	Serine/threonine-protein OS=Scheffersomyces xylosifermentans OX=1304137 GN=RJT20DRAFT_109761 PE=3 SV=1	Scheffersomyces xylosifermentans	578	713	43.4	61.7	2.3e-78
+708	TR	A0A177DTI4	Serine/threonine-protein (Fragment) OS=Alternaria alternata OX=5599 GN=CC77DRAFT_931832 PE=3 SV=1	Alternaria alternata	452	702	35.9	54.5	2.3e-78
+709	TR	A0A9W8ZWT8	Serine/threonine-protein OS=Lentinula aciculospora OX=153920 GN=J3R30DRAFT_1613327 PE=3 SV=1	Lentinula aciculospora	960	738	28.1	44.4	2.5e-78
+710	TR	A0A9W9WMR3	Serine/threonine-protein OS=Penicillium desertorum OX=1303715 GN=N7530_007340 PE=3 SV=1	Penicillium desertorum	686	721	31.8	48.6	2.6e-78
+711	TR	A0A5M3ZB13	Serine/threonine-protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012013700 PE=3 SV=1	Aspergillus terreus	758	726	38.1	58.2	2.6e-78
+712	TR	A0A9N9AXF7	Serine/threonine-protein OS=Funneliformis caledonium OX=1117310 GN=FCALED_LOCUS5996 PE=3 SV=1	Funneliformis caledonium	730	724	44.0	63.4	2.7e-78
+713	TR	A0A395IKX7	Serine/threonine-protein OS=Monilinia fructigena OX=38457 GN=DID88_000802 PE=3 SV=1	Monilinia fructigena	549	710	42.7	59.0	2.8e-78
+714	TR	A0AAJ8KDS5	Serine/threonine-protein OS=Kwoniella bestiolae CBS 10118 OX=1296100 GN=I302_108037 PE=3 SV=1	Kwoniella bestiolae CBS 10118	1226	748	44.7	66.6	2.8e-78
+715	TR	A0AA40B595	Serine/threonine-protein OS=Lasiosphaeria miniovina OX=1954250 GN=B0T26DRAFT_638880 PE=3 SV=1	Lasiosphaeria miniovina	796	728	31.1	49.1	3e-78
+716	TR	A0A2B7XKY7	Serine/threonine-protein OS=Polytolypa hystricis (strain UAMH7299) OX=1447883 GN=AJ80_06711 PE=3 SV=1	Polytolypa hystricis (strain UAMH7299)	1063	742	33.4	49.6	3e-78
+717	TR	A0A9N9CYC7	Serine/threonine-protein OS=Funneliformis mosseae OX=27381 GN=FMOSSE_LOCUS9849 PE=3 SV=1	Funneliformis mosseae	738	724	44.0	63.4	3.2e-78
+718	TR	A0A163JSL9	Serine/threonine-protein OS=Absidia glauca OX=4829 GN=ABSGL_08043.1 scaffold 9578 PE=3 SV=1	Absidia glauca	885	733	42.8	59.6	3.3e-78
+719	TR	A0ACB8SBB9	Serine/threonine-protein OS=Auriscalpium vulgare OX=40419 GN=FA95DRAFT_1552609 PE=3 SV=1	Auriscalpium vulgare	942	736	35.6	50.2	3.4e-78
+720	TR	A0AA39Q4X0	Serine/threonine-protein OS=Armillaria luteobubalina OX=153913 GN=EDD18DRAFT_1074583 PE=3 SV=1	Armillaria luteobubalina	488	704	37.6	57.1	3.4e-78
+721	TR	A0A0D0AEY6	Serine/threonine-protein OS=Suillus luteus UH-Slu-Lm8-n1 OX=930992 GN=CY34DRAFT_807381 PE=3 SV=1	Suillus luteus UH-Slu-Lm8-n1	943	736	35.1	51.0	3.4e-78
+722	TR	A0AAD6J541	Serine/threonine-protein OS=Drechslerella dactyloides OX=74499 GN=Dda_0883 PE=3 SV=1	Drechslerella dactyloides	546	709	38.1	55.1	3.5e-78
+723	TR	A0A5C3E0A8	Serine/threonine-protein OS=Ustilago trichophora OX=86804 GN=UTRI_03401 PE=3 SV=1	Ustilago trichophora	926	735	44.2	63.9	3.6e-78
+724	TR	C4YPZ8	Serine/threonine-protein OS=Candida albicans (strain WO-1) OX=294748 GN=CAWG_02552 PE=3 SV=1	Candida albicans (strain WO-1)	585	712	36.6	53.5	3.7e-78
+725	TR	A0A1V8TRS6	Serine/threonine-protein OS=Cryoendolithus antarcticus OX=1507870 GN=B0A48_00777 PE=3 SV=1	Cryoendolithus antarcticus	561	710	31.8	50.4	3.8e-78
+726	TR	A0A0C3KJL7	Serine/threonine-protein OS=Pisolithus tinctorius Marx 270 OX=870435 GN=M404DRAFT_131458 PE=3 SV=1	Pisolithus tinctorius Marx 270	492	704	40.7	56.6	3.8e-78
+727	TR	A0A0L0S8P4	Serine/threonine-protein OS=Allomyces macrogynus (strain ATCC 38327) OX=578462 GN=AMAG_04322 PE=3 SV=1	Allomyces macrogynus (strain ATCC 38327)	894	733	30.1	45.6	3.9e-78
+728	TR	A0A5N6K9R4	Serine/threonine-protein OS=Monilinia laxa OX=61186 GN=EYC80_000139 PE=3 SV=1	Monilinia laxa	563	710	42.7	59.0	4e-78
+729	TR	A0A1C1CVS4	Serine/threonine-protein OS=Cladophialophora carrionii OX=86049 GN=CLCR_09511 PE=3 SV=1	Cladophialophora carrionii	975	737	33.1	49.2	4.1e-78
+730	TR	A0AAF0J0M6	Serine/threonine-protein OS=Malassezia equina OX=1381935 GN=CTK1 PE=3 SV=1	Malassezia equina	918	734	37.8	57.7	4.2e-78
+731	TR	A0A0F4YPC0	Serine/threonine-protein OS=Rasamsonia emersonii (strain ATCC 16479 / CBS 393.64 / IMI 116815) OX=1408163 GN=T310_5877 PE=3 SV=1	Rasamsonia emersonii (strain ATCC 16479 / CBS 393.64 / IMI 116815)	592	712	30.8	48.0	4.4e-78
+732	TR	A0AAN8NAD3	Serine/threonine-protein OS=Arthrobotrys conoides OX=74498 GN=BUR1 PE=3 SV=1	Arthrobotrys conoides	544	708	41.2	57.3	4.5e-78
+733	TR	A0A9P6ZYZ8	Serine/threonine-protein OS=Suillus placidus OX=48579 GN=EV702DRAFT_1088026 PE=3 SV=1	Suillus placidus	942	735	37.0	53.9	4.6e-78
+734	TR	W9XSG0	Serine/threonine-protein OS=Capronia coronata CBS 617.96 OX=1182541 GN=A1O1_08422 PE=3 SV=1	Capronia coronata CBS 617.96	743	723	40.9	57.5	4.8e-78
+735	TR	A0A2G5BE86	Serine/threonine-protein OS=Coemansia reversa (strain ATCC 12441 / NRRL 1564) OX=763665 GN=COEREDRAFT_80648 PE=3 SV=1	Coemansia reversa (strain ATCC 12441 / NRRL 1564)	701	720	37.5	53.9	4.9e-78
+736	TR	A0AAE0KC74	Serine/threonine-protein OS=Lasiosphaeria ovina OX=92902 GN=B0T24DRAFT_527046 PE=3 SV=1	Lasiosphaeria ovina	790	726	31.2	49.0	4.9e-78
+737	TR	A0A6G1GLN9	Serine/threonine-protein OS=Aulographum hederae CBS 113979 OX=1176131 GN=K402DRAFT_341863 PE=3 SV=1	Aulographum hederae CBS 113979	406	695	40.6	60.6	5.3e-78
+738	TR	A0A2R6NPI6	Serine/threonine-protein OS=Hermanssonia centrifuga OX=98765 GN=PHLCEN_2v9891 PE=3 SV=1	Hermanssonia centrifuga	895	732	34.8	51.8	5.3e-78
+739	TR	A0AAF0F9H5	Serine/threonine-protein OS=Malassezia psittaci OX=1821823 GN=CTK1 PE=3 SV=1	Malassezia psittaci	627	714	34.9	51.3	5.6e-78
+740	TR	A3LUH2	Serine/threonine-protein OS=Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545) OX=322104 GN=CTK1 PE=3 SV=2	Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545)	590	711	38.0	53.1	5.7e-78
+741	TR	A0ACB7CGB9	Serine/threonine-protein OS=Pneumocystis oryctolagi OX=42067 GN=PORY_000002 PE=3 SV=1	Pneumocystis oryctolagi	579	710	40.6	58.4	5.9e-78
+742	TR	A0ACC3TLE8	Serine/threonine-protein OS=Lipomyces orientalis OX=1233043 GN=V1517DRAFT_324969 PE=3 SV=1	Lipomyces orientalis	464	700	44.1	61.3	6e-78
+743	TR	A0A0M9VNB4	Serine/threonine-protein OS=Malassezia pachydermatis OX=77020 GN=Malapachy_0566 PE=3 SV=1	Malassezia pachydermatis	465	700	37.8	54.4	6.2e-78
+744	TR	A0A5N5DK82	Serine/threonine-protein OS=Lasiodiplodia theobromae OX=45133 GN=lsk1 PE=3 SV=1	Lasiodiplodia theobromae	422	696	38.8	55.2	6.2e-78
+745	TR	S8C6V1	Serine/threonine-protein OS=Dactylellina haptotyla (strain CBS 200.50) OX=1284197 GN=H072_2581 PE=3 SV=1	Dactylellina haptotyla (strain CBS 200.50)	546	707	39.2	54.2	6.4e-78
+746	TR	A0AAV9WMP7	Serine/threonine-protein OS=Arthrobotrys musiformis OX=47236 GN=BUR1 PE=3 SV=1	Arthrobotrys musiformis	546	707	38.6	54.4	6.4e-78
+747	TR	R0IHA8	Serine/threonine-protein OS=Exserohilum turcicum (strain 28A) OX=671987 GN=SETTUDRAFT_93572 PE=3 SV=1	Exserohilum turcicum (strain 28A)	392	693	38.7	59.9	6.4e-78
+748	TR	W4KF99	Serine/threonine-protein OS=Heterobasidion irregulare (strain TC 32-1) OX=747525 GN=HETIRDRAFT_381287 PE=3 SV=1	Heterobasidion irregulare (strain TC 32-1)	293	683	44.6	63.7	6.4e-78
+749	TR	A0A9W9SLL6	Serine/threonine-protein OS=Penicillium cosmopolitanum OX=1131564 GN=N7509_012623 PE=3 SV=1	Penicillium cosmopolitanum	806	726	39.6	58.4	6.7e-78
+750	TR	A0ACM9M002	Uncharacterized protein OS=Aspergillus terreus (strain NIH 2624 / FGSC A1156) OX=341663 GN=ATEG_08099 PE=4 SV=1	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	791	725	38.1	58.0	6.8e-78
+751	TR	A0ACF5C4T9	Serine/threonine-protein OS=Arthrobotrys megalospora OX=2528406 GN=BUR1 PE=3 SV=1	Arthrobotrys megalospora	550	707	38.5	54.3	7.1e-78
+752	TR	A0ACD9QAS2	Serine/threonine-protein OS=Penicillium pancosmium OX=1131562 GN=FP1_LOCUS11116 PE=3 SV=1	Penicillium pancosmium	515	704	40.7	56.7	7.1e-78
+753	TR	A0A1E4SAD2	Serine/threonine-protein OS=Cyberlindnera jadinii (strain ATCC 18201 / CBS 1600 / BCRC 20928 / JCM 3617 / NBRC 0987 / NRRL Y-1542) OX=983966 GN=CYBJADRAFT_165756 PE=3 SV=1	Cyberlindnera jadinii (strain ATCC 18201 / CBS 1600 / BCRC 20928 / JCM 3617 / NBRC 0987 / NRRL Y-1542)	638	714	40.4	59.1	7.3e-78
+754	TR	A0A2V1E2B7	Serine/threonine-protein OS=Periconia macrospinosa OX=97972 GN=DM02DRAFT_518985 PE=3 SV=1	Periconia macrospinosa	473	700	36.2	56.5	7.7e-78
+755	TR	E6ZQ31	Serine/threonine-protein OS=Sporisorium reilianum (strain SRZ2) OX=999809 GN=sr15803 PE=3 SV=1	Sporisorium reilianum (strain SRZ2)	902	731	43.0	60.7	8e-78
+756	TR	G2Q9H0	Serine/threonine-protein OS=Thermothelomyces thermophilus (strain ATCC 42464 / BCRC 31852 / DSM 1799) OX=573729 GN=MYCTH_2301373 PE=3 SV=1	Thermothelomyces thermophilus (strain ATCC 42464 / BCRC 31852 / DSM 1799)	739	721	33.7	49.2	8e-78
+757	TR	A0A423XH20	Serine/threonine-protein OS=Cytospora leucostoma OX=1230097 GN=VPNG_02274 PE=3 SV=1	Cytospora leucostoma	410	694	39.7	58.1	8.1e-78
+758	TR	A0A1E4SG43	Serine/threonine-protein (Fragment) OS=Suhomyces tanzawaensis NRRL Y-17324 OX=984487 GN=CANTADRAFT_40468 PE=3 SV=1	Suhomyces tanzawaensis NRRL Y-17324	401	693	45.9	62.0	8.4e-78
+759	TR	G1X9H0	Serine/threonine-protein OS=Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491) OX=756982 GN=AOL_s00076g277 PE=3 SV=1	Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491)	557	707	38.8	53.7	8.5e-78
+760	TR	A0A017STF2	Serine/threonine-protein OS=Aspergillus ruber (strain CBS 135680) OX=1388766 GN=EURHEDRAFT_407506 PE=3 SV=1	Aspergillus ruber (strain CBS 135680)	558	707	38.8	56.6	8.7e-78
+761	TR	A0A8H7BI51	Serine/threonine protein kinase, CMGC, CDC2/CDK sub OS=Apophysomyces ossiformis OX=679940 GN=BUR1 PE=3 SV=1	Apophysomyces ossiformis	372	690	43.8	64.0	8.9e-78
+762	TR	A0A5C3E043	Serine/threonine-protein OS=Ustilago trichophora OX=86804 GN=UTRI_03401_B PE=3 SV=1	Ustilago trichophora	928	732	44.2	62.1	9e-78
+763	TR	A0A8H6S286	Serine/threonine-protein OS=Mycena indigotica OX=2126181 GN=MIND_01372800 PE=3 SV=1	Mycena indigotica	1164	742	38.6	56.6	9.2e-78
+764	TR	A0A6A7BWX9	Serine/threonine-protein (Fragment) OS=Piedraia hortae CBS 480.64 OX=1314780 GN=K470DRAFT_218539 PE=3 SV=1	Piedraia hortae CBS 480.64	384	691	36.6	56.4	9.4e-78
+765	TR	A0AAD7QTJ5	Serine/threonine-protein OS=Lipomyces tetrasporus OX=54092 GN=POJ06DRAFT_281099 PE=3 SV=1	Lipomyces tetrasporus	458	698	43.6	60.8	9.4e-78
+766	TR	A0A165CCN4	Serine/threonine-protein OS=Calocera cornea HHB12733 OX=1353952 GN=CALCODRAFT_179546 PE=3 SV=1	Calocera cornea HHB12733	896	730	37.3	53.0	9.8e-78
+767	TR	A0A4Y9ZEA9	Serine/threonine-protein (Fragment) OS=Hericium alpestre OX=135208 GN=EWM64_g10897 PE=3 SV=1	Hericium alpestre	530	704	35.6	51.9	1.1e-77
+768	TR	A0A5N7D6Q1	Serine/threonine-protein OS=Aspergillus pseudonomiae OX=1506151 GN=BDV37DRAFT_273688 PE=3 SV=1	Aspergillus pseudonomiae	801	724	38.3	57.6	1.1e-77
+769	TR	A0AA40EH09	Serine/threonine-protein OS=Apiosordaria backusii OX=314023 GN=B0T21DRAFT_363330 PE=3 SV=1	Apiosordaria backusii	595	709	31.9	48.1	1.2e-77
+770	TR	A0A1E1KNF6	Serine/threonine-protein OS=Rhynchosporium graminicola OX=2792576 GN=RCO7_07910 PE=3 SV=1	Rhynchosporium graminicola	1164	741	33.2	49.6	1.2e-77
+771	TR	A0ACD3A7F3	Serine/threonine-protein OS=Pluteus cervinus OX=181527 GN=BDN72DRAFT_778975 PE=3 SV=1	Pluteus cervinus	573	707	40.2	57.4	1.3e-77
+772	TR	A0ACD9N9E9	Serine/threonine-protein OS=Penicillium manginii OX=203109 GN=YELL_LOCUS7406 PE=3 SV=1	Penicillium manginii	516	702	40.5	57.1	1.4e-77
+773	TR	K0KZP0	Serine/threonine-protein OS=Wickerhamomyces ciferrii (strain ATCC 14091 / BCRC 22168 / CBS 111 / JCM 3599 / NBRC 0793 / NRRL Y-1031 F-60-10) OX=1206466 GN=BN7_6388 PE=3 SV=1	Wickerhamomyces ciferrii (strain ATCC 14091 / BCRC 22168 / CBS 111 / JCM 3599 / NBRC 0793 / NRRL Y-1031 F-60-10)	735	719	35.1	54.2	1.4e-77
+774	TR	W9CTI2	Serine/threonine-protein OS=Sclerotinia borealis (strain F-4128) OX=1432307 GN=SBOR_0205 PE=3 SV=1	Sclerotinia borealis (strain F-4128)	577	707	43.7	59.4	1.4e-77
+775	TR	A0AAN6KQV4	Serine/threonine-protein OS=Friedmanniomyces endolithicus OX=329885 GN=BUR1_1 PE=3 SV=1	Friedmanniomyces endolithicus	602	709	40.4	58.6	1.4e-77
+776	TR	A0ABP1DNF5	Serine/threonine-protein OS=Somion occarium OX=3059160 GN=GFSPODELE1_LOCUS7001 PE=3 SV=1	Somion occarium	801	723	37.7	54.5	1.5e-77
+777	TR	A0A2V1AWG3	Serine/threonine-protein OS=Candidozyma haemuli OX=45357 GN=CXQ85_000179 PE=3 SV=1	Candidozyma haemuli	400	691	39.9	59.0	1.5e-77
+778	TR	A0A067SBX7	Serine/threonine-protein OS=Galerina marginata (strain CBS 339.88) OX=685588 GN=GALMADRAFT_257032 PE=3 SV=1	Galerina marginata (strain CBS 339.88)	1076	737	32.9	48.7	1.5e-77
+779	TR	A0A1L9RDP2	Serine/threonine-protein OS=Aspergillus wentii DTO 134E9 OX=1073089 GN=ASPWEDRAFT_43008 PE=3 SV=1	Aspergillus wentii DTO 134E9	510	701	38.1	58.2	1.6e-77
+780	TR	A0A8H7ZCH6	Serine/threonine-protein OS=Candida metapsilosis OX=273372 GN=I9W82_003075 PE=3 SV=1	Candida metapsilosis	545	704	34.9	47.8	1.6e-77
+781	TR	A0A1Q3DXU8	Serine/threonine-protein OS=Lentinula edodes OX=5353 GN=LENED_001137 PE=3 SV=1	Lentinula edodes	714	717	30.2	46.1	1.6e-77
+782	TR	A0A0C3PVJ4	Serine/threonine-protein OS=Phlebiopsis gigantea (strain 11061_1 CR5-6) OX=745531 GN=PHLGIDRAFT_33171 PE=3 SV=1	Phlebiopsis gigantea (strain 11061_1 CR5-6)	838	725	37.6	56.1	1.6e-77
+783	TR	A0AAD4HW12	Serine/threonine-protein OS=Staphylotrichum longicolle OX=669026 GN=NEMBOFW57_005416 PE=3 SV=1	Staphylotrichum longicolle	489	699	35.2	52.6	1.6e-77
+784	TR	A0A7R7VHH0	Serine/threonine-protein OS=Aspergillus chevalieri OX=182096 GN=BUR1 PE=3 SV=1	Aspergillus chevalieri	559	705	38.6	55.0	1.7e-77
+785	TR	A0A0D2AWY8	Serine/threonine-protein OS=Cladophialophora immunda OX=569365 GN=PV07_05590 PE=3 SV=1	Cladophialophora immunda	1136	739	32.9	47.8	1.7e-77
+786	TR	A0AAN6JI08	Serine/threonine-protein OS=Tilletia horrida OX=155126 GN=CTK1 PE=3 SV=1	Tilletia horrida	1197	741	40.3	57.5	1.7e-77
+787	TR	A0A0D1WPD8	Serine/threonine-protein OS=Exophiala mesophila OX=212818 GN=PV10_05522 PE=3 SV=1	Exophiala mesophila	690	715	41.5	56.5	1.7e-77
+788	TR	W4JSK4	Serine/threonine-protein (Fragment) OS=Heterobasidion irregulare (strain TC 32-1) OX=747525 GN=HETIRDRAFT_53822 PE=3 SV=1	Heterobasidion irregulare (strain TC 32-1)	344	685	41.6	59.6	1.8e-77
+789	TR	A0AAN6IH62	Serine/threonine-protein OS=Exophiala viscosa OX=2486360 GN=EDD36DRAFT_381319 PE=3 SV=1	Exophiala viscosa	1016	734	32.9	48.8	1.8e-77
+790	TR	G8YU12	Serine/threonine-protein OS=Pichia sorbitophila (strain ATCC MYA-4447 / BCRC 22081 / CBS 7064 / NBRC 10061 / NRRL Y-12695) OX=559304 GN=Piso0_000451 PE=3 SV=1	Pichia sorbitophila (strain ATCC MYA-4447 / BCRC 22081 / CBS 7064 / NBRC 10061 / NRRL Y-12695)	574	706	40.4	57.6	1.8e-77
+791	TR	A0ACE8PRY9	Serine/threonine-protein OS=Penicillium ochrochloron OX=69780 GN=PoHVEF18_005043 PE=3 SV=1	Penicillium ochrochloron	515	701	41.5	56.7	1.8e-77
+792	TR	A0ABQ0CGL3	Serine/threonine-protein OS=Epichloe bromicola OX=79588 GN=g1020 PE=3 SV=1	Epichloe bromicola	589	707	34.6	52.4	1.9e-77
+793	TR	A0A0D2LH02	Serine/threonine-protein OS=Hypholoma sublateritium (strain FD-334 SS-4) OX=945553 GN=HYPSUDRAFT_132404 PE=3 SV=1	Hypholoma sublateritium (strain FD-334 SS-4)	627	710	40.5	57.6	1.9e-77
+794	TR	A0A9W8BKT7	Serine/threonine-protein OS=Coemansia thaxteri OX=2663907 GN=BUR1 PE=3 SV=1	Coemansia thaxteri	553	704	41.2	60.5	1.9e-77
+795	TR	U9TM21	Serine/threonine-protein OS=Rhizophagus irregularis (strain DAOM 181602 / DAOM 197198 / MUCL 43194) OX=747089 GN=GLOIN_2v1611612 PE=3 SV=1	Rhizophagus irregularis (strain DAOM 181602 / DAOM 197198 / MUCL 43194)	554	704	38.7	59.0	2e-77
+796	TR	A0A015L3J5	Serine/threonine-protein OS=Rhizophagus irregularis (strain DAOM 197198w) OX=1432141 GN=RirG_052840 PE=3 SV=1	Rhizophagus irregularis (strain DAOM 197198w)	554	704	38.7	59.0	2e-77
+797	TR	A0ACH0FXW0	Serine/threonine-protein OS=Rhizophagus irregularis OX=588596 GN=OCT59_027019 PE=3 SV=1	Rhizophagus irregularis	554	704	38.7	59.0	2e-77
+798	TR	A0A5M3MDK3	Serine/threonine-protein OS=Coniophora puteana (strain RWD-64-598) OX=741705 GN=CONPUDRAFT_109531 PE=3 SV=1	Coniophora puteana (strain RWD-64-598)	1125	738	33.6	47.7	2e-77
+799	TR	A0A5N6J6B0	Serine/threonine-protein OS=Aspergillus minisclerotigenes OX=656917 GN=BDV30DRAFT_226081 PE=3 SV=1	Aspergillus minisclerotigenes	801	722	38.1	57.6	2e-77
+800	TR	A0A1E3P036	Serine/threonine-protein (Fragment) OS=Wickerhamomyces anomalus (strain ATCC 58044 / CBS 1984 / NCYC 433 / NRRL Y-366-8) OX=683960 GN=WICANDRAFT_21208 PE=3 SV=1	Wickerhamomyces anomalus (strain ATCC 58044 / CBS 1984 / NCYC 433 / NRRL Y-366-8)	339	684	42.6	62.2	2e-77
+801	TR	G2QU70	Serine/threonine-protein OS=Thermothielavioides terrestris (strain ATCC 38088 / NRRL 8126) OX=578455 GN=THITE_2107486 PE=3 SV=1	Thermothielavioides terrestris (strain ATCC 38088 / NRRL 8126)	544	703	40.9	61.4	2.1e-77
+802	TR	A0A9P4HW58	Serine/threonine-protein (Fragment) OS=Saccharata proteae CBS 121410 OX=1314787 GN=K490DRAFT_41752 PE=3 SV=1	Saccharata proteae CBS 121410	380	688	42.4	59.7	2.1e-77
+803	TR	A0AA35IPP9	Serine/threonine-protein OS=Saccharomyces mikatae IFO 1815 OX=226126 GN=SMKI11G0800 PE=3 SV=1	Saccharomyces mikatae IFO 1815	545	703	44.7	60.9	2.1e-77
+804	TR	A0A0D2CFA9	Serine/threonine-protein OS=Cladophialophora immunda OX=569365 GN=PV07_05590 PE=3 SV=1	Cladophialophora immunda	1106	737	34.6	49.6	2.2e-77
+805	TR	A0A443I6A2	Serine/threonine-protein OS=Paecilomyces variotii OX=264951 GN=C8Q69DRAFT_395984 PE=3 SV=1	Paecilomyces variotii	546	703	39.6	56.0	2.2e-77
+806	TR	A0A2I1GAP5	Serine/threonine-protein OS=Rhizophagus irregularis OX=588596 GN=RhiirA4_341245 PE=3 SV=1	Rhizophagus irregularis	558	704	38.7	59.0	2.2e-77
+807	TR	A0A7G3ZAK3	Serine/threonine-protein OS=Torulaspora globosa OX=48254 GN=HG536_0A03570 PE=3 SV=1	Torulaspora globosa	500	699	43.3	63.5	2.2e-77
+808	TR	A0A9W9LA50	Serine/threonine-protein OS=Penicillium bovifimosum OX=126998 GN=N7515_002924 PE=3 SV=1	Penicillium bovifimosum	535	702	39.2	55.2	2.2e-77
+809	TR	A0A4S4MTZ5	Serine/threonine-protein OS=Antrodiella citrinella OX=2447956 GN=EUX98_g4482 PE=3 SV=1	Antrodiella citrinella	573	705	44.9	64.9	2.4e-77
+810	TR	A0A6A6DUS6	Serine/threonine-protein (Fragment) OS=Zopfia rhizophila CBS 207.26 OX=1314779 GN=K469DRAFT_516150 PE=3 SV=1	Zopfia rhizophila CBS 207.26	384	688	42.1	60.0	2.4e-77
+811	TR	A0A9P5U842	Serine/threonine-protein OS=Rhodocollybia butyracea OX=206335 GN=BDP27DRAFT_1222454 PE=3 SV=1	Rhodocollybia butyracea	405	690	40.9	59.6	2.4e-77
+812	TR	A0A1Y1VB63	Serine/threonine-protein OS=Piromyces finnis OX=1754191 GN=BCR36DRAFT_350822 PE=3 SV=1	Piromyces finnis	1017	733	45.6	67.5	2.4e-77
+813	TR	A0AAN6JV92	Serine/threonine-protein OS=Tilletia horrida OX=155126 GN=CTK1 PE=3 SV=1	Tilletia horrida	997	732	36.3	54.2	2.5e-77
+814	TR	A0A6A5V090	Serine/threonine-protein OS=Bimuria novae-zelandiae CBS 107.79 OX=1447943 GN=BU23DRAFT_476304 PE=3 SV=1	Bimuria novae-zelandiae CBS 107.79	625	709	36.1	56.7	2.5e-77
+815	SP	Q03957	CTD kinase subunit alpha OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CTK1 PE=1 SV=1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	528	701	45.7	62.8	2.5e-77
+816	TR	B3LQW1	Serine/threonine-protein OS=Saccharomyces cerevisiae (strain RM11-1a) OX=285006 GN=SCRG_03886 PE=3 SV=1	Saccharomyces cerevisiae (strain RM11-1a)	528	701	45.7	62.8	2.5e-77
+817	TR	W2RV84	Serine/threonine-protein OS=Cyphellophora europaea (strain CBS 101466) OX=1220924 GN=HMPREF1541_04496 PE=3 SV=1	Cyphellophora europaea (strain CBS 101466)	653	711	41.8	57.4	2.6e-77
+818	TR	A0A074WYM8	Serine/threonine-protein OS=Aureobasidium namibiae CBS 147.97 OX=1043004 GN=M436DRAFT_42248 PE=3 SV=1	Aureobasidium namibiae CBS 147.97	408	690	39.4	59.1	2.6e-77
+819	TR	A0ACF4FG22	Serine/threonine-protein OS=Elasticomyces elasticus OX=574655 GN=BUR1_2 PE=3 SV=1	Elasticomyces elasticus	654	711	42.1	59.9	2.6e-77
+820	TR	A0A5N6ET76	Serine/threonine-protein OS=Aspergillus novoparasiticus OX=986946 GN=BDV33DRAFT_191754 PE=3 SV=1	Aspergillus novoparasiticus	801	721	38.1	57.6	2.7e-77
+821	TR	A0A5N6VRM2	Serine/threonine-protein OS=Aspergillus transmontanensis OX=1034304 GN=BDV41DRAFT_566488 PE=3 SV=1	Aspergillus transmontanensis	801	721	38.1	57.6	2.7e-77
+822	TR	A0A5N6DJN9	Serine/threonine-protein OS=Aspergillus parasiticus OX=5067 GN=BDV34DRAFT_213135 PE=3 SV=1	Aspergillus parasiticus	801	721	38.1	57.6	2.7e-77
+823	TR	A0A507C392	Serine/threonine-protein OS=Synchytrium microbalum OX=1806994 GN=SmJEL517_g04465 PE=3 SV=1	Synchytrium microbalum	568	704	40.8	59.4	2.8e-77
+824	TR	A0AAN6MD78	Serine/threonine-protein OS=Staphylotrichum tortipilum OX=2831512 GN=C8A05DRAFT_47023 PE=3 SV=1	Staphylotrichum tortipilum	743	717	33.1	50.3	2.9e-77
+825	TR	A0ACE8PLL8	Serine/threonine-protein OS=Penicillium ochrochloron OX=69780 GN=PoHVEF18_003255 PE=3 SV=1	Penicillium ochrochloron	791	720	31.5	48.0	3.1e-77
+826	TR	H0GJ12	Serine/threonine-protein OS=Saccharomyces cerevisiae x Saccharomyces kudriavzevii (strain VIN7) OX=1095631 GN=VIN7_2881 PE=3 SV=1	Saccharomyces cerevisiae x Saccharomyces kudriavzevii (strain VIN7)	536	701	45.7	62.8	3.1e-77
+827	TR	A0A1V6U039	Serine/threonine-protein OS=Penicillium steckii OX=303698 GN=PENSTE_c001G05789 PE=3 SV=1	Penicillium steckii	514	699	40.3	55.9	3.2e-77
+828	TR	A0ACC3AKD0	Serine/threonine-protein (Fragment) OS=Neophaeococcomyces mojaviensis OX=3383035 GN=LSK1 PE=3 SV=1	Neophaeococcomyces mojaviensis	1018	732	31.1	48.1	3.3e-77
+829	TR	A0A2H0ZL70	Serine/threonine-protein OS=Candidozyma auris OX=498019 GN=B9J08_00494 PE=3 SV=1	Candidozyma auris	705	714	37.2	52.3	3.3e-77
+830	TR	A0AAV9UUY5	Serine/threonine-protein OS=Orbilia brochopaga OX=3140254 GN=BUR1_1 PE=3 SV=1	Orbilia brochopaga	540	701	40.4	57.5	3.5e-77
+831	TR	A0A7H9B1Q2	Serine/threonine-protein OS=Zygotorulaspora mrakii OX=42260 GN=HG535_0D02860 PE=3 SV=1	Zygotorulaspora mrakii	327	681	42.1	62.1	3.6e-77
+832	TR	A0A0D2EPU2	Serine/threonine-protein OS=Exophiala xenobiotica OX=348802 GN=PV05_06123 PE=3 SV=1	Exophiala xenobiotica	668	711	39.0	56.2	3.6e-77
+833	TR	A0AAD9T4T5	Serine/threonine-protein OS=Diplocarpon rosae OX=946125 GN=QTJ16_001702 PE=3 SV=1	Diplocarpon rosae	603	706	40.2	58.0	3.6e-77
+834	TR	A0A9W4MU35	Serine/threonine-protein OS=Penicillium olsonii OX=99116 GN=POLS_LOCUS6060 PE=3 SV=1	Penicillium olsonii	1101	735	33.9	50.9	3.7e-77
+835	TR	A0A261XTY3	Serine/threonine-protein OS=Bifiguratus adelaidae OX=1938954 GN=BZG36_05264 PE=3 SV=1	Bifiguratus adelaidae	441	692	38.7	57.9	3.7e-77
+836	TR	Q2UA68	Serine/threonine-protein OS=Aspergillus oryzae (strain ATCC 42149 / RIB 40) OX=510516 GN=AO090102000520 PE=3 SV=1	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	338	682	44.1	64.4	3.7e-77
+837	TR	A0A0F8WTD2	Serine/threonine-protein OS=Aspergillus ochraceoroseus OX=138278 GN=AOCH_001609 PE=3 SV=1	Aspergillus ochraceoroseus	1077	734	41.5	59.3	3.8e-77
+838	TR	A0A0F8WR36	Serine/threonine-protein OS=Aspergillus rambellii OX=308745 GN=ARAM_000825 PE=3 SV=1	Aspergillus rambellii	1077	734	41.5	59.3	3.8e-77
+839	TR	A0A9W9JSS3	Serine/threonine-protein OS=Penicillium angulare OX=116970 GN=N7456_013739 PE=3 SV=1	Penicillium angulare	520	699	40.7	56.5	3.8e-77
+840	TR	A0ABR3Q5G3	Serine/threonine-protein OS=Vanrija albida OX=181172 GN=CTK1 PE=3 SV=1	Vanrija albida	1133	736	38.3	56.5	3.9e-77
+841	TR	A0ABQ8FMT0	Serine/threonine-protein OS=Batrachochytrium salamandrivorans OX=1357716 GN=BASA50_001896 PE=3 SV=1	Batrachochytrium salamandrivorans	1080	734	45.1	64.4	3.9e-77
+842	TR	A0A6C1DW03	Serine/threonine-protein OS=Saccharomyces pastorianus OX=27292 GN=CTK1_1 PE=3 SV=1	Saccharomyces pastorianus	533	700	45.7	62.8	3.9e-77
+843	TR	A0A1L9VZZ8	Serine/threonine-protein OS=Aspergillus glaucus CBS 516.65 OX=1160497 GN=ASPGLDRAFT_62978 PE=3 SV=1	Aspergillus glaucus CBS 516.65	558	702	38.5	55.4	4.1e-77
+844	TR	A0A4V5NHF7	Serine/threonine-protein OS=Cryomyces minteri OX=331657 GN=B0A49_01691 PE=3 SV=1	Cryomyces minteri	608	706	39.4	59.0	4.1e-77
+845	TR	A0ACB8QZV7	Serine/threonine-protein (Fragment) OS=Vararia minispora EC-137 OX=1314806 GN=K488DRAFT_39593 PE=3 SV=1	Vararia minispora EC-137	342	682	42.3	59.8	4.2e-77
+846	TR	A0A1Y2H8A0	Serine/threonine-protein (Fragment) OS=Catenaria anguillulae PL171 OX=765915 GN=BCR44DRAFT_126345 PE=3 SV=1	Catenaria anguillulae PL171	393	687	41.6	61.0	4.2e-77
+847	TR	A0ABR3TW55	Serine/threonine-protein OS=Diplodia intermedia OX=856260 GN=LSK1 PE=3 SV=1	Diplodia intermedia	718	714	39.5	58.1	4.3e-77
+848	TR	Q5AJH3	Serine/threonine-protein OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=CAALFM_C302260CA PE=3 SV=1	Candida albicans (strain SC5314 / ATCC MYA-2876)	586	704	37.0	53.0	4.4e-77
+849	TR	A0ABR3YFY0	Serine/threonine-protein OS=Paecilomyces lecythidis OX=3004212 GN=Plec18167_000284 PE=3 SV=1	Paecilomyces lecythidis	526	699	39.3	56.0	4.4e-77
+850	TR	A0A136J644	Serine/threonine-protein OS=Microdochium bolleyi OX=196109 GN=Micbo1qcDRAFT_202873 PE=3 SV=1	Microdochium bolleyi	574	703	39.5	57.0	4.5e-77
+851	TR	A0A194XJ58	Serine/threonine-protein OS=Mollisia scopiformis OX=149040 GN=LY89DRAFT_612377 PE=3 SV=1	Mollisia scopiformis	587	704	39.5	56.8	4.5e-77
+852	TR	A0AAN6ZHF7	Serine/threonine-protein OS=Trichocladium antarcticum OX=1450529 GN=BT67DRAFT_371257 PE=3 SV=1	Trichocladium antarcticum	751	716	34.3	50.9	4.7e-77
+853	TR	A0A9P4TL35	Serine/threonine-protein OS=Curvularia kusanoi OX=90978 GN=CTK1 PE=3 SV=1	Curvularia kusanoi	680	711	32.1	49.4	4.7e-77
+854	TR	A0A8H6XZR9	Serine/threonine-protein OS=Mycena sanguinolenta OX=230812 GN=MSAN_01708400 PE=3 SV=1	Mycena sanguinolenta	833	721	29.5	43.3	4.9e-77
+855	TR	W2RJ70	Serine/threonine-protein OS=Cyphellophora europaea (strain CBS 101466) OX=1220924 GN=HMPREF1541_08794 PE=3 SV=1	Cyphellophora europaea (strain CBS 101466)	696	712	34.3	52.0	5e-77
+856	TR	A0ACC2XML2	Serine/threonine-protein OS=Naganishia onofrii OX=1851511 GN=QFC24_002792 PE=3 SV=1	Naganishia onofrii	886	724	41.5	61.9	5e-77
+857	TR	A0ACB5SJ34	Serine/threonine-protein OS=Neofusicoccum parvum OX=310453 GN=g5059 PE=3 SV=1	Neofusicoccum parvum	409	688	42.0	62.3	5e-77
+858	TR	S3E5W9	Serine/threonine-protein OS=Glarea lozoyensis (strain ATCC 20868 / MF5171) OX=1116229 GN=GLAREA_06776 PE=3 SV=1	Glarea lozoyensis (strain ATCC 20868 / MF5171)	1159	736	31.9	48.2	5e-77
+859	TR	A0A4S8LYC9	Serine/threonine-protein OS=Dendrothele bispora (strain CBS 962.96) OX=1314807 GN=K435DRAFT_724373 PE=3 SV=1	Dendrothele bispora (strain CBS 962.96)	1103	734	33.3	49.9	5.1e-77
+860	TR	A0AAW0QD84	Serine/threonine-protein OS=Apiospora kogelbergensis OX=1337665 GN=PG999_010665 PE=3 SV=1	Apiospora kogelbergensis	670	710	33.9	51.0	5.1e-77
+861	TR	A0ABR4BQD3	Serine/threonine-protein OS=Oculimacula yallundae OX=86028 GN=VTL71DRAFT_10068 PE=3 SV=1	Oculimacula yallundae	1163	736	34.2	49.8	5.2e-77
+862	TR	A0A1E1K848	Serine/threonine-protein OS=Rhynchosporium agropyri OX=914238 GN=RAG0_04225 PE=3 SV=1	Rhynchosporium agropyri	1164	736	33.0	49.5	5.3e-77
+863	TR	A0AAD5UV07	Serine/threonine-protein OS=Meripilus lineatus OX=2056292 GN=NLI96_g9701 PE=3 SV=1	Meripilus lineatus	1604	744	33.7	49.9	5.4e-77
+864	TR	Q6BJI0	Serine/threonine-protein OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=DEHA2G02266g PE=3 SV=2	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	570	702	40.3	57.0	5.5e-77
+865	TR	A0AAJ5YYN8	Serine/threonine-protein OS=Malassezia arunalokei OX=1514897 GN=CTK1 PE=3 SV=1	Malassezia arunalokei	361	683	39.7	56.9	5.5e-77
+866	TR	M3HT47	Serine/threonine-protein OS=Candida maltosa (strain Xu316) OX=1245528 GN=G210_0990 PE=3 SV=1	Candida maltosa (strain Xu316)	730	714	40.6	59.7	5.6e-77
+867	TR	A0A2T0FBQ2	Serine/threonine-protein OS=Wickerhamiella sorbophila OX=45607 GN=B9G98_00046 PE=3 SV=1	Wickerhamiella sorbophila	489	695	44.6	62.9	5.6e-77
+868	TR	A0ACC3B272	Serine/threonine-protein OS=Aspergillus melleus OX=138277 GN=LSK1 PE=3 SV=1	Aspergillus melleus	676	710	32.5	50.1	5.9e-77
+869	TR	A0AAJ4XQM3	Serine/threonine-protein OS=Melanopsichium pennsylvanicum OX=63383 GN=MEPE_05232 PE=3 SV=1	Melanopsichium pennsylvanicum	897	724	39.8	57.0	6e-77
+870	TR	G8BJ93	Serine/threonine-protein OS=Candida parapsilosis (strain CDC 317 / ATCC MYA-4646) OX=578454 GN=CPAR2_405120 PE=3 SV=1	Candida parapsilosis (strain CDC 317 / ATCC MYA-4646)	538	699	33.4	48.0	6.1e-77
+871	TR	A0A2I2GFW4	Serine/threonine-protein OS=Aspergillus steynii IBT 23096 OX=1392250 GN=P170DRAFT_401282 PE=3 SV=1	Aspergillus steynii IBT 23096	551	700	39.7	55.9	6.3e-77
+872	TR	A0A642URA6	Serine/threonine-protein OS=Trichomonascus ciferrii OX=44093 GN=TRICI_005772 PE=3 SV=1	Trichomonascus ciferrii	722	713	33.0	47.2	6.4e-77
+873	TR	A0AAV5RLB5	Serine/threonine-protein OS=Starmerella bacillaris OX=1247836 GN=DASB73_030000 PE=3 SV=1	Starmerella bacillaris	428	689	42.0	60.0	6.4e-77
+874	TR	A0A8H4H8T1	Serine/threonine-protein OS=Aspergillus fumigatiaffinis OX=340414 GN=CNMCM6805_008881 PE=3 SV=1	Aspergillus fumigatiaffinis	408	687	41.9	59.3	6.6e-77
+875	TR	S9WWV2	Serine/threonine-protein OS=Schizosaccharomyces cryophilus (strain OY26 / ATCC MYA-4695 / CBS 11777 / NBRC 106824 / NRRL Y48691) OX=653667 GN=SPOG_04424 PE=3 SV=1	Schizosaccharomyces cryophilus (strain OY26 / ATCC MYA-4695 / CBS 11777 / NBRC 106824 / NRRL Y48691)	542	699	39.5	56.5	6.7e-77
+876	TR	A0ABR3CFZ9	Serine/threonine-protein OS=Diplodia seriata OX=420778 GN=LSK1 PE=3 SV=1	Diplodia seriata	726	713	39.5	58.1	6.9e-77
+877	TR	A0A6P8B6R0	Serine/threonine-protein OS=Pyricularia grisea OX=148305 GN=PgNI_06010 PE=3 SV=1	Pyricularia grisea	555	700	41.4	59.2	6.9e-77
+878	TR	A0A316VGQ0	Serine/threonine-protein OS=Meira miltonrushii OX=1280837 GN=FA14DRAFT_116769 PE=3 SV=1	Meira miltonrushii	431	689	39.5	56.9	7e-77
+879	TR	A0A0G2HR51	Serine/threonine-protein OS=Diaporthe ampelina OX=1214573 GN=UCDDA912_g09399 PE=3 SV=1	Diaporthe ampelina	410	687	39.4	59.7	7e-77
+880	TR	A0A8E5HP98	Serine/threonine-protein OS=Ustilaginoidea virens OX=1159556 GN=UV8b_03134 PE=3 SV=1	Ustilaginoidea virens	532	698	42.4	60.2	7.1e-77
+881	TR	A0A9P4I6Z7	Serine/threonine-protein OS=Rhizodiscina lignyota OX=1504668 GN=NA57DRAFT_43925 PE=3 SV=1	Rhizodiscina lignyota	400	686	37.4	56.2	7.1e-77
+882	TR	A0A9W9NJ56	Serine/threonine-protein OS=Penicillium citrinum OX=5077 GN=N7469_009683 PE=3 SV=1	Penicillium citrinum	500	695	40.8	56.2	7.6e-77
+883	TR	A0ACC3NJA6	Serine/threonine-protein OS=Vermiconidia calcicola OX=1690605 GN=LSK1_1 PE=3 SV=1	Vermiconidia calcicola	661	708	31.9	52.1	7.7e-77
+884	TR	A0A165KC19	Serine/threonine-protein OS=Calocera cornea HHB12733 OX=1353952 GN=CALCODRAFT_5980 PE=3 SV=1	Calocera cornea HHB12733	1147	734	43.4	62.1	8e-77
+885	TR	C4JM49	Serine/threonine-protein OS=Uncinocarpus reesii (strain UAMH 1704) OX=336963 GN=UREG_03907 PE=3 SV=1	Uncinocarpus reesii (strain UAMH 1704)	561	700	39.5	61.0	8.1e-77
+886	TR	A0ACC2TIC3	Serine/threonine-protein OS=Entomophthora muscae OX=34485 GN=CTK1_1 PE=3 SV=1	Entomophthora muscae	415	687	40.1	57.9	8.1e-77
+887	TR	A0A218YVP8	Serine/threonine-protein OS=Diplocarpon coronariae OX=2795749 GN=B2J93_6943 PE=3 SV=1	Diplocarpon coronariae	538	698	41.1	59.8	8.3e-77
+888	TR	A0A4P9ZEB5	Serine/threonine-protein (Fragment) OS=Metschnikowia bicuspidata OX=27322 GN=METBISCDRAFT_9160 PE=3 SV=1	Metschnikowia bicuspidata	345	680	43.6	62.4	8.5e-77
+889	TR	A0ABR3JS03	Serine/threonine-protein OS=Hohenbuehelia grisea OX=104357 GN=HGRIS_000295 PE=3 SV=1	Hohenbuehelia grisea	959	726	33.9	50.3	8.5e-77
+890	TR	A0A0F7TIB1	Serine/threonine-protein OS=Penicillium brasilianum OX=104259 GN=PMG11_01038 PE=3 SV=1	Penicillium brasilianum	529	697	42.3	58.3	8.9e-77
+891	TR	W7DS94	Serine/threonine-protein (Fragment) OS=Bipolaris victoriae (strain FI3) OX=930091 GN=COCVIDRAFT_114967 PE=3 SV=1	Bipolaris victoriae (strain FI3)	387	684	38.7	59.1	8.9e-77
+892	TR	A0A2B7Z813	Serine/threonine-protein OS=[Emmonsia] crescens OX=73230 GN=GX50_07684 PE=3 SV=1	[Emmonsia] crescens	553	699	39.3	55.8	9e-77
+893	TR	A0AA40B5B4	Serine/threonine-protein OS=Lasiosphaeria miniovina OX=1954250 GN=B0T26DRAFT_748270 PE=3 SV=1	Lasiosphaeria miniovina	555	699	39.9	59.3	9.4e-77
+894	TR	A0A0D2G9N9	Serine/threonine-protein OS=Phialophora macrospora OX=1851006 GN=PV04_04591 PE=3 SV=1	Phialophora macrospora	1108	732	34.3	50.9	9.6e-77
+895	TR	B9WDJ5	Serine/threonine-protein OS=Candida dubliniensis (strain CD36 / ATCC MYA-646 / CBS 7987 / NCPF 3949 / NRRL Y-17841) OX=573826 GN=Cd36_82230 PE=3 SV=1	Candida dubliniensis (strain CD36 / ATCC MYA-646 / CBS 7987 / NCPF 3949 / NRRL Y-17841)	605	703	44.2	61.0	9.6e-77
+896	TR	A0AAN6T5I5	Serine/threonine-protein OS=Parathielavia hyrcaniae OX=113614 GN=N658DRAFT_556759 PE=3 SV=1	Parathielavia hyrcaniae	544	698	40.6	61.1	9.7e-77
+897	TR	A0A4C2E0Z6	Serine/threonine-protein OS=Zygosaccharomyces mellis OX=42258 GN=CTK1_1 PE=3 SV=1	Zygosaccharomyces mellis	487	693	32.6	50.7	9.9e-77
+898	TR	A0AAN8I5T8	Serine/threonine-protein OS=Knufia fluminis OX=191047 GN=LSK1_2 PE=3 SV=1	Knufia fluminis	686	709	32.7	48.2	9.9e-77
+899	TR	A0A2T3B8R2	Serine/threonine-protein OS=Amorphotheca resinae ATCC 22711 OX=857342 GN=M430DRAFT_215060 PE=3 SV=1	Amorphotheca resinae ATCC 22711	1085	731	33.5	51.3	9.9e-77
+900	TR	A0A9X0BEV9	Serine/threonine-protein OS=Penicillium cosmopolitanum OX=1131564 GN=N7509_001110 PE=3 SV=1	Penicillium cosmopolitanum	522	696	40.4	56.5	1e-76
+901	TR	W6YBK6	Serine/threonine-protein (Fragment) OS=Cochliobolus carbonum (strain 26-R-13) OX=930089 GN=COCCADRAFT_92192 PE=3 SV=1	Cochliobolus carbonum (strain 26-R-13)	391	684	38.7	59.1	1e-76
+902	TR	A0A9W9F7Q9	Serine/threonine-protein OS=Penicillium argentinense OX=1131581 GN=N7532_007445 PE=3 SV=1	Penicillium argentinense	511	695	39.7	55.6	1e-76
+903	TR	A0A316YGJ0	Serine/threonine-protein OS=Acaromyces ingoldii OX=215250 GN=FA10DRAFT_272742 PE=3 SV=1	Acaromyces ingoldii	341	679	40.9	59.7	1e-76
+904	TR	A0AAD6GZ88	Serine/threonine-protein OS=Penicillium hetheringtonii OX=911720 GN=N7450_002267 PE=3 SV=1	Penicillium hetheringtonii	512	695	40.8	56.2	1e-76
+905	TR	A0AAN4PM11	Serine/threonine-protein OS=Aspergillus lentulus OX=293939 GN=IFM60648_00355 PE=3 SV=1	Aspergillus lentulus	1092	731	36.3	55.7	1.1e-76
+906	TR	A0AA38NM70	Serine/threonine-protein OS=Lentinula aff. detonsa OX=2804958 GN=GGU10DRAFT_291569 PE=3 SV=1	Lentinula aff. detonsa	585	701	37.0	54.4	1.1e-76
+907	TR	A0A1V6UCJ0	Serine/threonine-protein OS=Penicillium coprophilum OX=36646 GN=PENCOP_c012G04874 PE=3 SV=1	Penicillium coprophilum	549	698	40.6	57.9	1.1e-76
+908	TR	A0ABR2VXP8	Serine/threonine-protein OS=Basidiobolus ranarum OX=34480 GN=BUR1_1 PE=3 SV=1	Basidiobolus ranarum	285	673	50.8	67.3	1.1e-76
+909	TR	A0A6A6V3K8	Serine/threonine-protein OS=Sporormia fimetaria CBS 119925 OX=1340428 GN=M011DRAFT_470557 PE=3 SV=1	Sporormia fimetaria CBS 119925	562	699	39.8	56.0	1.1e-76
+910	TR	A0ABR2VNC8	Serine/threonine-protein OS=Basidiobolus ranarum OX=34480 GN=CDK11B PE=3 SV=1	Basidiobolus ranarum	470	691	39.4	55.7	1.1e-76
+911	TR	A0ABQ7P6N8	Serine/threonine-protein (Fragment) OS=Claviceps arundinis OX=1623583 GN=BUR1 PE=3 SV=1	Claviceps arundinis	540	697	43.2	61.3	1.2e-76
+912	TR	A0AAD5FWU7	Serine/threonine-protein OS=Candida theae OX=1198502 GN=KGF57_004662 PE=3 SV=1	Candida theae	552	698	34.5	49.5	1.2e-76
+913	TR	A0A9P8PYI6	Serine/threonine-protein OS=Wickerhamomyces mucosus OX=1378264 GN=WICMUC_000690 PE=3 SV=1	Wickerhamomyces mucosus	507	694	41.8	60.5	1.2e-76
+914	TR	A0ABR1YGJ1	Serine/threonine-protein OS=Phyllosticta capitalensis OX=121624 GN=HDK90DRAFT_418962 PE=3 SV=1	Phyllosticta capitalensis	409	685	39.4	57.4	1.3e-76
+915	TR	E4UV16	Serine/threonine-protein OS=Arthroderma gypseum (strain ATCC MYA-4604 / CBS 118893) OX=535722 GN=MGYG_04138 PE=3 SV=1	Arthroderma gypseum (strain ATCC MYA-4604 / CBS 118893)	567	699	41.8	57.4	1.3e-76
+916	TR	A0A8J5UWU4	Serine/threonine-protein OS=[Candida] subhashii OX=561895 GN=J8A68_003260 PE=3 SV=1	[Candida] subhashii	593	701	43.1	61.8	1.3e-76
+917	TR	W9YRD4	Serine/threonine-protein OS=Capronia epimyces CBS 606.96 OX=1182542 GN=A1O3_00785 PE=3 SV=1	Capronia epimyces CBS 606.96	758	713	36.2	55.4	1.3e-76
+918	TR	D4DFL3	Serine/threonine-protein OS=Trichophyton verrucosum (strain HKI 0517) OX=663202 GN=TRV_05964 PE=3 SV=1	Trichophyton verrucosum (strain HKI 0517)	607	702	34.2	50.5	1.4e-76
+919	TR	A0A9W9RT04	Serine/threonine-protein OS=Penicillium brevicompactum OX=5074 GN=N7541_004097 PE=3 SV=1	Penicillium brevicompactum	522	695	43.5	59.8	1.4e-76
+920	TR	A0A1G4JUF5	Serine/threonine-protein OS=Lachancea dasiensis OX=1072105 GN=LADA_0G09494G PE=3 SV=1	Lachancea dasiensis	455	689	39.2	56.7	1.4e-76
+921	TR	A0A2P7YZ21	Serine/threonine-protein OS=Candidozyma pseudohaemuli OX=418784 GN=C7M61_000893 PE=3 SV=1	Candidozyma pseudohaemuli	661	706	34.0	52.1	1.4e-76
+922	TR	A0ABQ0G9E1	Serine/threonine-protein OS=Madurella fahalii OX=1157608 GN=LSK1 PE=3 SV=1	Madurella fahalii	777	714	28.4	44.4	1.4e-76
+923	TR	A0A1Y2H1W3	Serine/threonine-protein OS=Lobosporangium transversale OX=64571 GN=BCR41DRAFT_345472 PE=3 SV=1	Lobosporangium transversale	424	686	38.9	58.4	1.4e-76
+924	TR	A0A1V6QG08	Serine/threonine-protein OS=Penicillium antarcticum OX=416450 GN=PENANT_c004G04898 PE=3 SV=1	Penicillium antarcticum	1072	729	33.6	49.3	1.5e-76
+925	TR	A0A6A6SFZ5	Serine/threonine-protein OS=Massarina eburnea CBS 473.64 OX=1395130 GN=P280DRAFT_387378 PE=3 SV=1	Massarina eburnea CBS 473.64	385	682	41.7	62.7	1.6e-76
+926	TR	A0A318Z116	Serine/threonine-protein OS=Aspergillus saccharolyticus JOP 1030-1 OX=1450539 GN=BP01DRAFT_361075 PE=3 SV=1	Aspergillus saccharolyticus JOP 1030-1	551	697	41.8	58.2	1.6e-76
+927	TR	A0A5N6TLY9	Serine/threonine-protein OS=Aspergillus avenaceus OX=36643 GN=BDV25DRAFT_160513 PE=3 SV=1	Aspergillus avenaceus	540	696	43.3	60.2	1.6e-76
+928	TR	M2U0R5	Serine/threonine-protein (Fragment) OS=Cochliobolus heterostrophus (strain C5 / ATCC 48332 / race O) OX=701091 GN=COCHEDRAFT_65498 PE=3 SV=1	Cochliobolus heterostrophus (strain C5 / ATCC 48332 / race O)	387	682	39.3	59.6	1.7e-76
+929	TR	A0A3N4KD40	Serine/threonine-protein OS=Morchella conica CCBAS932 OX=1392247 GN=P167DRAFT_343241 PE=3 SV=1	Morchella conica CCBAS932	1270	735	45.2	64.4	1.7e-76
+930	TR	A0A0D1BZA2	Serine/threonine-protein OS=Mycosarcoma maydis OX=5270 GN=UMAG_04925 PE=3 SV=1	Mycosarcoma maydis	887	720	42.9	64.9	1.7e-76
+931	TR	A0A1E3BJ40	Serine/threonine-protein OS=Aspergillus cristatus OX=573508 GN=SI65_03970 PE=3 SV=1	Aspergillus cristatus	1080	729	37.0	55.1	1.7e-76
+932	TR	A0A9P8T6Q8	Serine/threonine-protein OS=Ogataea philodendri OX=1378263 GN=OGAPHI_003004 PE=3 SV=1	Ogataea philodendri	644	704	41.3	60.9	1.8e-76
+933	TR	A0A3N4IPZ5	Serine/threonine-protein (Fragment) OS=Ascobolus immersus RN42 OX=1160509 GN=BJ508DRAFT_193859 PE=3 SV=1	Ascobolus immersus RN42	300	673	42.7	65.4	1.8e-76
+934	TR	A0AAN7D1W6	Serine/threonine-protein OS=Corynascus novoguineensis OX=1126955 GN=C7999DRAFT_28463 PE=3 SV=1	Corynascus novoguineensis	557	697	39.0	57.9	1.8e-76
+935	TR	N4X483	Serine/threonine-protein (Fragment) OS=Cochliobolus heterostrophus (strain C4 / ATCC 48331 / race T) OX=665024 GN=COCC4DRAFT_130963 PE=3 SV=1	Cochliobolus heterostrophus (strain C4 / ATCC 48331 / race T)	391	682	39.3	59.6	1.9e-76
+936	TR	A0A1L7X1M3	Serine/threonine-protein OS=Phialocephala subalpina OX=576137 GN=PAC_08820 PE=3 SV=1	Phialocephala subalpina	595	700	39.3	57.3	1.9e-76
+937	TR	A0A3G2S693	Serine/threonine-protein OS=Malassezia restricta (strain ATCC 96810 / NBRC 103918 / CBS 7877) OX=425264 GN=lsk1_1 PE=3 SV=1	Malassezia restricta (strain ATCC 96810 / NBRC 103918 / CBS 7877)	361	679	39.4	56.9	1.9e-76
+938	TR	A0A9W9JTE3	Serine/threonine-protein OS=Penicillium alfredii OX=1506179 GN=NUU61_009668 PE=3 SV=1	Penicillium alfredii	500	692	44.5	59.4	1.9e-76
+939	TR	A0A6A6A3V9	Serine/threonine-protein OS=Dothidotthia symphoricarpi CBS 119687 OX=1392245 GN=P153DRAFT_300233 PE=3 SV=1	Dothidotthia symphoricarpi CBS 119687	435	686	35.3	54.6	2e-76
+940	TR	A0A6A6G522	Serine/threonine-protein OS=Elsinoe ampelina OX=302913 GN=BDZ85DRAFT_203943 PE=3 SV=1	Elsinoe ampelina	393	682	39.5	57.0	2e-76
+941	TR	A0ABP0ECN6	Serine/threonine-protein OS=[Candida] anglica OX=148631 GN=CTK1 PE=3 SV=1	[Candida] anglica	636	703	43.8	58.7	2e-76
+942	TR	A0A0N1HBK0	Serine/threonine-protein OS=Cyphellophora attinorum OX=1664694 GN=AB675_9103 PE=3 SV=1	Cyphellophora attinorum	623	702	42.0	57.8	2e-76
+943	TR	A0AAN6PAW5	Serine/threonine-protein OS=Parachaetomium inaequale OX=2588326 GN=C8A01DRAFT_49980 PE=3 SV=1	Parachaetomium inaequale	735	710	33.8	48.7	2.1e-76
+944	TR	A0AA38VM19	Serine/threonine-protein OS=Coniochaeta hoffmannii OX=91930 GN=NKR19_g3466 PE=3 SV=1	Coniochaeta hoffmannii	679	706	32.7	51.5	2.1e-76
+945	TR	A0A6A5TQC8	Serine/threonine-protein (Fragment) OS=Byssothecium circinans OX=147558 GN=CC80DRAFT_418028 PE=3 SV=1	Byssothecium circinans	385	681	42.0	61.4	2.1e-76
+946	TR	A0AAD5RNQ0	Serine/threonine-protein kinase BUR1 OS=Zalerion maritima OX=339359 GN=MKZ38_002542 PE=3 SV=1	Zalerion maritima	551	696	39.9	59.1	2.1e-76
+947	TR	A0AAF0DD81	Serine/threonine-protein OS=Emydomyces testavorans OX=2070801 GN=BUR1 PE=3 SV=1	Emydomyces testavorans	551	696	40.8	57.1	2.1e-76
+948	TR	A0A4P9WL16	Serine/threonine-protein (Fragment) OS=Blyttiomyces helicus OX=388810 GN=BDK51DRAFT_5830 PE=3 SV=1	Blyttiomyces helicus	316	674	45.2	65.4	2.2e-76
+949	TR	Q6FW93	Serine/threonine-protein OS=Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) OX=284593 GN=CAGL0D02002g PE=3 SV=1	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)	553	696	44.2	59.2	2.2e-76
+950	TR	A0AAD6MWW1	Serine/threonine-protein OS=Penicillium malachiteum OX=1324776 GN=N7493_004325 PE=3 SV=1	Penicillium malachiteum	518	693	40.2	56.1	2.3e-76
+951	TR	A0A5N7BG78	Serine/threonine-protein OS=Aspergillus bertholletiae OX=1226010 GN=BDV26DRAFT_279260 PE=3 SV=1	Aspergillus bertholletiae	802	714	38.6	58.0	2.3e-76
+952	TR	A0ABY0H028	Serine/threonine-protein OS=Monosporascus cannonballus OX=155416 GN=DL762_008199 PE=3 SV=1	Monosporascus cannonballus	507	692	38.3	58.1	2.3e-76
+953	TR	A0A2T3ALJ9	Serine/threonine-protein OS=Coniella lustricola OX=2025994 GN=BD289DRAFT_359633 PE=3 SV=1	Coniella lustricola	756	711	31.8	47.7	2.3e-76
+954	TR	W9Y1Y4	Serine/threonine-protein OS=Capronia epimyces CBS 606.96 OX=1182542 GN=A1O3_03444 PE=3 SV=1	Capronia epimyces CBS 606.96	728	709	39.7	56.3	2.4e-76
+955	TR	A0ABR3SR35	Serine/threonine-protein OS=Neofusicoccum ribis OX=45134 GN=BUR1 PE=3 SV=1	Neofusicoccum ribis	581	698	39.0	54.9	2.5e-76
+956	TR	A0A9P7QM11	Serine/threonine-protein OS=Claviceps aff. purpurea OX=1967640 GN=BUR1 PE=3 SV=1	Claviceps aff. purpurea	557	696	43.2	61.3	2.5e-76
+957	TR	A0A9W8K0X0	Serine/threonine-protein OS=Agrocybe chaxingu OX=84603 GN=NLJ89_g5613 PE=3 SV=1	Agrocybe chaxingu	659	704	38.7	55.4	2.5e-76
+958	TR	A0A9P7SID7	Serine/threonine-protein OS=Claviceps pazoutovae OX=1649127 GN=BUR1 PE=3 SV=1	Claviceps pazoutovae	558	696	43.2	61.3	2.6e-76
+959	TR	A0AAD6C2F4	Serine/threonine-protein OS=Penicillium daleae OX=63821 GN=N7458_007488 PE=3 SV=1	Penicillium daleae	535	694	41.8	57.7	2.6e-76
+960	TR	M1WA40	Serine/threonine-protein OS=Claviceps purpurea (strain 20.1) OX=1111077 GN=CPUR_06690 PE=3 SV=1	Claviceps purpurea (strain 20.1)	559	696	43.2	61.3	2.6e-76
+961	TR	A0A074VVN1	Serine/threonine-protein OS=Aureobasidium melanogenum (strain CBS 110374) OX=1043003 GN=M437DRAFT_75966 PE=3 SV=1	Aureobasidium melanogenum (strain CBS 110374)	548	695	43.3	60.2	2.7e-76
+962	TR	A1C520	Serine/threonine-protein OS=Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107) OX=344612 GN=ACLA_001990 PE=3 SV=1	Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)	1072	727	37.9	58.1	2.8e-76
+963	TR	A0A9Q5HQA4	Serine/threonine-protein OS=Sanghuangporus baumii OX=108892 GN=A7U60_g9115 PE=3 SV=1	Sanghuangporus baumii	939	721	38.1	55.3	2.8e-76
+964	TR	G8BW40	Serine/threonine-protein OS=Tetrapisispora phaffii (strain ATCC 24235 / CBS 4417 / NBRC 1672 / NRRL Y-8282 / UCD 70-5) OX=1071381 GN=TPHA0G02800 PE=3 SV=1	Tetrapisispora phaffii (strain ATCC 24235 / CBS 4417 / NBRC 1672 / NRRL Y-8282 / UCD 70-5)	503	691	40.6	61.3	2.8e-76
+965	TR	A0ABQ8QBQ4	Serine/threonine-protein OS=Lentinula boryana OX=40481 GN=F5050DRAFT_1572596 PE=3 SV=1	Lentinula boryana	625	701	36.8	54.8	2.8e-76
+966	TR	H6BSG0	Serine/threonine-protein OS=Exophiala dermatitidis (strain ATCC 34100 / CBS 525.76 / NIH/UT8656) OX=858893 GN=HMPREF1120_02343 PE=3 SV=1	Exophiala dermatitidis (strain ATCC 34100 / CBS 525.76 / NIH/UT8656)	679	705	32.7	48.6	2.9e-76
+967	TR	A0AA39Z584	Serine/threonine-protein OS=Lasiodiplodia hormozganensis OX=869390 GN=ptkA PE=3 SV=1	Lasiodiplodia hormozganensis	395	681	42.2	59.9	2.9e-76
+968	TR	E5ABU8	Serine/threonine-protein OS=Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8) OX=985895 GN=LEMA_P022690.1 PE=3 SV=1	Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8)	551	695	38.5	56.4	2.9e-76
+969	TR	A0AAV5QSR4	Serine/threonine-protein OS=Saccharomycopsis crataegensis OX=43959 GN=DASC09_049310 PE=3 SV=1	Saccharomycopsis crataegensis	653	703	35.1	56.5	3e-76
+970	TR	M2MRP7	Serine/threonine-protein OS=Baudoinia panamericana (strain UAMH 10762) OX=717646 GN=BAUCODRAFT_75399 PE=3 SV=1	Baudoinia panamericana (strain UAMH 10762)	483	689	34.2	55.3	3e-76
+971	TR	A0A5N6UTM9	Serine/threonine-protein OS=Aspergillus tamarii OX=41984 GN=BDV40DRAFT_289022 PE=3 SV=1	Aspergillus tamarii	801	713	37.8	57.3	3e-76
+972	TR	A0A135LL53	Serine/threonine-protein OS=Penicillium patulum OX=5078 GN=PGRI_055980 PE=3 SV=1	Penicillium patulum	711	707	38.3	58.1	3.1e-76
+973	TR	A0A9P9DKP6	Serine/threonine-protein OS=Dendryphion nanum OX=256645 GN=B0J11DRAFT_437268 PE=3 SV=1	Dendryphion nanum	554	695	41.8	60.9	3.1e-76
+974	TR	A0A0D2FKL3	Serine/threonine-protein OS=Phialophora macrospora OX=1851006 GN=PV04_04591 PE=3 SV=1	Phialophora macrospora	1140	729	34.1	50.2	3.2e-76
+975	TR	G4MNE1	Serine/threonine-protein OS=Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) OX=242507 GN=MGG_06928 PE=3 SV=1	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	555	695	41.1	58.9	3.2e-76
+976	TR	A0ABQ8NBL6	Serine/threonine-protein OS=Pyricularia grisea OX=148305 GN=STK1 PE=3 SV=1	Pyricularia grisea	555	695	41.1	58.9	3.2e-76
+977	TR	A0A0L0S1C6	Serine/threonine-protein OS=Allomyces macrogynus (strain ATCC 38327) OX=578462 GN=AMAG_02044 PE=3 SV=1	Allomyces macrogynus (strain ATCC 38327)	421	683	44.0	61.8	3.3e-76
+978	TR	A0A1L9SNT1	Serine/threonine-protein OS=Penicilliopsis zonata CBS 506.65 OX=1073090 GN=ASPZODRAFT_129064 PE=3 SV=1	Penicilliopsis zonata CBS 506.65	557	695	43.8	59.8	3.4e-76
+979	TR	A0A8G1RGJ2	Serine/threonine-protein OS=Aspergillus fijiensis CBS 313.89 OX=1448319 GN=BO72DRAFT_531860 PE=3 SV=1	Aspergillus fijiensis CBS 313.89	522	692	42.5	58.6	3.4e-76
+980	TR	A0A2T2P1N6	Serine/threonine-protein (Fragment) OS=Corynespora cassiicola Philippines OX=1448308 GN=BS50DRAFT_468737 PE=3 SV=1	Corynespora cassiicola Philippines	352	676	41.9	60.2	3.7e-76
+981	TR	A5DZG5	Serine/threonine-protein OS=Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) OX=379508 GN=LELG_02752 PE=3 SV=1	Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239)	764	710	41.7	61.9	3.7e-76
+982	TR	A0AAW0D7G0	Serine/threonine-protein (Fragment) OS=Favolaschia claudopus OX=2862362 GN=R3P38DRAFT_2507513 PE=3 SV=1	Favolaschia claudopus	537	693	40.2	58.2	3.7e-76
+983	TR	A0A8J2T6I4	Serine/threonine-protein OS=Zygosaccharomyces bailii (strain CLIB 213 / ATCC 58445 / CBS 680 / BCRC 21525 / NBRC 1098 / NCYC 1416 / NRRL Y-2227) OX=1333698 GN=BN860_06370g PE=3 SV=1	Zygosaccharomyces bailii (strain CLIB 213 / ATCC 58445 / CBS 680 / BCRC 21525 / NBRC 1098 / NCYC 1416 / NRRL Y-2227)	480	688	36.2	54.9	3.8e-76
+984	TR	C5DGD2	Serine/threonine-protein OS=Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284) OX=559295 GN=KLTH0D04356g PE=3 SV=1	Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284)	469	687	43.0	62.7	3.8e-76
+985	TR	A0A507CRM9	Serine/threonine-protein OS=Synchytrium endobioticum OX=286115 GN=SeMB42_g05404 PE=3 SV=1	Synchytrium endobioticum	920	719	40.7	58.0	3.8e-76
+986	TR	A0AAN6KJ15	Serine/threonine-protein OS=Friedmanniomyces endolithicus OX=329885 GN=BUR1_2 PE=3 SV=1	Friedmanniomyces endolithicus	587	697	40.1	58.3	3.9e-76
+987	TR	A0A1L9WKM8	Serine/threonine-protein OS=Aspergillus aculeatus (strain ATCC 16872 / CBS 172.66 / WB 5094) OX=690307 GN=ASPACDRAFT_33731 PE=3 SV=1	Aspergillus aculeatus (strain ATCC 16872 / CBS 172.66 / WB 5094)	552	694	42.5	58.6	4e-76
+988	TR	M5G6S7	Serine/threonine-protein OS=Dacryopinax primogenitus OX=1858805 GN=DACRYDRAFT_56259 PE=3 SV=1	Dacryopinax primogenitus	552	694	35.0	51.8	4e-76
+989	TR	A0A317XPG4	Serine/threonine-protein OS=Testicularia cyperi OX=1882483 GN=BCV70DRAFT_201387 PE=3 SV=1	Testicularia cyperi	1059	725	41.3	59.0	4.3e-76
+990	TR	A0A0G2GG52	Serine/threonine-protein OS=Phaeomoniella chlamydospora OX=158046 GN=UCRPC4_g03230 PE=3 SV=1	Phaeomoniella chlamydospora	1665	737	32.5	51.8	4.3e-76
+991	TR	A0A8T8X7J2	Serine/threonine-protein OS=Aspergillus japonicus CBS 114.51 OX=1448312 GN=BO86DRAFT_357773 PE=3 SV=1	Aspergillus japonicus CBS 114.51	532	692	42.5	58.9	4.5e-76
+992	TR	A0A9P8Q0Z8	Serine/threonine-protein OS=Wickerhamomyces pijperi OX=599730 GN=WICPIJ_007818 PE=3 SV=1	Wickerhamomyces pijperi	743	708	31.9	48.5	4.5e-76
+993	TR	A0AAF0IYC4	Serine/threonine-protein OS=Malassezia caprae OX=1381934 GN=CTK1 PE=3 SV=1	Malassezia caprae	951	720	41.4	60.5	4.5e-76
+994	TR	A0AAN9US95	Serine/threonine-protein OS=Diatrype stigma OX=117547 GN=BUR1 PE=3 SV=1	Diatrype stigma	582	696	42.0	61.2	4.6e-76
+995	TR	A0A9P3EU11	Serine/threonine-protein OS=Aspergillus pseudoviridinutans OX=1517512 GN=Asppvi_004171 PE=3 SV=1	Aspergillus pseudoviridinutans	1067	725	37.4	56.8	4.7e-76
+996	TR	A0A0D2FCF8	Serine/threonine-protein OS=Exophiala xenobiotica OX=348802 GN=PV05_02329 PE=3 SV=1	Exophiala xenobiotica	1068	725	35.2	53.7	4.7e-76
+997	TR	A0ACC3MTD3	Serine/threonine-protein OS=Vermiconidia calcicola OX=1690605 GN=LSK1_2 PE=3 SV=1	Vermiconidia calcicola	661	702	31.5	52.0	4.8e-76
+998	TR	A0A1E3BRI1	Serine/threonine-protein OS=Aspergillus cristatus OX=573508 GN=SI65_01171 PE=3 SV=1	Aspergillus cristatus	489	688	41.3	56.8	4.8e-76
+999	TR	A0AAJ0FRZ6	Serine/threonine-protein OS=Phialemonium atrogriseum OX=1093897 GN=QBC33DRAFT_528814 PE=3 SV=1	Phialemonium atrogriseum	548	693	42.3	61.9	5e-76
+1000	TR	S7S4J7	Serine/threonine-protein OS=Gloeophyllum trabeum (strain ATCC 11539 / FP-39264 / Madison 617) OX=670483 GN=GLOTRDRAFT_135452 PE=3 SV=1	Gloeophyllum trabeum (strain ATCC 11539 / FP-39264 / Madison 617)	435	683	39.2	55.0	5e-76

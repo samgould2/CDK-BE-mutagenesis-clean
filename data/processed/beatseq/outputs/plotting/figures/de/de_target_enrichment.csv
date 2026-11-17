@@ -1,0 +1,10 @@
+target,module,active,n_guide_arms,pct_active,median_de_genes,total_de_genes,p,fdr
+CDK8,Mediator,4,28,14.3,0.0,106,0.0038590524553123676,0.034731472097811314
+CDK6,cell cycle,1,30,3.3,0.0,17,0.5899696596697758,1.0
+CDK13,CDK12/13,1,32,3.1,0.0,30,0.615051598866521,1.0
+CDK4,cell cycle,1,32,3.1,0.0,43,0.615051598866521,1.0
+CDK9,transcription,1,38,2.6,0.0,56,0.6824297581134116,1.0
+CDK12,CDK12/13,0,42,0.0,0.0,6,1.0,1.0
+CDK19,Mediator,0,28,0.0,0.0,4,1.0,1.0
+CDK2,cell cycle,0,24,0.0,0.0,0,1.0,1.0
+CDK7,transcription,0,34,0.0,0.0,2,1.0,1.0

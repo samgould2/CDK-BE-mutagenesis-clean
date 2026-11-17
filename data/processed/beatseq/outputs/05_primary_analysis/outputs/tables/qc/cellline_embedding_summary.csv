@@ -1,0 +1,3 @@
+cell_line,cells,genes,arms,gem_groups,n_hvg,n_pcs,n_neighbors,leiden_clusters,s_genes_present,g2m_genes_present,frac_G1,frac_S,frac_G2M,mean_degree,min_degree,isolated_cells,frac_clusters_editor_pure
+A549,84466,38606,2,4,2000,50,15,14,41,48,0.1480122179338432,0.27730684535789546,0.5746809367082613,23.03021334027893,14,0,0.0
+T47D,17339,38606,2,2,2000,50,15,10,41,48,0.30065171001787877,0.28467616356191244,0.4146721264202088,23.359593978891517,14,0,0.0

@@ -1,0 +1,757 @@
+gene,KLIFS_position,KLIFS_label,region,human_position,human_residue,klifs_aa,kinome_consensus,consensus_residue,ortholog_conservation,pct_identical_to_human,kinome_conservation,mutability_class,site_class,n_seqs_with_residue,n_clades_covered,coverage
+CDK7,1,I:1,I,16,D,D,E,Q,0.4054,25.0904,0.22,Tolerant,Tolerant in evolution,960,11,0.8872
+CDK8,1,I:1,I,25,C,C,E,C,0.4335,39.6214,0.22,Tolerant,Tolerant in evolution,936,10,0.959
+CDK19,1,I:1,I,25,C,C,E,C,0.743,74.0356,0.22,Tolerant,Intermediate,335,7,0.3425
+CDK9,1,I:1,I,23,A,A,E,E,0.396,22.0239,0.22,Tolerant,Tolerant in evolution,1050,11,0.8743
+CDK12,1,I:1,I,731,G,G,E,G,0.4409,32.4352,0.22,Tolerant,Tolerant in evolution,955,10,0.9917
+CDK13,1,I:1,I,709,G,G,E,G,0.4919,39.1695,0.22,Tolerant,Intermediate,960,10,0.9677
+CDK2,1,I:1,I,8,E,E,E,E,0.7595,82.2485,0.22,Tolerant,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,1,I:1,I,10,A,A,E,E,0.7242,42.9922,0.22,Tolerant,Intermediate,1009,10,1.0
+CDK6,1,I:1,I,17,A,A,E,E,0.7284,46.0034,0.22,Tolerant,Intermediate,997,10,0.995
+CDK7,2,I:2,I,17,F,F,V,K,0.6224,27.9248,0.1687,Tolerant,Intermediate,961,11,0.8882
+CDK8,2,I:2,I,26,K,K,V,G,0.6929,42.2509,0.1687,Tolerant,Intermediate,936,10,0.959
+CDK19,2,I:2,I,26,K,K,V,K,0.7729,76.9307,0.1687,Tolerant,"CDK-specific, evolutionarily fixed",335,7,0.3425
+CDK9,2,I:2,I,24,K,K,V,K,0.7438,70.6911,0.1687,Tolerant,Intermediate,1051,11,0.8751
+CDK12,2,I:2,I,732,I,I,V,Q,0.7247,11.6378,0.1687,Tolerant,Intermediate,957,10,0.9938
+CDK13,2,I:2,I,710,I,I,V,Q,0.7147,20.4049,0.1687,Tolerant,Intermediate,960,10,0.9677
+CDK2,2,I:2,I,9,K,K,V,K,0.9061,94.6732,0.1687,Tolerant,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,2,I:2,I,11,E,E,V,K,0.7258,41.6739,0.1687,Tolerant,Intermediate,1009,10,1.0
+CDK6,2,I:2,I,18,E,E,V,K,0.7454,45.3222,0.1687,Tolerant,Intermediate,997,10,0.995
+CDK7,3,I:3,I,18,L,L,L,L,0.6385,48.0711,0.5755,Strongly constrained,Intermediate,959,11,0.8863
+CDK8,3,I:3,I,27,V,V,L,I,0.7325,38.9759,0.5755,Strongly constrained,Intermediate,934,10,0.957
+CDK19,3,I:3,I,27,V,V,L,I,0.7441,26.1626,0.5755,Strongly constrained,Intermediate,793,10,0.8108
+CDK9,3,I:3,I,25,I,I,L,L,0.6527,43.384,0.5755,Strongly constrained,Intermediate,1052,11,0.8759
+CDK12,3,I:3,I,733,I,I,L,V,0.7598,25.9682,0.5755,Strongly constrained,Universally immutable (catalytic core),957,10,0.9938
+CDK13,3,I:3,I,711,I,I,L,V,0.7166,25.2737,0.5755,Strongly constrained,Intermediate,987,10,0.995
+CDK2,3,I:3,I,10,I,I,L,I,0.7096,74.9931,0.5755,Strongly constrained,Intermediate,1045,11,0.9962
+CDK4,3,I:3,I,12,I,I,L,I,0.7426,72.7082,0.5755,Strongly constrained,Intermediate,1009,10,1.0
+CDK6,3,I:3,I,19,I,I,L,I,0.7926,80.9554,0.5755,Strongly constrained,Universally immutable (catalytic core),997,10,0.995
+CDK7,4,g.l:4,g.l,19,G,G,G,G,0.992,99.6539,0.7578,Immutable (invariant),Universally immutable (catalytic core),959,11,0.8863
+CDK8,4,g.l:4,g.l,28,G,G,G,G,0.7268,69.2724,0.7578,Immutable (invariant),Intermediate,935,10,0.958
+CDK19,4,g.l:4,g.l,28,G,G,G,S,0.6517,36.6063,0.7578,Immutable (invariant),Intermediate,793,10,0.8108
+CDK9,4,g.l:4,g.l,26,G,G,G,G,0.9392,95.9707,0.7578,Immutable (invariant),Universally immutable (catalytic core),1052,11,0.8759
+CDK12,4,g.l:4,g.l,734,G,G,G,G,0.9983,99.9388,0.7578,Immutable (invariant),Universally immutable (catalytic core),957,10,0.9938
+CDK13,4,g.l:4,g.l,712,G,G,G,G,0.998,99.9253,0.7578,Immutable (invariant),Universally immutable (catalytic core),987,10,0.995
+CDK2,4,g.l:4,g.l,11,G,G,G,G,0.9003,91.5588,0.7578,Immutable (invariant),Universally immutable (catalytic core),1047,11,0.9981
+CDK4,4,g.l:4,g.l,13,G,G,G,G,0.9806,98.9524,0.7578,Immutable (invariant),Universally immutable (catalytic core),1009,10,1.0
+CDK6,4,g.l:4,g.l,20,G,G,G,G,0.9954,99.8278,0.7578,Immutable (invariant),Universally immutable (catalytic core),996,10,0.994
+CDK7,5,g.l:5,g.l,20,E,E,K,E,0.9162,95.5173,0.2033,Tolerant,"CDK-specific, evolutionarily fixed",960,11,0.8872
+CDK8,5,g.l:5,g.l,29,R,R,K,R,0.5598,42.4931,0.2033,Tolerant,Intermediate,935,10,0.958
+CDK19,5,g.l:5,g.l,29,R,R,K,S,0.5443,22.2947,0.2033,Tolerant,Intermediate,793,10,0.8108
+CDK9,5,g.l:5,g.l,27,Q,Q,K,E,0.8123,22.8765,0.2033,Tolerant,"CDK-specific, evolutionarily fixed",1053,11,0.8768
+CDK12,5,g.l:5,g.l,735,E,E,K,E,0.949,97.2467,0.2033,Tolerant,"CDK-specific, evolutionarily fixed",957,10,0.9938
+CDK13,5,g.l:5,g.l,713,E,E,K,E,0.9213,95.5668,0.2033,Tolerant,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,5,g.l:5,g.l,12,E,E,K,E,0.7896,84.7844,0.2033,Tolerant,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,5,g.l:5,g.l,14,V,V,K,E,0.6602,35.3304,0.2033,Tolerant,Intermediate,1009,10,1.0
+CDK6,5,g.l:5,g.l,21,E,E,K,E,0.9214,95.4371,0.2033,Tolerant,"CDK-specific, evolutionarily fixed",996,10,0.994
+CDK7,6,g.l:6,g.l,21,G,G,G,G,0.9762,98.7206,0.8414,Immutable (invariant),Universally immutable (catalytic core),959,11,0.8863
+CDK8,6,g.l:6,g.l,30,G,G,G,G,0.9913,99.6026,0.8414,Immutable (invariant),Universally immutable (catalytic core),935,10,0.958
+CDK19,6,g.l:6,g.l,30,G,G,G,G,0.9212,94.2757,0.8414,Immutable (invariant),Universally immutable (catalytic core),793,10,0.8108
+CDK9,6,g.l:6,g.l,28,G,G,G,G,0.9417,96.0598,0.8414,Immutable (invariant),Universally immutable (catalytic core),1052,11,0.8759
+CDK12,6,g.l:6,g.l,736,G,G,G,G,1.0,100.0,0.8414,Immutable (invariant),Universally immutable (catalytic core),957,10,0.9938
+CDK13,6,g.l:6,g.l,714,G,G,G,G,1.0,100.0,0.8414,Immutable (invariant),Universally immutable (catalytic core),988,10,0.996
+CDK2,6,g.l:6,g.l,13,G,G,G,G,0.9025,91.6599,0.8414,Immutable (invariant),Universally immutable (catalytic core),1046,11,0.9971
+CDK4,6,g.l:6,g.l,15,G,G,G,G,1.0,100.0,0.8414,Immutable (invariant),Universally immutable (catalytic core),1009,10,1.0
+CDK6,6,g.l:6,g.l,22,G,G,G,G,0.9967,99.8703,0.8414,Immutable (invariant),Universally immutable (catalytic core),998,10,0.996
+CDK7,7,g.l:7,g.l,22,Q,Q,A,T,0.7,25.9858,0.2117,Tolerant,Intermediate,977,11,0.903
+CDK8,7,g.l:7,g.l,31,T,T,A,T,0.9503,97.1626,0.2117,Tolerant,"CDK-specific, evolutionarily fixed",935,10,0.958
+CDK19,7,g.l:7,g.l,31,T,T,A,T,0.8936,92.9184,0.2117,Tolerant,"CDK-specific, evolutionarily fixed",793,10,0.8108
+CDK9,7,g.l:7,g.l,29,T,T,A,T,0.9831,99.2513,0.2117,Tolerant,"CDK-specific, evolutionarily fixed",1053,11,0.8768
+CDK12,7,g.l:7,g.l,737,T,T,A,T,0.9878,99.5032,0.2117,Tolerant,"CDK-specific, evolutionarily fixed",957,10,0.9938
+CDK13,7,g.l:7,g.l,715,T,T,A,T,0.9769,98.9365,0.2117,Tolerant,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,7,g.l:7,g.l,14,T,T,A,T,0.8195,85.8603,0.2117,Tolerant,"CDK-specific, evolutionarily fixed",1045,11,0.9962
+CDK4,7,g.l:7,g.l,16,A,A,A,T,0.7265,42.5285,0.2117,Tolerant,Intermediate,1009,10,1.0
+CDK6,7,g.l:7,g.l,23,A,A,A,T,0.7354,45.69,0.2117,Tolerant,Intermediate,998,10,0.996
+CDK7,8,g.l:8,g.l,23,F,F,F,Y,0.7989,29.0442,0.5075,Strongly constrained,Universally immutable (catalytic core),1006,11,0.9298
+CDK8,8,g.l:8,g.l,32,Y,Y,F,Y,0.9871,99.3904,0.5075,Strongly constrained,Universally immutable (catalytic core),934,10,0.957
+CDK19,8,g.l:8,g.l,32,Y,Y,F,Y,0.8997,93.8597,0.5075,Strongly constrained,Universally immutable (catalytic core),792,10,0.8098
+CDK9,8,g.l:8,g.l,30,F,F,F,F,0.756,69.673,0.5075,Strongly constrained,Universally immutable (catalytic core),1064,11,0.8859
+CDK12,8,g.l:8,g.l,738,Y,Y,F,Y,0.7705,55.323,0.5075,Strongly constrained,Universally immutable (catalytic core),957,10,0.9938
+CDK13,8,g.l:8,g.l,716,Y,Y,F,Y,0.7735,58.5389,0.5075,Strongly constrained,Universally immutable (catalytic core),988,10,0.996
+CDK2,8,g.l:8,g.l,15,Y,Y,F,Y,0.8329,87.1264,0.5075,Strongly constrained,Universally immutable (catalytic core),1044,11,0.9952
+CDK4,8,g.l:8,g.l,17,Y,Y,F,Y,0.9344,95.0725,0.5075,Strongly constrained,Universally immutable (catalytic core),1009,10,1.0
+CDK6,8,g.l:8,g.l,24,Y,Y,F,Y,0.995,99.8114,0.5075,Strongly constrained,Universally immutable (catalytic core),998,10,0.996
+CDK7,9,g.l:9,g.l,24,A,A,G,A,0.8327,79.9538,0.6143,Strongly constrained,Universally immutable (catalytic core),1007,11,0.9307
+CDK8,9,g.l:9,g.l,33,G,G,G,G,0.9684,98.089,0.6143,Strongly constrained,Universally immutable (catalytic core),933,10,0.9559
+CDK19,9,g.l:9,g.l,33,G,G,G,G,0.9681,98.5191,0.6143,Strongly constrained,Universally immutable (catalytic core),792,10,0.8098
+CDK9,9,g.l:9,g.l,31,G,G,G,G,0.9839,99.288,0.6143,Strongly constrained,Universally immutable (catalytic core),1064,11,0.8859
+CDK12,9,g.l:9,g.l,739,G,G,G,G,0.9972,99.8911,0.6143,Strongly constrained,Universally immutable (catalytic core),957,10,0.9938
+CDK13,9,g.l:9,g.l,717,G,G,G,G,0.9954,99.8191,0.6143,Strongly constrained,Universally immutable (catalytic core),988,10,0.996
+CDK2,9,g.l:9,g.l,16,G,G,G,G,0.8702,89.6259,0.6143,Strongly constrained,Universally immutable (catalytic core),1044,11,0.9952
+CDK4,9,g.l:9,g.l,18,G,G,G,G,0.94,95.6205,0.6143,Strongly constrained,Universally immutable (catalytic core),1009,10,1.0
+CDK6,9,g.l:9,g.l,25,G,G,G,G,0.9648,97.9308,0.6143,Strongly constrained,Universally immutable (catalytic core),998,10,0.996
+CDK7,10,II:10,II,25,T,T,E,V,0.7272,28.6958,0.1667,Tolerant,Intermediate,1008,11,0.9316
+CDK8,10,II:10,II,34,H,H,E,H,0.534,39.1332,0.1667,Tolerant,Intermediate,933,10,0.9559
+CDK19,10,II:10,II,34,H,H,E,R,0.5474,20.7006,0.1667,Tolerant,Intermediate,791,10,0.8088
+CDK9,10,II:10,II,32,E,E,E,E,0.7313,72.8262,0.1667,Tolerant,Intermediate,1196,11,0.9958
+CDK12,10,II:10,II,740,Q,Q,E,K,0.732,26.47,0.1667,Tolerant,Intermediate,957,10,0.9938
+CDK13,10,II:10,II,718,Q,Q,E,K,0.7538,31.6732,0.1667,Tolerant,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,10,II:10,II,17,V,V,E,V,0.7403,80.2956,0.1667,Tolerant,Intermediate,1044,11,0.9952
+CDK4,10,II:10,II,19,T,T,E,V,0.6013,43.0234,0.1667,Tolerant,Intermediate,1009,10,1.0
+CDK6,10,II:10,II,26,K,K,E,V,0.6284,43.7741,0.1667,Tolerant,Intermediate,998,10,0.996
+CDK7,11,II:11,II,26,V,V,V,V,1.0,100.0,0.7456,Immutable (invariant),Universally immutable (catalytic core),1009,11,0.9325
+CDK8,11,II:11,II,35,V,V,V,V,0.9908,99.6437,0.7456,Immutable (invariant),Universally immutable (catalytic core),933,10,0.9559
+CDK19,11,II:11,II,35,V,V,V,V,0.9055,93.4352,0.7456,Immutable (invariant),Universally immutable (catalytic core),792,10,0.8098
+CDK9,11,II:11,II,33,V,V,V,V,0.9992,99.9745,0.7456,Immutable (invariant),Universally immutable (catalytic core),1196,11,0.9958
+CDK12,11,II:11,II,741,V,V,V,V,1.0,100.0,0.7456,Immutable (invariant),Universally immutable (catalytic core),957,10,0.9938
+CDK13,11,II:11,II,719,V,V,V,V,0.9994,99.9815,0.7456,Immutable (invariant),Universally immutable (catalytic core),988,10,0.996
+CDK2,11,II:11,II,18,V,V,V,V,1.0,100.0,0.7456,Immutable (invariant),Universally immutable (catalytic core),1044,11,0.9952
+CDK4,11,II:11,II,20,V,V,V,V,0.9806,98.9524,0.7456,Immutable (invariant),Universally immutable (catalytic core),1009,10,1.0
+CDK6,11,II:11,II,27,V,V,V,V,0.9904,99.5521,0.7456,Immutable (invariant),Universally immutable (catalytic core),997,10,0.995
+CDK7,12,II:12,II,27,Y,Y,Y,Y,0.9466,96.7068,0.1939,Tolerant,"CDK-specific, evolutionarily fixed",1009,11,0.9325
+CDK8,12,II:12,II,36,Y,Y,Y,Y,0.7988,74.5016,0.1939,Tolerant,"CDK-specific, evolutionarily fixed",933,10,0.9559
+CDK19,12,II:12,II,36,Y,Y,Y,Y,0.7755,80.7387,0.1939,Tolerant,"CDK-specific, evolutionarily fixed",796,10,0.8139
+CDK9,12,II:12,II,34,F,F,Y,H,0.5994,27.4102,0.1939,Tolerant,Intermediate,1196,11,0.9958
+CDK12,12,II:12,II,742,Y,Y,Y,Y,0.9041,93.9734,0.1939,Tolerant,"CDK-specific, evolutionarily fixed",957,10,0.9938
+CDK13,12,II:12,II,720,Y,Y,Y,Y,0.9109,94.4255,0.1939,Tolerant,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,12,II:12,II,19,Y,Y,Y,Y,0.9497,97.2089,0.1939,Tolerant,"CDK-specific, evolutionarily fixed",1044,11,0.9952
+CDK4,12,II:12,II,21,Y,Y,Y,Y,0.8645,88.5136,0.1939,Tolerant,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,12,II:12,II,28,F,F,Y,Y,0.8597,12.1882,0.1939,Tolerant,"CDK-specific, evolutionarily fixed",998,10,0.996
+CDK7,13,II:13,II,28,K,K,L,K,0.5743,49.0356,0.2606,Tolerant,Intermediate,1009,11,0.9325
+CDK8,13,II:13,II,37,K,K,L,K,0.7686,74.0156,0.2606,Tolerant,"CDK-specific, evolutionarily fixed",933,10,0.9559
+CDK19,13,II:13,II,37,K,K,L,K,0.7488,79.5882,0.2606,Tolerant,Intermediate,797,10,0.8149
+CDK9,13,II:13,II,35,K,K,L,K,0.7904,78.583,0.2606,Tolerant,"CDK-specific, evolutionarily fixed",1196,11,0.9958
+CDK12,13,II:13,II,743,K,K,L,K,0.8489,86.5282,0.2606,Tolerant,"CDK-specific, evolutionarily fixed",957,10,0.9938
+CDK13,13,II:13,II,721,K,K,L,K,0.8738,88.9894,0.2606,Tolerant,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,13,II:13,II,20,K,K,L,K,0.7975,83.3011,0.2606,Tolerant,"CDK-specific, evolutionarily fixed",1044,11,0.9952
+CDK4,13,II:13,II,22,K,K,L,K,0.9432,96.5804,0.2606,Tolerant,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,13,II:13,II,29,K,K,L,K,0.9497,96.8362,0.2606,Tolerant,"CDK-specific, evolutionarily fixed",998,10,0.996
+CDK7,14,III:14,III,38,V,V,V,V,0.8407,85.9397,0.4929,Moderately constrained,"CDK-specific, evolutionarily fixed",1012,11,0.9353
+CDK8,14,III:14,III,49,Y,Y,V,Y,0.5586,52.659,0.4929,Moderately constrained,Intermediate,968,10,0.9918
+CDK19,14,III:14,III,49,Y,Y,V,Y,0.5252,38.0394,0.4929,Moderately constrained,Intermediate,950,10,0.9714
+CDK9,14,III:14,III,45,V,V,V,I,0.3675,24.2908,0.4929,Moderately constrained,Tolerant in evolution,1197,11,0.9967
+CDK12,14,III:14,III,753,V,V,V,V,0.9617,98.2983,0.4929,Moderately constrained,"CDK-specific, evolutionarily fixed",956,10,0.9927
+CDK13,14,III:14,III,731,V,V,V,V,0.9582,97.9887,0.4929,Moderately constrained,"CDK-specific, evolutionarily fixed",987,10,0.995
+CDK2,14,III:14,III,30,V,V,V,V,0.7478,65.0114,0.4929,Moderately constrained,Intermediate,1046,11,0.9971
+CDK4,14,III:14,III,32,V,V,V,V,0.7422,66.106,0.4929,Moderately constrained,Intermediate,1009,10,1.0
+CDK6,14,III:14,III,40,V,V,V,V,0.7495,67.3547,0.4929,Moderately constrained,Intermediate,997,10,0.995
+CDK7,15,III:15,III,39,A,A,A,A,0.9947,99.7764,0.7696,Immutable (invariant),Universally immutable (catalytic core),1013,11,0.9362
+CDK8,15,III:15,III,50,A,A,A,A,1.0,100.0,0.7696,Immutable (invariant),Universally immutable (catalytic core),968,10,0.9918
+CDK19,15,III:15,III,50,A,A,A,A,0.9974,99.9038,0.7696,Immutable (invariant),Universally immutable (catalytic core),950,10,0.9714
+CDK9,15,III:15,III,46,A,A,A,V,0.7695,12.8341,0.7696,Immutable (invariant),Universally immutable (catalytic core),1196,11,0.9958
+CDK12,15,III:15,III,754,A,A,A,A,1.0,100.0,0.7696,Immutable (invariant),Universally immutable (catalytic core),956,10,0.9927
+CDK13,15,III:15,III,732,A,A,A,A,1.0,100.0,0.7696,Immutable (invariant),Universally immutable (catalytic core),987,10,0.995
+CDK2,15,III:15,III,31,A,A,A,A,0.8991,91.5196,0.7696,Immutable (invariant),Universally immutable (catalytic core),1047,11,0.9981
+CDK4,15,III:15,III,33,A,A,A,A,1.0,100.0,0.7696,Immutable (invariant),Universally immutable (catalytic core),1009,10,1.0
+CDK6,15,III:15,III,41,A,A,A,A,0.9928,99.681,0.7696,Immutable (invariant),Universally immutable (catalytic core),997,10,0.995
+CDK7,16,III:16,III,40,I,I,V,I,0.9061,93.7995,0.4285,Moderately constrained,"CDK-specific, evolutionarily fixed",1013,11,0.9362
+CDK8,16,III:16,III,51,L,L,V,I,0.7468,47.4112,0.4285,Moderately constrained,Intermediate,968,10,0.9918
+CDK19,16,III:16,III,51,L,L,V,I,0.7689,30.8553,0.4285,Moderately constrained,"CDK-specific, evolutionarily fixed",952,10,0.9734
+CDK9,16,III:16,III,47,L,L,V,L,0.9198,93.9073,0.4285,Moderately constrained,"CDK-specific, evolutionarily fixed",1196,11,0.9958
+CDK12,16,III:16,III,755,L,L,V,L,0.9679,98.2011,0.4285,Moderately constrained,"CDK-specific, evolutionarily fixed",956,10,0.9927
+CDK13,16,III:16,III,733,L,L,V,L,0.9837,99.2622,0.4285,Moderately constrained,"CDK-specific, evolutionarily fixed",987,10,0.995
+CDK2,16,III:16,III,32,L,L,V,L,0.8004,84.7291,0.4285,Moderately constrained,"CDK-specific, evolutionarily fixed",1047,11,0.9981
+CDK4,16,III:16,III,34,L,L,V,L,0.9824,99.0733,0.4285,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,16,III:16,III,42,L,L,V,L,0.9738,98.6592,0.4285,Moderately constrained,"CDK-specific, evolutionarily fixed",997,10,0.995
+CDK7,17,III:17,III,41,K,K,K,K,0.9951,99.8166,0.9083,Immutable (invariant),Universally immutable (catalytic core),1013,11,0.9362
+CDK8,17,III:17,III,52,K,K,K,K,1.0,100.0,0.9083,Immutable (invariant),Universally immutable (catalytic core),968,10,0.9918
+CDK19,17,III:17,III,52,K,K,K,K,0.9975,99.9042,0.9083,Immutable (invariant),Universally immutable (catalytic core),952,10,0.9734
+CDK9,17,III:17,III,48,K,K,K,K,0.9961,99.8516,0.9083,Immutable (invariant),Universally immutable (catalytic core),1196,11,0.9958
+CDK12,17,III:17,III,756,K,K,K,K,1.0,100.0,0.9083,Immutable (invariant),Universally immutable (catalytic core),956,10,0.9927
+CDK13,17,III:17,III,734,K,K,K,K,1.0,100.0,0.9083,Immutable (invariant),Universally immutable (catalytic core),987,10,0.995
+CDK2,17,III:17,III,33,K,K,K,K,0.9923,99.6917,0.9083,Immutable (invariant),Universally immutable (catalytic core),1047,11,0.9981
+CDK4,17,III:17,III,35,K,K,K,K,0.9963,99.8507,0.9083,Immutable (invariant),Universally immutable (catalytic core),1009,10,1.0
+CDK6,17,III:17,III,43,K,K,K,K,0.9928,99.681,0.9083,Immutable (invariant),Universally immutable (catalytic core),997,10,0.995
+CDK7,18,III:18,III,42,K,K,I,K,0.9375,96.5806,0.1634,Tolerant,"CDK-specific, evolutionarily fixed",1038,11,0.9593
+CDK8,18,III:18,III,53,Q,Q,I,K,0.6889,40.2732,0.1634,Tolerant,Intermediate,968,10,0.9918
+CDK19,18,III:18,III,53,Q,Q,I,K,0.7419,27.2858,0.1634,Tolerant,Intermediate,950,10,0.9714
+CDK9,18,III:18,III,49,K,K,I,K,0.7555,51.0655,0.1634,Tolerant,"CDK-specific, evolutionarily fixed",1196,11,0.9958
+CDK12,18,III:18,III,757,K,K,I,R,0.7789,30.8187,0.1634,Tolerant,"CDK-specific, evolutionarily fixed",959,10,0.9958
+CDK13,18,III:18,III,735,K,K,I,R,0.7685,37.7329,0.1634,Tolerant,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,18,III:18,III,34,K,K,I,K,0.8566,90.1036,0.1634,Tolerant,"CDK-specific, evolutionarily fixed",1047,11,0.9981
+CDK4,18,III:18,III,36,S,S,I,K,0.5307,33.0027,0.1634,Tolerant,Intermediate,1009,10,1.0
+CDK6,18,III:18,III,44,R,R,I,R,0.6842,49.3997,0.1634,Tolerant,Intermediate,997,10,0.995
+CDK7,19,III:19,III,43,I,I,L,I,0.9608,97.5656,0.3476,Moderately constrained,"CDK-specific, evolutionarily fixed",1034,11,0.9556
+CDK8,19,III:19,III,54,I,I,L,F,0.7572,46.5962,0.3476,Moderately constrained,"CDK-specific, evolutionarily fixed",969,10,0.9928
+CDK19,19,III:19,III,54,I,I,L,F,0.7864,30.4616,0.3476,Moderately constrained,"CDK-specific, evolutionarily fixed",951,10,0.9724
+CDK9,19,III:19,III,50,V,V,L,I,0.789,31.8855,0.3476,Moderately constrained,"CDK-specific, evolutionarily fixed",1196,11,0.9958
+CDK12,19,III:19,III,758,V,V,L,I,0.8434,16.2803,0.3476,Moderately constrained,"CDK-specific, evolutionarily fixed",959,10,0.9958
+CDK13,19,III:19,III,736,V,V,L,I,0.8005,21.6554,0.3476,Moderately constrained,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,19,III:19,III,35,I,I,L,I,0.7603,81.5358,0.3476,Moderately constrained,"CDK-specific, evolutionarily fixed",1047,11,0.9981
+CDK4,19,III:19,III,37,V,V,L,I,0.768,43.9281,0.3476,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,19,III:19,III,45,V,V,L,I,0.7691,45.9858,0.3476,Moderately constrained,"CDK-specific, evolutionarily fixed",997,10,0.995
+CDK7,20,aC:20,aC,58,T,T,D,T,0.765,51.149,0.087,Hypervariable,"CDK-specific, evolutionarily fixed",1070,11,0.9889
+CDK8,20,aC:20,aC,62,S,S,D,S,0.8118,74.8692,0.087,Hypervariable,"CDK-specific, evolutionarily fixed",974,10,0.998
+CDK19,20,aC:20,aC,62,S,S,D,S,0.8714,87.0549,0.087,Hypervariable,"CDK-specific, evolutionarily fixed",960,10,0.9816
+CDK9,20,aC:20,aC,62,T,T,D,T,0.9966,99.8676,0.087,Hypervariable,"CDK-specific, evolutionarily fixed",1200,11,0.9992
+CDK12,20,aC:20,aC,770,T,T,D,T,0.9918,99.628,0.087,Hypervariable,"CDK-specific, evolutionarily fixed",958,10,0.9948
+CDK13,20,aC:20,aC,748,T,T,D,T,0.9846,99.3084,0.087,Hypervariable,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,20,aC:20,aC,47,T,T,D,T,0.8694,90.9802,0.087,Hypervariable,"CDK-specific, evolutionarily fixed",1044,11,0.9952
+CDK4,20,aC:20,aC,52,S,S,D,T,0.7695,46.3566,0.087,Hypervariable,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,20,aC:20,aC,57,S,S,D,T,0.7657,48.5887,0.087,Hypervariable,"CDK-specific, evolutionarily fixed",998,10,0.996
+CDK7,21,aC:21,aC,59,A,A,L,A,0.9922,99.6749,0.2618,Tolerant,"CDK-specific, evolutionarily fixed",1070,11,0.9889
+CDK8,21,aC:21,aC,63,A,A,L,A,0.9862,99.4236,0.2618,Tolerant,"CDK-specific, evolutionarily fixed",974,10,0.998
+CDK19,21,aC:21,aC,63,A,A,L,A,0.9801,99.15,0.2618,Tolerant,"CDK-specific, evolutionarily fixed",962,10,0.9836
+CDK9,21,aC:21,aC,63,A,A,L,A,0.9789,99.061,0.2618,Tolerant,"CDK-specific, evolutionarily fixed",1200,11,0.9992
+CDK12,21,aC:21,aC,771,A,A,L,A,0.9497,97.2914,0.2618,Tolerant,"CDK-specific, evolutionarily fixed",959,10,0.9958
+CDK13,21,aC:21,aC,749,A,A,L,A,0.9797,98.9184,0.2618,Tolerant,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,21,aC:21,aC,48,A,A,L,A,0.943,96.4449,0.2618,Tolerant,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,21,aC:21,aC,53,T,T,L,A,0.7457,43.5471,0.2618,Tolerant,Intermediate,1009,10,1.0
+CDK6,21,aC:21,aC,58,T,T,L,A,0.7481,45.4945,0.2618,Tolerant,Intermediate,1000,10,0.998
+CDK7,22,aC:22,aC,60,L,L,L,I,0.7244,45.0862,0.159,Tolerant,Intermediate,1070,11,0.9889
+CDK8,22,aC:22,aC,64,C,C,L,C,0.743,67.2887,0.159,Tolerant,Intermediate,974,10,0.998
+CDK19,22,aC:22,aC,64,C,C,L,I,0.6909,44.4975,0.159,Tolerant,Intermediate,962,10,0.9836
+CDK9,22,aC:22,aC,64,L,L,L,L,0.7475,67.615,0.159,Tolerant,Intermediate,1200,11,0.9992
+CDK12,22,aC:22,aC,772,I,I,L,M,0.6721,28.4472,0.159,Tolerant,Intermediate,959,10,0.9958
+CDK13,22,aC:22,aC,750,I,I,L,M,0.7003,31.4804,0.159,Tolerant,Intermediate,988,10,0.996
+CDK2,22,aC:22,aC,49,I,I,L,I,0.8687,92.2524,0.159,Tolerant,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,22,aC:22,aC,54,V,V,L,I,0.7114,40.1842,0.159,Tolerant,Intermediate,1009,10,1.0
+CDK6,22,aC:22,aC,59,I,I,L,I,0.9088,94.5897,0.159,Tolerant,"CDK-specific, evolutionarily fixed",1000,10,0.998
+CDK7,23,aC:23,aC,61,R,R,R,R,0.9974,99.9032,0.1781,Tolerant,"CDK-specific, evolutionarily fixed",1071,11,0.9898
+CDK8,23,aC:23,aC,65,R,R,R,R,0.9965,99.8623,0.1781,Tolerant,"CDK-specific, evolutionarily fixed",974,10,0.998
+CDK19,23,aC:23,aC,65,R,R,R,R,0.9902,99.555,0.1781,Tolerant,"CDK-specific, evolutionarily fixed",962,10,0.9836
+CDK9,23,aC:23,aC,65,R,R,R,R,0.9966,99.8676,0.1781,Tolerant,"CDK-specific, evolutionarily fixed",1200,11,0.9992
+CDK12,23,aC:23,aC,773,R,R,R,R,1.0,100.0,0.1781,Tolerant,"CDK-specific, evolutionarily fixed",959,10,0.9958
+CDK13,23,aC:23,aC,751,R,R,R,R,1.0,100.0,0.1781,Tolerant,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,23,aC:23,aC,50,R,R,R,R,1.0,100.0,0.1781,Tolerant,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,23,aC:23,aC,55,R,R,R,R,1.0,100.0,0.1781,Tolerant,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,23,aC:23,aC,60,R,R,R,R,0.9829,99.2606,0.1781,Tolerant,"CDK-specific, evolutionarily fixed",1000,10,0.998
+CDK7,24,aC:24,aC,62,E,E,E,E,0.9974,99.9032,0.8383,Immutable (invariant),Universally immutable (catalytic core),1071,11,0.9898
+CDK8,24,aC:24,aC,66,E,E,E,E,0.9965,99.8623,0.8383,Immutable (invariant),Universally immutable (catalytic core),974,10,0.998
+CDK19,24,aC:24,aC,66,E,E,E,E,0.9841,99.3156,0.8383,Immutable (invariant),Universally immutable (catalytic core),963,10,0.9847
+CDK9,24,aC:24,aC,66,E,E,E,E,0.9966,99.8676,0.8383,Immutable (invariant),Universally immutable (catalytic core),1200,11,0.9992
+CDK12,24,aC:24,aC,774,E,E,E,E,1.0,100.0,0.8383,Immutable (invariant),Universally immutable (catalytic core),959,10,0.9958
+CDK13,24,aC:24,aC,752,E,E,E,E,1.0,100.0,0.8383,Immutable (invariant),Universally immutable (catalytic core),988,10,0.996
+CDK2,24,aC:24,aC,51,E,E,E,E,1.0,100.0,0.8383,Immutable (invariant),Universally immutable (catalytic core),1046,11,0.9971
+CDK4,24,aC:24,aC,56,E,E,E,E,0.9963,99.8507,0.8383,Immutable (invariant),Universally immutable (catalytic core),1009,10,1.0
+CDK6,24,aC:24,aC,61,E,E,E,E,0.9812,99.202,0.8383,Immutable (invariant),Universally immutable (catalytic core),1000,10,0.998
+CDK7,25,aC:25,aC,63,I,I,I,V,0.7256,47.3763,0.2742,Tolerant,Intermediate,1071,11,0.9898
+CDK8,25,aC:25,aC,67,I,I,I,I,0.8408,86.53,0.2742,Tolerant,"CDK-specific, evolutionarily fixed",975,10,0.999
+CDK19,25,aC:25,aC,67,I,I,I,I,0.8689,90.152,0.2742,Tolerant,"CDK-specific, evolutionarily fixed",972,10,0.9939
+CDK9,25,aC:25,aC,67,I,I,I,I,0.9484,97.0296,0.2742,Tolerant,"CDK-specific, evolutionarily fixed",1200,11,0.9992
+CDK12,25,aC:25,aC,775,I,I,I,I,0.9604,98.0237,0.2742,Tolerant,"CDK-specific, evolutionarily fixed",959,10,0.9958
+CDK13,25,aC:25,aC,753,I,I,I,I,0.9776,98.9616,0.2742,Tolerant,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,25,aC:25,aC,52,I,I,I,I,0.8909,93.1023,0.2742,Tolerant,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,25,aC:25,aC,57,V,V,I,I,0.7449,44.5156,0.2742,Tolerant,Intermediate,1009,10,1.0
+CDK6,25,aC:25,aC,62,V,V,I,I,0.7325,45.507,0.2742,Tolerant,Intermediate,1000,10,0.998
+CDK7,26,aC:26,aC,64,K,K,K,K,0.9006,94.2629,0.1446,Hypervariable,"CDK-specific, evolutionarily fixed",1071,11,0.9898
+CDK8,26,aC:26,aC,68,A,A,K,A,0.7185,69.8722,0.1446,Hypervariable,Intermediate,975,10,0.999
+CDK19,26,aC:26,aC,68,A,A,K,A,0.7755,80.9369,0.1446,Hypervariable,"CDK-specific, evolutionarily fixed",973,10,0.9949
+CDK9,26,aC:26,aC,68,K,K,K,K,0.8775,91.1989,0.1446,Hypervariable,"CDK-specific, evolutionarily fixed",1200,11,0.9992
+CDK12,26,aC:26,aC,776,K,K,K,K,0.9695,98.5746,0.1446,Hypervariable,"CDK-specific, evolutionarily fixed",959,10,0.9958
+CDK13,26,aC:26,aC,754,K,K,K,K,0.9657,98.339,0.1446,Hypervariable,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,26,aC:26,aC,53,S,S,K,S,0.8213,87.9176,0.1446,Hypervariable,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,26,aC:26,aC,58,A,A,K,S,0.7567,46.9159,0.1446,Hypervariable,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,26,aC:26,aC,63,A,A,K,S,0.7516,48.0382,0.1446,Hypervariable,"CDK-specific, evolutionarily fixed",1000,10,0.998
+CDK7,27,aC:27,aC,65,L,L,I,L,0.6131,46.6406,0.3344,Moderately constrained,Intermediate,1071,11,0.9898
+CDK8,27,aC:27,aC,69,L,L,I,L,0.9416,96.4228,0.3344,Moderately constrained,"CDK-specific, evolutionarily fixed",975,10,0.999
+CDK19,27,aC:27,aC,69,L,L,I,L,0.9579,97.6262,0.3344,Moderately constrained,"CDK-specific, evolutionarily fixed",974,10,0.9959
+CDK9,27,aC:27,aC,69,I,I,I,I,0.9083,93.2282,0.3344,Moderately constrained,"CDK-specific, evolutionarily fixed",1200,11,0.9992
+CDK12,27,aC:27,aC,777,I,I,I,L,0.7938,29.9191,0.3344,Moderately constrained,"CDK-specific, evolutionarily fixed",959,10,0.9958
+CDK13,27,aC:27,aC,755,I,I,I,L,0.7909,30.87,0.3344,Moderately constrained,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,27,aC:27,aC,54,L,L,I,L,0.9402,95.9653,0.3344,Moderately constrained,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,27,aC:27,aC,59,L,L,I,L,0.9122,94.0586,0.3344,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,27,aC:27,aC,64,V,V,I,L,0.7441,43.9948,0.3344,Moderately constrained,Intermediate,1000,10,0.998
+CDK7,28,aC:28,aC,66,L,L,L,L,0.9801,98.9918,0.5001,Strongly constrained,Universally immutable (catalytic core),1071,11,0.9898
+CDK8,28,aC:28,aC,70,L,L,L,L,0.7182,69.5672,0.5001,Strongly constrained,Intermediate,974,10,0.998
+CDK19,28,aC:28,aC,70,L,L,L,L,0.6359,42.3661,0.5001,Strongly constrained,Intermediate,973,10,0.9949
+CDK9,28,aC:28,aC,70,L,L,L,L,1.0,100.0,0.5001,Strongly constrained,Universally immutable (catalytic core),1200,11,0.9992
+CDK12,28,aC:28,aC,778,L,L,L,L,1.0,100.0,0.5001,Strongly constrained,Universally immutable (catalytic core),959,10,0.9958
+CDK13,28,aC:28,aC,756,L,L,L,L,1.0,100.0,0.5001,Strongly constrained,Universally immutable (catalytic core),988,10,0.996
+CDK2,28,aC:28,aC,55,L,L,L,L,0.9386,95.4888,0.5001,Strongly constrained,Universally immutable (catalytic core),1046,11,0.9971
+CDK4,28,aC:28,aC,60,L,L,L,L,0.956,97.0838,0.5001,Strongly constrained,Universally immutable (catalytic core),1009,10,1.0
+CDK6,28,aC:28,aC,65,L,L,L,L,0.9812,99.202,0.5001,Strongly constrained,Universally immutable (catalytic core),1000,10,0.998
+CDK7,29,aC:29,aC,67,Q,Q,K,R,0.6456,35.3173,0.2061,Tolerant,Intermediate,1071,11,0.9898
+CDK8,29,aC:29,aC,71,R,R,K,R,0.8405,89.5669,0.2061,Tolerant,"CDK-specific, evolutionarily fixed",974,10,0.998
+CDK19,29,aC:29,aC,71,R,R,K,R,0.768,76.9822,0.2061,Tolerant,"CDK-specific, evolutionarily fixed",973,10,0.9949
+CDK9,29,aC:29,aC,71,Q,Q,K,K,0.6961,28.6644,0.2061,Tolerant,Intermediate,1200,11,0.9992
+CDK12,29,aC:29,aC,779,R,R,K,Q,0.7155,13.1293,0.2061,Tolerant,Intermediate,959,10,0.9958
+CDK13,29,aC:29,aC,757,R,R,K,Q,0.7121,21.798,0.2061,Tolerant,Intermediate,988,10,0.996
+CDK2,29,aC:29,aC,56,K,K,K,K,0.8974,93.3673,0.2061,Tolerant,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,29,aC:29,aC,61,R,R,K,K,0.7573,43.3001,0.2061,Tolerant,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,29,aC:29,aC,66,R,R,K,K,0.7483,47.7212,0.2061,Tolerant,Intermediate,1000,10,0.998
+CDK7,30,aC:30,aC,68,E,E,K,E,0.9525,97.5049,0.1061,Hypervariable,"CDK-specific, evolutionarily fixed",1072,11,0.9908
+CDK8,30,aC:30,aC,72,E,E,K,E,0.9691,98.1412,0.1061,Hypervariable,"CDK-specific, evolutionarily fixed",974,10,0.998
+CDK19,30,aC:30,aC,72,E,E,K,E,0.982,99.1204,0.1061,Hypervariable,"CDK-specific, evolutionarily fixed",973,10,0.9949
+CDK9,30,aC:30,aC,72,L,L,K,A,0.3882,24.5612,0.1061,Hypervariable,Tolerant in evolution,1200,11,0.9992
+CDK12,30,aC:30,aC,780,Q,Q,K,S,0.4772,13.1875,0.1061,Hypervariable,Intermediate,959,10,0.9958
+CDK13,30,aC:30,aC,758,Q,Q,K,S,0.4771,20.9895,0.1061,Hypervariable,Intermediate,988,10,0.996
+CDK2,30,aC:30,aC,57,E,E,K,E,0.8837,93.3551,0.1061,Hypervariable,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,30,aC:30,aC,62,R,R,K,E,0.6906,39.987,0.1061,Hypervariable,Intermediate,1009,10,1.0
+CDK6,30,aC:30,aC,67,H,H,K,E,0.6281,12.2705,0.1061,Hypervariable,Intermediate,1000,10,0.998
+CDK7,31,b.l:31,b.l,69,L,L,L,L,0.8806,88.7307,0.3428,Moderately constrained,"CDK-specific, evolutionarily fixed",1072,11,0.9908
+CDK8,31,b.l:31,b.l,73,L,L,L,L,0.7785,74.4951,0.3428,Moderately constrained,"CDK-specific, evolutionarily fixed",974,10,0.998
+CDK19,31,b.l:31,b.l,73,L,L,L,L,0.6459,51.4859,0.3428,Moderately constrained,Intermediate,973,10,0.9949
+CDK9,31,b.l:31,b.l,73,L,L,L,L,0.9599,97.6127,0.3428,Moderately constrained,"CDK-specific, evolutionarily fixed",1200,11,0.9992
+CDK12,31,b.l:31,b.l,781,L,L,L,L,0.972,98.5956,0.3428,Moderately constrained,"CDK-specific, evolutionarily fixed",959,10,0.9958
+CDK13,31,b.l:31,b.l,759,L,L,L,L,0.9744,98.643,0.3428,Moderately constrained,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,31,b.l:31,b.l,58,L,L,L,L,0.7702,70.463,0.3428,Moderately constrained,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,31,b.l:31,b.l,63,L,L,L,L,0.7689,65.3136,0.3428,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,31,b.l:31,b.l,68,L,L,L,L,0.7758,66.7639,0.3428,Moderately constrained,"CDK-specific, evolutionarily fixed",1000,10,0.998
+CDK7,32,b.l:32,b.l,70,S,S,R,K,0.5865,16.8051,0.1858,Tolerant,Intermediate,1072,11,0.9908
+CDK8,32,b.l:32,b.l,74,K,K,R,K,0.4326,47.0777,0.1858,Tolerant,Tolerant in evolution,974,10,0.998
+CDK19,32,b.l:32,b.l,74,K,K,R,K,0.4252,30.1795,0.1858,Tolerant,Tolerant in evolution,973,10,0.9949
+CDK9,32,b.l:32,b.l,74,K,K,R,K,0.4837,46.5478,0.1858,Tolerant,Intermediate,1200,11,0.9992
+CDK12,32,b.l:32,b.l,782,I,I,R,R,0.4948,4.589,0.1858,Tolerant,Intermediate,959,10,0.9958
+CDK13,32,b.l:32,b.l,760,T,T,R,R,0.504,6.3756,0.1858,Tolerant,Intermediate,988,10,0.996
+CDK2,32,b.l:32,b.l,59,N,N,R,N,0.4054,29.1963,0.1858,Tolerant,Tolerant in evolution,1046,11,0.9971
+CDK4,32,b.l:32,b.l,64,E,E,R,E,0.9403,96.9966,0.1858,Tolerant,"CDK-specific, evolutionarily fixed",584,8,0.5788
+CDK6,32,b.l:32,b.l,69,E,E,R,E,0.9794,99.1485,0.1858,Tolerant,"CDK-specific, evolutionarily fixed",537,7,0.5359
+CDK7,33,b.l:33,b.l,72,P,P,P,P,0.6863,56.8014,0.3464,Moderately constrained,Intermediate,1072,11,0.9908
+CDK8,33,b.l:33,b.l,76,P,P,P,P,0.5709,50.4314,0.3464,Moderately constrained,Intermediate,974,10,0.998
+CDK19,33,b.l:33,b.l,76,P,P,P,E,0.6139,31.9229,0.3464,Moderately constrained,Intermediate,973,10,0.9949
+CDK9,33,b.l:33,b.l,76,E,E,P,E,0.4166,33.8205,0.3464,Moderately constrained,Tolerant in evolution,1200,11,0.9992
+CDK12,33,b.l:33,b.l,784,R,R,P,E,0.3717,14.481,0.3464,Moderately constrained,Tolerant in evolution,959,10,0.9958
+CDK13,33,b.l:33,b.l,762,Q,Q,P,E,0.3639,13.099,0.3464,Moderately constrained,Tolerant in evolution,988,10,0.996
+CDK2,33,b.l:33,b.l,61,P,P,P,P,0.5055,53.7791,0.3464,Moderately constrained,Intermediate,1046,11,0.9971
+CDK4,33,b.l:33,b.l,69,P,P,P,P,0.582,56.3146,0.3464,Moderately constrained,Intermediate,1009,10,1.0
+CDK6,33,b.l:33,b.l,74,P,P,P,P,0.5825,55.8978,0.3464,Moderately constrained,Intermediate,998,10,0.996
+CDK7,34,b.l:34,b.l,73,N,N,N,N,0.9887,99.5098,0.3973,Moderately constrained,"CDK-specific, evolutionarily fixed",1072,11,0.9908
+CDK8,34,b.l:34,b.l,77,N,N,N,N,0.9845,99.3041,0.3973,Moderately constrained,"CDK-specific, evolutionarily fixed",974,10,0.998
+CDK19,34,b.l:34,b.l,77,N,N,N,N,1.0,100.0,0.3973,Moderately constrained,"CDK-specific, evolutionarily fixed",973,10,0.9949
+CDK9,34,b.l:34,b.l,77,N,N,N,N,0.6947,69.6323,0.3973,Moderately constrained,Intermediate,1200,11,0.9992
+CDK12,34,b.l:34,b.l,785,S,S,N,N,0.6496,12.4642,0.3973,Moderately constrained,Intermediate,959,10,0.9958
+CDK13,34,b.l:34,b.l,763,S,S,N,N,0.6369,19.7004,0.3973,Moderately constrained,Intermediate,988,10,0.996
+CDK2,34,b.l:34,b.l,62,N,N,N,N,0.9005,93.1044,0.3973,Moderately constrained,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,34,b.l:34,b.l,70,N,N,N,N,0.9876,99.4126,0.3973,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,34,b.l:34,b.l,75,N,N,N,N,0.982,99.2449,0.3973,Moderately constrained,"CDK-specific, evolutionarily fixed",998,10,0.996
+CDK7,35,b.l:35,b.l,74,I,I,I,V,0.7506,48.0931,0.5654,Strongly constrained,Universally immutable (catalytic core),1071,11,0.9898
+CDK8,35,b.l:35,b.l,78,V,V,I,V,0.8168,83.4108,0.5654,Strongly constrained,Universally immutable (catalytic core),975,10,0.999
+CDK19,35,b.l:35,b.l,78,V,V,I,V,0.8524,86.9542,0.5654,Strongly constrained,Universally immutable (catalytic core),974,10,0.9959
+CDK9,35,b.l:35,b.l,78,V,V,I,V,0.7765,60.8057,0.5654,Strongly constrained,Universally immutable (catalytic core),1199,11,0.9983
+CDK12,35,b.l:35,b.l,786,V,V,I,V,0.8475,82.9316,0.5654,Strongly constrained,Universally immutable (catalytic core),959,10,0.9958
+CDK13,35,b.l:35,b.l,764,I,I,I,V,0.7827,32.2045,0.5654,Strongly constrained,Universally immutable (catalytic core),988,10,0.996
+CDK2,35,b.l:35,b.l,63,I,I,I,I,0.8484,84.1106,0.5654,Strongly constrained,Universally immutable (catalytic core),1046,11,0.9971
+CDK4,35,b.l:35,b.l,71,V,V,I,I,0.7613,43.5036,0.5654,Strongly constrained,Universally immutable (catalytic core),1009,10,1.0
+CDK6,35,b.l:35,b.l,76,V,V,I,I,0.7634,49.3366,0.5654,Strongly constrained,Universally immutable (catalytic core),998,10,0.996
+CDK7,36,b.l:36,b.l,75,I,I,V,I,0.8978,92.9669,0.4682,Moderately constrained,"CDK-specific, evolutionarily fixed",1072,11,0.9908
+CDK8,36,b.l:36,b.l,79,I,I,V,I,0.7241,55.5785,0.4682,Moderately constrained,Intermediate,975,10,0.999
+CDK19,36,b.l:36,b.l,79,I,I,V,V,0.7434,37.4723,0.4682,Moderately constrained,Intermediate,974,10,0.9959
+CDK9,36,b.l:36,b.l,79,V,V,V,V,0.7707,65.302,0.4682,Moderately constrained,"CDK-specific, evolutionarily fixed",1199,11,0.9983
+CDK12,36,b.l:36,b.l,787,V,V,V,V,0.8138,79.1303,0.4682,Moderately constrained,"CDK-specific, evolutionarily fixed",959,10,0.9958
+CDK13,36,b.l:36,b.l,765,I,I,V,V,0.7601,34.4122,0.4682,Moderately constrained,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,36,b.l:36,b.l,64,V,V,V,V,0.9464,96.2784,0.4682,Moderately constrained,"CDK-specific, evolutionarily fixed",1046,11,0.9971
+CDK4,36,b.l:36,b.l,72,V,V,V,V,0.8781,91.1268,0.4682,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,36,b.l:36,b.l,77,V,V,V,V,0.8952,92.8925,0.4682,Moderately constrained,"CDK-specific, evolutionarily fixed",998,10,0.996
+CDK7,37,b.l:37,b.l,76,G,G,R,E,0.6485,28.5705,0.1857,Tolerant,Intermediate,1073,11,0.9917
+CDK8,37,b.l:37,b.l,80,S,S,R,S,0.449,44.4978,0.1857,Tolerant,Tolerant in evolution,975,10,0.999
+CDK19,37,b.l:37,b.l,80,A,A,R,A,0.4948,55.8113,0.1857,Tolerant,Intermediate,974,10,0.9959
+CDK9,37,b.l:37,b.l,80,N,N,R,N,0.4073,45.7333,0.1857,Tolerant,Tolerant in evolution,1200,11,0.9992
+CDK12,37,b.l:37,b.l,788,N,N,R,N,0.4958,50.8155,0.1857,Tolerant,Intermediate,959,10,0.9958
+CDK13,37,b.l:37,b.l,766,N,N,R,N,0.517,55.1234,0.1857,Tolerant,Intermediate,988,10,0.996
+CDK2,37,b.l:37,b.l,65,K,K,R,K,0.5433,45.4633,0.1857,Tolerant,Intermediate,1046,11,0.9971
+CDK4,37,b.l:37,b.l,73,R,R,R,R,0.7793,85.9284,0.1857,Tolerant,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,37,b.l:37,b.l,78,R,R,R,R,0.8875,93.6077,0.1857,Tolerant,"CDK-specific, evolutionarily fixed",1001,10,0.999
+CDK7,38,IV:38,IV,77,L,L,L,L,0.9839,99.2109,0.4673,Moderately constrained,"CDK-specific, evolutionarily fixed",1076,11,0.9945
+CDK8,38,IV:38,IV,81,L,L,L,L,0.9825,99.0773,0.4673,Moderately constrained,"CDK-specific, evolutionarily fixed",975,10,0.999
+CDK19,38,IV:38,IV,81,L,L,L,L,0.9894,99.5183,0.4673,Moderately constrained,"CDK-specific, evolutionarily fixed",974,10,0.9959
+CDK9,38,IV:38,IV,81,L,L,L,L,0.7654,73.6237,0.4673,Moderately constrained,"CDK-specific, evolutionarily fixed",1200,11,0.9992
+CDK12,38,IV:38,IV,789,M,M,L,L,0.8483,11.6761,0.4673,Moderately constrained,"CDK-specific, evolutionarily fixed",959,10,0.9958
+CDK13,38,IV:38,IV,767,M,M,L,L,0.818,20.06,0.4673,Moderately constrained,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,38,IV:38,IV,66,L,L,L,L,1.0,100.0,0.4673,Moderately constrained,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,38,IV:38,IV,74,L,L,L,L,1.0,100.0,0.4673,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,38,IV:38,IV,79,L,L,L,L,0.9603,97.4441,0.4673,Moderately constrained,"CDK-specific, evolutionarily fixed",1002,10,1.0
+CDK7,39,IV:39,IV,78,L,L,Y,L,0.6629,56.8202,0.1928,Tolerant,Intermediate,1076,11,0.9945
+CDK8,39,IV:39,IV,82,Q,Q,Y,Q,0.4805,46.832,0.1928,Tolerant,Intermediate,975,10,0.999
+CDK19,39,IV:39,IV,82,Q,Q,Y,K,0.4363,30.1783,0.1928,Tolerant,Tolerant in evolution,974,10,0.9959
+CDK9,39,IV:39,IV,82,I,I,Y,I,0.3824,27.3632,0.1928,Tolerant,Tolerant in evolution,1200,11,0.9992
+CDK12,39,IV:39,IV,790,K,K,Y,K,0.4568,37.9522,0.1928,Tolerant,Intermediate,958,10,0.9948
+CDK13,39,IV:39,IV,768,K,K,Y,K,0.4724,41.623,0.1928,Tolerant,Intermediate,988,10,0.996
+CDK2,39,IV:39,IV,67,L,L,Y,L,0.4963,48.37,0.1928,Tolerant,Intermediate,1049,11,1.0
+CDK4,39,IV:39,IV,75,M,M,Y,M,0.4516,39.6447,0.1928,Tolerant,Intermediate,1009,10,1.0
+CDK6,39,IV:39,IV,80,F,F,Y,F,0.5755,53.9039,0.1928,Tolerant,Intermediate,1001,10,0.999
+CDK7,40,IV:40,IV,79,D,D,G,D,0.9204,95.7835,0.2672,Tolerant,"CDK-specific, evolutionarily fixed",1076,11,0.9945
+CDK8,40,IV:40,IV,83,K,K,G,K,0.5602,42.7844,0.2672,Tolerant,Intermediate,975,10,0.999
+CDK19,40,IV:40,IV,83,K,K,G,E,0.6072,28.1158,0.2672,Tolerant,Intermediate,974,10,0.9959
+CDK9,40,IV:40,IV,83,E,E,G,E,0.7589,52.6534,0.2672,Tolerant,"CDK-specific, evolutionarily fixed",1200,11,0.9992
+CDK12,40,IV:40,IV,791,E,E,G,E,0.9365,96.0224,0.2672,Tolerant,"CDK-specific, evolutionarily fixed",958,10,0.9948
+CDK13,40,IV:40,IV,769,E,E,G,E,0.9657,98.3513,0.2672,Tolerant,"CDK-specific, evolutionarily fixed",988,10,0.996
+CDK2,40,IV:40,IV,68,D,D,G,D,0.78,83.8806,0.2672,Tolerant,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,40,IV:40,IV,76,D,D,G,D,0.9264,95.7761,0.2672,Tolerant,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,40,IV:40,IV,81,D,D,G,D,0.9314,95.5429,0.2672,Tolerant,"CDK-specific, evolutionarily fixed",1000,10,0.998
+CDK7,41,IV:41,IV,80,A,A,V,V,0.7231,42.5575,0.263,Tolerant,Intermediate,1077,11,0.9954
+CDK8,41,IV:41,IV,84,V,V,V,V,0.8516,86.5484,0.263,Tolerant,"CDK-specific, evolutionarily fixed",976,10,1.0
+CDK19,41,IV:41,IV,84,V,V,V,V,0.879,90.4811,0.263,Tolerant,"CDK-specific, evolutionarily fixed",975,10,0.9969
+CDK9,41,IV:41,IV,84,I,I,V,I,0.7063,56.1679,0.263,Tolerant,Intermediate,1199,11,0.9983
+CDK12,41,IV:41,IV,792,I,I,V,M,0.604,29.7135,0.263,Tolerant,Intermediate,958,10,0.9948
+CDK13,41,IV:41,IV,770,I,I,V,M,0.6219,37.2279,0.263,Tolerant,Intermediate,988,10,0.996
+CDK2,41,IV:41,IV,69,V,V,V,V,0.7653,77.7021,0.263,Tolerant,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,41,IV:41,IV,77,V,V,V,V,0.85,86.1501,0.263,Tolerant,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,41,IV:41,IV,82,V,V,V,V,0.8132,81.8093,0.263,Tolerant,"CDK-specific, evolutionarily fixed",1001,10,0.999
+CDK7,42,V:42,V,88,S,S,Y,N,0.6202,28.6572,0.1926,Tolerant,Intermediate,1075,11,0.9935
+CDK8,42,V:42,V,94,W,W,Y,W,0.5408,45.3389,0.1926,Tolerant,Intermediate,975,10,0.999
+CDK19,42,V:42,V,94,W,W,Y,Y,0.6167,29.4786,0.1926,Tolerant,Intermediate,975,10,0.9969
+CDK9,42,V:42,V,100,Y,Y,Y,Y,0.9353,96.5446,0.1926,Tolerant,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,42,V:42,V,810,Y,Y,Y,Y,0.7243,63.8585,0.1926,Tolerant,Intermediate,961,10,0.9979
+CDK13,42,V:42,V,788,Y,Y,Y,Y,0.7379,64.4213,0.1926,Tolerant,Intermediate,989,10,0.997
+CDK2,42,V:42,V,77,Y,Y,Y,Y,0.8133,86.3848,0.1926,Tolerant,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,42,V:42,V,90,T,T,Y,T,0.6754,51.3441,0.1926,Tolerant,Intermediate,1009,10,1.0
+CDK6,42,V:42,V,95,T,T,Y,T,0.7183,53.1881,0.1926,Tolerant,Intermediate,1002,10,1.0
+CDK7,43,V:43,V,89,L,L,L,L,0.9916,99.6588,0.4367,Moderately constrained,"CDK-specific, evolutionarily fixed",1075,11,0.9935
+CDK8,43,V:43,V,95,L,L,L,L,0.7817,70.9524,0.4367,Moderately constrained,"CDK-specific, evolutionarily fixed",975,10,0.999
+CDK19,43,V:43,V,95,L,L,L,M,0.7586,43.1367,0.4367,Moderately constrained,"CDK-specific, evolutionarily fixed",975,10,0.9969
+CDK9,43,V:43,V,101,L,L,L,M,0.7963,29.3981,0.4367,Moderately constrained,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,43,V:43,V,811,L,L,L,M,0.8212,15.1098,0.4367,Moderately constrained,"CDK-specific, evolutionarily fixed",961,10,0.9979
+CDK13,43,V:43,V,789,L,L,L,M,0.8185,21.7286,0.4367,Moderately constrained,"CDK-specific, evolutionarily fixed",989,10,0.997
+CDK2,43,V:43,V,78,L,L,L,L,0.883,91.953,0.4367,Moderately constrained,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,43,V:43,V,91,L,L,L,L,0.9781,98.9879,0.4367,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,43,V:43,V,96,L,L,L,L,0.9935,99.7157,0.4367,Moderately constrained,"CDK-specific, evolutionarily fixed",1002,10,1.0
+CDK7,44,V:44,V,90,V,V,V,V,0.9406,96.4358,0.5077,Strongly constrained,Universally immutable (catalytic core),1074,11,0.9926
+CDK8,44,V:44,V,96,L,L,V,L,0.6275,45.925,0.5077,Strongly constrained,Intermediate,975,10,0.999
+CDK19,44,V:44,V,96,L,L,V,V,0.6725,29.6438,0.5077,Strongly constrained,Intermediate,975,10,0.9969
+CDK9,44,V:44,V,102,V,V,V,V,0.9791,98.9242,0.5077,Strongly constrained,Universally immutable (catalytic core),1201,11,1.0
+CDK12,44,V:44,V,812,V,V,V,V,0.9698,98.4768,0.5077,Strongly constrained,Universally immutable (catalytic core),961,10,0.9979
+CDK13,44,V:44,V,790,V,V,V,V,0.9863,99.4405,0.5077,Strongly constrained,Universally immutable (catalytic core),989,10,0.997
+CDK2,44,V:44,V,79,V,V,V,V,0.8859,91.4081,0.5077,Strongly constrained,Universally immutable (catalytic core),1049,11,1.0
+CDK4,44,V:44,V,92,V,V,V,V,0.8734,90.1807,0.5077,Strongly constrained,Universally immutable (catalytic core),1009,10,1.0
+CDK6,44,V:44,V,97,V,V,V,V,0.8918,92.1858,0.5077,Strongly constrained,Universally immutable (catalytic core),1002,10,1.0
+CDK7,45,GK:45,GK,91,F,F,M,L,0.7676,47.7199,0.3828,Moderately constrained,"CDK-specific, evolutionarily fixed",1074,11,0.9926
+CDK8,45,GK:45,GK,97,F,F,M,F,0.9316,95.6091,0.3828,Moderately constrained,"CDK-specific, evolutionarily fixed",975,10,0.999
+CDK19,45,GK:45,GK,97,F,F,M,F,0.9612,97.8228,0.3828,Moderately constrained,"CDK-specific, evolutionarily fixed",975,10,0.9969
+CDK9,45,GK:45,GK,103,F,F,M,F,0.9449,96.9486,0.3828,Moderately constrained,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,45,GK:45,GK,813,F,F,M,F,0.9132,93.5992,0.3828,Moderately constrained,"CDK-specific, evolutionarily fixed",961,10,0.9979
+CDK13,45,GK:45,GK,791,F,F,M,F,0.904,93.3432,0.3828,Moderately constrained,"CDK-specific, evolutionarily fixed",989,10,0.997
+CDK2,45,GK:45,GK,80,F,F,M,F,0.9241,95.2149,0.3828,Moderately constrained,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,45,GK:45,GK,93,F,F,M,F,0.9882,99.4233,0.3828,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,45,GK:45,GK,98,F,F,M,F,0.9932,99.7469,0.3828,Moderately constrained,"CDK-specific, evolutionarily fixed",1002,10,1.0
+CDK7,46,hinge:46,hinge,92,D,D,E,E,0.7688,29.7411,0.6562,Strongly constrained,Universally immutable (catalytic core),1075,11,0.9935
+CDK8,46,hinge:46,hinge,98,D,D,E,D,0.7926,74.8534,0.6562,Strongly constrained,Universally immutable (catalytic core),975,10,0.999
+CDK19,46,hinge:46,hinge,98,D,D,E,D,0.7578,64.1179,0.6562,Strongly constrained,Universally immutable (catalytic core),975,10,0.9969
+CDK9,46,hinge:46,hinge,104,D,D,E,P,0.6426,24.4895,0.6562,Strongly constrained,Intermediate,1201,11,1.0
+CDK12,46,hinge:46,hinge,814,E,E,E,E,0.9204,95.1374,0.6562,Strongly constrained,Universally immutable (catalytic core),960,10,0.9969
+CDK13,46,hinge:46,hinge,792,E,E,E,E,0.9653,98.1631,0.6562,Strongly constrained,Universally immutable (catalytic core),989,10,0.997
+CDK2,46,hinge:46,hinge,81,E,E,E,E,0.9412,95.7365,0.6562,Strongly constrained,Universally immutable (catalytic core),1049,11,1.0
+CDK4,46,hinge:46,hinge,94,E,E,E,E,0.9511,96.6522,0.6562,Strongly constrained,Universally immutable (catalytic core),1009,10,1.0
+CDK6,46,hinge:46,hinge,99,E,E,E,E,0.955,97.2408,0.6562,Strongly constrained,Universally immutable (catalytic core),1002,10,1.0
+CDK7,47,hinge:47,hinge,93,F,F,Y,F,0.797,80.674,0.3881,Moderately constrained,"CDK-specific, evolutionarily fixed",1077,11,0.9954
+CDK8,47,hinge:47,hinge,99,Y,Y,Y,Y,0.8776,89.5985,0.3881,Moderately constrained,"CDK-specific, evolutionarily fixed",975,10,0.999
+CDK19,47,hinge:47,hinge,99,Y,Y,Y,Y,0.9103,93.1157,0.3881,Moderately constrained,"CDK-specific, evolutionarily fixed",975,10,0.9969
+CDK9,47,hinge:47,hinge,105,F,F,Y,Y,0.7975,25.543,0.3881,Moderately constrained,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,47,hinge:47,hinge,815,Y,Y,Y,Y,0.9877,99.4983,0.3881,Moderately constrained,"CDK-specific, evolutionarily fixed",960,10,0.9969
+CDK13,47,hinge:47,hinge,793,Y,Y,Y,Y,0.9849,99.2873,0.3881,Moderately constrained,"CDK-specific, evolutionarily fixed",990,10,0.998
+CDK2,47,hinge:47,hinge,82,F,F,Y,F,0.7026,55.4894,0.3881,Moderately constrained,Intermediate,1049,11,1.0
+CDK4,47,hinge:47,hinge,95,H,H,Y,H,0.6679,44.1381,0.3881,Moderately constrained,Intermediate,1008,10,0.999
+CDK6,47,hinge:47,hinge,100,H,H,Y,H,0.6651,46.3173,0.3881,Moderately constrained,Intermediate,1002,10,1.0
+CDK7,48,hinge:48,hinge,94,M,M,M,L,0.7039,43.4966,0.2998,Tolerant,Intermediate,1078,11,0.9963
+CDK8,48,hinge:48,hinge,100,A,A,M,A,0.8964,94.225,0.2998,Tolerant,"CDK-specific, evolutionarily fixed",975,10,0.999
+CDK19,48,hinge:48,hinge,100,A,A,M,A,0.9306,96.5082,0.2998,Tolerant,"CDK-specific, evolutionarily fixed",975,10,0.9969
+CDK9,48,hinge:48,hinge,106,C,C,M,M,0.7898,25.2205,0.2998,Tolerant,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,48,hinge:48,hinge,816,M,M,M,M,0.8829,91.6948,0.2998,Tolerant,"CDK-specific, evolutionarily fixed",960,10,0.9969
+CDK13,48,hinge:48,hinge,794,M,M,M,M,0.8763,91.2299,0.2998,Tolerant,"CDK-specific, evolutionarily fixed",990,10,0.998
+CDK2,48,hinge:48,hinge,83,L,L,M,L,0.8007,85.5492,0.2998,Tolerant,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,48,hinge:48,hinge,96,V,V,M,L,0.6561,44.7087,0.2998,Tolerant,Intermediate,1009,10,1.0
+CDK6,48,hinge:48,hinge,101,V,V,M,L,0.7093,47.9397,0.2998,Tolerant,Intermediate,1001,10,0.999
+CDK7,49,linker:49,linker,95,E,E,E,D,0.6914,47.5629,0.1542,Tolerant,Intermediate,1078,11,0.9963
+CDK8,49,linker:49,linker,101,E,E,E,E,0.9226,95.3746,0.1542,Tolerant,"CDK-specific, evolutionarily fixed",975,10,0.999
+CDK19,49,linker:49,linker,101,E,E,E,E,0.9396,96.6874,0.1542,Tolerant,"CDK-specific, evolutionarily fixed",975,10,0.9969
+CDK9,49,linker:49,linker,107,E,E,E,D,0.7885,24.7123,0.1542,Tolerant,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,49,linker:49,linker,817,D,D,E,D,0.8505,89.9647,0.1542,Tolerant,"CDK-specific, evolutionarily fixed",960,10,0.9969
+CDK13,49,linker:49,linker,795,D,D,E,D,0.8274,88.3095,0.1542,Tolerant,"CDK-specific, evolutionarily fixed",990,10,0.998
+CDK2,49,linker:49,linker,84,H,H,E,D,0.6256,38.1607,0.1542,Tolerant,Intermediate,1048,11,0.999
+CDK4,49,linker:49,linker,97,D,D,E,D,0.8606,88.9008,0.1542,Tolerant,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,49,linker:49,linker,102,D,D,E,D,0.9136,94.6049,0.1542,Tolerant,"CDK-specific, evolutionarily fixed",1001,10,0.999
+CDK7,51,linker:51,linker,96,T,T,G,T,0.6587,49.9071,0.4948,Moderately constrained,Intermediate,1078,11,0.9963
+CDK8,51,linker:51,linker,102,H,H,G,H,0.8225,87.016,0.4948,Moderately constrained,"CDK-specific, evolutionarily fixed",975,10,0.999
+CDK19,51,linker:51,linker,102,H,H,G,H,0.9197,95.8179,0.4948,Moderately constrained,"CDK-specific, evolutionarily fixed",975,10,0.9969
+CDK9,51,linker:51,linker,108,H,H,G,H,0.9708,98.7432,0.4948,Moderately constrained,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,51,linker:51,linker,818,H,H,G,H,0.9342,96.526,0.4948,Moderately constrained,"CDK-specific, evolutionarily fixed",960,10,0.9969
+CDK13,51,linker:51,linker,796,H,H,G,H,0.9484,97.3643,0.4948,Moderately constrained,"CDK-specific, evolutionarily fixed",990,10,0.998
+CDK2,51,linker:51,linker,85,Q,Q,G,Q,0.5213,45.4108,0.4948,Moderately constrained,Intermediate,1048,11,0.999
+CDK4,51,linker:51,linker,98,Q,Q,G,Q,0.5495,44.5909,0.4948,Moderately constrained,Intermediate,1009,10,1.0
+CDK6,51,linker:51,linker,103,Q,Q,G,Q,0.6006,46.4338,0.4948,Moderately constrained,Intermediate,1001,10,0.999
+CDK7,52,linker:52,linker,97,D,D,D,D,0.9328,96.1711,0.3326,Moderately constrained,"CDK-specific, evolutionarily fixed",1078,11,0.9963
+CDK8,52,linker:52,linker,103,D,D,D,D,0.9877,99.4516,0.3326,Moderately constrained,"CDK-specific, evolutionarily fixed",975,10,0.999
+CDK19,52,linker:52,linker,103,D,D,D,D,0.9906,99.6002,0.3326,Moderately constrained,"CDK-specific, evolutionarily fixed",975,10,0.9969
+CDK9,52,linker:52,linker,109,D,D,D,D,1.0,100.0,0.3326,Moderately constrained,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,52,linker:52,linker,819,D,D,D,D,0.9976,99.9117,0.3326,Moderately constrained,"CDK-specific, evolutionarily fixed",960,10,0.9969
+CDK13,52,linker:52,linker,797,D,D,D,D,0.9904,99.5804,0.3326,Moderately constrained,"CDK-specific, evolutionarily fixed",989,10,0.997
+CDK2,52,linker:52,linker,86,D,D,D,D,0.9291,95.4878,0.3326,Moderately constrained,"CDK-specific, evolutionarily fixed",1047,11,0.9981
+CDK4,52,linker:52,linker,99,D,D,D,D,1.0,100.0,0.3326,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,52,linker:52,linker,104,D,D,D,D,0.9967,99.8698,0.3326,Moderately constrained,"CDK-specific, evolutionarily fixed",1001,10,0.999
+CDK7,53,aD:53,aD,98,L,L,L,L,0.9778,98.8879,0.6605,Strongly constrained,Universally immutable (catalytic core),1079,11,0.9972
+CDK8,53,aD:53,aD,104,L,L,L,L,0.9056,91.8374,0.6605,Strongly constrained,Universally immutable (catalytic core),975,10,0.999
+CDK19,53,aD:53,aD,104,L,L,L,L,0.7758,60.3623,0.6605,Strongly constrained,Universally immutable (catalytic core),975,10,0.9969
+CDK9,53,aD:53,aD,110,L,L,L,L,1.0,100.0,0.6605,Strongly constrained,Universally immutable (catalytic core),1201,11,1.0
+CDK12,53,aD:53,aD,820,L,L,L,L,0.9958,99.848,0.6605,Strongly constrained,Universally immutable (catalytic core),960,10,0.9969
+CDK13,53,aD:53,aD,798,L,L,L,L,0.9857,99.3587,0.6605,Strongly constrained,Universally immutable (catalytic core),989,10,0.997
+CDK2,53,aD:53,aD,87,L,L,L,L,0.9652,97.8955,0.6605,Strongly constrained,Universally immutable (catalytic core),1048,11,0.999
+CDK4,53,aD:53,aD,100,L,L,L,L,0.9969,99.8788,0.6605,Strongly constrained,Universally immutable (catalytic core),1009,10,1.0
+CDK6,53,aD:53,aD,105,L,L,L,L,0.9943,99.7566,0.6605,Strongly constrained,Universally immutable (catalytic core),1001,10,0.999
+CDK7,54,aD:54,aD,99,E,E,F,E,0.8808,93.2418,0.1107,Hypervariable,"CDK-specific, evolutionarily fixed",1079,11,0.9972
+CDK8,54,aD:54,aD,105,W,W,F,W,0.5921,45.8071,0.1107,Hypervariable,Intermediate,975,10,0.999
+CDK19,54,aD:54,aD,105,W,W,F,L,0.6517,29.5674,0.1107,Hypervariable,Intermediate,975,10,0.9969
+CDK9,54,aD:54,aD,111,A,A,F,A,0.655,64.9591,0.1107,Hypervariable,Intermediate,1201,11,1.0
+CDK12,54,aD:54,aD,821,M,M,F,T,0.7478,12.4939,0.1107,Hypervariable,Intermediate,960,10,0.9969
+CDK13,54,aD:54,aD,799,M,M,F,T,0.7409,20.2897,0.1107,Hypervariable,Intermediate,988,10,0.996
+CDK2,54,aD:54,aD,88,K,K,F,K,0.86,91.0508,0.1107,Hypervariable,"CDK-specific, evolutionarily fixed",1048,11,0.999
+CDK4,54,aD:54,aD,101,R,R,F,K,0.6604,34.1105,0.1107,Hypervariable,Intermediate,1009,10,1.0
+CDK6,54,aD:54,aD,106,T,T,F,T,0.6252,44.1459,0.1107,Hypervariable,Intermediate,1001,10,0.999
+CDK7,55,aD:55,aD,100,V,V,D,M,0.4192,28.3569,0.1888,Tolerant,Tolerant in evolution,1081,11,0.9991
+CDK8,55,aD:55,aD,106,H,H,D,H,0.6106,45.8154,0.1888,Tolerant,Intermediate,976,10,1.0
+CDK19,55,aD:55,aD,106,H,H,D,Q,0.661,29.5522,0.1888,Tolerant,Intermediate,977,10,0.999
+CDK9,55,aD:55,aD,112,G,G,D,G,0.976,98.8914,0.1888,Tolerant,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,55,aD:55,aD,822,G,G,D,G,0.9732,98.8706,0.1888,Tolerant,"CDK-specific, evolutionarily fixed",960,10,0.9969
+CDK13,55,aD:55,aD,800,G,G,D,G,0.9728,98.8172,0.1888,Tolerant,"CDK-specific, evolutionarily fixed",989,10,0.997
+CDK2,55,aD:55,aD,89,K,K,D,K,0.727,66.5082,0.1888,Tolerant,Intermediate,1048,11,0.999
+CDK4,55,aD:55,aD,102,T,T,D,K,0.6356,42.6985,0.1888,Tolerant,Intermediate,1009,10,1.0
+CDK6,55,aD:55,aD,107,T,T,D,K,0.7136,45.7793,0.1888,Tolerant,Intermediate,1001,10,0.999
+CDK7,56,aD:56,aD,101,I,I,L,I,0.7449,70.0803,0.2072,Tolerant,Intermediate,1081,11,0.9991
+CDK8,56,aD:56,aD,107,I,I,L,I,0.8428,88.7323,0.2072,Tolerant,"CDK-specific, evolutionarily fixed",973,10,0.9969
+CDK19,56,aD:56,aD,107,I,I,L,I,0.6522,57.8539,0.2072,Tolerant,Intermediate,974,10,0.9959
+CDK9,56,aD:56,aD,113,L,L,L,L,0.8919,93.4247,0.2072,Tolerant,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,56,aD:56,aD,823,L,L,L,V,0.631,36.8304,0.2072,Tolerant,Intermediate,960,10,0.9969
+CDK13,56,aD:56,aD,801,L,L,L,L,0.6158,41.8626,0.2072,Tolerant,Intermediate,989,10,0.997
+CDK2,56,aD:56,aD,90,F,F,L,Y,0.5516,36.3232,0.2072,Tolerant,Intermediate,1048,11,0.999
+CDK4,56,aD:56,aD,103,Y,Y,L,Y,0.6383,54.9496,0.2072,Tolerant,Intermediate,1009,10,1.0
+CDK6,56,aD:56,aD,108,Y,Y,L,Y,0.6918,62.27,0.2072,Tolerant,Intermediate,1001,10,0.999
+CDK7,57,aD:57,aD,102,I,I,L,I,0.9156,95.4356,0.4649,Moderately constrained,"CDK-specific, evolutionarily fixed",1081,11,0.9991
+CDK8,57,aD:57,aD,108,I,I,L,I,0.8322,86.8317,0.4649,Moderately constrained,"CDK-specific, evolutionarily fixed",973,10,0.9969
+CDK19,57,aD:57,aD,108,I,I,L,I,0.8814,91.9081,0.4649,Moderately constrained,"CDK-specific, evolutionarily fixed",974,10,0.9959
+CDK9,57,aD:57,aD,114,L,L,L,L,0.7565,78.2669,0.4649,Moderately constrained,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,57,aD:57,aD,824,L,L,L,L,0.7922,83.8551,0.4649,Moderately constrained,"CDK-specific, evolutionarily fixed",960,10,0.9969
+CDK13,57,aD:57,aD,802,L,L,L,L,0.8394,87.4097,0.4649,Moderately constrained,"CDK-specific, evolutionarily fixed",989,10,0.997
+CDK2,57,aD:57,aD,91,M,M,L,M,0.831,87.4347,0.4649,Moderately constrained,"CDK-specific, evolutionarily fixed",1048,11,0.999
+CDK4,57,aD:57,aD,104,L,L,L,L,0.7103,49.7018,0.4649,Moderately constrained,Intermediate,1009,10,1.0
+CDK6,57,aD:57,aD,109,L,L,L,L,0.7264,51.8263,0.4649,Moderately constrained,Intermediate,1001,10,0.999
+CDK7,58,aD:58,aD,103,K,K,R,K,0.7931,79.7107,0.1497,Hypervariable,"CDK-specific, evolutionarily fixed",1081,11,0.9991
+CDK8,58,aD:58,aD,109,K,K,R,K,0.5873,46.52,0.1497,Hypervariable,Intermediate,972,10,0.9959
+CDK19,58,aD:58,aD,109,K,K,R,H,0.647,29.9557,0.1497,Hypervariable,Intermediate,973,10,0.9949
+CDK9,58,aD:58,aD,115,S,S,R,E,0.5823,28.164,0.1497,Hypervariable,Intermediate,1201,11,1.0
+CDK12,58,aD:58,aD,825,E,E,R,S,0.4609,15.0783,0.1497,Hypervariable,Intermediate,960,10,0.9969
+CDK13,58,aD:58,aD,803,E,E,R,S,0.4944,21.6335,0.1497,Hypervariable,Intermediate,989,10,0.997
+CDK2,58,aD:58,aD,92,D,D,R,D,0.7542,79.0122,0.1497,Hypervariable,"CDK-specific, evolutionarily fixed",1048,11,0.999
+CDK4,58,aD:58,aD,105,D,D,R,D,0.8225,85.9347,0.1497,Hypervariable,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,58,aD:58,aD,110,D,D,R,D,0.7277,57.6761,0.1497,Hypervariable,Intermediate,1001,10,0.999
+CDK7,59,aD:59,aD,104,D,D,K,D,0.8911,94.3608,0.1156,Hypervariable,"CDK-specific, evolutionarily fixed",1081,11,0.9991
+CDK8,59,aD:59,aD,110,F,F,K,F,0.6577,52.3587,0.1156,Hypervariable,Intermediate,972,10,0.9959
+CDK19,59,aD:59,aD,110,F,F,K,H,0.6773,34.2141,0.1156,Hypervariable,Intermediate,973,10,0.9949
+CDK9,59,aD:59,aD,116,N,N,K,N,0.7795,76.9334,0.1156,Hypervariable,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,59,aD:59,aD,826,S,S,K,Q,0.5164,12.839,0.1156,Hypervariable,Intermediate,959,10,0.9958
+CDK13,59,aD:59,aD,804,S,S,K,Q,0.517,20.5343,0.1156,Hypervariable,Intermediate,989,10,0.997
+CDK2,59,aD:59,aD,93,A,A,K,S,0.6684,16.1765,0.1156,Hypervariable,Intermediate,1030,11,0.9819
+CDK4,59,aD:59,aD,106,K,K,K,K,0.5861,46.3666,0.1156,Hypervariable,Intermediate,1006,10,0.997
+CDK6,59,aD:59,aD,111,K,K,K,K,0.5967,48.3123,0.1156,Hypervariable,Intermediate,999,10,0.997
+CDK7,60,aE:60,aE,127,Y,Y,Y,F,0.6534,40.0819,0.4129,Moderately constrained,Intermediate,1081,11,0.9991
+CDK8,60,aE:60,aE,141,Y,Y,Y,Y,0.9725,98.3921,0.4129,Moderately constrained,"CDK-specific, evolutionarily fixed",976,10,1.0
+CDK19,60,aE:60,aE,141,Y,Y,Y,Y,0.9802,98.9282,0.4129,Moderately constrained,"CDK-specific, evolutionarily fixed",978,10,1.0
+CDK9,60,aE:60,aE,139,Y,Y,Y,Y,0.9049,92.4021,0.4129,Moderately constrained,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,60,aE:60,aE,849,Y,Y,Y,Y,0.8257,81.8037,0.4129,Moderately constrained,"CDK-specific, evolutionarily fixed",961,10,0.9979
+CDK13,60,aE:60,aE,827,Y,Y,Y,Y,0.8477,84.7418,0.4129,Moderately constrained,"CDK-specific, evolutionarily fixed",990,10,0.998
+CDK2,60,aE:60,aE,117,F,F,Y,Y,0.7285,48.0808,0.4129,Moderately constrained,Intermediate,1049,11,1.0
+CDK4,60,aE:60,aE,130,F,F,Y,F,0.7491,55.3737,0.4129,Moderately constrained,Intermediate,1009,10,1.0
+CDK6,60,aE:60,aE,135,F,F,Y,F,0.746,56.1184,0.4129,Moderately constrained,Intermediate,1002,10,1.0
+CDK7,61,aE:61,aE,128,L,L,L,C,0.6381,19.1495,0.4578,Moderately constrained,Intermediate,1081,11,0.9991
+CDK8,61,aE:61,aE,142,L,L,L,L,0.938,96.345,0.4578,Moderately constrained,"CDK-specific, evolutionarily fixed",976,10,1.0
+CDK19,61,aE:61,aE,142,L,L,L,L,0.9613,97.9627,0.4578,Moderately constrained,"CDK-specific, evolutionarily fixed",978,10,1.0
+CDK9,61,aE:61,aE,140,I,I,L,M,0.5457,25.2304,0.4578,Moderately constrained,Intermediate,1201,11,1.0
+CDK12,61,aE:61,aE,850,C,C,L,L,0.7203,26.0681,0.4578,Moderately constrained,Intermediate,961,10,0.9979
+CDK13,61,aE:61,aE,828,C,C,L,L,0.7694,31.3327,0.4578,Moderately constrained,"CDK-specific, evolutionarily fixed",990,10,0.998
+CDK2,61,aE:61,aE,118,C,C,L,C,0.8392,86.3582,0.4578,Moderately constrained,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,61,aE:61,aE,131,L,L,L,C,0.7437,47.3065,0.4578,Moderately constrained,Intermediate,1009,10,1.0
+CDK6,61,aE:61,aE,136,L,L,L,C,0.7413,48.7482,0.4578,Moderately constrained,Intermediate,1002,10,1.0
+CDK7,62,aE:62,aE,129,H,H,H,H,1.0,100.0,0.4687,Moderately constrained,"CDK-specific, evolutionarily fixed",1080,11,0.9982
+CDK8,62,aE:62,aE,143,H,H,H,H,1.0,100.0,0.4687,Moderately constrained,"CDK-specific, evolutionarily fixed",976,10,1.0
+CDK19,62,aE:62,aE,143,H,H,H,H,1.0,100.0,0.4687,Moderately constrained,"CDK-specific, evolutionarily fixed",978,10,1.0
+CDK9,62,aE:62,aE,141,H,H,H,H,1.0,100.0,0.4687,Moderately constrained,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,62,aE:62,aE,851,H,H,H,H,0.9968,99.8838,0.4687,Moderately constrained,"CDK-specific, evolutionarily fixed",961,10,0.9979
+CDK13,62,aE:62,aE,829,H,H,H,H,1.0,100.0,0.4687,Moderately constrained,"CDK-specific, evolutionarily fixed",990,10,0.998
+CDK2,62,aE:62,aE,119,H,H,H,H,1.0,100.0,0.4687,Moderately constrained,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,62,aE:62,aE,132,H,H,H,H,1.0,100.0,0.4687,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,62,aE:62,aE,137,H,H,H,H,1.0,100.0,0.4687,Moderately constrained,"CDK-specific, evolutionarily fixed",1002,10,1.0
+CDK7,63,aE:63,aE,130,Q,Q,S,R,0.5217,20.1588,0.2004,Tolerant,Intermediate,1081,11,0.9991
+CDK8,63,aE:63,aE,144,A,A,S,A,0.5737,54.7735,0.2004,Tolerant,Intermediate,976,10,1.0
+CDK19,63,aE:63,aE,144,A,A,S,S,0.6111,37.9677,0.2004,Tolerant,Intermediate,978,10,1.0
+CDK9,63,aE:63,aE,142,R,R,S,R,0.4186,41.628,0.2004,Tolerant,Tolerant in evolution,1201,11,1.0
+CDK12,63,aE:63,aE,852,K,K,S,Q,0.4074,13.8682,0.2004,Tolerant,Tolerant in evolution,961,10,0.9979
+CDK13,63,aE:63,aE,830,K,K,S,H,0.412,20.596,0.2004,Tolerant,Tolerant in evolution,990,10,0.998
+CDK2,63,aE:63,aE,120,S,S,S,S,0.7538,82.4089,0.2004,Tolerant,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,63,aE:63,aE,133,A,A,S,S,0.5974,43.1796,0.2004,Tolerant,Intermediate,1009,10,1.0
+CDK6,63,aE:63,aE,138,S,S,S,S,0.7587,81.1327,0.2004,Tolerant,"CDK-specific, evolutionarily fixed",1002,10,1.0
+CDK7,64,aE:64,aE,131,H,H,K,N,0.5419,30.4729,0.162,Tolerant,Intermediate,1081,11,0.9991
+CDK8,64,aE:64,aE,145,N,N,K,N,0.8747,92.7676,0.162,Tolerant,"CDK-specific, evolutionarily fixed",976,10,1.0
+CDK19,64,aE:64,aE,145,N,N,K,N,0.7209,62.2569,0.162,Tolerant,Intermediate,978,10,1.0
+CDK9,64,aE:64,aE,143,N,N,K,N,0.7876,82.3444,0.162,Tolerant,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,64,aE:64,aE,853,K,K,K,K,0.6861,69.9352,0.162,Tolerant,Intermediate,961,10,0.9979
+CDK13,64,aE:64,aE,831,K,K,K,K,0.7356,76.3467,0.162,Tolerant,Intermediate,990,10,0.998
+CDK2,64,aE:64,aE,121,H,H,K,H,0.7581,79.883,0.162,Tolerant,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,64,aE:64,aE,134,N,N,K,H,0.6644,40.4804,0.162,Tolerant,Intermediate,1009,10,1.0
+CDK6,64,aE:64,aE,139,H,H,K,H,0.8683,90.1957,0.162,Tolerant,"CDK-specific, evolutionarily fixed",1002,10,1.0
+CDK7,65,VI:65,VI,132,W,W,G,W,0.7073,64.8106,0.2302,Tolerant,Intermediate,1081,11,0.9991
+CDK8,65,VI:65,VI,146,W,W,G,W,0.8775,92.6397,0.2302,Tolerant,"CDK-specific, evolutionarily fixed",976,10,1.0
+CDK19,65,VI:65,VI,146,W,W,G,W,0.7183,60.8322,0.2302,Tolerant,Intermediate,978,10,1.0
+CDK9,65,VI:65,VI,144,K,K,G,K,0.4314,34.5041,0.2302,Tolerant,Tolerant in evolution,1201,11,1.0
+CDK12,65,VI:65,VI,854,N,N,G,G,0.6538,15.8238,0.2302,Tolerant,Intermediate,960,10,0.9969
+CDK13,65,VI:65,VI,832,N,N,G,G,0.6396,21.7356,0.2302,Tolerant,Intermediate,990,10,0.998
+CDK2,65,VI:65,VI,122,R,R,G,R,0.7866,85.7094,0.2302,Tolerant,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,65,VI:65,VI,135,C,C,G,R,0.6884,32.6028,0.2302,Tolerant,Intermediate,1009,10,1.0
+CDK6,65,VI:65,VI,140,R,R,G,R,0.8822,93.2425,0.2302,Tolerant,"CDK-specific, evolutionarily fixed",1002,10,1.0
+CDK7,66,VI:66,VI,133,I,I,I,V,0.7249,39.9237,0.4269,Moderately constrained,Intermediate,1079,11,0.9972
+CDK8,66,VI:66,VI,147,V,V,I,V,0.7866,72.1795,0.4269,Moderately constrained,"CDK-specific, evolutionarily fixed",976,10,1.0
+CDK19,66,VI:66,VI,147,V,V,I,I,0.7651,49.1199,0.4269,Moderately constrained,"CDK-specific, evolutionarily fixed",977,10,0.999
+CDK9,66,VI:66,VI,145,I,I,I,I,0.7973,76.1737,0.4269,Moderately constrained,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,66,VI:66,VI,855,F,F,I,V,0.7469,12.7395,0.4269,Moderately constrained,Intermediate,960,10,0.9969
+CDK13,66,VI:66,VI,833,F,F,I,V,0.7137,20.3808,0.4269,Moderately constrained,Intermediate,990,10,0.998
+CDK2,66,VI:66,VI,123,V,V,I,V,0.8199,78.141,0.4269,Moderately constrained,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,66,VI:66,VI,136,I,I,I,V,0.764,47.5116,0.4269,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,66,VI:66,VI,141,V,V,I,V,0.8621,86.21,0.4269,Moderately constrained,"CDK-specific, evolutionarily fixed",1002,10,1.0
+CDK7,67,VI:67,VI,134,L,L,I,L,0.9664,98.3359,0.4486,Moderately constrained,"CDK-specific, evolutionarily fixed",1079,11,0.9972
+CDK8,67,VI:67,VI,148,L,L,I,L,0.7425,73.9793,0.4486,Moderately constrained,Intermediate,976,10,1.0
+CDK19,67,VI:67,VI,148,L,L,I,L,0.7434,69.6864,0.4486,Moderately constrained,Intermediate,977,10,0.999
+CDK9,67,VI:67,VI,146,L,L,I,L,0.9265,95.687,0.4486,Moderately constrained,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,67,VI:67,VI,856,L,L,I,L,0.7477,55.986,0.4486,Moderately constrained,Intermediate,960,10,0.9969
+CDK13,67,VI:67,VI,834,L,L,I,L,0.7487,58.5644,0.4486,Moderately constrained,Intermediate,990,10,0.998
+CDK2,67,VI:67,VI,124,L,L,I,L,0.7927,83.4967,0.4486,Moderately constrained,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,67,VI:67,VI,137,V,V,I,L,0.7251,40.9902,0.4486,Moderately constrained,Intermediate,1009,10,1.0
+CDK6,67,VI:67,VI,142,V,V,I,L,0.7556,46.2368,0.4486,Moderately constrained,"CDK-specific, evolutionarily fixed",1002,10,1.0
+CDK7,68,c.l:68,c.l,135,H,H,H,H,0.9962,99.8496,0.7848,Immutable (invariant),Universally immutable (catalytic core),1080,11,0.9982
+CDK8,68,c.l:68,c.l,149,H,H,H,H,0.995,99.7891,0.7848,Immutable (invariant),Universally immutable (catalytic core),976,10,1.0
+CDK19,68,c.l:68,c.l,149,H,H,H,H,0.997,99.8853,0.7848,Immutable (invariant),Universally immutable (catalytic core),977,10,0.999
+CDK9,68,c.l:68,c.l,147,H,H,H,H,1.0,100.0,0.7848,Immutable (invariant),Universally immutable (catalytic core),1201,11,1.0
+CDK12,68,c.l:68,c.l,857,H,H,H,H,0.9976,99.9116,0.7848,Immutable (invariant),Universally immutable (catalytic core),960,10,0.9969
+CDK13,68,c.l:68,c.l,835,H,H,H,H,0.9984,99.9437,0.7848,Immutable (invariant),Universally immutable (catalytic core),990,10,0.998
+CDK2,68,c.l:68,c.l,125,H,H,H,H,1.0,100.0,0.7848,Immutable (invariant),Universally immutable (catalytic core),1049,11,1.0
+CDK4,68,c.l:68,c.l,138,H,H,H,H,1.0,100.0,0.7848,Immutable (invariant),Universally immutable (catalytic core),1009,10,1.0
+CDK6,68,c.l:68,c.l,143,H,H,H,H,1.0,100.0,0.7848,Immutable (invariant),Universally immutable (catalytic core),1002,10,1.0
+CDK7,69,c.l:69,c.l,136,R,R,R,R,0.9962,99.8496,0.6446,Strongly constrained,Universally immutable (catalytic core),1080,11,0.9982
+CDK8,69,c.l:69,c.l,150,R,R,R,R,1.0,100.0,0.6446,Strongly constrained,Universally immutable (catalytic core),976,10,1.0
+CDK19,69,c.l:69,c.l,150,R,R,R,R,1.0,100.0,0.6446,Strongly constrained,Universally immutable (catalytic core),977,10,0.999
+CDK9,69,c.l:69,c.l,148,R,R,R,R,1.0,100.0,0.6446,Strongly constrained,Universally immutable (catalytic core),1201,11,1.0
+CDK12,69,c.l:69,c.l,858,R,R,R,R,0.9976,99.9116,0.6446,Strongly constrained,Universally immutable (catalytic core),960,10,0.9969
+CDK13,69,c.l:69,c.l,836,R,R,R,R,0.9951,99.8137,0.6446,Strongly constrained,Universally immutable (catalytic core),990,10,0.998
+CDK2,69,c.l:69,c.l,126,R,R,R,R,1.0,100.0,0.6446,Strongly constrained,Universally immutable (catalytic core),1049,11,1.0
+CDK4,69,c.l:69,c.l,139,R,R,R,R,0.9963,99.8507,0.6446,Strongly constrained,Universally immutable (catalytic core),1009,10,1.0
+CDK6,69,c.l:69,c.l,144,R,R,R,R,1.0,100.0,0.6446,Strongly constrained,Universally immutable (catalytic core),1002,10,1.0
+CDK7,70,c.l:70,c.l,137,D,D,D,D,1.0,100.0,0.8818,Immutable (invariant),Universally immutable (catalytic core),1081,11,0.9991
+CDK8,70,c.l:70,c.l,151,D,D,D,D,1.0,100.0,0.8818,Immutable (invariant),Universally immutable (catalytic core),976,10,1.0
+CDK19,70,c.l:70,c.l,151,D,D,D,D,1.0,100.0,0.8818,Immutable (invariant),Universally immutable (catalytic core),977,10,0.999
+CDK9,70,c.l:70,c.l,149,D,D,D,D,1.0,100.0,0.8818,Immutable (invariant),Universally immutable (catalytic core),1201,11,1.0
+CDK12,70,c.l:70,c.l,859,D,D,D,D,0.9976,99.9116,0.8818,Immutable (invariant),Universally immutable (catalytic core),960,10,0.9969
+CDK13,70,c.l:70,c.l,837,D,D,D,D,0.9966,99.8791,0.8818,Immutable (invariant),Universally immutable (catalytic core),990,10,0.998
+CDK2,70,c.l:70,c.l,127,D,D,D,D,1.0,100.0,0.8818,Immutable (invariant),Universally immutable (catalytic core),1049,11,1.0
+CDK4,70,c.l:70,c.l,140,D,D,D,D,1.0,100.0,0.8818,Immutable (invariant),Universally immutable (catalytic core),1009,10,1.0
+CDK6,70,c.l:70,c.l,145,D,D,D,D,1.0,100.0,0.8818,Immutable (invariant),Universally immutable (catalytic core),1002,10,1.0
+CDK7,71,c.l:71,c.l,138,L,L,L,L,0.8086,77.6696,0.6373,Strongly constrained,Universally immutable (catalytic core),1082,11,1.0
+CDK8,71,c.l:71,c.l,152,L,L,L,L,0.9946,99.7695,0.6373,Strongly constrained,Universally immutable (catalytic core),976,10,1.0
+CDK19,71,c.l:71,c.l,152,L,L,L,L,0.9961,99.8428,0.6373,Strongly constrained,Universally immutable (catalytic core),977,10,0.999
+CDK9,71,c.l:71,c.l,150,M,M,L,M,0.7136,65.0183,0.6373,Strongly constrained,Intermediate,1201,11,1.0
+CDK12,71,c.l:71,c.l,860,I,I,L,I,0.7081,56.9249,0.6373,Strongly constrained,Intermediate,961,10,0.9979
+CDK13,71,c.l:71,c.l,838,I,I,L,I,0.746,62.5693,0.6373,Strongly constrained,Intermediate,990,10,0.998
+CDK2,71,c.l:71,c.l,128,L,L,L,L,0.8877,91.8516,0.6373,Strongly constrained,Universally immutable (catalytic core),1049,11,1.0
+CDK4,71,c.l:71,c.l,141,L,L,L,L,0.9946,99.7736,0.6373,Strongly constrained,Universally immutable (catalytic core),1009,10,1.0
+CDK6,71,c.l:71,c.l,146,L,L,L,L,0.9952,99.8031,0.6373,Strongly constrained,Universally immutable (catalytic core),1002,10,1.0
+CDK7,72,c.l:72,c.l,139,K,K,K,K,1.0,100.0,0.6322,Strongly constrained,Universally immutable (catalytic core),1082,11,1.0
+CDK8,72,c.l:72,c.l,153,K,K,K,K,0.9907,99.6105,0.6322,Strongly constrained,Universally immutable (catalytic core),976,10,1.0
+CDK19,72,c.l:72,c.l,153,K,K,K,K,1.0,100.0,0.6322,Strongly constrained,Universally immutable (catalytic core),976,10,0.998
+CDK9,72,c.l:72,c.l,151,K,K,K,K,1.0,100.0,0.6322,Strongly constrained,Universally immutable (catalytic core),1201,11,1.0
+CDK12,72,c.l:72,c.l,861,K,K,K,K,0.996,99.8558,0.6322,Strongly constrained,Universally immutable (catalytic core),961,10,0.9979
+CDK13,72,c.l:72,c.l,839,K,K,K,K,0.9951,99.8137,0.6322,Strongly constrained,Universally immutable (catalytic core),990,10,0.998
+CDK2,72,c.l:72,c.l,129,K,K,K,K,1.0,100.0,0.6322,Strongly constrained,Universally immutable (catalytic core),1049,11,1.0
+CDK4,72,c.l:72,c.l,142,K,K,K,K,1.0,100.0,0.6322,Strongly constrained,Universally immutable (catalytic core),1009,10,1.0
+CDK6,72,c.l:72,c.l,147,K,K,K,K,1.0,100.0,0.6322,Strongly constrained,Universally immutable (catalytic core),1002,10,1.0
+CDK7,73,c.l:73,c.l,140,P,P,P,P,0.998,99.9292,0.4227,Moderately constrained,"CDK-specific, evolutionarily fixed",1082,11,1.0
+CDK8,73,c.l:73,c.l,154,P,P,P,P,0.9907,99.6105,0.4227,Moderately constrained,"CDK-specific, evolutionarily fixed",976,10,1.0
+CDK19,73,c.l:73,c.l,154,P,P,P,P,1.0,100.0,0.4227,Moderately constrained,"CDK-specific, evolutionarily fixed",976,10,0.998
+CDK9,73,c.l:73,c.l,152,A,A,P,A,0.7507,72.0463,0.4227,Moderately constrained,"CDK-specific, evolutionarily fixed",1200,11,0.9992
+CDK12,73,c.l:73,c.l,862,C,C,P,G,0.7836,12.7987,0.4227,Moderately constrained,"CDK-specific, evolutionarily fixed",959,10,0.9958
+CDK13,73,c.l:73,c.l,840,C,C,P,G,0.7718,20.6964,0.4227,Moderately constrained,"CDK-specific, evolutionarily fixed",966,9,0.9738
+CDK2,73,c.l:73,c.l,130,P,P,P,P,1.0,100.0,0.4227,Moderately constrained,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,73,c.l:73,c.l,143,P,P,P,P,1.0,100.0,0.4227,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,73,c.l:73,c.l,148,P,P,P,P,1.0,100.0,0.4227,Moderately constrained,"CDK-specific, evolutionarily fixed",1002,10,1.0
+CDK7,74,c.l:74,c.l,141,N,N,E,N,0.9204,94.9235,0.2863,Tolerant,"CDK-specific, evolutionarily fixed",1082,11,1.0
+CDK8,74,c.l:74,c.l,155,A,A,E,A,0.7724,74.5828,0.2863,Tolerant,"CDK-specific, evolutionarily fixed",976,10,1.0
+CDK19,74,c.l:74,c.l,155,A,A,E,A,0.8483,86.4601,0.2863,Tolerant,"CDK-specific, evolutionarily fixed",976,10,0.998
+CDK9,74,c.l:74,c.l,153,A,A,E,A,0.7883,72.891,0.2863,Tolerant,"CDK-specific, evolutionarily fixed",1200,11,0.9992
+CDK12,74,c.l:74,c.l,863,S,S,E,S,0.9218,94.6301,0.2863,Tolerant,"CDK-specific, evolutionarily fixed",961,10,0.9979
+CDK13,74,c.l:74,c.l,841,S,S,E,S,0.9162,94.4528,0.2863,Tolerant,"CDK-specific, evolutionarily fixed",990,10,0.998
+CDK2,74,c.l:74,c.l,131,Q,Q,E,Q,0.9135,94.8982,0.2863,Tolerant,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,74,c.l:74,c.l,144,E,E,E,Q,0.7352,35.1003,0.2863,Tolerant,Intermediate,1009,10,1.0
+CDK6,74,c.l:74,c.l,149,Q,Q,E,Q,0.9268,95.4921,0.2863,Tolerant,"CDK-specific, evolutionarily fixed",1002,10,1.0
+CDK7,75,c.l:75,c.l,142,N,N,N,N,0.998,99.9292,0.9102,Immutable (invariant),Universally immutable (catalytic core),1082,11,1.0
+CDK8,75,c.l:75,c.l,156,N,N,N,N,0.9915,99.6105,0.9102,Immutable (invariant),Universally immutable (catalytic core),976,10,1.0
+CDK19,75,c.l:75,c.l,156,N,N,N,N,1.0,100.0,0.9102,Immutable (invariant),Universally immutable (catalytic core),976,10,0.998
+CDK9,75,c.l:75,c.l,154,N,N,N,N,1.0,100.0,0.9102,Immutable (invariant),Universally immutable (catalytic core),1200,11,0.9992
+CDK12,75,c.l:75,c.l,864,N,N,N,N,0.996,99.8558,0.9102,Immutable (invariant),Universally immutable (catalytic core),961,10,0.9979
+CDK13,75,c.l:75,c.l,842,N,N,N,N,0.9966,99.8783,0.9102,Immutable (invariant),Universally immutable (catalytic core),990,10,0.998
+CDK2,75,c.l:75,c.l,132,N,N,N,N,1.0,100.0,0.9102,Immutable (invariant),Universally immutable (catalytic core),1049,11,1.0
+CDK4,75,c.l:75,c.l,145,N,N,N,N,1.0,100.0,0.9102,Immutable (invariant),Universally immutable (catalytic core),1009,10,1.0
+CDK6,75,c.l:75,c.l,150,N,N,N,N,1.0,100.0,0.9102,Immutable (invariant),Universally immutable (catalytic core),1002,10,1.0
+CDK7,76,VII:76,VII,143,L,L,I,L,0.9213,94.8537,0.5117,Strongly constrained,Universally immutable (catalytic core),1082,11,1.0
+CDK8,76,VII:76,VII,157,I,I,I,I,0.9007,93.4813,0.5117,Strongly constrained,Universally immutable (catalytic core),976,10,1.0
+CDK19,76,VII:76,VII,157,I,I,I,I,0.9413,96.6033,0.5117,Strongly constrained,Universally immutable (catalytic core),976,10,0.998
+CDK9,76,VII:76,VII,155,V,V,I,L,0.7233,18.2839,0.5117,Strongly constrained,Intermediate,1200,11,0.9992
+CDK12,76,VII:76,VII,865,I,I,I,I,0.7871,67.3585,0.5117,Strongly constrained,Universally immutable (catalytic core),961,10,0.9979
+CDK13,76,VII:76,VII,843,I,I,I,I,0.8057,73.9627,0.5117,Strongly constrained,Universally immutable (catalytic core),990,10,0.998
+CDK2,76,VII:76,VII,133,L,L,I,L,0.8806,89.9701,0.5117,Strongly constrained,Universally immutable (catalytic core),1049,11,1.0
+CDK4,76,VII:76,VII,146,I,I,I,L,0.7164,41.8979,0.5117,Strongly constrained,Intermediate,1009,10,1.0
+CDK6,76,VII:76,VII,151,I,I,I,L,0.7677,49.1847,0.5117,Strongly constrained,Universally immutable (catalytic core),1002,10,1.0
+CDK7,77,VII:77,VII,144,L,L,L,L,1.0,100.0,0.697,Strongly constrained,Universally immutable (catalytic core),1082,11,1.0
+CDK8,77,VII:77,VII,158,L,L,L,L,0.8863,89.5801,0.697,Strongly constrained,Universally immutable (catalytic core),976,10,1.0
+CDK19,77,VII:77,VII,158,L,L,L,L,0.9111,92.5064,0.697,Strongly constrained,Universally immutable (catalytic core),976,10,0.998
+CDK9,77,VII:77,VII,156,L,L,L,L,0.9991,99.969,0.697,Strongly constrained,Universally immutable (catalytic core),1200,11,0.9992
+CDK12,77,VII:77,VII,866,L,L,L,L,0.9921,99.6742,0.697,Strongly constrained,Universally immutable (catalytic core),961,10,0.9979
+CDK13,77,VII:77,VII,844,L,L,L,L,0.9964,99.8701,0.697,Strongly constrained,Universally immutable (catalytic core),990,10,0.998
+CDK2,77,VII:77,VII,134,L,L,L,L,0.9091,93.6106,0.697,Strongly constrained,Universally immutable (catalytic core),1049,11,1.0
+CDK4,77,VII:77,VII,147,L,L,L,L,1.0,100.0,0.697,Strongly constrained,Universally immutable (catalytic core),1009,10,1.0
+CDK6,77,VII:77,VII,152,L,L,L,L,1.0,100.0,0.697,Strongly constrained,Universally immutable (catalytic core),1002,10,1.0
+CDK7,78,VII:78,VII,145,L,L,L,I,0.6727,31.7367,0.5078,Strongly constrained,Intermediate,1082,11,1.0
+CDK8,78,VII:78,VII,159,V,V,L,V,0.8168,84.0142,0.5078,Strongly constrained,Universally immutable (catalytic core),976,10,1.0
+CDK19,78,VII:78,VII,159,V,V,L,V,0.7048,54.6958,0.5078,Strongly constrained,Intermediate,976,10,0.998
+CDK9,78,VII:78,VII,157,I,I,L,I,0.9041,93.7344,0.5078,Strongly constrained,Universally immutable (catalytic core),1200,11,0.9992
+CDK12,78,VII:78,VII,867,L,L,L,L,0.6406,51.1367,0.5078,Strongly constrained,Intermediate,961,10,0.9979
+CDK13,78,VII:78,VII,845,L,L,L,L,0.6513,55.7333,0.5078,Strongly constrained,Intermediate,989,10,0.997
+CDK2,78,VII:78,VII,135,I,I,L,I,0.8561,87.6198,0.5078,Strongly constrained,Universally immutable (catalytic core),1049,11,1.0
+CDK4,78,VII:78,VII,148,V,V,L,I,0.7551,46.6389,0.5078,Strongly constrained,Universally immutable (catalytic core),1009,10,1.0
+CDK6,78,VII:78,VII,153,V,V,L,I,0.7677,49.3219,0.5078,Strongly constrained,Universally immutable (catalytic core),1002,10,1.0
+CDK7,79,VIII:79,VIII,153,L,L,I,L,0.7597,51.6688,0.5878,Strongly constrained,Universally immutable (catalytic core),1082,11,1.0
+CDK8,79,VIII:79,VIII,171,I,I,I,I,0.8923,93.2902,0.5878,Strongly constrained,Universally immutable (catalytic core),975,10,0.999
+CDK19,79,VIII:79,VIII,171,I,I,I,I,0.9281,95.9682,0.5878,Strongly constrained,Universally immutable (catalytic core),977,10,0.999
+CDK9,79,VIII:79,VIII,165,L,L,I,L,0.762,51.4321,0.5878,Strongly constrained,Universally immutable (catalytic core),1201,11,1.0
+CDK12,79,VIII:79,VIII,875,L,L,I,L,0.8698,89.3496,0.5878,Strongly constrained,Universally immutable (catalytic core),956,10,0.9927
+CDK13,79,VIII:79,VIII,853,L,L,I,L,0.9149,94.5364,0.5878,Strongly constrained,Universally immutable (catalytic core),990,10,0.998
+CDK2,79,VIII:79,VIII,143,L,L,I,L,0.891,89.9391,0.5878,Strongly constrained,Universally immutable (catalytic core),1049,11,1.0
+CDK4,79,VIII:79,VIII,156,L,L,I,L,0.8642,89.5656,0.5878,Strongly constrained,Universally immutable (catalytic core),1009,10,1.0
+CDK6,79,VIII:79,VIII,161,L,L,I,L,0.9413,96.1173,0.5878,Strongly constrained,Universally immutable (catalytic core),1001,10,0.999
+CDK7,80,xDFG:80,xDFG,154,A,A,A,A,0.8511,86.0112,0.3384,Moderately constrained,"CDK-specific, evolutionarily fixed",1082,11,1.0
+CDK8,80,xDFG:80,xDFG,172,A,A,A,A,0.8049,73.6152,0.3384,Moderately constrained,"CDK-specific, evolutionarily fixed",976,10,1.0
+CDK19,80,xDFG:80,xDFG,172,A,A,A,G,0.7685,44.7406,0.3384,Moderately constrained,"CDK-specific, evolutionarily fixed",978,10,1.0
+CDK9,80,xDFG:80,xDFG,166,A,A,A,A,0.977,98.7241,0.3384,Moderately constrained,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,80,xDFG:80,xDFG,876,A,A,A,A,0.9109,94.491,0.3384,Moderately constrained,"CDK-specific, evolutionarily fixed",956,10,0.9927
+CDK13,80,xDFG:80,xDFG,854,A,A,A,A,0.9098,94.2437,0.3384,Moderately constrained,"CDK-specific, evolutionarily fixed",990,10,0.998
+CDK2,80,xDFG:80,xDFG,144,A,A,A,A,0.8585,89.9508,0.3384,Moderately constrained,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,80,xDFG:80,xDFG,157,A,A,A,A,0.9078,92.107,0.3384,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,80,xDFG:80,xDFG,162,A,A,A,A,0.9263,94.2218,0.3384,Moderately constrained,"CDK-specific, evolutionarily fixed",1001,10,0.999
+CDK7,81,xDFG:81,xDFG,155,D,D,D,D,0.998,99.9292,0.8842,Immutable (invariant),Universally immutable (catalytic core),1082,11,1.0
+CDK8,81,xDFG:81,xDFG,173,D,D,D,D,0.997,99.8845,0.8842,Immutable (invariant),Universally immutable (catalytic core),976,10,1.0
+CDK19,81,xDFG:81,xDFG,173,D,D,D,D,0.9994,99.9827,0.8842,Immutable (invariant),Universally immutable (catalytic core),978,10,1.0
+CDK9,81,xDFG:81,xDFG,167,D,D,D,D,1.0,100.0,0.8842,Immutable (invariant),Universally immutable (catalytic core),1201,11,1.0
+CDK12,81,xDFG:81,xDFG,877,D,D,D,D,0.9979,99.9304,0.8842,Immutable (invariant),Universally immutable (catalytic core),957,10,0.9938
+CDK13,81,xDFG:81,xDFG,855,D,D,D,D,1.0,100.0,0.8842,Immutable (invariant),Universally immutable (catalytic core),990,10,0.998
+CDK2,81,xDFG:81,xDFG,145,D,D,D,D,1.0,100.0,0.8842,Immutable (invariant),Universally immutable (catalytic core),1049,11,1.0
+CDK4,81,xDFG:81,xDFG,158,D,D,D,D,0.9983,99.9388,0.8842,Immutable (invariant),Universally immutable (catalytic core),1009,10,1.0
+CDK6,81,xDFG:81,xDFG,163,D,D,D,D,1.0,100.0,0.8842,Immutable (invariant),Universally immutable (catalytic core),1001,10,0.999
+CDK7,82,xDFG:82,xDFG,156,F,F,F,F,0.9748,98.5814,0.7399,Immutable (invariant),Universally immutable (catalytic core),1082,11,1.0
+CDK8,82,xDFG:82,xDFG,174,M,M,F,M,0.6409,42.733,0.7399,Immutable (invariant),Intermediate,975,10,0.999
+CDK19,82,xDFG:82,xDFG,174,M,M,F,L,0.6849,28.0854,0.7399,Immutable (invariant),Intermediate,978,10,1.0
+CDK9,82,xDFG:82,xDFG,168,F,F,F,F,0.9848,99.2508,0.7399,Immutable (invariant),Universally immutable (catalytic core),1201,11,1.0
+CDK12,82,xDFG:82,xDFG,878,F,F,F,F,0.9825,99.2084,0.7399,Immutable (invariant),Universally immutable (catalytic core),957,10,0.9938
+CDK13,82,xDFG:82,xDFG,856,F,F,F,F,0.9894,99.5482,0.7399,Immutable (invariant),Universally immutable (catalytic core),990,10,0.998
+CDK2,82,xDFG:82,xDFG,146,F,F,F,F,0.9646,97.7922,0.7399,Immutable (invariant),Universally immutable (catalytic core),1049,11,1.0
+CDK4,82,xDFG:82,xDFG,159,F,F,F,F,0.9375,96.129,0.7399,Immutable (invariant),Universally immutable (catalytic core),1009,10,1.0
+CDK6,82,xDFG:82,xDFG,164,F,F,F,F,0.9603,97.444,0.7399,Immutable (invariant),Universally immutable (catalytic core),1001,10,0.999
+CDK7,83,xDFG:83,xDFG,157,G,G,G,G,1.0,100.0,0.8366,Immutable (invariant),Universally immutable (catalytic core),1081,11,0.9991
+CDK8,83,xDFG:83,xDFG,175,G,G,G,G,1.0,100.0,0.8366,Immutable (invariant),Universally immutable (catalytic core),975,10,0.999
+CDK19,83,xDFG:83,xDFG,175,G,G,G,G,1.0,100.0,0.8366,Immutable (invariant),Universally immutable (catalytic core),978,10,1.0
+CDK9,83,xDFG:83,xDFG,169,G,G,G,G,1.0,100.0,0.8366,Immutable (invariant),Universally immutable (catalytic core),1201,11,1.0
+CDK12,83,xDFG:83,xDFG,879,G,G,G,G,0.9969,99.892,0.8366,Immutable (invariant),Universally immutable (catalytic core),956,10,0.9927
+CDK13,83,xDFG:83,xDFG,857,G,G,G,G,0.9994,99.9824,0.8366,Immutable (invariant),Universally immutable (catalytic core),990,10,0.998
+CDK2,83,xDFG:83,xDFG,147,G,G,G,G,1.0,100.0,0.8366,Immutable (invariant),Universally immutable (catalytic core),1049,11,1.0
+CDK4,83,xDFG:83,xDFG,160,G,G,G,G,1.0,100.0,0.8366,Immutable (invariant),Universally immutable (catalytic core),1009,10,1.0
+CDK6,83,xDFG:83,xDFG,165,G,G,G,G,1.0,100.0,0.8366,Immutable (invariant),Universally immutable (catalytic core),1001,10,0.999
+CDK7,84,a.l:84,a.l,158,L,L,L,L,0.9584,97.7085,0.3649,Moderately constrained,"CDK-specific, evolutionarily fixed",1081,11,0.9991
+CDK8,84,a.l:84,a.l,176,F,F,L,L,0.7698,45.8154,0.3649,Moderately constrained,"CDK-specific, evolutionarily fixed",976,10,1.0
+CDK19,84,a.l:84,a.l,176,F,F,L,L,0.7974,29.5547,0.3649,Moderately constrained,"CDK-specific, evolutionarily fixed",978,10,1.0
+CDK9,84,a.l:84,a.l,170,L,L,L,L,1.0,100.0,0.3649,Moderately constrained,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,84,a.l:84,a.l,880,L,L,L,L,0.9893,99.5549,0.3649,Moderately constrained,"CDK-specific, evolutionarily fixed",956,10,0.9927
+CDK13,84,a.l:84,a.l,858,L,L,L,L,0.9868,99.3405,0.3649,Moderately constrained,"CDK-specific, evolutionarily fixed",990,10,0.998
+CDK2,84,a.l:84,a.l,148,L,L,L,L,0.9196,94.766,0.3649,Moderately constrained,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,84,a.l:84,a.l,161,L,L,L,L,0.9579,97.2477,0.3649,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,84,a.l:84,a.l,166,L,L,L,L,0.9603,97.444,0.3649,Moderately constrained,"CDK-specific, evolutionarily fixed",1001,10,0.999
+CDK7,85,a.l:85,a.l,159,A,A,A,A,0.9823,99.2167,0.468,Moderately constrained,"CDK-specific, evolutionarily fixed",1082,11,1.0
+CDK8,85,a.l:85,a.l,177,A,A,A,A,0.9429,96.2504,0.468,Moderately constrained,"CDK-specific, evolutionarily fixed",976,10,1.0
+CDK19,85,a.l:85,a.l,177,A,A,A,A,0.9662,98.1121,0.468,Moderately constrained,"CDK-specific, evolutionarily fixed",977,10,0.999
+CDK9,85,a.l:85,a.l,171,A,A,A,A,0.9186,93.6554,0.468,Moderately constrained,"CDK-specific, evolutionarily fixed",1201,11,1.0
+CDK12,85,a.l:85,a.l,881,A,A,A,A,0.9942,99.7998,0.468,Moderately constrained,"CDK-specific, evolutionarily fixed",956,10,0.9927
+CDK13,85,a.l:85,a.l,859,A,A,A,A,0.9975,99.9116,0.468,Moderately constrained,"CDK-specific, evolutionarily fixed",990,10,0.998
+CDK2,85,a.l:85,a.l,149,A,A,A,A,0.9834,99.1771,0.468,Moderately constrained,"CDK-specific, evolutionarily fixed",1049,11,1.0
+CDK4,85,a.l:85,a.l,162,A,A,A,A,0.9522,97.2826,0.468,Moderately constrained,"CDK-specific, evolutionarily fixed",1009,10,1.0
+CDK6,85,a.l:85,a.l,167,A,A,A,A,0.9836,99.1802,0.468,Moderately constrained,"CDK-specific, evolutionarily fixed",1001,10,0.999

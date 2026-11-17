@@ -1,0 +1,126 @@
+reference 1QMZ chain A: ATP has 31 atoms
+ATP centroid (scene): [38.29, 59.82, 1.22]
+pocket cutoff 5.0 A | active-site cutoff 12.0 A
+
+CDK4: superposed 2W96 chain B onto 1QMZ/A
+CDK6: superposed 2F2C chain B onto 1QMZ/A
+
+=== CDK2  (1QMZ chain A)  ligand=ATP
+    modelled range 0-2206
+    ATP pocket (5.0 A): 22 residues -> 10,11,12,13,14,18,31,33,51,64,80,81,82,83,86,89,127,129,131,132,134,145
+    hits: 20 positions | 4 within 12.0 A of ATP, 16 distal, 0 not modelled
+    wt mismatches: none
+    ACTIVE SITE:
+        E81       2.67 A   CDK2i only
+        L134      3.44 A   CDK2i only
+        G147      6.07 A   CDK2i only
+        P45      10.71 A   CDK2i only
+    distal:
+        D185     13.11 A   CDK2i only
+        R150     13.18 A   CDK2i only
+        E57      15.82 A   CDK2i only
+        W187     16.04 A   CDK2i only
+        S181     18.38 A   CDK2i only
+        A194     18.78 A   both
+        R274     20.02 A   CDK2i only
+        G176     22.15 A   CDK2i only
+        L281     22.17 A   both
+        G259     26.15 A   CDK2i only
+        S261     27.85 A   CDK4/6i only
+        W243     28.29 A   CDK2i only
+        D258     28.49 A   CDK2i only
+        D256     28.58 A   CDK2i only
+        P241     30.45 A   CDK2i only
+        P238     33.01 A   CDK2i only
+
+=== CDK4  (2W96 chain B)  ligand=None
+    modelled range 4-2068
+    ATP pocket (5.0 A): 25 residues -> 12,13,14,15,16,17,18,19,20,33,35,93,94,95,96,97,101,140,142,144,145,147,158,161,165
+    hits: 31 positions | 10 within 12.0 A of ATP, 19 distal, 2 not modelled
+    wt mismatches: none
+    not modelled: A248, P250
+    ACTIVE SITE:
+        V96       2.20 A   CDK4/6i only
+        H95       2.63 A   CDK4/6i only
+        D97       3.93 A   CDK4/6i only
+        E144      4.03 A   CDK4/6i only
+        R73       6.50 A   CDK4/6i only
+        M75       7.67 A   CDK4/6i only
+        V148      7.81 A   CDK4/6i only
+        A23       8.62 A   CDK4/6i only
+        P173      8.98 A   both
+        R24      11.31 A   CDK4/6i only
+    distal:
+        D25      12.01 A   CDK4/6i only
+        D196     12.37 A   CDK4/6i only
+        H68      12.41 A   CDK4/6i only
+        G29      13.19 A   CDK4/6i only
+        E56      13.82 A   CDK4/6i only
+        T53      13.84 A   both
+        Q222     15.13 A   CDK4/6i only
+        E86      15.62 A   CDK4/6i only
+        C215     16.03 A   CDK4/6i only
+        W198     16.09 A   CDK4/6i only
+        V54      16.99 A   both
+        P194     17.82 A   CDK4/6i only
+        N134     18.38 A   CDK4/6i only
+        I51      19.13 A   both
+        A133     19.99 A   CDK2i only
+        G224     21.78 A   CDK2i only
+        M264     25.11 A   CDK4/6i only
+        E263     25.76 A   both
+        E266     31.28 A   CDK4/6i only
+
+=== CDK6  (2F2C chain B)  ligand=AP9
+    modelled range 9-403
+    ATP pocket (5.0 A): 19 residues -> 19,27,41,43,61,77,98,99,100,101,102,104,145,147,149,150,152,162,163
+    hits: 39 positions | 11 within 12.0 A of ATP, 23 distal, 5 not modelled
+    wt mismatches: none
+    not modelled: D4, G5, E21, Y24, S258
+    ACTIVE SITE:
+        D104      3.36 A   CDK4/6i only
+        I19       4.51 A   CDK2i only
+        S57       6.67 A   CDK4/6i only
+        G165      7.30 A   CDK2i only
+        R44       7.51 A   CDK4/6i only
+        T58       8.33 A   both
+        R46       9.73 A   CDK4/6i only
+        A167     10.50 A   CDK2i only
+        V62      10.65 A   both
+        L56      11.35 A   both
+        I59      11.71 A   both
+    distal:
+        H73      12.54 A   CDK4/6i only
+        V47      12.60 A   both
+        Y13      12.78 A   both
+        V64      12.95 A   CDK4/6i only
+        R66      13.70 A   both
+        E14      13.71 A   CDK4/6i only
+        C15      14.03 A   both
+        M54      14.06 A   both
+        Q48      14.64 A   CDK4/6i only
+        G53      15.76 A   both
+        T92      15.94 A   both
+        L33      16.48 A   both
+        H67      16.59 A   CDK4/6i only
+        D10      17.29 A   CDK4/6i only
+        D134     19.17 A   CDK2i only
+        R140     19.68 A   CDK2i only
+        R288     20.09 A   CDK2i only
+        P118     20.78 A   CDK2i only
+        E114     21.76 A   CDK2i only
+        D233     25.76 A   CDK2i only
+        Q260     29.45 A   CDK2i only
+        A259     29.50 A   CDK2i only
+        P261     29.71 A   CDK2i only
+
+=== hits inside the zoomed crop (< 16 A of ATP), which get labeled
+  CDK2: 7 labeled, 13 off-crop, 0 unmodelled
+     labeled : E81, L134, G147, P45, D185, R150, E57
+     off-crop: W187, S181, A194, R274, G176, L281, G259, S261, W243, D258, D256, P241, P238
+  CDK4: 18 labeled, 11 off-crop, 2 unmodelled
+     labeled : V96, H95, D97, E144, R73, M75, V148, A23, P173, R24, D25, D196, H68, G29, E56, T53, Q222, E86
+     off-crop: C215, W198, V54, P194, N134, I51, A133, G224, M264, E263, E266
+  CDK6: 22 labeled, 12 off-crop, 5 unmodelled
+     labeled : D104, I19, S57, G165, R44, T58, R46, A167, V62, L56, I59, H73, V47, Y13, V64, R66, E14, C15, M54, Q48, G53, T92
+     off-crop: L33, H67, D10, D134, R140, R288, P118, E114, D233, Q260, A259, P261

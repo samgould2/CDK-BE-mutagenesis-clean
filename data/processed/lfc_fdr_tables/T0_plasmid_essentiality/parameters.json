@@ -1,0 +1,32 @@
+{
+  "level": "L2",
+  "MIN_EDIT": 10.0,
+  "EDIT_HIGH": 50.0,
+  "MIN_BASE": 100,
+  "null_classes": [
+    "non-targeting control",
+    "intron"
+  ],
+  "null_sd": {
+    "early": 1.1748907786448155,
+    "late": 0.9234341838075493
+  },
+  "representation_oof_r2": 0.21410553015847789,
+  "genes": [
+    "CDK7",
+    "CDK8",
+    "CDK19",
+    "CDK9",
+    "CDK12",
+    "CDK13",
+    "CDK2",
+    "CDK4",
+    "CDK6"
+  ],
+  "primary_screens": [
+    "Subpool1",
+    "Subpool2",
+    "Subpool3"
+  ],
+  "holdout": "SY-5609"
+}

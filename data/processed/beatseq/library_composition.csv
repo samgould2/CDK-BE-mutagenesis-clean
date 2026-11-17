@@ -1,0 +1,53 @@
+editor,category,Symbol,n_guides,n_also_screen_hit
+ABE,fitness hit,CDK2,2,0
+ABE,fitness hit,CDK4,2,0
+ABE,fitness hit,CDK6,1,0
+ABE,fitness hit,CDK7,2,0
+ABE,fitness hit,CDK8,1,0
+ABE,fitness hit,CDK9,2,0
+ABE,non-targeting,NT,10,0
+ABE,nonsense / start loss,CDK12,1,0
+ABE,nonsense / start loss,CDK13,1,0
+ABE,nonsense / start loss,CDK19,1,0
+ABE,nonsense / start loss,CDK2,1,0
+ABE,nonsense / start loss,CDK4,1,0
+ABE,nonsense / start loss,CDK6,2,1
+ABE,nonsense / start loss,CDK7,1,0
+ABE,nonsense / start loss,CDK8,2,2
+ABE,nonsense / start loss,CDK9,1,0
+ABE,resistance hit,CDK12,10,0
+ABE,resistance hit,CDK13,10,0
+ABE,resistance hit,CDK19,7,0
+ABE,resistance hit,CDK2,1,0
+ABE,resistance hit,CDK4,5,0
+ABE,resistance hit,CDK6,4,0
+ABE,resistance hit,CDK7,9,0
+ABE,resistance hit,CDK8,8,0
+ABE,resistance hit,CDK9,7,0
+CBE,fitness hit,CDK12,2,0
+CBE,fitness hit,CDK13,2,0
+CBE,fitness hit,CDK19,2,0
+CBE,fitness hit,CDK2,2,0
+CBE,fitness hit,CDK4,1,0
+CBE,fitness hit,CDK6,2,0
+CBE,fitness hit,CDK7,1,0
+CBE,fitness hit,CDK8,2,0
+CBE,fitness hit,CDK9,2,0
+CBE,non-targeting,NT,10,0
+CBE,nonsense / start loss,CDK12,1,0
+CBE,nonsense / start loss,CDK13,1,0
+CBE,nonsense / start loss,CDK19,1,0
+CBE,nonsense / start loss,CDK2,3,2
+CBE,nonsense / start loss,CDK4,4,3
+CBE,nonsense / start loss,CDK6,1,0
+CBE,nonsense / start loss,CDK7,3,2
+CBE,nonsense / start loss,CDK8,1,1
+CBE,nonsense / start loss,CDK9,2,1
+CBE,resistance hit,CDK12,7,0
+CBE,resistance hit,CDK13,2,0
+CBE,resistance hit,CDK19,3,0
+CBE,resistance hit,CDK2,3,0
+CBE,resistance hit,CDK4,3,0
+CBE,resistance hit,CDK6,5,0
+CBE,resistance hit,CDK7,1,0
+CBE,resistance hit,CDK9,5,0

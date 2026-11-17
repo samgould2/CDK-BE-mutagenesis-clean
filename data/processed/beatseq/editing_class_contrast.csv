@@ -1,0 +1,9 @@
+cell_line,group,is_headline,test,n_truncating,n_missense,median_truncating,median_missense,U,p,effect_size_rb
+A549,truncating (NMD-competent PTC + start loss),True,"truncating (NMD-competent PTC + start loss) < missense, one-sided Mann-Whitney",26,116,-0.2665506369379433,0.12598934416242463,1165.0,0.03541054801567392,0.22745358090185674
+A549,NMD-competent PTC only,False,"NMD-competent PTC only < missense, one-sided Mann-Whitney",15,116,-0.2752852529314539,0.12598934416242463,613.0,0.03186754230027923,0.2954022988505747
+A549,start loss only,False,"start loss only < missense, one-sided Mann-Whitney",11,116,-0.1091346525165704,0.12598934416242463,552.0,0.23181913305200658,0.13479623824451414
+A549,NMD-escaping PTC only,False,"NMD-escaping PTC only < missense, one-sided Mann-Whitney",2,116,0.9381228306033742,0.12598934416242463,176.0,0.8823699840648993,-0.5172413793103448
+T47D,truncating (NMD-competent PTC + start loss),True,"truncating (NMD-competent PTC + start loss) < missense, one-sided Mann-Whitney",26,116,-0.491340397996859,0.09386197666901519,1110.0,0.018008408175076984,0.26392572944297077
+T47D,NMD-competent PTC only,False,"NMD-competent PTC only < missense, one-sided Mann-Whitney",15,116,-0.3104947735938501,0.09386197666901519,700.0,0.11025432202491459,0.1954022988505747
+T47D,start loss only,False,"start loss only < missense, one-sided Mann-Whitney",11,116,-1.2925161085172636,0.09386197666901519,410.0,0.025586162233222322,0.3573667711598746
+T47D,NMD-escaping PTC only,False,"NMD-escaping PTC only < missense, one-sided Mann-Whitney",2,116,-0.8895738432935635,0.09386197666901519,65.0,0.16253802694480657,0.43965517241379315

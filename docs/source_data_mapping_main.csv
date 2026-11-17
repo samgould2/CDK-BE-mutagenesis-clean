@@ -1,0 +1,116 @@
+figure,panel,source_file,notes
+
+figure1,a,None,
+
+figure1,b,None,
+
+figure1,c,None,
+
+figure1,d,None,
+
+figure1,e,figures/predicted_codons_canonical.pdf,
+
+figure1,f,figures/res_ABE_CBE_combined_length_scaled.pdf figures/chimerax/CDK2.png figures/chimerax/CDK6.png figures/chimerax/CDK4.png figures/chimerax/CDK13.png figures/chimerax/CDK12.png figures/chimerax/CDK9.png figures/chimerax/CDK19.png figures/chimerax/CDK8.png figures/chimerax/CDK7.png,
+
+figure2_v2,a,figures/lollipop_canonical/subpool1_KI-CDK9d-32_1000nM_lollipop.pdf,
+
+figure2_v2,b,figures/cdk9_top_vars_v2.pdf,
+
+figure2_v2,c,figures/chimerax/CDK9_fig2b_labeled.png figures/chimerax/CDK9_fig2b.png,"rebuilt here -- the published panel was an old ChimeraX session that is in none of the source repositories. scripts/chimerax/generate_cdk9_fig2b.py draws CDK9/cyclin T1 (8K5R) marking only the five residues figure 2b names, taken from 2b's own selection"
+
+figure2_v2,d,figures/L156F_KI-CDK9d-32_wide.pdf figures/L156F_KB-0742_wide.pdf,
+
+figure2_v2,e,None,
+
+figure2_v2,f,lab-dropbox/Cdk9 FC New Variant.txt,vendored to data/raw/competition_assays/A549/Cdk9 FC New Variant.txt
+
+figure2_v2,g,None,
+
+figure2_v2,h,figures/lollipop_canonical/subpool1_SY-5609_10nM_lollipop.pdf,
+
+figure2_v2,i,figures/CDK7_SY5609/CDK7_SY5609_top_hits.pdf,
+
+figure2_v2,j,figures/chimerax/CDK7_SY5609_labeled_zoom.png,
+
+figure2_v2,k,figures/L18F_SY_wide.pdf,
+
+figure2_v2,l,None,
+
+figure2_v2,m,figures/invivo_xenograft/CDK9_tumor_volume_FC_Day5_combined.pdf figures/invivo_xenograft/CDK7_tumor_volume_FC_Day7_combined.pdf,
+
+figure2_v2,n,figures/invivo_xenograft/CDK9_Ki67_combined.pdf figures/invivo_xenograft/CDK7_Ki67_combined.pdf,
+
+figure2_v2,o,none,
+
+figure3,a,figures/lollipop_canonical/subpool2_HQ461_lollipop.pdf,
+
+figure3,b,figures/CDK12_13_resistance/CDK12_13_top12_and_HQ461_specific_large.pdf,
+
+figure3,c,figures/chimerax/CDK12_DDB1_opaque.png figures/chimerax/CDK13_DDB1.png figures/chimerax/CDK12_DDB1_opaque_glue_zoom.png figures/chimerax/CDK12_DDB1_opaque_labeled_glue_zoom.png,
+
+figure3,d,figures/CDK12_13_validation_MTT_stats.pdf,
+
+figure3,e,None,
+
+figure3,f,source_data/11_rnaseq_data_deseq2/Comprehensive PC3 RNA-seq Analysis/reanalysis/figures/Fig2_DEG_counts.pdf',
+
+figure3,g,source_data/11_rnaseq_data_deseq2/Comprehensive PC3 RNA-seq Analysis/reanalysis/figures/Fig3_response_retained.pdf',
+
+figure3,h,source_data/11_rnaseq_data_deseq2/Comprehensive PC3 RNA-seq Analysis/reanalysis/figures/Fig10b_elongation_shared_y_inset.pdf',
+
+figure4_v2,a,figures/CDK2_4_6_resistance/CDK6_cross_drug_heatmap_narrow_withT0_large.pdf figures/CDK2_4_6_resistance/CDK4_cross_drug_heatmap_narrow_withT0_large.pdf figures/CDK2_4_6_resistance/CDK2_cross_drug_heatmap_narrow_withT0_large.pdf,
+
+figure4_v2,b,figures/CDK2_4_6_resistance/resistance_hits_per_drug_large.pdf,
+
+figure4_v2,c,figures/chimerax/CDK4_active_site_zoom_labeled.png figures/chimerax/CDK4_active_site.png,
+
+figure4_v2,d,figures/chimerax/CDK6_active_site_labeled.png figures/chimerax/CDK6_active_site.png,
+
+figure4_v2,e,figures/chimerax/CDK2_active_site.png figures/chimerax/CDK2_active_site_zoom_labeled.png,
+
+figure4_v2,f,figures/CDK4_validation_v3.pdf,
+
+figure4_v2,g,lab-dropbox/cdk_variant_T47D_plot_t0_tf.svg,vendored to data/raw/collaborator_panels/T47D_MCF7/cdk_variant_T47D_plot_t0_tf.svg; the T47D pre- and post-selection plot
+
+figure4_v2,h,None,
+
+figure4_v2,i,lab-dropbox/C010_T47D_comp_foldchange_heatmap_horizontal.svg,vendored to data/raw/collaborator_panels/T47D_MCF7/C010_T47D_comp_foldchange_heatmap_horizontal.svg
+
+figure4_v2,j,lab-dropbox/20261011_C014.png,vendored to data/raw/collaborator_panels/T47D_MCF7/20261011_C014.png
+
+figure4_v2,k,lab-dropbox/T47D_cell_cycle_stacked_Sphase_ABE.svg,"drawn from the FlowJo export vendored at data/raw/collaborator_panels/T47D_cell_cycle/20260908_T47D_cell_cycle.csv, with the delivered notebook and style module beside it"
+
+figure4_v2,l,lab-dropbox/T47D_cell_cycle_stacked_Sphase_CBE.svg,"drawn from the FlowJo export vendored at data/raw/collaborator_panels/T47D_cell_cycle/20260908_T47D_cell_cycle.csv, with the delivered notebook and style module beside it"
+
+figure4_v2,m,lab-dropbox/marker_gene_panel_DMSO_palbo_stacked.svg,"vendored to data/raw/collaborator_panels/T47D_MCF7/marker_gene_panel_DMSO_palbo_stacked.svg; the RNA-seq marker-gene panel, DMSO and palbociclib"
+
+figure4_v2,n,figures/invivo_xenograft/CDK6_tumor_volume_FC_Day7_combined_wide.pdf,
+
+figure4_v2,o,figures/invivo_xenograft/CDK6_Ki67_combined_wide.pdf,
+
+figure4_v2,p,figures/clinical_vars_cdk6_new.pdf,
+
+figure5_v2,a,analysis/figures/panels/PANEL_i1_library_donut_ABE.pdf analysis/figures/panels/PANEL_i2_library_donut_CBE.pdf,
+
+figure5_v2,b,analysis/figures/panels/PANEL_a3_umap_phase_A549.pdf analysis/figures/panels/PANEL_a1_umap_target_A549.pdf,
+
+figure5_v2,c,analysis/figures/panels/PANEL_a2_umap_target_T47D.pdf analysis/figures/panels/PANEL_a4_umap_phase_T47D.pdf,
+
+figure5_v2,d,analysis/figures/panels/PANEL_c1s_editing_by_variant_class_combined.pdf,
+
+figure5_v2,e,analysis/figures/panels/PANEL_c3_editing_vs_cellcycle_CDK4_T47D.pdf,
+
+figure5_v2,f,source_data/11_rnaseq_data_deseq2/T47D_RNAseq/cdk4_program_analysis/figures/pub_fig_square_4panel_mid.pdf,
+
+figure5_v2,g,source_data/11_rnaseq_data_deseq2/T47D_RNAseq/cdk4_program_analysis/figures/pub_fig_square_4panel_mid.pdf,
+
+figure5_v2,h,source_data/11_rnaseq_data_deseq2/T47D_RNAseq/cdk4_program_analysis/figures/pub_fig_square_4panel_mid.pdf,
+
+figure5_v2,i,source_data/11_rnaseq_data_deseq2/T47D_RNAseq/cdk4_program_analysis/figures/pub_fig_square_4panel_mid.pdf,
+
+figure5_v2,j,analysis/figures/panels/PANEL_d12w_severity_by_CDK_stacked.pdf,
+
+figure5_v2,k,analysis/figures/panels/PANEL_e2n_severity_vs_drug_lfc_T47D.svg analysis/figures/panels/PANEL_e1_severity_vs_drug_lfc_A549.pdf,
+
+figure6_summary,(whole figure),figures/chimerax/cxc_core7_consensus_strong/consensus_leader_variants.svg,Additional text added to indicate the matching aligned kinase positions in other kinases (besides CDKs); these should be sourced as well; think there’s an existing table
+

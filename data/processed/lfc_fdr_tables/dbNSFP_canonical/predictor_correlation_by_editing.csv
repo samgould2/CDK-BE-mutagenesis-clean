@@ -1,0 +1,9 @@
+min_edit,readout,n_variants,mean_rho,best_rho
+10,DMSO vs T0,6531,-0.128,-0.215
+10,T0 vs Plasmid,6531,-0.119,-0.29
+25,DMSO vs T0,5519,-0.141,-0.235
+25,T0 vs Plasmid,5519,-0.125,-0.3
+50,DMSO vs T0,4136,-0.153,-0.257
+50,T0 vs Plasmid,4136,-0.13,-0.303
+75,DMSO vs T0,2634,-0.181,-0.314
+75,T0 vs Plasmid,2634,-0.149,-0.306

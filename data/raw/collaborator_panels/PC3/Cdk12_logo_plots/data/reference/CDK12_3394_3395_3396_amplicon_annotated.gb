@@ -1,0 +1,34 @@
+LOCUS       CDK12_amp2               346 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  CDK12 Sanger amplicon (primers CDK12_3394_3395_3396_F/R) - covers
+            M816I, D817N, G822K/E.
+ACCESSION   CDK12_3394_3395_3396
+VERSION     CDK12_3394_3395_3396
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  Homo sapiens
+            .
+FEATURES             Location/Qualifiers
+     exon            108..297
+                     /label="CDK12 exon (ENSE00001696255)"
+                     /note="encodes ~residues 807-870"
+     primer_bind     1..24
+                     /label="CDK12_3394_3395_3396_F"
+     primer_bind     complement(323..346)
+                     /label="CDK12_3394_3395_3396_R"
+     misc_feature    134..136
+                     /label="M816I codon"
+                     /note="WT=M, resistance variant=I"
+     misc_feature    137..139
+                     /label="D817N codon"
+                     /note="WT=D, resistance variant=N"
+     misc_feature    152..154
+                     /label="G822K/E codon"
+                     /note="WT=G, resistance variant=K/E"
+ORIGIN
+        1 tctagagaac ctgtggtcaa ctccaaaatt atattaggac ttgaggcatt gttatttcag
+       61 cattcttttt tttttcttgc ttttaatttt ttttcgtctt tatgtaggtg ccttttacct
+      121 tgtatttgag tatatggacc atgacttaat gggactgcta gaatctggtt tggtgcactt
+      181 ttctgaggac catatcaagt cgttcatgaa acagctaatg gaaggattgg aatactgtca
+      241 caaaaagaat ttcctgcatc gggatattaa gtgttctaac attttgctga ataacaggta
+      301 acatagtaac caaataagat taagcacttt cctcttctcc tctgac
+//

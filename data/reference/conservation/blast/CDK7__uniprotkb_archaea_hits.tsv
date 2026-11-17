@@ -1,0 +1,176 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	TR	A0A1W6JWE9	Protein kinase domain-containing protein OS=Acidianus manzaensis OX=282676 GN=B6F84_00295 PE=4 SV=1	Acidianus manzaensis	431	253	37.7	54.8	1.7e-22
+2	TR	A0A8G2FXV0	non-specific serine/threonine protein kinase OS=Picrophilus torridus (strain ATCC 700027 / DSM 9790 / JCM 10055 / NBRC 100828 / KAW 2/3) OX=1122961 GN=SAMN02745355_1452 PE=4 SV=1	Picrophilus torridus (strain ATCC 700027 / DSM 9790 / JCM 10055 / NBRC 100828 / KAW 2/3)	1215	254	34.6	52.6	3.9e-22
+3	TR	A0A0Q2RDP2	Serine/threonine protein kinase OS=Thermococcus thioreducens OX=277988 GN=A3L14_07035 PE=4 SV=1	Thermococcus thioreducens	492	249	33.3	51.5	8.8e-22
+4	TR	A0A097QV13	Serine/threonine protein kinase OS=Thermococcus eurythermalis OX=1505907 GN=TEU_08220 PE=4 SV=1	Thermococcus eurythermalis	386	244	35.5	50.9	1.9e-21
+5	TR	A0A2U9IDA2	Protein kinase domain-containing protein OS=Acidianus brierleyi OX=41673 GN=DFR85_04605 PE=4 SV=1	Acidianus brierleyi	442	243	36.2	52.9	4.1e-21
+6	TR	F0LHW7	Serine/threonine protein kinase OS=Thermococcus barophilus (strain DSM 11836 / MP) OX=391623 GN=TERMP_01392 PE=4 SV=1	Thermococcus barophilus (strain DSM 11836 / MP)	492	243	32.9	51.1	5.5e-21
+7	TR	A0A1W6JWK5	Protein kinase domain-containing protein OS=Acidianus manzaensis OX=282676 GN=B6F84_00210 PE=4 SV=1	Acidianus manzaensis	530	243	34.5	54.9	6.3e-21
+8	TR	A0A2Z2MG58	Serine/threonine protein kinase OS=Thermococcus profundus OX=49899 GN=A3L09_05300 PE=4 SV=1	Thermococcus profundus	405	239	35.2	49.3	1.1e-20
+9	TR	A0A2Z2MB84	Protein kinase domain-containing protein OS=Thermococcus profundus OX=49899 GN=A3L09_07205 PE=4 SV=1	Thermococcus profundus	1030	242	37.3	52.5	1.3e-20
+10	TR	A0A4Y5SN55	PEGA domain-containing protein OS=Thermococcus indicus OX=2586643 GN=FH039_08265 PE=4 SV=1	Thermococcus indicus	559	237	34.5	51.1	4.1e-20
+11	TR	W8PJT2	Putative solute binding protein OS=Thermococcus nautili OX=195522 GN=BD01_0726 PE=4 SV=1	Thermococcus nautili	1445	238	34.6	50.9	4.8e-20
+12	TR	A0A5C0SMW3	Serine/threonine protein kinase OS=Thermococcus aciditolerans OX=2598455 GN=FPV09_02470 PE=4 SV=1	Thermococcus aciditolerans	484	233	32.7	51.6	1.1e-19
+13	TR	C9RH05	Serine/threonine protein kinase OS=Methanocaldococcus vulcanius (strain ATCC 700851 / DSM 12094 / M7) OX=579137 GN=Metvu_0999 PE=4 SV=1	Methanocaldococcus vulcanius (strain ATCC 700851 / DSM 12094 / M7)	864	234	31.5	51.1	1.3e-19
+14	TR	A0A401HPL5	Non-specific serine/threonine protein kinase OS=Methanofervidicoccus abyssi OX=2082189 GN=MHHB_P0360 PE=4 SV=1	Methanofervidicoccus abyssi	1029	234	32.8	53.4	1.4e-19
+15	TR	C5A5G4	Serine/threonine protein kinase OS=Thermococcus gammatolerans (strain DSM 15229 / JCM 11827 / EJ3) OX=593117 GN=TGAM_0974 PE=4 SV=1	Thermococcus gammatolerans (strain DSM 15229 / JCM 11827 / EJ3)	957	232	33.3	53.3	2.5e-19
+16	TR	A0A2U9ID98	Protein kinase domain-containing protein OS=Acidianus brierleyi OX=41673 GN=DFR85_04530 PE=4 SV=1	Acidianus brierleyi	514	226	37.6	54.3	9.9e-19
+17	TR	I3ZW37	Putiative protein kinase 1 OS=Thermococcus cleftensis (strain DSM 27260 / KACC 17922 / CL1) OX=163003 GN=CL1_1724 PE=4 SV=1	Thermococcus cleftensis (strain DSM 27260 / KACC 17922 / CL1)	444	224	32.8	52.0	1.4e-18
+18	TR	A0A100XZH1	Serine/threonine protein kinase OS=Thermococcus celericrescens OX=227598 GN=APY94_01640 PE=4 SV=1	Thermococcus celericrescens	490	224	31.5	51.6	1.7e-18
+19	TR	A0A142CXX3	Serine/threonine protein kinase OS=Thermococcus peptonophilus OX=53952 GN=A0127_10180 PE=4 SV=1	Thermococcus peptonophilus	569	224	31.8	50.7	2e-18
+20	TR	A0A2Z2ME28	non-specific serine/threonine protein kinase OS=Thermococcus profundus OX=49899 GN=A3L09_09630 PE=4 SV=1	Thermococcus profundus	397	219	34.4	50.2	4.7e-18
+21	TR	A0A4Y5SL27	PEGA domain-containing protein OS=Thermococcus indicus OX=2586643 GN=FH039_08305 PE=4 SV=1	Thermococcus indicus	1240	222	33.3	52.0	5.2e-18
+22	TR	A0A0X1KLC0	Serine/threonine protein kinase OS=Thermococcus guaymasensis DSM 11113 OX=1432656 GN=X802_07690 PE=4 SV=1	Thermococcus guaymasensis DSM 11113	434	218	33.8	50.5	8e-18
+23	TR	Q8U321	Serine/threonine-protein kinase OS=Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1) OX=186497 GN=PF0655 PE=4 SV=1	Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1)	370	216	32.0	48.9	9.5e-18
+24	TR	A0A097QV09	Serine/threonine protein kinase OS=Thermococcus eurythermalis OX=1505907 GN=TEU_08200 PE=4 SV=1	Thermococcus eurythermalis	454	217	31.7	53.7	1.2e-17
+25	TR	C5A5H9	Serine/threonine protein kinase OS=Thermococcus gammatolerans (strain DSM 15229 / JCM 11827 / EJ3) OX=593117 GN=TGAM_0989 PE=4 SV=1	Thermococcus gammatolerans (strain DSM 15229 / JCM 11827 / EJ3)	1088	219	33.3	50.0	1.2e-17
+26	TR	A0AA97F9D3	Protein kinase OS=Methanochimaera problematica OX=2609417 GN=F1737_00250 PE=4 SV=1	Methanochimaera problematica	811	218	28.1	47.7	1.5e-17
+27	TR	A0A498GZE1	Protein kinase domain-containing protein OS=Methanoculleus taiwanensis OX=1550565 GN=ABH15_13090 PE=4 SV=1	Methanoculleus taiwanensis	444	215	27.2	49.6	2.1e-17
+28	TR	A0A075LTV5	Protein kinase domain-containing protein OS=Palaeococcus pacificus DY20341 OX=1343739 GN=PAP_08800 PE=4 SV=1	Palaeococcus pacificus DY20341	564	216	34.8	51.4	2.2e-17
+29	TR	A0A2Z2MPH2	Serine/threonine protein kinase OS=Thermococcus profundus OX=49899 GN=A3L09_09610 PE=4 SV=1	Thermococcus profundus	379	213	32.7	52.6	2.6e-17
+30	TR	C5A5F8	Serine/threonine protein kinase OS=Thermococcus gammatolerans (strain DSM 15229 / JCM 11827 / EJ3) OX=593117 GN=TGAM_0968 PE=4 SV=1	Thermococcus gammatolerans (strain DSM 15229 / JCM 11827 / EJ3)	943	216	33.8	50.5	2.8e-17
+31	TR	A0ABD4TND2	Protein kinase OS=Methanocalculus taiwanensis OX=106207 GN=FTO68_11045 PE=4 SV=1	Methanocalculus taiwanensis	878	215	31.0	50.0	3.7e-17
+32	TR	C5A4Y9	Serine/threonine protein kinase, putative S-layer protein OS=Thermococcus gammatolerans (strain DSM 15229 / JCM 11827 / EJ3) OX=593117 GN=TGAM_0799 PE=4 SV=1	Thermococcus gammatolerans (strain DSM 15229 / JCM 11827 / EJ3)	1292	215	34.3	51.4	4.2e-17
+33	TR	F6BEU8	Serine/threonine protein kinase OS=Methanotorris igneus (strain DSM 5666 / JCM 11834 / Kol 5) OX=880724 GN=Metig_0123 PE=4 SV=1	Methanotorris igneus (strain DSM 5666 / JCM 11834 / Kol 5)	667	214	29.6	50.2	4.4e-17
+34	TR	C9RGZ6	Serine/threonine protein kinase OS=Methanocaldococcus vulcanius (strain ATCC 700851 / DSM 12094 / M7) OX=579137 GN=Metvu_0990 PE=4 SV=1	Methanocaldococcus vulcanius (strain ATCC 700851 / DSM 12094 / M7)	484	211	31.7	52.5	8e-17
+35	TR	W8P4H2	non-specific serine/threonine protein kinase OS=Thermococcus nautili OX=195522 GN=BD01_0722 PE=3 SV=1	Thermococcus nautili	539	211	32.7	53.1	9.1e-17
+36	TR	A0AAF0JMX7	Protein kinase OS=Methanomicrobium antiquum OX=487686 GN=L1994_00335 PE=4 SV=1	Methanomicrobium antiquum	848	210	29.6	51.9	1.6e-16
+37	TR	C5A5G9	non-specific serine/threonine protein kinase OS=Thermococcus gammatolerans (strain DSM 15229 / JCM 11827 / EJ3) OX=593117 GN=TGAM_0979 PE=3 SV=1	Thermococcus gammatolerans (strain DSM 15229 / JCM 11827 / EJ3)	541	207	32.6	49.6	3e-16
+38	TR	A0A401HRQ9	Peptide/nickel transport system substrate-binding protein OS=Methanofervidicoccus abyssi OX=2082189 GN=MHHB_P1112 PE=4 SV=1	Methanofervidicoccus abyssi	956	208	30.1	47.5	3e-16
+39	TR	A0A9X9S593	Protein kinase OS=Methanogenium organophilum OX=2199 GN=OU421_02565 PE=4 SV=1	Methanogenium organophilum	779	207	29.4	47.3	3.7e-16
+40	TR	F6BBS3	non-specific serine/threonine protein kinase OS=Methanotorris igneus (strain DSM 5666 / JCM 11834 / Kol 5) OX=880724 GN=Metig_1671 PE=4 SV=1	Methanotorris igneus (strain DSM 5666 / JCM 11834 / Kol 5)	1097	207	31.0	50.0	4.2e-16
+41	TR	A0ABD5NQA1	Serine/threonine protein kinase OS=Halovivax cerinus OX=1487865 GN=ACFOUR_10215 PE=4 SV=1	Halovivax cerinus	417	202	30.2	50.9	9.1e-16
+42	TR	D5VRF0	non-specific serine/threonine protein kinase OS=Methanocaldococcus infernus (strain DSM 11812 / JCM 15783 / ME) OX=573063 GN=Metin_0483 PE=3 SV=1	Methanocaldococcus infernus (strain DSM 11812 / JCM 15783 / ME)	745	203	27.7	52.4	1.2e-15
+43	TR	W8NTA3	Serine/threonine protein kinase OS=Thermococcus nautili OX=195522 GN=BD01_0724 PE=4 SV=1	Thermococcus nautili	776	203	35.6	48.6	1.2e-15
+44	TR	A0A9Q4KSA3	Protein kinase OS=Methanogenium marinum OX=348610 GN=L0665_03695 PE=4 SV=1	Methanogenium marinum	789	203	31.6	50.0	1.2e-15
+45	TR	A0A2V2N7W1	Protein kinase domain-containing protein OS=Methanospirillum stamsii OX=1277351 GN=DLD82_02450 PE=4 SV=1	Methanospirillum stamsii	545	201	30.0	49.3	1.8e-15
+46	TR	A0A2Z2MBC7	Serine/threonine protein kinase OS=Thermococcus profundus OX=49899 GN=A3L09_05080 PE=4 SV=1	Thermococcus profundus	389	198	34.0	50.5	2.6e-15
+47	TR	A0A8G1EFP3	TIR domain-containing protein OS=Methanofollis formosanus OX=299308 GN=E2N92_00840 PE=4 SV=1	Methanofollis formosanus	639	200	29.8	46.7	2.6e-15
+48	TR	A0ABD4TNT2	Protein kinase OS=Methanocalculus taiwanensis OX=106207 GN=FTO68_11055 PE=4 SV=1	Methanocalculus taiwanensis	1092	200	29.5	51.1	3.3e-15
+49	TR	H1L0Y3	Serine/threonine protein kinase with WD40 repeats OS=Methanotorris formicicus Mc-S-70 OX=647171 GN=MetfoDRAFT_1707 PE=4 SV=1	Methanotorris formicicus Mc-S-70	788	199	28.6	52.7	3.9e-15
+50	TR	A0AAX4FV76	Serine/threonine-protein kinase OS=Methanoculleus receptaculi OX=394967 GN=R6Y96_08515 PE=4 SV=1	Methanoculleus receptaculi	374	196	30.6	49.5	4.3e-15
+51	TR	H1YZM5	Serine/threonine protein kinase OS=Methanoplanus limicola DSM 2279 OX=937775 GN=Metlim_3046 PE=4 SV=1	Methanoplanus limicola DSM 2279	822	198	30.0	52.6	5.3e-15
+52	TR	A0A9E7TKQ3	Protein kinase OS=Methanoplanus endosymbiosus OX=33865 GN=L6E24_08715 PE=4 SV=1	Methanoplanus endosymbiosus	822	197	29.6	50.2	7.2e-15
+53	TR	A0A8A3S5R2	Serine/threonine protein kinase OS=Methanofollis aquaemaris OX=126734 GN=RJ40_05785 PE=4 SV=1	Methanofollis aquaemaris	444	195	32.5	48.6	8.1e-15
+54	TR	A0A4Y5SN25	PEGA domain-containing protein OS=Thermococcus indicus OX=2586643 GN=FH039_08315 PE=4 SV=1	Thermococcus indicus	1310	197	30.2	55.2	8.2e-15
+55	TR	A0A4Y5SQ20	Serine/threonine protein kinase OS=Thermococcus indicus OX=2586643 GN=FH039_08295 PE=4 SV=1	Thermococcus indicus	386	194	30.6	49.1	8.5e-15
+56	TR	I3ZW39	Putiative protein kinase 2 OS=Thermococcus cleftensis (strain DSM 27260 / KACC 17922 / CL1) OX=163003 GN=CL1_1726 PE=4 SV=1	Thermococcus cleftensis (strain DSM 27260 / KACC 17922 / CL1)	640	196	33.5	50.2	8.5e-15
+57	TR	H1L0Z2	Serine/threonine protein kinase OS=Methanotorris formicicus Mc-S-70 OX=647171 GN=MetfoDRAFT_1716 PE=4 SV=1	Methanotorris formicicus Mc-S-70	494	195	31.5	51.6	9.3e-15
+58	TR	Q2FPV6	Serine/threonine protein kinase OS=Methanospirillum hungatei JF-1 (strain ATCC 27890 / DSM 864 / NBRC 100397 / JF-1) OX=323259 GN=Mhun_0317 PE=4 SV=1	Methanospirillum hungatei JF-1 (strain ATCC 27890 / DSM 864 / NBRC 100397 / JF-1)	529	195	27.9	49.5	1e-14
+59	TR	B8GKN1	Serine/threonine protein kinase OS=Methanosphaerula palustris (strain ATCC BAA-1556 / DSM 19958 / E1-9c) OX=521011 GN=Mpal_1872 PE=4 SV=1	Methanosphaerula palustris (strain ATCC BAA-1556 / DSM 19958 / E1-9c)	534	195	29.5	43.3	1e-14
+60	TR	A0ABT8M2V4	Serine/threonine protein kinase OS=Methanoculleus methanifontis OX=2584086 GN=FGW20_09995 PE=4 SV=1	Methanoculleus methanifontis	424	194	26.4	47.3	1e-14
+61	TR	A0A1G5VRT5	Protein kinase domain-containing protein OS=Methanobrevibacter millerae OX=230361 GN=SAMN02910315_00812 PE=4 SV=1	Methanobrevibacter millerae	1168	196	32.1	49.3	1.1e-14
+62	TR	A0AA97FDH5	Serine/threonine protein kinase OS=Methanochimaera problematica OX=2609417 GN=F1737_01555 PE=4 SV=1	Methanochimaera problematica	379	193	28.2	50.0	1.1e-14
+63	TR	A0A9E5DDJ7	Serine/threonine protein kinase OS=Methanoculleus formosensis OX=2590886 GN=FKB36_03890 PE=4 SV=1	Methanoculleus formosensis	417	193	25.6	44.8	1.3e-14
+64	TR	A0A1H9M923	Serine/threonine protein kinase OS=Natrinema salaciae OX=1186196 GN=SAMN04489841_3262 PE=4 SV=1	Natrinema salaciae	424	193	26.5	47.4	1.4e-14
+65	TR	C9RH10	Serine/threonine protein kinase OS=Methanocaldococcus vulcanius (strain ATCC 700851 / DSM 12094 / M7) OX=579137 GN=Metvu_1004 PE=4 SV=1	Methanocaldococcus vulcanius (strain ATCC 700851 / DSM 12094 / M7)	496	193	33.0	52.1	1.7e-14
+66	TR	J1L4L1	Serine/threonine protein kinase OS=Methanofollis liminatans DSM 4140 OX=28892 GN=Metli_2111 PE=4 SV=1	Methanofollis liminatans DSM 4140	425	192	32.0	51.0	1.9e-14
+67	TR	A0A0U2V1V9	Hsp70 family protein with protein kinase domain OS=Methanobrevibacter millerae OX=230361 GN=sm9_0701 PE=4 SV=1	Methanobrevibacter millerae	1170	194	33.5	48.1	1.9e-14
+68	TR	D7DBS5	Serine/threonine protein kinase with WD40 repeats OS=Staphylothermus hellenicus (strain DSM 12710 / JCM 10830 / BK20S6-10-b1 / P8) OX=591019 GN=Shell_0491 PE=4 SV=1	Staphylothermus hellenicus (strain DSM 12710 / JCM 10830 / BK20S6-10-b1 / P8)	945	193	30.1	54.6	2.4e-14
+69	TR	C9RH09	Serine/threonine protein kinase with TPR repeats OS=Methanocaldococcus vulcanius (strain ATCC 700851 / DSM 12094 / M7) OX=579137 GN=Metvu_1003 PE=4 SV=1	Methanocaldococcus vulcanius (strain ATCC 700851 / DSM 12094 / M7)	1173	193	31.7	50.8	2.6e-14
+70	TR	I3ZW40	non-specific serine/threonine protein kinase OS=Thermococcus cleftensis (strain DSM 27260 / KACC 17922 / CL1) OX=163003 GN=CL1_1727 PE=3 SV=1	Thermococcus cleftensis (strain DSM 27260 / KACC 17922 / CL1)	530	191	30.5	48.3	3.2e-14
+71	TR	E1REB9	Serine/threonine protein kinase OS=Methanolacinia petrolearia (strain DSM 11571 / OCM 486 / SEBR 4847) OX=679926 GN=Mpet_1322 PE=4 SV=1	Methanolacinia petrolearia (strain DSM 11571 / OCM 486 / SEBR 4847)	572	191	28.2	48.7	3.4e-14
+72	TR	L0HHY6	Serine/threonine protein kinase OS=Methanoregula formicica (strain DSM 22288 / NBRC 105244 / SMSP) OX=593750 GN=Metfor_1920 PE=4 SV=1	Methanoregula formicica (strain DSM 22288 / NBRC 105244 / SMSP)	585	191	25.8	42.8	3.5e-14
+73	TR	A0A8G1A229	Serine/threonine protein kinase OS=Methanofollis formosanus OX=299308 GN=E2N92_05910 PE=4 SV=1	Methanofollis formosanus	464	190	32.1	49.1	3.8e-14
+74	TR	A0A8E7AZC5	Serine/threonine protein kinase OS=Methanospirillum purgamenti OX=2834276 GN=KHC33_13100 PE=4 SV=1	Methanospirillum purgamenti	449	189	29.4	52.3	4.9e-14
+75	TR	L0IE42	Serine/threonine protein kinase OS=Halovivax ruber (strain DSM 18193 / JCM 13892 / XH-70) OX=797302 GN=Halru_1893 PE=4 SV=1	Halovivax ruber (strain DSM 18193 / JCM 13892 / XH-70)	417	188	29.3	48.7	5.9e-14
+76	TR	M0BAB8	Serine/threonine-protein kinase PknA OS=Halovivax asiaticus JCM 14624 OX=1227490 GN=C479_15045 PE=4 SV=1	Halovivax asiaticus JCM 14624	417	188	29.3	48.7	5.9e-14
+77	TR	A0A2V2N6G8	Protein kinase domain-containing protein OS=Methanospirillum lacunae OX=668570 GN=DK846_12895 PE=4 SV=1	Methanospirillum lacunae	418	187	29.0	49.1	7.9e-14
+78	TR	E1RFR9	Serine/threonine protein kinase OS=Methanolacinia petrolearia (strain DSM 11571 / OCM 486 / SEBR 4847) OX=679926 GN=Mpet_2630 PE=4 SV=1	Methanolacinia petrolearia (strain DSM 11571 / OCM 486 / SEBR 4847)	853	188	28.4	47.1	1e-13
+79	TR	A0A7K4HQ77	Serine/threonine protein kinase OS=Methanofollis tationis OX=81417 GN=HWN36_08835 PE=4 SV=1	Methanofollis tationis	425	185	31.5	50.0	1.5e-13
+80	TR	A0A2Z2MBH4	Serine/threonine protein kinase OS=Thermococcus profundus OX=49899 GN=A3L09_09580 PE=4 SV=1	Thermococcus profundus	388	184	31.0	51.4	1.7e-13
+81	TR	A0A9Q4PY20	Serine/threonine protein kinase OS=Methanogenium marinum OX=348610 GN=L0665_04525 PE=4 SV=1	Methanogenium marinum	493	185	30.6	51.0	1.8e-13
+82	TR	A0ABU2FQ07	non-specific serine/threonine protein kinase OS=Haloarcula onubensis OX=2950539 GN=NDI86_11970 PE=4 SV=1	Haloarcula onubensis	410	183	27.0	46.4	2.5e-13
+83	TR	A0A8G0ZZ91	Serine/threonine protein kinase OS=Methanofollis formosanus OX=299308 GN=E2N92_02010 PE=4 SV=1	Methanofollis formosanus	543	184	28.5	46.8	2.5e-13
+84	TR	A0A9E7PN72	Serine/threonine protein kinase OS=Methanoplanus endosymbiosus OX=33865 GN=L6E24_13775 PE=4 SV=1	Methanoplanus endosymbiosus	582	184	29.1	46.7	2.7e-13
+85	TR	M0MN90	Serine/threonine-protein kinase PknA OS=Halobiforma nitratireducens JCM 10879 OX=1227454 GN=C446_01583 PE=4 SV=1	Halobiforma nitratireducens JCM 10879	424	182	26.0	48.5	3.5e-13
+86	TR	A7I5E2	Protein kinase OS=Methanoregula boonei (strain DSM 21154 / JCM 14090 / 6A8) OX=456442 GN=Mboo_0434 PE=4 SV=1	Methanoregula boonei (strain DSM 21154 / JCM 14090 / 6A8)	325	180	27.7	44.6	3.7e-13
+87	TR	D7DBR7	non-specific serine/threonine protein kinase OS=Staphylothermus hellenicus (strain DSM 12710 / JCM 10830 / BK20S6-10-b1 / P8) OX=591019 GN=Shell_0483 PE=3 SV=1	Staphylothermus hellenicus (strain DSM 12710 / JCM 10830 / BK20S6-10-b1 / P8)	526	182	32.9	49.8	4.5e-13
+88	TR	A0ABD4TNZ2	Protein kinase OS=Methanocalculus taiwanensis OX=106207 GN=FTO68_11375 PE=4 SV=1	Methanocalculus taiwanensis	948	183	28.6	50.0	4.5e-13
+89	TR	A0ABM7H845	Protein kinase domain-containing protein OS=Methanoculleus chikugoensis OX=118126 GN=MchiMG62_20300 PE=4 SV=1	Methanoculleus chikugoensis	417	180	25.2	44.8	6.2e-13
+90	TR	A0A2V2NBQ5	non-specific serine/threonine protein kinase OS=Methanospirillum lacunae OX=668570 GN=DK846_01000 PE=4 SV=1	Methanospirillum lacunae	565	181	28.5	47.3	6.3e-13
+91	TR	A0A401HRR2	Protein kinase domain-containing protein OS=Methanofervidicoccus abyssi OX=2082189 GN=MHHB_P1110 PE=4 SV=1	Methanofervidicoccus abyssi	501	180	30.5	50.7	7.7e-13
+92	TR	A0ABU2FAL2	non-specific serine/threonine protein kinase OS=Haloarcula saliterrae OX=2950534 GN=NDI56_07900 PE=4 SV=1	Haloarcula saliterrae	410	179	26.3	46.9	8.2e-13
+93	TR	A0A8J7YD01	non-specific serine/threonine protein kinase OS=Haloarcula salinisoli OX=2487746 GN=EGD98_09015 PE=4 SV=1	Haloarcula salinisoli	410	179	26.5	46.4	8.2e-13
+94	TR	A0AAF0JUH6	Serine/threonine protein kinase OS=Methanomicrobium antiquum OX=487686 GN=L1994_05520 PE=4 SV=1	Methanomicrobium antiquum	563	179	28.4	50.2	1.1e-12
+95	TR	L0AHJ6	Protein kinase domain with FHA domain OS=Natronobacterium gregoryi (strain ATCC 43098 / DSM 3393 / CCM 3738 / CIP 104747 / IAM 13177 / JCM 8860 / NBRC 102187 / NCIMB 2189 / SP2) OX=797304 GN=Natgr_2094 PE=4 SV=1	Natronobacterium gregoryi (strain ATCC 43098 / DSM 3393 / CCM 3738 / CIP 104747 / IAM 13177 / JCM 8860 / NBRC 102187 / NCIMB 2189 / SP2)	424	178	27.3	48.5	1.1e-12
+96	TR	A7I6A7	Protein kinase OS=Methanoregula boonei (strain DSM 21154 / JCM 14090 / 6A8) OX=456442 GN=Mboo_0750 PE=4 SV=1	Methanoregula boonei (strain DSM 21154 / JCM 14090 / 6A8)	671	179	28.4	48.8	1.2e-12
+97	TR	A0ABT8M808	Serine/threonine protein kinase OS=Methanoculleus frigidifontis OX=2584085 GN=FGU65_04080 PE=4 SV=1	Methanoculleus frigidifontis	509	178	27.1	47.1	1.4e-12
+98	TR	A0ABD4TNK2	Protein kinase OS=Methanocalculus taiwanensis OX=106207 GN=FTO68_11365 PE=4 SV=1	Methanocalculus taiwanensis	916	179	26.8	48.8	1.4e-12
+99	TR	A0A1G9C4S7	Serine/threonine protein kinase OS=Methanoculleus thermophilus OX=2200 GN=SAMN04488571_11262 PE=4 SV=1	Methanoculleus thermophilus	364	176	28.4	50.0	1.6e-12
+100	TR	E1RJ71	Serine/threonine protein kinase OS=Methanolacinia petrolearia (strain DSM 11571 / OCM 486 / SEBR 4847) OX=679926 GN=Mpet_0816 PE=4 SV=1	Methanolacinia petrolearia (strain DSM 11571 / OCM 486 / SEBR 4847)	386	176	29.0	56.8	1.8e-12
+101	TR	A0A097QV07	Serine/threonine protein kinase OS=Thermococcus eurythermalis OX=1505907 GN=TEU_08190 PE=4 SV=1	Thermococcus eurythermalis	630	177	31.0	49.0	2.2e-12
+102	TR	A0A9X9S1P7	Protein kinase OS=Methanogenium organophilum OX=2199 GN=OU421_07225 PE=4 SV=1	Methanogenium organophilum	465	176	28.0	48.8	2.3e-12
+103	TR	A0A830GI51	Serine/threonine protein kinase OS=Haloarcula pellucida OX=1427151 GN=GCM10009030_12970 PE=4 SV=1	Haloarcula pellucida	409	175	25.6	46.9	2.6e-12
+104	TR	Q2FRY2	Serine/threonine protein kinase OS=Methanospirillum hungatei JF-1 (strain ATCC 27890 / DSM 864 / NBRC 100397 / JF-1) OX=323259 GN=Mhun_2667 PE=4 SV=1	Methanospirillum hungatei JF-1 (strain ATCC 27890 / DSM 864 / NBRC 100397 / JF-1)	417	174	30.2	48.1	3.6e-12
+105	TR	A0A1H1GWH6	Serine/threonine protein kinase OS=Natronobacterium texcoconense OX=1095778 GN=SAMN04489842_2653 PE=4 SV=1	Natronobacterium texcoconense	424	174	25.6	48.5	3.7e-12
+106	TR	A0AAX3EA16	Serine/threonine protein kinase OS=Methanoculleus submarinus OX=204050 GN=OH143_03070 PE=4 SV=1	Methanoculleus submarinus	425	174	26.4	48.6	3.7e-12
+107	TR	A3CWE7	Protein kinase OS=Methanoculleus marisnigri (strain ATCC 35101 / DSM 1498 / JR1) OX=368407 GN=Memar_1771 PE=4 SV=1	Methanoculleus marisnigri (strain ATCC 35101 / DSM 1498 / JR1)	425	174	26.4	48.6	3.7e-12
+108	TR	A0A0H1QYW8	Protein kinase OS=Methanoculleus sediminis OX=1550566 GN=SZ63_03230 PE=4 SV=1	Methanoculleus sediminis	437	174	26.4	48.6	3.9e-12
+109	TR	A0A4C2EMF4	Serine/threonine protein kinase OS=Haloarcula mannanilytica OX=2509225 GN=Harman_34170 PE=4 SV=1	Haloarcula mannanilytica	412	171	26.3	46.0	8.6e-12
+110	TR	A0A9Q4KX08	Protein kinase OS=Natrinema salsiterrestre OX=2950540 GN=NDI89_03705 PE=4 SV=1	Natrinema salsiterrestre	422	171	25.7	46.5	8.9e-12
+111	TR	A0A8A3S0V8	Serine/threonine protein kinase OS=Methanofollis aquaemaris OX=126734 GN=RJ40_00385 PE=4 SV=1	Methanofollis aquaemaris	547	170	26.9	43.9	1.5e-11
+112	TR	M0KNA2	Serine/threonine-protein kinase PknA OS=Haloarcula amylolytica JCM 13557 OX=1227452 GN=C442_06461 PE=4 SV=1	Haloarcula amylolytica JCM 13557	412	169	25.8	46.0	1.5e-11
+113	TR	A0AAE4JK31	Protein kinase OS=Haloarcula terrestris OX=2950533 GN=NDI54_16435 PE=4 SV=1	Haloarcula terrestris	412	169	26.3	45.5	1.5e-11
+114	TR	A0AA97I326	Serine/threonine protein kinase OS=Methanochimaera problematica OX=2609417 GN=F1737_05650 PE=4 SV=1	Methanochimaera problematica	502	169	28.1	48.3	1.9e-11
+115	TR	A0A8J7Y1R0	Protein kinase OS=Haloarcula limicola OX=1429915 GN=KTS45_00030 PE=4 SV=1	Haloarcula limicola	410	168	25.4	45.5	2.1e-11
+116	TR	A0AAW4P9S1	non-specific serine/threonine protein kinase OS=Haloarcula nitratireducens OX=2487749 GN=EGH23_06585 PE=4 SV=1	Haloarcula nitratireducens	410	168	25.4	45.5	2.1e-11
+117	TR	A0ABU3Z3H8	Protein kinase OS=Methanoculleus nereidis OX=2735141 GN=HL657_09185 PE=4 SV=1	Methanoculleus nereidis	429	168	25.8	46.9	2.2e-11
+118	TR	A0ACN7GCT2	Protein kinase OS=Haloarcula halophila OX=3032584 GN=ACFQI6_07235 PE=4 SV=1	Haloarcula halophila	410	167	28.7	48.1	2.8e-11
+119	TR	A7I9S3	Protein kinase OS=Methanoregula boonei (strain DSM 21154 / JCM 14090 / 6A8) OX=456442 GN=Mboo_1970 PE=4 SV=1	Methanoregula boonei (strain DSM 21154 / JCM 14090 / 6A8)	707	168	28.4	45.5	3.1e-11
+120	TR	A0A9E7TLE2	PEGA domain-containing protein OS=Methanoplanus endosymbiosus OX=33865 GN=L6E24_06365 PE=4 SV=1	Methanoplanus endosymbiosus	905	168	28.3	47.5	3.4e-11
+121	TR	M0HUY3	Serine/threonine-protein kinase PknA OS=Haloferax gibbonsii (strain ATCC 33959 / DSM 4427 / JCM 8863 / NBRC 102184 / NCIMB 2188 / Ma 2.38) OX=1227459 GN=C454_00225 PE=4 SV=1	Haloferax gibbonsii (strain ATCC 33959 / DSM 4427 / JCM 8863 / NBRC 102184 / NCIMB 2188 / Ma 2.38)	411	166	30.1	46.8	3.7e-11
+122	TR	H1YZ12	Serine/threonine protein kinase OS=Methanoplanus limicola DSM 2279 OX=937775 GN=Metlim_0088 PE=4 SV=1	Methanoplanus limicola DSM 2279	578	167	32.2	50.3	3.7e-11
+123	TR	D3E3P5	Serine/threonine protein kinase OS=Methanobrevibacter ruminantium (strain ATCC 35063 / DSM 1093 / JCM 13430 / OCM 146 / M1) OX=634498 GN=mru_1306 PE=4 SV=1	Methanobrevibacter ruminantium (strain ATCC 35063 / DSM 1093 / JCM 13430 / OCM 146 / M1)	552	166	33.2	48.6	4.8e-11
+124	TR	A0AAW4PRQ1	Protein kinase OS=Haloarcula rubra OX=2487747 GN=EGH21_11600 PE=4 SV=1	Haloarcula rubra	409	165	25.1	46.0	4.9e-11
+125	TR	M0JMW1	Serine/threonine-protein kinase PknA OS=Haloarcula vallismortis ATCC 29715 OX=662477 GN=C437_03596 PE=4 SV=1	Haloarcula vallismortis ATCC 29715	412	165	25.4	46.0	5e-11
+126	TR	I7J7N1	Serine/threonine-protein kinase OS=Methanoculleus bourgensis (strain ATCC 43281 / DSM 3045 / OCM 15 / MS2) OX=1201294 GN=BN140_0620 PE=4 SV=1	Methanoculleus bourgensis (strain ATCC 43281 / DSM 3045 / OCM 15 / MS2)	458	165	27.4	49.5	5.6e-11
+127	TR	V5TNK4	Serine/threonine protein kinase OS=Haloarcula hispanica N601 OX=1417673 GN=HISP_08985 PE=4 SV=1	Haloarcula hispanica N601	412	164	25.4	46.0	6.7e-11
+128	TR	A0ABU3X3T0	Serine/threonine protein kinase OS=Methanoculleus caldifontis OX=2651577 GN=F8E02_12070 PE=4 SV=1	Methanoculleus caldifontis	415	164	27.4	46.6	6.7e-11
+129	TR	A0ABD4TFJ3	Serine/threonine protein kinase OS=Methanoculleus oceani OX=2184756 GN=DIC75_08085 PE=4 SV=1	Methanoculleus oceani	443	164	27.3	50.2	7.2e-11
+130	TR	A0A1Q6DSQ6	non-specific serine/threonine protein kinase OS=Methanohalarchaeum thermophilum OX=1903181 GN=BTN85_2012 PE=4 SV=1	Methanohalarchaeum thermophilum	776	165	29.9	48.3	7.6e-11
+131	TR	A0A1I6LHH7	Protein kinase/serine/threonine protein kinase OS=Halomicrobium zhouii OX=767519 GN=SAMN05216559_2689 PE=4 SV=1	Halomicrobium zhouii	410	163	28.0	46.4	8.9e-11
+132	TR	A0A2H4ZYI9	Serine/threonine protein kinase OS=Haloarcula taiwanensis OX=1932004 GN=BVU17_08490 PE=4 SV=1	Haloarcula taiwanensis	412	161	25.4	46.0	1.6e-10
+133	TR	K0IMB5	non-specific serine/threonine protein kinase OS=Nitrososphaera gargensis (strain Ga9.2) OX=1237085 GN=Ngar_c07870 PE=4 SV=1	Nitrososphaera gargensis (strain Ga9.2)	274	157	26.8	44.6	2.4e-10
+134	TR	A0A031LN31	Serine/threonine protein kinase OS=Candidatus Acidianus copahuensis OX=1160895 GN=CM19_06840 PE=4 SV=1	Candidatus Acidianus copahuensis	518	160	28.2	48.6	2.6e-10
+135	TR	A0AA41G341	Protein kinase OS=Haloarcula salina OX=1429914 GN=KTS37_16625 PE=4 SV=1	Haloarcula salina	412	159	25.1	43.6	2.9e-10
+136	TR	Q5V2Z2	Serine/threonine-protein kinase PknA OS=Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809) OX=272569 GN=pknA1 PE=4 SV=1	Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809)	412	158	24.2	45.5	3.8e-10
+137	TR	A0A7L9FGA5	Protein kinase OS=Infirmifilum lucidum OX=2776706 GN=IG193_07815 PE=3 SV=1	Infirmifilum lucidum	388	157	31.5	51.0	4.7e-10
+138	TR	A0A1I6KMF5	Serine/threonine protein kinase OS=Halomicrobium zhouii OX=767519 GN=SAMN05216559_1060 PE=4 SV=1	Halomicrobium zhouii	417	155	25.5	46.4	9.2e-10
+139	TR	A0A5B9D5T8	non-specific serine/threonine protein kinase OS=Promethearchaeum syntrophicum OX=2594042 GN=DSAG12_00302 PE=4 SV=1	Promethearchaeum syntrophicum	430	155	30.7	53.0	9.5e-10
+140	TR	A0ABD5YA44	Protein kinase OS=Halosimplex aquaticum OX=3026162 GN=ACFQMA_20675 PE=4 SV=1	Halosimplex aquaticum	415	154	26.9	47.5	1.2e-09
+141	TR	A0A0M9AIW6	Serine/threonine protein kinase OS=Haloarcula rubripromontorii OX=1705562 GN=AMS69_16835 PE=4 SV=1	Haloarcula rubripromontorii	412	153	23.7	46.0	1.6e-09
+142	TR	A0A2V2NJG9	Protein kinase domain-containing protein OS=Methanospirillum stamsii OX=1277351 GN=DLD82_04925 PE=4 SV=1	Methanospirillum stamsii	413	152	24.8	45.1	2.2e-09
+143	TR	A0ABT8M6M7	Serine/threonine protein kinase OS=Methanoculleus frigidifontis OX=2584085 GN=FGU65_01550 PE=4 SV=1	Methanoculleus frigidifontis	357	151	27.7	45.1	2.4e-09
+144	TR	C7P2A8	Serine/threonine protein kinase with FHA domain OS=Halomicrobium mukohataei (strain ATCC 700874 / DSM 12286 / JCM 9738 / NCIMB 13541) OX=485914 GN=Hmuk_3118 PE=4 SV=1	Halomicrobium mukohataei (strain ATCC 700874 / DSM 12286 / JCM 9738 / NCIMB 13541)	406	151	25.2	44.0	2.9e-09
+145	TR	A0A8E7EGF4	Serine/threonine protein kinase OS=Methanospirillum purgamenti OX=2834276 GN=KHC33_10600 PE=4 SV=1	Methanospirillum purgamenti	406	151	28.2	46.8	2.9e-09
+146	TR	A0A1D3L1B1	Putative LRR receptor-like serine/threonine-protein kinase At1g06840 OS=Methanobacterium congolense OX=118062 GN=MCBB_0772 PE=4 SV=1	Methanobacterium congolense	746	152	30.2	46.8	3.2e-09
+147	TR	A0A7D5P9Q1	Protein kinase OS=Halosimplex pelagicum OX=869886 GN=HZS54_22535 PE=4 SV=1	Halosimplex pelagicum	410	149	26.3	44.5	5.2e-09
+148	TR	M0CUZ1	Serine/threonine-protein kinase PknA OS=Halosimplex carlsbadense 2-9-1 OX=797114 GN=C475_09654 PE=4 SV=1	Halosimplex carlsbadense 2-9-1	410	149	25.8	45.5	5.2e-09
+149	TR	M0LAR9	Serine/threonine-protein kinase PknA OS=Haloarcula japonica (strain ATCC 49778 / DSM 6131 / JCM 7785 / NBRC 101032 / NCIMB 13157 / TR-1) OX=1227453 GN=C444_09365 PE=4 SV=1	Haloarcula japonica (strain ATCC 49778 / DSM 6131 / JCM 7785 / NBRC 101032 / NCIMB 13157 / TR-1)	412	149	24.2	45.0	5.2e-09
+150	TR	A0A5B9DA07	Leucine-rich repeat domain-containing protein OS=Promethearchaeum syntrophicum OX=2594042 GN=DSAG12_01406 PE=3 SV=1	Promethearchaeum syntrophicum	890	149	25.6	45.6	7.9e-09
+151	TR	A0A483CUT1	Protein kinase domain-containing protein OS=Methanofollis fontis OX=2052832 GN=CUJ86_05245 PE=4 SV=1	Methanofollis fontis	549	148	27.1	46.3	8.6e-09
+152	TR	A0A830FH93	Protein kinase OS=Haloarcula argentinensis OX=43776 GN=NC662_07665 PE=4 SV=1	Haloarcula argentinensis	412	147	23.7	45.0	9.2e-09
+153	TR	A0ACC6VM24	Protein kinase OS=Haloarcula sebkhae OX=932660 GN=ACFFN7_12695 PE=4 SV=1	Haloarcula sebkhae	412	147	23.7	45.0	9.2e-09
+154	TR	L0HFD1	non-specific serine/threonine protein kinase OS=Methanoregula formicica (strain DSM 22288 / NBRC 105244 / SMSP) OX=593750 GN=Metfor_0976 PE=4 SV=1	Methanoregula formicica (strain DSM 22288 / NBRC 105244 / SMSP)	704	148	27.1	45.9	9.7e-09
+155	TR	A0A7D5T902	Protein kinase OS=Halosimplex rubrum OX=869889 GN=HZS55_19760 PE=4 SV=1	Halosimplex rubrum	410	146	25.8	44.5	1.2e-08
+156	TR	A0A7T3FWW5	Protein kinase OS=Halosimplex litoreum OX=1198301 GN=I7X12_15615 PE=4 SV=1	Halosimplex litoreum	410	146	25.4	44.5	1.2e-08
+157	TR	A0A830GUD5	Protein kinase domain-containing protein OS=Thermocladium modestius OX=62609 GN=GCM10007981_04580 PE=4 SV=1	Thermocladium modestius	527	146	26.5	47.0	1.5e-08
+158	TR	D7DBT1	Serine/threonine protein kinase OS=Staphylothermus hellenicus (strain DSM 12710 / JCM 10830 / BK20S6-10-b1 / P8) OX=591019 GN=Shell_0497 PE=4 SV=1	Staphylothermus hellenicus (strain DSM 12710 / JCM 10830 / BK20S6-10-b1 / P8)	610	146	27.1	47.7	1.6e-08
+159	TR	H8IA52	Serine/threonine protein kinase OS=Methanocella conradii (strain DSM 24694 / JCM 17849 / CGMCC 1.5162 / HZ254) OX=1041930 GN=Mtc_0348 PE=4 SV=1	Methanocella conradii (strain DSM 24694 / JCM 17849 / CGMCC 1.5162 / HZ254)	617	145	25.7	47.3	2.2e-08
+160	TR	J1L459	Serine/threonine protein kinase OS=Methanofollis liminatans DSM 4140 OX=28892 GN=Metli_1579 PE=4 SV=1	Methanofollis liminatans DSM 4140	575	144	26.9	48.6	2.8e-08
+161	TR	A0A495R702	Protein kinase/serine/threonine-protein kinase OS=Haloarcula quadrata OX=182779 GN=BDK61_2176 PE=4 SV=1	Haloarcula quadrata	412	143	23.7	45.0	2.9e-08
+162	TR	M1XRA7	Protein kinase domain protein / halocyanin domain protein OS=Natronomonas moolapensis (strain DSM 18674 / CECT 7526 / JCM 14361 / 8.8.11) OX=268739 GN=Nmlp_2549 PE=4 SV=1	Natronomonas moolapensis (strain DSM 18674 / CECT 7526 / JCM 14361 / 8.8.11)	680	141	28.3	46.5	7.1e-08
+163	TR	A3MS48	non-specific serine/threonine protein kinase OS=Pyrobaculum calidifontis (strain DSM 21063 / JCM 11548 / VA1) OX=410359 GN=Pcal_0025 PE=3 SV=1	Pyrobaculum calidifontis (strain DSM 21063 / JCM 11548 / VA1)	368	139	26.7	52.5	8.2e-08
+164	TR	A0A075MMG2	non-specific serine/threonine protein kinase OS=Candidatus Nitrososphaera evergladensis SR1 OX=1459636 GN=NTE_00580 PE=3 SV=1	Candidatus Nitrososphaera evergladensis SR1	273	134	25.4	43.7	2.2e-07
+165	TR	A0ABD5SSC8	Serine/threonine protein kinase OS=Natrinema soli OX=1930624 GN=ACFQE6_13835 PE=4 SV=1	Natrinema soli	287	133	25.7	44.3	3.3e-07
+166	TR	D1Z248	Protein kinase OS=Methanocella paludicola (strain DSM 17711 / JCM 13418 / NBRC 101707 / SANAE) OX=304371 GN=MCP_2698 PE=4 SV=1	Methanocella paludicola (strain DSM 17711 / JCM 13418 / NBRC 101707 / SANAE)	624	135	26.9	46.1	3.8e-07
+167	TR	A0A650CUG4	Protein kinase OS=Acidianus ambivalens OX=2283 GN=D1866_05290 PE=4 SV=1	Acidianus ambivalens	771	134	25.9	44.9	5.4e-07
+168	TR	A0ABD5UPR4	Serine/threonine protein kinase OS=Halorubrum trueperi OX=2004704 GN=ACFQEY_13500 PE=4 SV=1	Halorubrum trueperi	286	130	24.7	45.7	7.9e-07
+169	TR	B1L7F1	non-specific serine/threonine protein kinase OS=Korarchaeum cryptofilum (strain OPF8) OX=374847 GN=Kcr_0018 PE=4 SV=1	Korarchaeum cryptofilum (strain OPF8)	367	131	27.3	44.4	8.3e-07
+170	TR	A1RTJ1	non-specific serine/threonine protein kinase OS=Pyrobaculum islandicum (strain DSM 4184 / JCM 9189 / GEO3) OX=384616 GN=Pisl_1102 PE=3 SV=1	Pyrobaculum islandicum (strain DSM 4184 / JCM 9189 / GEO3)	484	130	23.7	46.5	1.4e-06
+171	TR	A0ACH4H9Z6	Protein kinase domain-containing protein OS=Methanobrevibacter intestini OX=2911853 GN=ACMC9J_01315 PE=4 SV=1	Methanobrevibacter intestini	756	130	28.0	46.4	1.7e-06
+172	TR	A0A7L9FJI8	Protein kinase OS=Infirmifilum lucidum OX=2776706 GN=IG193_00365 PE=4 SV=1	Infirmifilum lucidum	683	126	26.8	44.5	5e-06
+173	TR	A0A1W6JWI2	Protein kinase domain-containing protein OS=Acidianus manzaensis OX=282676 GN=B6F84_00340 PE=4 SV=1	Acidianus manzaensis	95	114	53.8	74.4	7.2e-06
+174	TR	A0ABD4TH97	histidine kinase OS=Methanoculleus oceani OX=2184756 GN=DIC75_11165 PE=4 SV=1	Methanoculleus oceani	1837	125	26.1	44.5	8.1e-06
+175	TR	Q2FTU4	Serine/threonine protein kinase OS=Methanospirillum hungatei JF-1 (strain ATCC 27890 / DSM 864 / NBRC 100397 / JF-1) OX=323259 GN=Mhun_2224 PE=4 SV=1	Methanospirillum hungatei JF-1 (strain ATCC 27890 / DSM 864 / NBRC 100397 / JF-1)	759	124	27.5	47.9	9.2e-06

@@ -1,0 +1,35 @@
+c1s
+target-transcript z (Poisson GLM vs controls)
+
+6
+
+T47D * p = 0.018
+
+4
+
+A549 * p = 0.035
+
+2
+0
+−2
+−4
+−6
+−8
+
+A549
+T47D
+
+missense
+
+truncating
+
+PTC
+escaping
+
+start
+loss
+
+PTC
+competent
+
+

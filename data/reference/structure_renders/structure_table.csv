@@ -1,0 +1,10 @@
+gene,pdb,cdk_chain,cyclin,cyclin_chain,ligand,hidden_chains,catalytic_domain,displayed_range,cartoon_color,note
+CDK2,1QMZ,A,Cyclin A,B,ATP (ATP),E,8-149,full chain,#daa520,pCDK2/CycA + ATP + substrate peptide (chain E); alignment reference
+CDK7,6XD3,J,Cyclin H,I,THZ1 (V0G),H,16-159,full chain,#00ffff,CDK7/CycH/MAT1 + THZ1; chain H = MAT1
+CDK8,5CEI,A,Cyclin C,B,compound 22 (50R),,25-177,full chain,#1f77b4,CDK8/CycC + compound 22
+CDK19,AF-Q9BWU1,A,"Cyclin C (borrowed from 5CEI chain B, 60% transparent)",5CEI:B,none,,25-177,1-363,#6495ed,"no experimental CDK19 structure; AlphaFold monomer, no cyclin partner. Only 1-363 is confidently modelled (pLDDT >= 50); the 364-502 tail is disordered spaghetti and is hidden, exactly as residues 351-502 were hidden in align_catalytic.cxc"
+CDK9,8K5R,A,Cyclin T1,B,KB-0742 (VQE),,23-171,full chain,#9400d3,CDK9/CycT1 + KB-0742
+CDK12,8BUG,B,Cyclin K,C,CR8 (RPW),A,731-881,full chain,#2ca02c,"DDB1/CDK12/CycK + CR8 glue; using copy 1 (chains A,B,C) because the RPW ligand is only modelled there; chain A = DDB1"
+CDK13,7NXJ,A,Cyclin K,B,THZ531 (5I1),,709-859,full chain,#556b2f,CDK13/CycK + THZ1
+CDK4,2W96,B,Cyclin D1,A,none,,10-160,full chain,#e377c2,"CDK4/CycD1, 2.3 A, apo active site"
+CDK6,2F2C,B,V-cyclin,A,aminopurvalanol (AP9),,18-167,full chain,#ff7f0e,"CDK6/KSHV V-cyclin + aminopurvalanol; no human cyclin D-CDK6 structure exists in the PDB, so the cyclin here is viral"

@@ -1,0 +1,33 @@
+LOCUS       CDK12_amp1               460 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  CDK12 Sanger amplicon (primers CDK12_3351_2232_F/R) - covers G731K,
+            I733V.
+ACCESSION   CDK12_3351_2232
+VERSION     CDK12_3351_2232
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  Homo sapiens
+            .
+FEATURES             Location/Qualifiers
+     exon            52..191
+                     /label="CDK12 exon (ENSE00003514777)"
+                     /note="encodes ~residues 703-750"
+     primer_bind     1..24
+                     /label="CDK12_3351_2232_F"
+     primer_bind     complement(441..460)
+                     /label="CDK12_3351_2232_R"
+     misc_feature    134..136
+                     /label="G731K codon"
+                     /note="WT=G, resistance variant=K"
+     misc_feature    140..142
+                     /label="I733V codon"
+                     /note="WT=I, resistance variant=V"
+ORIGIN
+        1 cgcccggcct tcattttctt aaataactat tttgttgttt ttacttttta gaatttgttg
+       61 tcctcgttat ggagaaagaa gacaaacaga aagcgactgg gggaaacgct gtgtggacaa
+      121 gtttgacatt attgggatta ttggagaagg aacctatggc caagtatata aagccaagga
+      181 caaagacaca ggtaaatatt gccacaaaat tttagatgtc agaatgttaa caatttagca
+      241 atactaatat cttaagtgga tttagcaaaa gtaaattctg aggtgttttg tttgtttgtt
+      301 tgtttgtttg ttttttgaga tggagtcttg ctccccaggc tggagtgcag tggtgcagtc
+      361 tcaactcact gcaagctccg cctcctgggt tcacaccatt ctcctgcctc agcctcccga
+      421 gtaactggga ttacagaccg tgcgcaacca cactcgacta
+//

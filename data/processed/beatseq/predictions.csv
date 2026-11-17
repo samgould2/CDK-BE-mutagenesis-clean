@@ -1,0 +1,33 @@
+prediction,signature,arm,direction,n_target,n_other,med_target,med_other,delta,p,rationale
+CDK4/6 -> RB-E2F output down,e2f_targets,A549/ABE,less,15,67,-0.2108881263202542,0.02305806711171,-0.23394619343196418,0.08765525745634317,CDK4/6 phosphorylate RB; loss keeps E2F sequestered
+CDK4/6 -> RB-E2F output down,e2f_targets,A549/CBE,less,16,46,0.3738591600315272,0.21348510293594042,0.16037405709558678,0.5922221539513204,CDK4/6 phosphorylate RB; loss keeps E2F sequestered
+CDK4/6 -> RB-E2F output down,e2f_targets,T47D/ABE,less,15,67,0.1524456586447693,-0.0193590542501049,0.1718047128948742,0.6843027389318117,CDK4/6 phosphorylate RB; loss keeps E2F sequestered
+CDK4/6 -> RB-E2F output down,e2f_targets,T47D/CBE,less,16,46,-0.0633537043484197,-0.263410352915304,0.20005664856688432,0.3586899084726477,CDK4/6 phosphorylate RB; loss keeps E2F sequestered
+CDK4/6 -> G2M output down,g2m_checkpoint,A549/ABE,less,15,67,-0.3409223197321336,-0.1185884098423591,-0.2223339098897745,0.14018886541023529,G1 arrest depletes downstream cycle programs
+CDK4/6 -> G2M output down,g2m_checkpoint,A549/CBE,less,16,46,0.7471753207620206,0.7744827673041181,-0.02730744654209749,0.5733867440214006,G1 arrest depletes downstream cycle programs
+CDK4/6 -> G2M output down,g2m_checkpoint,T47D/ABE,less,15,67,-0.0688860471788545,-0.0795077690856392,0.01062172190678469,0.3775783132467768,G1 arrest depletes downstream cycle programs
+CDK4/6 -> G2M output down,g2m_checkpoint,T47D/CBE,less,16,46,-0.08583899688212179,-0.09744752207890996,0.011608525196788164,0.39533549416668873,G1 arrest depletes downstream cycle programs
+CDK2 -> RB-E2F output down,e2f_targets,A549/ABE,less,4,78,0.3350590866524936,-0.08921968542977635,0.42427877208226994,0.936456725326747,expected null: CDK1 compensates in untreated cycling cells
+CDK2 -> RB-E2F output down,e2f_targets,A549/CBE,less,8,54,-0.1396197437010987,0.3355243393746743,-0.475144083075773,0.1523979689269896,expected null: CDK1 compensates in untreated cycling cells
+CDK2 -> RB-E2F output down,e2f_targets,T47D/ABE,less,4,78,0.840630502755695,-0.0082921467775056,0.8489226495332005,0.9839227928144261,expected null: CDK1 compensates in untreated cycling cells
+CDK2 -> RB-E2F output down,e2f_targets,T47D/CBE,less,8,54,0.23802085488749006,-0.23235157451657518,0.4703724294040652,0.9069775181604475,expected null: CDK1 compensates in untreated cycling cells
+CDK9/7 -> short half-life transcripts down,short_half_life,A549/ABE,less,22,60,0.21326904673578517,0.0151541418698645,0.19811490486592068,0.8846023134113811,pause release preferentially depletes short-t1/2 mRNAs
+CDK9/7 -> short half-life transcripts down,short_half_life,A549/CBE,less,14,48,0.24480188640675954,0.5964878808244429,-0.3516859944176834,0.35241551860388676,pause release preferentially depletes short-t1/2 mRNAs
+CDK9/7 -> short half-life transcripts down,short_half_life,T47D/ABE,less,22,60,-0.0971521971802759,-0.3496284570896314,0.2524762599093555,0.7632803685489807,pause release preferentially depletes short-t1/2 mRNAs
+CDK9/7 -> short half-life transcripts down,short_half_life,T47D/CBE,less,14,48,-0.31491331716539894,0.017854636479911052,-0.33276795364531,0.23714243608193114,pause release preferentially depletes short-t1/2 mRNAs
+CDK12/13 -> long DDR genes down,ddr_long,A549/ABE,less,22,60,-0.02605549810677475,-0.30582407505937764,0.2797685769526029,0.9891963679249213,elongation defect + premature polyadenylation hits long DDR genes
+CDK12/13 -> long DDR genes down,ddr_long,A549/CBE,less,15,47,0.3525560207491908,0.8849960409486383,-0.5324400201994475,0.3588192441417503,elongation defect + premature polyadenylation hits long DDR genes
+CDK12/13 -> long DDR genes down,ddr_long,T47D/ABE,less,22,60,0.13720826460195024,-0.17824271996648405,0.3154509845684343,0.7728577422089284,elongation defect + premature polyadenylation hits long DDR genes
+CDK12/13 -> long DDR genes down,ddr_long,T47D/CBE,less,15,47,-0.4912746806315573,0.0087170280394414,-0.49999170867099874,0.43471945758893543,elongation defect + premature polyadenylation hits long DDR genes
+CDK12/13 -> DNA repair (Hallmark) down,dna_repair,A549/ABE,less,22,60,-0.13659379633960994,-0.4209177046501653,0.2843239083105554,0.7973000767640595,"same mechanism, broader set"
+CDK12/13 -> DNA repair (Hallmark) down,dna_repair,A549/CBE,less,15,47,-0.2062802903497781,-0.1348521129172568,-0.0714281774325213,0.21028896593959107,"same mechanism, broader set"
+CDK12/13 -> DNA repair (Hallmark) down,dna_repair,T47D/ABE,less,22,60,-0.5260164996873523,-0.3262137709500279,-0.1998027287373244,0.056421831041669646,"same mechanism, broader set"
+CDK12/13 -> DNA repair (Hallmark) down,dna_repair,T47D/CBE,less,15,47,-0.1174925364816499,-0.3803543714121211,0.2628618349304712,0.7801040745333242,"same mechanism, broader set"
+CDK8/19 -> translation/biosynthetic output down,translation_biosynth,A549/ABE,less,19,63,-0.5100367292888732,-0.2077846628217141,-0.30225206646715913,0.01284039959821714,observed direction in the pooled CDK8 signature
+CDK8/19 -> translation/biosynthetic output down,translation_biosynth,A549/CBE,less,9,53,-0.0632083689390217,-0.0301059036032574,-0.033102465335764296,0.294756605728442,observed direction in the pooled CDK8 signature
+CDK8/19 -> translation/biosynthetic output down,translation_biosynth,T47D/ABE,less,19,63,-0.5363245245066175,-0.039168730705049,-0.4971557938015685,0.007806515014210014,observed direction in the pooled CDK8 signature
+CDK8/19 -> translation/biosynthetic output down,translation_biosynth,T47D/CBE,less,9,53,-0.8304903376215791,-0.8421242155633573,0.01163387794177817,0.7188766493312774,observed direction in the pooled CDK8 signature
+CDK8/19 -> interferon-gamma up,ifn_gamma,A549/ABE,greater,19,63,-0.3220304136094472,-0.2618306862326544,-0.0601997273767928,0.6738600087279476,Mediator kinase phosphorylates STAT1 S727
+CDK8/19 -> interferon-gamma up,ifn_gamma,A549/CBE,greater,9,53,0.6155961123912684,0.0141111483948009,0.6014849639964676,0.07797946296224198,Mediator kinase phosphorylates STAT1 S727
+CDK8/19 -> interferon-gamma up,ifn_gamma,T47D/ABE,greater,19,63,0.1046635701952691,-0.0031679953589954,0.1078315655542645,0.1382915811375804,Mediator kinase phosphorylates STAT1 S727
+CDK8/19 -> interferon-gamma up,ifn_gamma,T47D/CBE,greater,9,53,0.5162635410905041,0.0452070145830027,0.4710565265075014,0.1540696526912712,Mediator kinase phosphorylates STAT1 S727

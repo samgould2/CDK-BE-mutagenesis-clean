@@ -1,0 +1,47 @@
+[project]
+name = "cdkbe"
+version = "0.1.0"
+description = "Analysis code for CDK base-editing mutagenesis screens"
+requires-python = ">=3.9"
+
+# What the screen tables, the figure panels and the source-data workbooks need.
+# `pip install -e .` is enough to run every figure notebook and the whole of
+# `scripts/render_figures.py`.
+dependencies = [
+  "pandas>=1.3", "numpy>=1.21", "scipy>=1.7", "matplotlib>=3.5",
+  "seaborn>=0.11", "statsmodels>=0.13", "openpyxl>=3.0",
+  "logomaker>=0.8", "adjustText>=0.8",
+  "scikit-learn>=1.0",     # t0_plasmid_essentiality, the conservation statistics
+  "biopython>=1.79",       # MSA building and parsing, in essentiality/
+]
+
+[project.optional-dependencies]
+# Alignment figures: supplementary 15's KLIFS/MSA panels.
+msa = ["pymsaviz>=0.4"]
+
+# Fetching reference data from UniProt/NCBI. Only the conservation modules that
+# rebuild their own inputs need it; the tables they produce are already in data/.
+fetch = ["requests>=2.25"]
+
+# Re-deriving the single-cell statistics from the .h5ad objects, which are NOT
+# in this repository (data/external/NOT_INCLUDED.csv). Every figure-5 panel and
+# `beatseq.severity` run from the shipped derived tables without these.
+singlecell = ["h5py>=3.0", "anndata>=0.8"]
+
+# The read-level pipeline under pipeline/, upstream of data/raw/.
+pipeline = ["biopython>=1.79", "python-Levenshtein>=0.20"]
+
+# Running the notebooks and the test suite.
+dev = ["pytest>=7.0", "nbformat>=5.0", "nbclient>=0.7"]
+
+all = [
+  "cdkbe[msa]", "cdkbe[fetch]", "cdkbe[singlecell]",
+  "cdkbe[pipeline]", "cdkbe[dev]",
+]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

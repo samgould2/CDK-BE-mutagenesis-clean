@@ -1,0 +1,45 @@
+e1
+ABE
+CBE
+10 strongest resistance alleles
+all other gRNAs
+span of the 9 NT gRNAs
+
+10
+8
+
+severity
+
+6
+4
+CDK13 I711V T715A
+
+2
+
+CDK9 L156F
+CDK12 I733V
+CDK12 G822K
+
+0
+
+CDK7 L18F
+CDK12 G731K
+CDK12 G822E
+CDK12 Y742C K743E
+CDK12 M816I D817N
+
+−2
+
+CDK7 V90A
+
+−4
+0
+
+2
+4
+6
+max drug log2FC
+
+8
+
+

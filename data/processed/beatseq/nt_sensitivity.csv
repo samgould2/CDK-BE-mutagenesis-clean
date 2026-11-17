@@ -1,0 +1,5 @@
+k_dropped,dropped,de_guides_above_NT,sig_variants_above_NT,median_nt_max_de,median_nt_max_sig
+0,none,22,15,12.5,1.7119992598564882
+1,gRNA_nt_9216,23,23,12.5,1.5180307383957135
+2,"gRNA_nt_9026,gRNA_nt_9216",23,28,12.5,1.5180307383957135
+3,"gRNA_nt_9026,gRNA_nt_9199,gRNA_nt_9216",23,33,12.5,1.274506975292446

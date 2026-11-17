@@ -1,0 +1,132 @@
+d12
+10.0
+7.5
+
+H73R
+
+point size
+q = 0.9
+q = 0.5
+q = 0.05
+
+M1V D2G
+
+A549
+severity
+
+L289P
+
+5.0
+
+R29*
+
+M1T
+
+L907P F908L
+
+2.5
+0.0
+−2.5
+
+L289P
+
+8
+
+M1V D2G
+
+W198*
+
+R29*
+
+T66M A67V
+
+T47D
+severity
+
+6
+
+R62*
+
+K6G
+
+S343P
+
+Q22*
+
+4
+
+L907P F908L
+
+T287A
+
+Q113*
+
+M816V D817G
+
+R168G
+K274G
+
+D196N
+
+L825P
+
+M1V T3A Q222*
+
+Q820R
+
+T116A I117V
+
+I792V
+
+2
+
+M1V
+T58A
+
+I51V T53A
+
+0
+
+K7
+
+CD
+
+K8
+CD
+
+K9
+
+CD
+
+9
+
+K1
+
+CD
+
+2
+
+K1
+
+CD
+
+3
+K1
+
+CD
+
+K2
+
+CD
+
+K4
+
+CD
+
+K6
+
+CD
+
+M1T
+
+

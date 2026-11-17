@@ -1,0 +1,34 @@
+site,CDK2_residue,tier,n_cdks,max_LFC,in_KLIFS,cdk_variants,homologous_clinical
+linker:49,H84,recurrent,4,6.255134141422647,True,"CDK12 D817G,CDK12 D817N,CDK4 D97N,CDK7 E95G,CDK9 E107K",
+I:3,I10,recurrent,3,7.317829246246991,True,"CDK12 I733V,CDK13 I711V,CDK7 L18F",EGFR L718Q [Osimertinib; OncoKB] | EGFR L718V [Osimertinib; OncoKB]
+hinge:48,L83,recurrent,3,6.255134141422647,True,"CDK12 M816I,CDK12 M816V,CDK4 V96I,CDK9 C106Y",
+linker:52,D86,recurrent,3,4.365312485026406,True,"CDK12 D819G,CDK6 D104N,CDK7 D97G","BTK C481F [Ibrutinib; OncoKB] | BTK C481R [Ibrutinib; OncoKB] | BTK C481S [Ibrutinib; CIViC,OncoKB] | BTK C481Y [Ibrutinib; OncoKB] | EGFR C797G [Osimertinib; OncoKB] | EGFR C797S [Osimertinib; CIViC,OncoKB]"
+III:αC,S46,recurrent,3,3.572272236001731,False,"CDK4 I51V,CDK6 L56F,CDK6 L56P,CDK7 R57G",
+hinge:46,E81,recurrent,3,3.475208759221624,True,"CDK2 E81K,CDK4 E94K,CDK9 D104N",
+IV:V,T72,recurrent,3,2.8486869756486297,False,"CDK4 R85Q,CDK7 H83R,CDK9 C95R",
+g.l:5,E12,recurrent,2,7.317829246246991,True,"CDK12 E735G,CDK7 E20G,CDK7 E20K","ABL1 G250E [Bosutinib, Imatinib, Nilotinib; OncoKB]"
+VII:77,L134,recurrent,2,6.686851822713364,True,"CDK2 L134F,CDK9 L156F","ROS1 L2086F [Lorlatinib, Repotrectinib; OncoKB]"
+II:12,Y19,recurrent,2,6.56531553881481,True,"CDK12 Y742C,CDK12 Y742H,CDK7 Y27H",
+αD:55,K89,recurrent,2,5.1352790778248965,True,"CDK12 G822E,CDK12 G822K,CDK7 V100I",
+V:44,V79,recurrent,2,4.436557386597444,True,"CDK12 V812A,CDK7 V90A",
+linker:51,Q85,recurrent,2,4.365312485026406,True,"CDK12 H818R,CDK7 T96A","ALK G1202R [Alectinib, Brigatinib, Ceritinib, Crizotinib; OncoKB] | NTRK1 G595R [Entrectinib, Larotrectinib; OncoKB] | NTRK3 G623R [Larotrectinib; OncoKB] | ROS1 G2032R [Crizotinib, Lorlatinib; CIViC,OncoKB]"
+αC:20,T47,recurrent,2,3.572272236001731,True,"CDK4 S52G,CDK6 S57F",
+II:III,K24,recurrent,2,3.331992667339964,False,"CDK4 P26S,CDK6 L33S",
+III:αC,V44,recurrent,2,3.2259739757543264,False,"CDK6 M54T,CDK7 I55T",
+C-lobe,M196,recurrent,2,2.9942807431117786,False,"CDK13 L907P,CDK9 M222V",
+II:11,V18,recurrent,2,2.767744602431067,True,"CDK12 V741A,CDK7 V26A",
+C-lobe,S261,recurrent,2,2.701372316580071,False,"CDK2 S261G,CDK9 D290N",
+C-lobe,D185,recurrent,2,2.018103687438614,False,"CDK2 D185N,CDK4 D196N",
+IV:V,N74,recurrent,2,1.997191028035007,False,"CDK6 T92I,CDK9 G97S",
+C-lobe,E195,recurrent,2,1.970942498666172,False,"CDK7 E205G,CDK9 E221G",
+IV:V,I70,recurrent,2,1.869106468950108,False,"CDK7 F81P,CDK7 F81S,CDK9 C85R",
+C-lobe,A244,recurrent,2,1.6783214505024422,False,"CDK2 A244T,CDK6 S258F",
+C-lobe,E208,recurrent,2,1.5300230916937052,False,"CDK6 D224N,CDK7 D218G",
+I:1,E8,strong_singleton,1,6.733841787957164,True,"CDK12 G731K,CDK12 G731R",
+VII:VIII,T137,strong_singleton,1,6.283111168187668,False,CDK9 R159C,
+g.l:7,T14,strong_singleton,1,4.873180450507667,True,CDK13 T715A,
+GK:45,F80,strong_singleton,1,4.436557386597444,True,CDK7 F91L,"ABL1 T315A [Dasatanib, Imatinib; OncoKB] | ABL1 T315I [Bosutinib, Dasatinib, Imatinib, Nilotinib; OncoKB] | ALK L1196M [Crizotinib; OncoKB] | BTK T474I [Ibrutinib; OncoKB] | BTK T474S [Ibrutinib; OncoKB] | EGFR T790M [Afatinib, Dacomitinib, Erlotinib, Gefitinib, Lapatinib, Multikinase Inhibitor AEE788; CIViC,OncoKB] | KIT T670I [Imatinib, Ponatinib, Regorafenib Anhydrous, Sunitinib; CIViC,OncoKB] | NTRK3 F617L [Larotrectinib; CIViC,OncoKB]"
+hinge:47,F82,strong_singleton,1,4.365312485026406,True,"CDK12 Y815C,CDK12 Y815H","ABL1 F317C [Dasatanib, Imatinib; OncoKB] | ABL1 F317I [Dasatanib, Imatinib; OncoKB] | ABL1 F317L [Bosutinib, Dasatanib, Imatinib; OncoKB] | ABL1 F317V [Dasatanib, Imatinib; OncoKB] | EGFR L792F [Osimertinib; OncoKB] | EGFR L792H [Osimertinib; OncoKB]"
+αD:αE,Q110,strong_singleton,1,3.398095763751521,False,CDK13 Q820R,
+VII:78,I135,strong_singleton,1,2.79731420268588,True,CDK9 I157V,
+VII:VIII,N136,strong_singleton,1,2.79731420268588,False,CDK9 T158A,
