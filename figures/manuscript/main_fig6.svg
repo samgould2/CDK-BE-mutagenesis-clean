@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1400 796" width="1400" height="796" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<g id="structure">
+  <image xlink:href="consensus_variants_plain.png" x="0" y="0" width="1400" height="796"/>
+</g>
+<g id="leader-lines" fill="none" stroke-linecap="round">
+  <path d="M 140.1,135.5 L 567.4,141.9" stroke="#eff3ff" stroke-width="1.6"/>
+  <path d="M 456.6,165.5 L 609.0,168.7" stroke="#cb181d" stroke-width="1.6"/>
+  <path d="M 165.8,195.5 L 684.7,172.8" stroke="#fee5d9" stroke-width="1.6"/>
+  <path d="M 140.1,225.5 L 586.2,184.7" stroke="#eff3ff" stroke-width="1.6"/>
+  <path d="M 362.5,255.5 L 646.3,202.9" stroke="#fb6a4a" stroke-width="1.6"/>
+  <path d="M 242.8,285.5 L 600.0,212.8" stroke="#fcae91" stroke-width="1.6"/>
+  <path d="M 140.1,315.5 L 582.4,224.6" stroke="#fee5d9" stroke-width="1.6"/>
+  <path d="M 268.4,345.5 L 601.3,246.8" stroke="#fcae91" stroke-width="1.6"/>
+  <path d="M 242.8,375.6 L 630.2,259.5" stroke="#fcae91" stroke-width="1.6"/>
+  <path d="M 345.4,405.6 L 614.3,265.5" stroke="#fb6a4a" stroke-width="1.6"/>
+  <path d="M 148.7,435.6 L 542.5,279.8" stroke="#eff3ff" stroke-width="1.6"/>
+  <path d="M 251.3,465.6 L 478.5,325.4" stroke="#c6dbef" stroke-width="1.6"/>
+  <path d="M 242.8,495.6 L 500.3,366.6" stroke="#c6dbef" stroke-width="1.6"/>
+  <path d="M 242.8,525.6 L 605.1,439.4" stroke="#c6dbef" stroke-width="1.6"/>
+  <path d="M 242.8,555.6 L 394.2,439.9" stroke="#c6dbef" stroke-width="1.6"/>
+  <path d="M 242.8,585.6 L 622.8,573.9" stroke="#c6dbef" stroke-width="1.6"/>
+  <path d="M 242.8,615.6 L 372.8,606.1" stroke="#c6dbef" stroke-width="1.6"/>
+  <path d="M 1174.3,57.7 L 839.3,64.0" stroke="#c6dbef" stroke-width="1.6"/>
+  <path d="M 1234.2,146.5 L 726.5,152.8" stroke="#fee5d9" stroke-width="1.6"/>
+  <path d="M 1140.1,200.7 L 792.1,207.1" stroke="#fcae91" stroke-width="1.6"/>
+  <path d="M 1071.7,230.7 L 694.5,208.1" stroke="#fb6a4a" stroke-width="1.6"/>
+  <path d="M 1157.2,260.7 L 789.8,220.1" stroke="#fcae91" stroke-width="1.6"/>
+  <path d="M 1046.0,290.7 L 710.8,222.3" stroke="#fb6a4a" stroke-width="1.6"/>
+  <path d="M 1157.2,320.7 L 872.7,231.3" stroke="#c6dbef" stroke-width="1.6"/>
+  <path d="M 1268.4,350.7 L 742.7,246.9" stroke="#fee5d9" stroke-width="1.6"/>
+  <path d="M 1157.2,380.7 L 757.5,250.3" stroke="#fcae91" stroke-width="1.6"/>
+  <path d="M 1080.2,410.8 L 939.4,260.6" stroke="#6baed6" stroke-width="1.6"/>
+  <path d="M 1174.3,440.8 L 962.7,275.2" stroke="#c6dbef" stroke-width="1.6"/>
+  <path d="M 1140.1,470.8 L 763.5,301.4" stroke="#fcae91" stroke-width="1.6"/>
+  <path d="M 1251.3,500.8 L 792.2,373.1" stroke="#fee5d9" stroke-width="1.6"/>
+  <path d="M 1174.3,530.8 L 893.4,382.2" stroke="#c6dbef" stroke-width="1.6"/>
+  <path d="M 1174.3,560.8 L 800.8,403.6" stroke="#fcae91" stroke-width="1.6"/>
+  <path d="M 1063.1,590.8 L 832.0,430.9" stroke="#6baed6" stroke-width="1.6"/>
+</g>
+<g id="labels" fill="#1a1a1a">
+  <text x="49.0" y="141.9" font-size="15.6">CDK9 R159C</text>
+  <text x="49.0" y="171.9" font-size="15.6">CDK7 E95G, CDK9 E107K, CDK12 D817G/N, CDK4 D97N</text>
+  <text x="49.0" y="201.9" font-size="15.6">CDK12 Y815C/H</text>
+  <text x="49.0" y="231.9" font-size="15.6">CDK9 T158A</text>
+  <text x="49.0" y="261.9" font-size="15.6">CDK9 C106Y, CDK12 M816I/V, CDK4 V96I</text>
+  <text x="49.0" y="291.9" font-size="15.6">CDK7 T96A, CDK12 H818R</text>
+  <text x="49.0" y="321.9" font-size="15.6">CDK9 I157V</text>
+  <text x="49.0" y="351.9" font-size="15.6">CDK7 V100I, CDK12 G822E/K</text>
+  <text x="49.0" y="381.9" font-size="15.6">CDK9 L156F, CDK2 L134F</text>
+  <text x="49.0" y="411.9" font-size="15.6">CDK7 D97G, CDK12 D819G, CDK6 D104N</text>
+  <text x="49.0" y="441.9" font-size="15.6">CDK13 Q820R</text>
+  <text x="49.0" y="472.0" font-size="15.6">CDK9 M222V, CDK13 L907P</text>
+  <text x="49.0" y="502.0" font-size="15.6">CDK7 E205G, CDK9 E221G</text>
+  <text x="49.0" y="532.0" font-size="15.6">CDK2 D185N, CDK4 D196N</text>
+  <text x="49.0" y="562.0" font-size="15.6">CDK9 D290N, CDK2 S261G</text>
+  <text x="49.0" y="592.0" font-size="15.6">CDK7 D218G, CDK6 D224N</text>
+  <text x="49.0" y="622.0" font-size="15.6">CDK2 A244T, CDK6 S258F</text>
+  <text x="1179.9" y="64.0" font-size="15.6">CDK4 P26S, CDK6 L33S</text>
+  <text x="1239.8" y="152.8" font-size="15.6">CDK12 G731K/R</text>
+  <text x="1145.7" y="207.1" font-size="15.6">CDK7 Y27H, CDK12 Y742C/H</text>
+  <text x="1077.3" y="237.1" font-size="15.6">CDK9 D104N, CDK2 E81K, CDK4 E94K</text>
+  <text x="1162.8" y="267.1" font-size="15.6">CDK7 V90A, CDK12 V812A</text>
+  <text x="1051.6" y="297.1" font-size="15.6">CDK7 L18F, CDK12 I733V, CDK13 I711V</text>
+  <text x="1162.8" y="327.1" font-size="15.6">CDK7 F81P/S, CDK9 C85R</text>
+  <text x="1274.0" y="357.1" font-size="15.6">CDK7 F91L</text>
+  <text x="1162.8" y="387.1" font-size="15.6">CDK7 V26A, CDK12 V741A</text>
+  <text x="1085.8" y="417.1" font-size="15.6">CDK7 H83R, CDK9 C95R, CDK4 R85Q</text>
+  <text x="1179.9" y="447.1" font-size="15.6">CDK9 G97S, CDK6 T92I</text>
+  <text x="1145.7" y="477.1" font-size="15.6">CDK7 E20G/K, CDK12 E735G</text>
+  <text x="1256.9" y="507.2" font-size="15.6">CDK13 T715A</text>
+  <text x="1179.9" y="537.2" font-size="15.6">CDK7 I55T, CDK6 M54T</text>
+  <text x="1179.9" y="567.2" font-size="15.6">CDK4 S52G, CDK6 S57F</text>
+  <text x="1068.7" y="597.2" font-size="15.6">CDK7 R57G, CDK4 I51V, CDK6 L56F/P</text>
+</g>
+</svg>
