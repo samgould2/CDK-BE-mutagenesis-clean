@@ -14,14 +14,14 @@ silently.
 | | |
 |---|---|
 | published panels | 162 — 57 main, 105 supplementary |
-| redrawn from data here | **118** (44 main, 74 supplementary) |
-| source-data tables | 119 panels, in 22 workbooks — one per figure |
+| redrawn from data here | **121** (45 main, 76 supplementary) |
+| source-data tables | 123 panels, in 22 workbooks — one per figure |
 | data shipped | ~1.7 GB, every file checksummed in `data/MANIFEST.csv` |
-| tests | 769, run against the real data |
+| tests | 790, run against the real data |
 
 Every panel is listed in [`docs/COVERAGE.md`](docs/COVERAGE.md) with its
 status. The ones not redrawn here are western blots, micrographs, Sanger
-traces and schematics, and ten panels that are included as the images that
+traces and schematics, and six panels that are included as the images that
 were published.
 
 ---
@@ -219,7 +219,10 @@ without anyone noticing:
 
 * **panels against published artwork.** Where a published SVG was available,
   the redraw is compared to it character for character and fill for fill — the
-  competition-assay heatmaps and the T47D cell-cycle panels reproduce exactly.
+  competition-assay heatmaps, the T47D cell-cycle panels, and the T47D RNA-seq
+  panels (4m, S13e, S13g) reproduce exactly. For figure 4m the test goes
+  further and decodes the published heatmap's own fills back to the z-scores
+  computed here.
 * **statistics against the values printed on the figures.** Every p-value on
   the in vivo panels, the DEG counts on 3f, the bar labels on 3g, the eighteen
   counts on 4b.
@@ -269,11 +272,13 @@ calls existed, a selection rule reconstructed from the figure it produced.
 None of them blocks a rebuild, and several are choices with two defensible
 answers rather than errors.
 
-Ten panels are marked **published image** in `docs/COVERAGE.md`: they are
+Six panels are marked **published image** in `docs/COVERAGE.md`: they are
 included as the figure that was published rather than redrawn from a table.
-Six others in the same group are redrawn — four from the flow-cytometry export
-behind them, and two from values read back out of the published figure, which
-is exact for a plot drawn against a labelled linear axis (`cdkbe.svg_values`).
+Nine others in the same group are redrawn — four from the flow-cytometry
+export behind them, two from values read back out of the published figure,
+which is exact for a plot drawn against a labelled linear axis
+(`cdkbe.svg_values`), and three from the T47D RNA-seq matrix that arrived
+after the rest (`docs/DISCREPANCIES.md` item 35).
 
 ---
 

@@ -70,15 +70,29 @@ own READMEs and scripts, left as delivered, still use the old names. Nothing
 else changed in either tree, and `data/MANIFEST.csv` records each file's
 delivered path.
 
+`processed/rnaseq/T47D_CDK_palbo_RNAseq/` is a third, and the one behind
+figure 4m and supplementary 13e-13g: six T47D lines in DMSO or palbociclib,
+three replicates each, 36 libraries. It holds the Salmon gene-level TPM
+matrix, the eight DESeq2 contrasts, the MSigDB Hallmark cache, the three
+notebooks that drew the panels, and the two z-score tables the marker-gene
+notebook wrote. The notebooks read literal `.csv` paths relative to their own
+folder and so do not run here (`docs/DISCREPANCIES.md` item 17); the version
+that runs is `cdkbe.source_data.rnaseq_t47d_palbo`. Do not confuse it with
+`T47D_RNAseq/`, which is figure 5's CDK4 experiment -- the two share three
+sample names and none of the libraries behind them (item 36).
+
 `raw/collaborator_panels/` holds the LNCaP and PC3 CDK12 packages
 (supplementary 11c, 11D-11K) and the T47D and MCF7 panels (figure 4g, 4i-4m
 and supplementary 13a-13j). The first group carries its values, its code and
 its published image, one folder per panel, and redraws here. Of the sixteen
-T47D/MCF7 panels, six redraw: the four cell-cycle panels from their FlowJo
-export, and figure 4g and supplementary 13a from values read back out of the
-published figure (`cdkbe.svg_values`). The other ten are included as the
-images that were published; `docs/COVERAGE.md` marks them **published
-image**.
+T47D/MCF7 panels, nine redraw: the four cell-cycle panels from their FlowJo
+export, figure 4g and supplementary 13a from values read back out of the
+published figure (`cdkbe.svg_values`), and figure 4m with supplementary 13e
+and 13g from the expression matrix in
+`processed/rnaseq/T47D_CDK_palbo_RNAseq/`. Supplementary 13f is **source
+only** -- its pre-ranked input ships, its NES and FDR values do not. The
+remaining six are included as the images that were published;
+`docs/COVERAGE.md` marks them **published image**.
 
 ## Sanger sequencing
 
@@ -174,7 +188,7 @@ ship in `scripts/chimerax/structures/`.
 | directory | size | files | contents |
 |---|---:|---:|---|
 | `beatseq` | 194 MB | 323 | BEAT-seq derived tables: matrices, plus the delivered `outputs/` and `metadata/` trees |
-| `rnaseq` | 184 MB | 489 | DESeq2 results, TPM matrices, GSEA |
+| `rnaseq` | 199 MB | 493 | DESeq2 results, TPM matrices, GSEA |
 | `lfc_fdr_tables` | 147 MB | 189 | LFC + FDR per guide per condition, hit tables, T0-vs-plasmid essentiality |
 | `editing` | 146 MB | 45 | per-gRNA editing and single-aa variant calls |
 | `splicing` | 27 MB | 11 | SpliceAI scores |

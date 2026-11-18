@@ -49,6 +49,7 @@ panel,part,file,module,drawn_by
 4g,,main_fig4g.pdf,cdkbe.source_data.selection_allele_frequency,draw_4g
 4k,,main_fig4k.pdf,cdkbe.source_data.t47d_cell_cycle,panel_4k
 4l,,main_fig4l.pdf,cdkbe.source_data.t47d_cell_cycle,panel_4l
+4m,,main_fig4m.pdf,cdkbe.source_data.rnaseq_t47d_palbo,panel_4m
 4n,,main_fig4n.pdf,cdkbe.source_data.invivo_figures,figure_4n
 4o,,main_fig4o.pdf,cdkbe.source_data.invivo_figures,figure_4o
 4p,,main_fig4p.pdf,cdkbe.source_data.screen_figures,draw_4p
@@ -91,6 +92,8 @@ S12f,,supp_fig12f.pdf,cdkbe.source_data.supp_figures,_panel.<locals>.drawer
 S13a,,supp_fig13a.pdf,cdkbe.source_data.selection_allele_frequency,draw_S13a
 S13c,,supp_fig13c.pdf,cdkbe.source_data.t47d_cell_cycle,panel_S13c
 S13d,,supp_fig13d.pdf,cdkbe.source_data.t47d_cell_cycle,panel_S13d
+S13e,,supp_fig13e.pdf,cdkbe.source_data.rnaseq_t47d_palbo,panel_S13e
+S13g,,supp_fig13g.pdf,cdkbe.source_data.rnaseq_t47d_palbo,panel_S13g
 S14a,,supp_fig14a.pdf,cdkbe.source_data.beatseq_qc,draw_14a
 S14b,,supp_fig14b.pdf,cdkbe.source_data.beatseq_qc,draw_14b
 S14c,,supp_fig14c.pdf,cdkbe.source_data.beatseq_qc,draw_14c

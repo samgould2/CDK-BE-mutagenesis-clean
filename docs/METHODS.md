@@ -358,6 +358,18 @@ model output rather than measurements.
   universe (11,489 genes) and their DEG counts are comparable. The E2F score is
   the mean z-score across the 198 expressed Hallmark E2F target genes, tested
   one-sided against the control and Holm-corrected over the three variants.
+* `cdkbe.source_data.rnaseq_t47d_palbo` — the T47D CDK2/4/6 series ± palbociclib
+  behind figure 4m and supplementary 13e–13g: six lines in two treatment arms,
+  three replicates each. The marker-gene heatmap is z-scored **within** each
+  arm, so it compares genotypes under one treatment and not the DMSO →
+  palbociclib shift. The volcanoes take DESeq2's results as delivered, dropping
+  the rows it could not call, and highlight the union of the Hallmark E2F
+  Targets and G2-M Checkpoint sets. The PCA is over the 500 most-variable genes
+  of log2(TPM+1), mean-centred, by SVD, with each component's sign pinned to
+  what drives it (`PC_ORIENTATION`). Supplementary 13f, the GSEA dot plot, is
+  not redrawn: its pre-ranked input ships, its NES and FDR values do not —
+  `docs/DISCREPANCIES.md` item 35. Do not join this matrix to `rnaseq_t47d`'s
+  on sample name; item 36 says why.
 
 ---
 

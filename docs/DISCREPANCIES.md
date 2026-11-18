@@ -767,21 +767,24 @@ recomputes them.
 
 Figure 4g, 4i-4m and supplementary 13a-13j were contributed as finished
 figures: fourteen `.svg` and two `.png`, under
-`data/raw/collaborator_panels/T47D_MCF7/`. Six of them are redrawn here --
-items 27 and 31 -- and `docs/COVERAGE.md` marks the other ten **published
-image**.
+`data/raw/collaborator_panels/T47D_MCF7/`. Nine of them are redrawn here --
+items 27, 31 and 35 -- one is **source only** (S13f, item 35), and
+`docs/COVERAGE.md` marks the remaining six **published image**: 4i, 4j, S13b,
+S13h, S13i and S13j.
 
-For those ten, this repository has the figure and not the table. Some of the
-SVGs carry their labels as real text -- enough to say that
-`PCA.svg` is over PC1 52% and PC2 25%, that `volcano_variant_vs_control.svg`
-contrasts NT against CDK2 S261G and three more variants, that the stacked
-`T47D_cell_cycle_*` panels are percent S phase with their own significance
-stars, and that `GSEA_variant_vs_control_palbo_dotplot.svg` is five Hallmark
-sets across four variants -- but the plotted values are geometry, not text.
-Where the plotted values are geometry against a labelled linear axis they can
-be read back exactly, which is what item 31 does for two of them. Where they
-are encoded some other way -- a heatmap's fill, a dot plot's area -- they
-cannot, and the panel stays the published figure.
+**This item shrank twice.** It was written when ten panels were figure-only.
+The four cell-cycle panels came with their measurements from the start (item
+27); 4g and S13a were read back out of their own artwork (item 31); and 4m,
+S13e and S13g now redraw from the expression matrix that arrived afterwards
+(item 35), which also supplied S13f's input.
+
+For the six that are left, this repository has the figure and not the table.
+Some of the SVGs carry their labels as real text -- enough to say that
+`CDK_sanger_aa_logo_plots_all.svg` is over the variants it names -- but the
+plotted values are geometry, not text. Where the plotted values are geometry
+against a labelled linear axis they can be read back exactly, which is what
+item 31 does. Where they are encoded some other way -- a heatmap's fill, a dot
+plot's area -- they cannot, and the panel stays the published figure.
 
 One classification rule is worth recording, because the distinction is easy
 to lose: `CDK_sanger_aa_logo_plots_all.svg` (supplementary 13b) was counted as
@@ -903,6 +906,11 @@ published figures stay in the repository either way.
 
 ## 32. Figure 4m cannot be read back the same way, and why
 
+**Closed by item 35.** The reasoning below is kept because it is the reason
+the matrix was asked for, and because the last paragraph named exactly what
+would settle it -- which is what arrived.
+
+
 4m is `marker_gene_panel_DMSO_palbo_stacked.svg`: six T47D lines by seventeen
 marker genes by two treatments, coloured by z-score of log2 TPM **within arm**.
 Like 4g, this repository has it as a published figure rather than a table.
@@ -924,6 +932,9 @@ only, which is figure 5.
 **What would settle it:** the TPM or DESeq2 table behind it. The same table
 would close S13e, S13f and S13g, which are the PCA, volcano and GSEA of that
 experiment.
+
+That table arrived, with the three notebooks that drew the panels. Item 35 is
+what came of it.
 
 ## 33. The Sanger traces, and one label that disagrees with its primer
 
@@ -1006,3 +1017,115 @@ go stale against the code. `tests/test_source_data_tables.py` checks the files
 on disk rather than the builder, so a workbook falling behind fails the suite
 instead of shipping. The label audit stays a script rather than a test: its
 match is crude on purpose, and most of what it flags is correct.
+
+---
+
+## 35. The T47D ± palbociclib RNA-seq arrived, and what it changed
+
+The expression matrix item 32 asked for was delivered as three standalone
+notebooks with their inputs: `marker_gene_panel`, `pca_plot` and
+`volcano_plots`, 53 MB in all. Vendored to
+`data/processed/rnaseq/T47D_CDK_palbo_RNAseq/` -- the Salmon gene-level TPM
+matrix (78,932 genes x 36 libraries), the eight DESeq2 contrasts, the MSigDB
+Hallmark cache, the three notebooks unchanged, and the two z-score tables the
+marker-gene notebook wrote. 15 MB gzipped. The duplicate copy of the TPM
+matrix that came in two of the three folders was dropped, as were a stale
+`marker_gene_zscore_Palbo.csv` (the same numbers as `_Palbociclib.csv` in a
+different row order) and a `marker_gene_zscore_all_samples.csv` that the
+delivered notebook no longer writes.
+
+`cdkbe.source_data.rnaseq_t47d_palbo` is that plotting code in the package.
+Three panels redraw and one does not:
+
+| panel | status | |
+|---|---|---|
+| 4m | drawn | marker-gene heatmap; **every character matches the published SVG** |
+| S13e | drawn | PCA; every character matches, and the marker positions invert to the computed scores |
+| S13g | drawn | volcano grid; every character matches, DE counts included |
+| S13f | source only | GSEA dot plot; its input ships, its NES and FDR do not |
+
+**S13f is not redrawn, and the reason is a seed.** The dots encode NES by
+colour and FDR q-value by area, and the published values came out of a
+pre-ranked GSEA whose permutation seed was not delivered. A rerun here would
+print numbers close to the published ones rather than the published ones, and
+a source-data sheet of numbers that do not match the figure is worse than
+none. What ships instead is what that run consumed: every gene of the five
+Hallmark sets the panel draws, with its Wald statistic and its rank in that
+variant's full list. The ranking itself is `gsea_ranking`, over the DESeq2
+tables, which ship whole. Hand over the seed, or the NES/FDR table the dot
+plot was drawn from, and this becomes a fourth drawn panel.
+
+**Three differences between the delivered notebooks and the published panels.**
+All three are the notebooks being the older artefact -- the published PCA was
+re-rendered a month after the notebook ran -- and in each case this repository
+follows the published panel:
+
+1. **The PCA legend.** The notebook prints `CDK6 G53S` and `CDK6 R46W`; the
+   published panel prints `CDK6 G53S_M54I` and `CDK6 R44C_R46W`, the same
+   relabelling item 27 records for the cell-cycle panels. `DISPLAY_NAMES`
+   here is the published spelling.
+2. **The volcano's y axis.** The notebook leaves the locator to matplotlib,
+   which ticks every 10; the published panel ticks every 20. Same data, same
+   limits, 32 fewer tick labels. `Y_TICK_STEP = 20`.
+3. **The PCA's PC2 sign.** An SVD fixes each component only up to its sign,
+   and which one LAPACK returns depends on the build: this machine gets PC2
+   the other way up from the machine the panel was drawn on, which would
+   publish a vertically mirrored plot with the axis relabelled -15..10 to
+   -10..15. `PC_ORIENTATION` pins both components to what drives them -- PC1
+   (52%) to the CDK6 R44C_R46W line standing apart from the other five, PC2
+   (25%) to DMSO against palbociclib. Both margins are large, +32 and +10
+   score units, so neither rule is close to a coin toss, and
+   `tests/test_t47d_cdk_palbo.py` checks that the mirrored version is *not*
+   the published panel.
+
+**Item 32's heatmap, read back after all.** Item 32 said 4m's values are in
+the cell fills and so cannot be recovered, which is still true as a way of
+getting numbers out: the inversion is quantised to the colormap's 256 steps.
+As a *check* it is conclusive, and the test does it -- it decodes the
+published SVG's own embedded raster, maps each cell's fill back through
+`RdBu_r`, and compares against the z-scores computed from the shipped matrix.
+They agree to within three quantisation steps across all 612 cells. That is
+the direct evidence that the matrix in this repository is the one the
+published panel was drawn from, rather than an inference from the labels
+matching.
+
+---
+
+## 36. The two T47D RNA-seq experiments share three sample names
+
+`T47D_CBE_NT_veh_1`, `_2` and `_3` are columns of both T47D expression
+matrices: the CDK4 variant run behind figure 5
+(`data/processed/rnaseq/T47D_RNAseq`, 12 libraries, vehicle only) and the
+CDK2/4/6 ± palbociclib run behind figure 4m
+(`data/processed/rnaseq/T47D_CDK_palbo_RNAseq`, 36 libraries). They are not
+the same libraries. Within either experiment two CBE NT replicates correlate
+at 0.994 or better on log2 TPM; the same name across the two correlates at
+0.93. The two runs were also quantified against different GENCODE releases --
+78,932 genes against 78,458 -- so even the row labels do not line up.
+
+Nothing in this repository joins the two, and `tests/test_t47d_cdk_palbo.py`
+pins the distinction so that nothing starts to. It is recorded because a join
+on sample name is the obvious thing to reach for and it would pair unrelated
+libraries without failing.
+
+---
+
+## 37. The coverage script read the word `None` as a missing value
+
+`docs/COVERAGE.md` reported nine main-figure panels -- 1a-1d, 2e, 2g, 2l, 3e
+and 4h -- as **unfilled**, "the mapping row is blank". Their rows are not
+blank. Each says `None`, which in this mapping is the author stating the panel
+has no underlying data file: a schematic, an illustration.
+
+`classify` draws exactly that distinction, and said so in its own docstring.
+What defeated it was one layer up: `pd.read_csv` lists `None` among the
+strings it reads as NA, so the word never reached `classify` -- it arrived as
+the string `"nan"`, which is what `NO_FILE` means. Panel 2o was spelled
+`none`, which pandas leaves alone, and it was the only one of the ten
+classified correctly.
+
+Both mapping reads now pass `keep_default_na=False`. The nine move from
+**unfilled** to **no data**, which is a different claim about the manuscript:
+not nine rows somebody forgot to fill in, but nine panels the authors said
+have no data file. The fourteen supplementary rows still counted unfilled are
+genuinely empty cells, and remain the open question they were.

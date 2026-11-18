@@ -86,6 +86,7 @@ prose account of what these do and why; this is the index.
 | `cdkbe.source_data.rnaseq_figures` | PC3 RNA-seq panels 3f-3h, redrawn from the tables their own scripts saved |
 | `cdkbe.source_data.rnaseq_t47d` | Figure 5f-5i: the T47D CDK4 RNA-seq panels |
 | `cdkbe.source_data.rnaseq_t47d_figures` | Figure 5f-5i: the T47D CDK4 allelic-series RNA-seq panels |
+| `cdkbe.source_data.rnaseq_t47d_palbo` | Figure 4m and supplementary 13e-13g: the T47D CDK variant ± palbociclib RNA-seq |
 | `cdkbe.source_data.rnaseq_volcanoes` | CDK9 L156F RNA-seq volcanoes (supplementary 5e) |
 | `cdkbe.source_data.screen_dose_response` | Dose-response curves for the compounds used in each screen (supp 2a-2c) |
 | `cdkbe.source_data.screen_figures` | Draw the lollipop panels (figures 2a, 2h, 3a) |

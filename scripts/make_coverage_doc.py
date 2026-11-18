@@ -95,8 +95,23 @@ def classify(key: str, source_file: str, drawn: set, panels: set,
     return "not ported", s
 
 
+def _mapping(path) -> pd.DataFrame:
+    """The mapping as it is written, with no value read as a missing value.
+
+    `pd.read_csv` treats the four-letter string `None` as NA by default, and
+    the mapping uses that word deliberately -- it is the author saying a panel
+    has no underlying data file. Coerced to NaN it arrived at `classify` as the
+    string `"nan"`, which is what `NO_FILE` means, so nine main-figure panels
+    whose row says `None` were counted as rows nobody had filled in. Panel 2o
+    was the only one spelled `none`, which pandas leaves alone, and it was the
+    only one of the ten classified correctly.
+    """
+    x = pd.read_csv(path, keep_default_na=False)
+    return x[x["figure"].astype(str).str.strip() != ""]
+
+
 def rows_main() -> list:
-    x = pd.read_csv(MAIN).dropna(subset=["figure"])
+    x = _mapping(MAIN)
     x["n"] = x["figure"].astype(str).str.extract(r"(\d+)")
     x = x.dropna(subset=["n"])
     out = []
@@ -111,7 +126,7 @@ def rows_main() -> list:
 
 
 def rows_supp() -> list:
-    x = pd.read_csv(SUPP).dropna(subset=["figure"])
+    x = _mapping(SUPP)
     x["n"] = x["figure"].astype(str).str.extract(r"(\d+)")
     x = x.dropna(subset=["n"])
     out = []

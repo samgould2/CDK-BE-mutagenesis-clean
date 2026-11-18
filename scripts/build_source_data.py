@@ -52,9 +52,21 @@ DESCRIPTIONS = {
            "invivo_xenograft_CDK6_palbociclib.ipynb cell 20"),
     "4o": ("Xenograft Ki67, CDK6 R46W, palbociclib",
            "invivo_xenograft_CDK6_palbociclib.ipynb cell 22"),
+    "4m": ("T47D cell-cycle marker genes, z-score of log2 TPM within each "
+           "treatment arm, DMSO and palbociclib",
+           "marker_gene_panel.ipynb cells 3-7"),
 }
 
 SUPP_DESCRIPTIONS = {
+    "S13e": ("T47D CDK variant RNA-seq PCA: top-500 most-variable genes of "
+             "log2 TPM, mean-centred, SVD",
+             "pca_plot.ipynb cells 5-7"),
+    "S13f": ("Hallmark gene-set members and where each sits in its variant's "
+             "pre-ranked list, palbociclib arm",
+             "cdkbe.source_data.rnaseq_t47d_palbo.gsea_ranks"),
+    "S13g": ("Variant-vs-NT differential expression counts and the "
+             "proliferation genes each volcano labels",
+             "volcano_plots.ipynb cells 3-5"),
     "S1a": ("Cumulative population doublings, subpool 1 screen", "CPDS.ipynb cell 2"),
     "S1b": ("CPDs, SY-5609 retest screen", "CPDS.ipynb cell 4"),
     "S1c": ("CPDs, CDK12/13 screen", "CPDS.ipynb cell 6"),

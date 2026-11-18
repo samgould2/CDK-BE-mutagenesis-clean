@@ -17,6 +17,7 @@ from .structures import PANELS as _struct_panels
 from .allele_specific_mtt import MAIN_PANELS as _mtt_main_panels
 from .competition_assays import MAIN_PANELS as _comp_main_panels
 from .t47d_cell_cycle import MAIN_PANELS as _cc_main_panels
+from .rnaseq_t47d_palbo import MAIN_PANELS as _palbo_main_panels
 from .klifs_msa import MAIN_PANELS as _kmsa_main_panels
 from .selection_allele_frequency import MAIN_PANELS as _sel_main_panels
 from .invivo import figure_2m, figure_2n, figure_4n, figure_4o
@@ -44,6 +45,7 @@ PANELS = {
     "4d": _struct_panels["4d"], "4e": _struct_panels["4e"],
     "4f": figure_4f, "4g": _sel_main_panels["4g"],
     "4k": _cc_main_panels["4k"],
+    "4m": _palbo_main_panels["4m"],
     "4l": _cc_main_panels["4l"], "4p": figure_4p,
     "4n": figure_4n, "4o": figure_4o,
     "5a": figure_5a, "5b": figure_5b, "5c": figure_5c, "5d": figure_5d,
@@ -59,6 +61,7 @@ def _drawn():
     from .allele_specific_mtt import MAIN_FIGURES as _amtt_main
     from .competition_assays import MAIN_FIGURES as _comp_main
     from .t47d_cell_cycle import MAIN_FIGURES as _cc_main
+    from .rnaseq_t47d_palbo import MAIN_FIGURES as _palbo_main
     from .klifs_msa import MAIN_FIGURES as _kmsa_main
     from .selection_allele_frequency import MAIN_FIGURES as _sel_main
     from .figure5 import FIGURES as _f5
@@ -70,7 +73,7 @@ def _drawn():
     from .validation_mtt import FIGURES as _vmtt
     merged = {}
     for reg in (_lib, _scr, _rna, _vmtt, _inv, _f5, _amtt_main, _af, _struct,
-                _comp_main, _cc_main, _kmsa_main, _sel_main):
+                _comp_main, _cc_main, _kmsa_main, _sel_main, _palbo_main):
         merged.update(reg)
     unknown = sorted(set(merged) - set(PANELS))
     if unknown:  # a drawer registered under a panel that has no source data
@@ -102,13 +105,15 @@ def _supp():
     from . import klifs_resistance as _kres
     from . import leukemia_burden as _lb
     from . import resistance_variants as _rvar
+    from . import rnaseq_t47d_palbo as _palbo
     from . import rnaseq_volcanoes as _rvol
     from . import screen_dose_response as _sdr
     from . import supp_figures as _sup
 
     panels, drawn = {}, {}
     for mod in (_cpd, _ep, _lb, _amtt, _sup, _kres, _kmsa, _ess, _bq,
-                _rvar, _sdr, _rvol, _boltz, _comp, _lncap, _cc, _sel):
+                _rvar, _sdr, _rvol, _boltz, _comp, _lncap, _cc, _sel,
+                _palbo):
         panels.update(mod.PANELS)
         drawn.update(mod.FIGURES)
     # Several of these modules also hold main-figure panels (2d and 2k share a

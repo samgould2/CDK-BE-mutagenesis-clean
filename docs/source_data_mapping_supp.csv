@@ -156,11 +156,11 @@ Supplementary figure 13,c,lab-dropbox/T47D_cell_cycle_stacked_DMSO_Palbo_ABE.svg
 
 Supplementary figure 13,d,lab-dropbox/T47D_cell_cycle_stacked_DMSO_Palbo_CBE.svg,"drawn from the FlowJo export vendored at data/raw/collaborator_panels/T47D_cell_cycle/20260908_T47D_cell_cycle.csv, with the delivered notebook and style module beside it"
 
-Supplementary figure 13,e,lab-dropbox/PCA.svg,vendored to data/raw/collaborator_panels/T47D_MCF7/PCA.svg
+Supplementary figure 13,e,lab-dropbox/PCA.svg,"vendored to data/raw/collaborator_panels/T47D_MCF7/PCA.svg; redrawn by cdkbe.source_data.rnaseq_t47d_palbo"
 
-Supplementary figure 13,f,lab-dropbox/GSEA_variant_vs_control_palbo_dotplot.svg,vendored to data/raw/collaborator_panels/T47D_MCF7/GSEA_variant_vs_control_palbo_dotplot.svg
+Supplementary figure 13,f,lab-dropbox/GSEA_variant_vs_control_palbo_dotplot.svg,"vendored to data/raw/collaborator_panels/T47D_MCF7/GSEA_variant_vs_control_palbo_dotplot.svg; its pre-ranked input ships in data/processed/rnaseq/T47D_CDK_palbo_RNAseq; no plotting code -- the published NES and FDR came from a GSEA run whose seed was not delivered"
 
-Supplementary figure 13,g,lab-dropbox/volcano_variant_vs_control.svg,vendored to data/raw/collaborator_panels/T47D_MCF7/volcano_variant_vs_control.svg
+Supplementary figure 13,g,lab-dropbox/volcano_variant_vs_control.svg,"vendored to data/raw/collaborator_panels/T47D_MCF7/volcano_variant_vs_control.svg; redrawn by cdkbe.source_data.rnaseq_t47d_palbo"
 
 Supplementary figure 13,h,lab-dropbox/C018_ABE_paired_flanks_CDK2_S261G_d7.svg,vendored to data/raw/collaborator_panels/T47D_MCF7/C018_ABE_paired_flanks_CDK2_S261G_d7.svg
 

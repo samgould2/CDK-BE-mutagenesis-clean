@@ -82,7 +82,7 @@ figure4_v2,k,lab-dropbox/T47D_cell_cycle_stacked_Sphase_ABE.svg,"drawn from the 
 
 figure4_v2,l,lab-dropbox/T47D_cell_cycle_stacked_Sphase_CBE.svg,"drawn from the FlowJo export vendored at data/raw/collaborator_panels/T47D_cell_cycle/20260908_T47D_cell_cycle.csv, with the delivered notebook and style module beside it"
 
-figure4_v2,m,lab-dropbox/marker_gene_panel_DMSO_palbo_stacked.svg,"vendored to data/raw/collaborator_panels/T47D_MCF7/marker_gene_panel_DMSO_palbo_stacked.svg; the RNA-seq marker-gene panel, DMSO and palbociclib"
+figure4_v2,m,lab-dropbox/marker_gene_panel_DMSO_palbo_stacked.svg,"vendored to data/raw/collaborator_panels/T47D_MCF7/marker_gene_panel_DMSO_palbo_stacked.svg; the RNA-seq marker-gene panel, DMSO and palbociclib. Redrawn by cdkbe.source_data.rnaseq_t47d_palbo from the expression matrix in data/processed/rnaseq/T47D_CDK_palbo_RNAseq"
 
 figure4_v2,n,figures/invivo_xenograft/CDK6_tumor_volume_FC_Day7_combined_wide.pdf,
 
